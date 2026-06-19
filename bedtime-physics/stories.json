@@ -1,33 +1,6 @@
 {
-  "updated": "2026-06-19 06:13 UTC",
+  "updated": "2026-06-19 22:50 UTC",
   "stories": [
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Earth from Space: Batagaika Crater",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Batagaika_Crater",
-      "desc": "Image: This Copernicus Sentinel-2 image features the Batagaika Crater in Siberia. This is the biggest permafrost crater in the world, caused by melting permafrost and also known as a ‘mega-slump’.",
-      "date": "May 29, 2026",
-      "image": ""
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Earth from Space: Buenos Aires",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Buenos_Aires",
-      "desc": "Image: This radar image from the Copernicus Sentinel-1 mission captures Buenos Aires, the capital of Argentina, the surrounding countryside and the Rio de la Plata estuary. Zoom in to explore this image at its full resolution. This is a composite of three Sentinel-1 acquisitions taken in January,…",
-      "date": "Jun 12, 2026",
-      "image": ""
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "ESA awards contract to build Sentinel-1 Next Generation satellites",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/ESA_awards_contract_to_build_Sentinel-1_Next_Generation_satellites",
-      "desc": "The European Space Agency has awarded the contract to lead the development and build for two Copernicus Sentinel-1 Next Generation satellites to Thales Alenia Space. Building on the success of the current Sentinel-1 mission, the next-generation satellites will ensure the long-term continuity of…",
-      "date": "Jun 10, 2026",
-      "image": ""
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -38,17 +11,8 @@
       "image": ""
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Don’t miss the Earth Explorer 12 User Consultation Meeting",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Preparing_for_tomorrow/Don_t_miss_the_Earth_Explorer_12_User_Consultation_Meeting",
-      "desc": "The countdown is on for scientists, researchers and Earth observation experts eager to help shape the future of the European Space Agency’s Earth Explorer satellite series. Registration is closing soon for the Earth Explorer 12 User Consultation Meeting. This all-important event offers the…",
-      "date": "Jun 18, 2026",
-      "image": ""
-    },
-    {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Electrically tunable spin polarization in graphene opens path toward low-power spintronic devices",
       "link": "https://phys.org/news/2026-06-electrically-tunable-polarization-graphene-path.html",
       "desc": "Researchers at the National Graphene Institute, in collaboration with the National University of Singapore, have shown that the magnetic behavior of electrons in graphene can be precisely controlled using electricity, revealing unusually large spin signals in a carefully engineered graphene system.",
@@ -56,30 +20,66 @@
       "image": ""
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab",
-      "link": "https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/",
-      "desc": "Description NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge and operated from Earth, CAL chills atoms to temperatures below minus 459…",
-      "date": "Jun 16, 2026",
+      "topic": "Quantum",
+      "source": "Phys.org Quantum",
+      "title": "Flipped quantum interference unlocks clearer gluon maps from near-miss nuclear encounters",
+      "link": "https://phys.org/news/2026-06-flipped-quantum-clearer-gluon-nuclear.html",
+      "desc": "Scientists studying particle collisions at the Relativistic Heavy Ion Collider (RHIC) usually capture what happens when atomic nuclei smash into one another at nearly the speed of light. But even when the nuclei don't collide, interesting things can happen. In a new paper just published in Physical…",
+      "date": "Jun 17, 2026",
       "image": ""
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Earth from Space: Baku, Azerbaijan",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Baku_Azerbaijan",
-      "desc": "Image: On World Environment Day, the Copernicus Sentinel-2 mission brings us an amazing view from space of Baku, capital of Azerbaijan, hosting this year’s celebration.",
-      "date": "Jun 05, 2026",
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Diamond-based particle detector captures one-picosecond electron bursts for high-rate beam diagnostics",
+      "link": "https://phys.org/news/2026-06-diamond-based-particle-detector-captures.html",
+      "desc": "Physicists at UC Santa Cruz and other institutes across California and New Mexico have developed a detection system that will allow next-generation particle accelerators to better reveal fundamental biological and chemical processes, as well as advance critical areas such as materials science and…",
+      "date": "Jun 18, 2026",
       "image": ""
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "ESA and EDA launch joint study to strengthen Europe’s Earth observation capabilities",
-      "link": "https://www.esa.int/Newsroom/Press_Releases/ESA_and_EDA_launch_joint_study_to_strengthen_Europe_s_Earth_observation_capabilities",
-      "desc": "Press Release N° 20&ndash;2026 The European Space Agency (ESA) and the European Defence Agency (EDA) have signed an Implementing Arrangement to jointly identify strategic and technological gaps in Europe’s Earth observation capabilities and develop a long-term roadmap in support of security and…",
-      "date": "Apr 22, 2026",
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Laser pulses set layered metals vibrating 1 trillion times per second, revealing electron-driven motion",
+      "link": "https://phys.org/news/2026-06-laser-pulses-layered-metals-vibrating.html",
+      "desc": "How does light turn into motion within a metal? A team of researchers from European XFEL, the University of Potsdam and other participating institutions has shown that ultrashort optical laser pulses can trigger extremely rapid lattice vibrations in periodically layered metal structures—not…",
+      "date": "Jun 18, 2026",
+      "image": ""
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "New light-powered chip could accelerate AI and quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+      "desc": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of…",
+      "date": "Jun 02, 2026",
+      "image": ""
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists think they solved the mystery of the Amaterasu particle",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260608040015.htm",
+      "desc": "The mysterious Amaterasu particle may not be a proton at all. New research suggests that some of the most extreme cosmic rays could be ultraheavy atomic nuclei, heavier than iron, which are better able to retain their energy while traveling through space. This idea could help explain how these rare…",
+      "date": "Jun 09, 2026",
+      "image": ""
+    },
+    {
+      "topic": "Quantum",
+      "source": "Phys.org Quantum",
+      "title": "Superconducting TES array X-ray spectrometer goes into operation at BESSY II",
+      "link": "https://phys.org/news/2026-06-superconducting-tes-array-ray-spectrometer.html",
+      "desc": "Europe's first and only TES spectrometer at a synchrotron source is now in operation at BESSY II, developed within a collaboration between the HZB, the MPI-CEC (Mühlheim-an-der-Ruhr, Germany) and the NIST (Boulder, Colorado, U.S.). The photon detection efficiency of the new instrument exceeds that…",
+      "date": "Jun 17, 2026",
+      "image": ""
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
+      "desc": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an optical cavity, researchers can generate a wide variety of highly entangled…",
+      "date": "Jun 06, 2026",
       "image": ""
     }
   ]
