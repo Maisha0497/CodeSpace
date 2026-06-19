@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Update stories.json from science feeds
         run: python scripts/update_night_science.py
       - name: Commit updated stories if changed
@@ -24,5 +26,6 @@ jobs:
             echo "No story changes to commit."
           else
             git commit -m "Update night science stories"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
