@@ -113,8 +113,69 @@ def get_link(node):
     return ""
 
 
+def tag_name(elem):
+    return str(elem.tag).split("}", 1)[-1].lower()
+
+
+def clean_image_url(url):
+    url = (url or "").strip()
+    if not url.startswith(("http://", "https://")):
+        return ""
+    lowered = url.lower()
+    if any(x in lowered for x in ["/1x1", "pixel", "tracker"]):
+        return ""
+    return url
+
+
+def image_from_html(html):
+    html = html or ""
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', html, flags=re.I)
+    return clean_image_url(m.group(1)) if m else ""
+
+
+def get_image(node):
+    """Use only RSS/Atom-provided images or images already embedded in the feed item.
+    This keeps the updater lightweight and avoids scraping full articles.
+    """
+    candidates = []
+
+    for elem in node.iter():
+        name = tag_name(elem)
+        url = clean_image_url(elem.attrib.get("url") or elem.attrib.get("href"))
+        medium = (elem.attrib.get("medium") or "").lower()
+        typ = (elem.attrib.get("type") or "").lower()
+        rel = (elem.attrib.get("rel") or "").lower()
+
+        if name == "thumbnail" and url:
+            candidates.append((0, url))
+        elif name in {"content", "enclosure"} and url and (medium == "image" or typ.startswith("image/")):
+            candidates.append((1, url))
+        elif name == "link" and url and typ.startswith("image/") and rel in {"enclosure", "image", "preview"}:
+            candidates.append((2, url))
+
+    html_fields = [
+        text_of(node, ["description", "summary", "{http://www.w3.org/2005/Atom}summary"]),
+        text_of(node, ["{http://purl.org/rss/1.0/modules/content/}encoded"]),
+    ]
+    for html in html_fields:
+        url = image_from_html(html)
+        if url:
+            candidates.append((3, url))
+
+    if not candidates:
+        return ""
+
+    candidates.sort(key=lambda x: x[0])
+    seen = set()
+    for _, url in candidates:
+        if url not in seen:
+            return url
+        seen.add(url)
+    return ""
+
+
 def fetch_feed(topic, source, url):
-    req = urllib.request.Request(url, headers={"User-Agent": "NightScienceDispatch/3.0"})
+    req = urllib.request.Request(url, headers={"User-Agent": "NightScienceDispatch/3.1"})
     with urllib.request.urlopen(req, timeout=25) as r:
         raw = r.read()
     root = ET.fromstring(raw)
@@ -125,8 +186,9 @@ def fetch_feed(topic, source, url):
         desc = short(text_of(it, ["description", "summary", "{http://www.w3.org/2005/Atom}summary", "{http://purl.org/rss/1.0/modules/content/}encoded"]))
         link = clean(get_link(it))
         date = date_nice(text_of(it, ["pubDate", "updated", "published", "{http://www.w3.org/2005/Atom}updated", "{http://www.w3.org/2005/Atom}published"]))
+        image = get_image(it)
         if title and desc and link:
-            out.append({"topic": topic, "source": source, "title": title, "link": link, "desc": desc, "date": date, "image": ""})
+            out.append({"topic": topic, "source": source, "title": title, "link": link, "desc": desc, "date": date, "image": image})
     return out
 
 
@@ -160,7 +222,6 @@ def score(item):
     value += 2 * remote
     value += 3 * curiosity
 
-    # Main flavor: physics/optics/quantum/math first.
     if topic in {"Physics", "Optics", "Quantum"}:
         value += 14
     if topic in {"Cool Math", "Math/Physics"}:
@@ -168,13 +229,11 @@ def score(item):
     if source in {"APS Physics", "Quanta Magazine"}:
         value += 6
 
-    # AI is good only when it feels like science/computation, not generic tech news.
     if topic == "AI":
         value += 4
         if not (core or waves or "physics-informed" in s or "model" in s or "simulation" in s):
             value -= 8
 
-    # Remote sensing stays, but it is no longer allowed to dominate.
     if topic in REMOTE_TOPICS:
         value += 2
         if waves or core or remote >= 2:
@@ -182,16 +241,13 @@ def score(item):
         else:
             value -= 10
 
-    # Remove administrative/commercial satellite flavor.
     if has_any(s, BORING_OR_COMMERCIAL):
         value -= 35
 
-    # Generic image-of-the-day items are okay only if there is a real measurement/physics/ice angle.
     if item["title"].lower().startswith("earth from space:"):
         if not (waves or core or has_any(s, ["radar", "sentinel-1", "microwave", "thermal", "permafrost", "sea ice", "ice", "glacier", "snow"])):
             value -= 12
 
-    # Downrank generic astronomy unless it has instrument/wave/light/sensor relevance.
     if has_any(s, GENERIC_ASTRONOMY):
         if not has_any(s, ["instrument", "sensor", "radar", "microwave", "wave", "light", "spect", "lens", "optical"]):
             value -= 14
@@ -202,7 +258,6 @@ def score(item):
 def group_for_quota(item):
     s = text_blob(item)
     if item["topic"] in REMOTE_TOPICS:
-        # If a remote-sensing item is really about waves/sensors/physics, let it count as sensors.
         if hits(s, CORE_PHYSICS) + hits(s, OPTICS_WAVES_SENSORS) >= 2:
             return "physics_sensors"
         return "remote_earth"
@@ -221,7 +276,8 @@ items = []
 for feed in FEEDS:
     try:
         got = fetch_feed(*feed)
-        print(f"Fetched {len(got)} from {feed[1]}")
+        with_images = sum(1 for item in got if item.get("image"))
+        print(f"Fetched {len(got)} from {feed[1]} ({with_images} with feed images)")
         items.extend(got)
         time.sleep(0.5)
     except Exception as e:
@@ -232,7 +288,6 @@ selected = []
 seen = set()
 group_counts = {}
 
-# Strict pass: keep the page balanced.
 MAX_GROUP = {
     "remote_earth": 2,
     "ai": 1,
@@ -251,7 +306,6 @@ for item in ranked:
     if len(selected) == 9:
         break
 
-# Backup pass: fill remaining slots, but still reject bad/commercial items via score.
 for item in ranked:
     if len(selected) == 9:
         break
