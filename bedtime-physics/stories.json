@@ -1,13 +1,31 @@
 {
-  "updated": "2026-06-19 05:39 UTC",
+  "updated": "2026-06-19 06:13 UTC",
   "stories": [
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Could cosmic memory explain dark matter, dark energy, and black holes?",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260616103131.htm",
-      "desc": "A new theory suggests the universe is constantly recording its own history in the fabric of spacetime. If correct, this cosmic memory could help solve some of the biggest puzzles in physics, from black holes to dark matter and the universe’s ultimate fate.",
-      "date": "Jun 18, 2026",
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space: Batagaika Crater",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Batagaika_Crater",
+      "desc": "Image: This Copernicus Sentinel-2 image features the Batagaika Crater in Siberia. This is the biggest permafrost crater in the world, caused by melting permafrost and also known as a ‘mega-slump’.",
+      "date": "May 29, 2026",
+      "image": ""
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space: Buenos Aires",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Buenos_Aires",
+      "desc": "Image: This radar image from the Copernicus Sentinel-1 mission captures Buenos Aires, the capital of Argentina, the surrounding countryside and the Rio de la Plata estuary. Zoom in to explore this image at its full resolution. This is a composite of three Sentinel-1 acquisitions taken in January,…",
+      "date": "Jun 12, 2026",
+      "image": ""
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "ESA awards contract to build Sentinel-1 Next Generation satellites",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/ESA_awards_contract_to_build_Sentinel-1_Next_Generation_satellites",
+      "desc": "The European Space Agency has awarded the contract to lead the development and build for two Copernicus Sentinel-1 Next Generation satellites to Thales Alenia Space. Building on the success of the current Sentinel-1 mission, the next-generation satellites will ensure the long-term continuity of…",
+      "date": "Jun 10, 2026",
       "image": ""
     },
     {
@@ -15,71 +33,53 @@
       "source": "Phys.org Physics",
       "title": "How to train your magnet: Excitons as a new knob for magnetic control",
       "link": "https://phys.org/news/2026-06-magnet-excitons-knob-magnetic.html",
-      "desc": "Scientists can learn a lot about a quantum material by watching how it responds to light. In magnetic semiconductors, one especially useful messenger is the exciton: a pairing of a negatively charged electron and the positively charged \"hole\" it leaves behind. Until now,…",
+      "desc": "Scientists can learn a lot about a quantum material by watching how it responds to light. In magnetic semiconductors, one especially useful messenger is the exciton: a pairing of a negatively charged electron and the positively charged \"hole\" it leaves behind. Until now, excitons in magnetic…",
       "date": "Jun 18, 2026",
       "image": ""
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "How do flocking birds and schools of fish move? New research offers crystal-clear answer",
-      "link": "https://phys.org/news/2026-06-flocking-birds-schools-fish-crystal.html",
-      "desc": "Flocking birds and schools of fish are a familiar sight. While previous research has uncovered the broad dynamics driving these movements, their underlying intricacies remain a mystery. Now a study by a team of New York University mathematicians offers new insights into these…",
-      "date": "Jun 18, 2026",
-      "image": ""
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists think they solved the mystery of the Amaterasu particle",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608040015.htm",
-      "desc": "The mysterious Amaterasu particle may not be a proton at all. New research suggests that some of the most extreme cosmic rays could be ultraheavy atomic nuclei, heavier than iron, which are better able to retain their energy while traveling through space. This idea could help…",
-      "date": "Jun 09, 2026",
-      "image": ""
-    },
-    {
-      "topic": "Cool Math",
-      "source": "ScienceDaily Math",
-      "title": "New light trap design supercharges atom-thin semiconductors",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260324024257.htm",
-      "desc": "Scientists have found a clever way to supercharge ultra-thin semiconductors by reshaping the space beneath them rather than altering the material itself. By placing a single-atom-thick layer of tungsten disulfide over tiny air cavities carved into a crystal, they created…",
-      "date": "Mar 24, 2026",
-      "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Laser pulses set layered metals vibrating 1 trillion times per second, revealing electron-driven motion",
-      "link": "https://phys.org/news/2026-06-laser-pulses-layered-metals-vibrating.html",
-      "desc": "How does light turn into motion within a metal? A team of researchers from European XFEL, the University of Potsdam and other participating institutions has shown that ultrashort optical laser pulses can trigger extremely rapid lattice vibrations in periodically layered metal…",
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Don’t miss the Earth Explorer 12 User Consultation Meeting",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Preparing_for_tomorrow/Don_t_miss_the_Earth_Explorer_12_User_Consultation_Meeting",
+      "desc": "The countdown is on for scientists, researchers and Earth observation experts eager to help shape the future of the European Space Agency’s Earth Explorer satellite series. Registration is closing soon for the Earth Explorer 12 User Consultation Meeting. This all-important event offers the…",
       "date": "Jun 18, 2026",
       "image": ""
     },
     {
       "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "AI could uncover new physics faster but there’s a surprising catch",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
-      "desc": "Scientists found that transfer learning can make the search for new physics in the universe much faster, slashing the need for expensive simulations. Yet the approach can backfire when AI relies too heavily on familiar patterns, potentially missing evidence of something truly…",
-      "date": "Jun 11, 2026",
+      "source": "Phys.org Quantum",
+      "title": "Electrically tunable spin polarization in graphene opens path toward low-power spintronic devices",
+      "link": "https://phys.org/news/2026-06-electrically-tunable-polarization-graphene-path.html",
+      "desc": "Researchers at the National Graphene Institute, in collaboration with the National University of Singapore, have shown that the magnetic behavior of electrons in graphene can be precisely controlled using electricity, revealing unusually large spin signals in a carefully engineered graphene system.",
+      "date": "Jun 18, 2026",
       "image": ""
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "What is space-time? A mystery at the heart of reality",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260606075858.htm",
-      "desc": "What if our biggest idea about reality is built on a hidden misunderstanding? A new philosophical look at space-time challenges the popular view that the past, present, and future all exist together in a timeless \"block universe.\" The argument suggests that physicists may be…",
-      "date": "Jun 08, 2026",
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab",
+      "link": "https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/",
+      "desc": "Description NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge and operated from Earth, CAL chills atoms to temperatures below minus 459…",
+      "date": "Jun 16, 2026",
       "image": ""
     },
     {
-      "topic": "Cool Math",
-      "source": "ScienceDaily Math",
-      "title": "Scientists just captured a mysterious quantum “dance” inside superconductors",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260427050550.htm",
-      "desc": "In a breakthrough experiment, scientists directly imaged how particles pair up in a system that mimics superconductors. Instead of behaving independently, the pairs moved in a synchronized, dance-like pattern—something never predicted before. This suggests a major gap in the…",
-      "date": "Apr 27, 2026",
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space: Baku, Azerbaijan",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Baku_Azerbaijan",
+      "desc": "Image: On World Environment Day, the Copernicus Sentinel-2 mission brings us an amazing view from space of Baku, capital of Azerbaijan, hosting this year’s celebration.",
+      "date": "Jun 05, 2026",
+      "image": ""
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "ESA and EDA launch joint study to strengthen Europe’s Earth observation capabilities",
+      "link": "https://www.esa.int/Newsroom/Press_Releases/ESA_and_EDA_launch_joint_study_to_strengthen_Europe_s_Earth_observation_capabilities",
+      "desc": "Press Release N° 20&ndash;2026 The European Space Agency (ESA) and the European Defence Agency (EDA) have signed an Implementing Arrangement to jointly identify strategic and technological gaps in Europe’s Earth observation capabilities and develop a long-term roadmap in support of security and…",
+      "date": "Apr 22, 2026",
       "image": ""
     }
   ]
