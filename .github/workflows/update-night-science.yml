@@ -1,0 +1,22 @@
+name: Update Night Science Dispatch
+
+on:
+  schedule:
+    - cron: "15 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update stories.json from science feeds
+        run: python scripts/update_night_science.py
+      - name: Commit updated stories
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update night science stories"
+          file_pattern: bedtime-physics/stories.json
