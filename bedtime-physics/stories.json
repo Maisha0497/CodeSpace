@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19 22:50 UTC",
+  "updated": "2026-06-19 23:43 UTC",
   "stories": [
     {
       "topic": "Physics",
@@ -8,7 +8,7 @@
       "link": "https://phys.org/news/2026-06-magnet-excitons-knob-magnetic.html",
       "desc": "Scientists can learn a lot about a quantum material by watching how it responds to light. In magnetic semiconductors, one especially useful messenger is the exciton: a pairing of a negatively charged electron and the positively charged \"hole\" it leaves behind. Until now, excitons in magnetic…",
       "date": "Jun 18, 2026",
-      "image": ""
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exciton-spin-torque.jpg"
     },
     {
       "topic": "Physics",
@@ -17,7 +17,7 @@
       "link": "https://phys.org/news/2026-06-electrically-tunable-polarization-graphene-path.html",
       "desc": "Researchers at the National Graphene Institute, in collaboration with the National University of Singapore, have shown that the magnetic behavior of electrons in graphene can be precisely controlled using electricity, revealing unusually large spin signals in a carefully engineered graphene system.",
       "date": "Jun 18, 2026",
-      "image": ""
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrical-control-of.jpg"
     },
     {
       "topic": "Quantum",
@@ -26,7 +26,7 @@
       "link": "https://phys.org/news/2026-06-flipped-quantum-clearer-gluon-nuclear.html",
       "desc": "Scientists studying particle collisions at the Relativistic Heavy Ion Collider (RHIC) usually capture what happens when atomic nuclei smash into one another at nearly the speed of light. But even when the nuclei don't collide, interesting things can happen. In a new paper just published in Physical…",
       "date": "Jun 17, 2026",
-      "image": ""
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/improved-quantum-inter.jpg"
     },
     {
       "topic": "Physics",
@@ -35,7 +35,7 @@
       "link": "https://phys.org/news/2026-06-diamond-based-particle-detector-captures.html",
       "desc": "Physicists at UC Santa Cruz and other institutes across California and New Mexico have developed a detection system that will allow next-generation particle accelerators to better reveal fundamental biological and chemical processes, as well as advance critical areas such as materials science and…",
       "date": "Jun 18, 2026",
-      "image": ""
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-builds-best-perfo.jpg"
     },
     {
       "topic": "Physics",
@@ -44,7 +44,7 @@
       "link": "https://phys.org/news/2026-06-laser-pulses-layered-metals-vibrating.html",
       "desc": "How does light turn into motion within a metal? A team of researchers from European XFEL, the University of Potsdam and other participating institutions has shown that ultrashort optical laser pulses can trigger extremely rapid lattice vibrations in periodically layered metal structures—not…",
       "date": "Jun 18, 2026",
-      "image": ""
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-hot-electrons-pou.jpg"
     },
     {
       "topic": "Quantum",
@@ -71,7 +71,7 @@
       "link": "https://phys.org/news/2026-06-superconducting-tes-array-ray-spectrometer.html",
       "desc": "Europe's first and only TES spectrometer at a synchrotron source is now in operation at BESSY II, developed within a collaboration between the HZB, the MPI-CEC (Mühlheim-an-der-Ruhr, Germany) and the NIST (Boulder, Colorado, U.S.). The photon detection efficiency of the new instrument exceeds that…",
       "date": "Jun 17, 2026",
-      "image": ""
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/superconducting-tes-ar.jpg"
     },
     {
       "topic": "Quantum",
