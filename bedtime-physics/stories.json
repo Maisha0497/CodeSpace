@@ -1,86 +1,66 @@
 {
-  "updated": "2026-06-20 04:45 UTC",
+  "updated": "2026-06-20 05:05 UTC",
+  "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "How to train your magnet: Excitons as a new knob for magnetic control",
-      "link": "https://phys.org/news/2026-06-magnet-excitons-knob-magnetic.html",
-      "desc": "Scientists can learn a lot about a quantum material by watching how it responds to light. In magnetic semiconductors, one especially useful messenger is the exciton: a pairing of a negatively charged electron and the positively charged \"hole\" it leaves behind. Until now, excitons in magnetic…",
-      "date": "Jun 18, 2026",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exciton-spin-torque.jpg"
+      "title": "A new way to control tiny quantum light sources by twisting atomically thin layers of hexagonal boron nitride",
+      "link": "https://phys.org/news/2026-06-tiny-quantum-sources-atomically-thin.html",
+      "desc": "In a paper published in Science Advances, researchers at the University of Technology Sydney (UTS) in collaboration with the University of Minnesota and Kyung Hee University have found a new way to control quantum light sources, which is one of the key elements needed before quantum technologies…",
+      "date": "Jun 19, 2026",
+      "published_utc": "2026-06-19 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-way-to-control-t.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Electrically tunable spin polarization in graphene opens path toward low-power spintronic devices",
-      "link": "https://phys.org/news/2026-06-electrically-tunable-polarization-graphene-path.html",
-      "desc": "Researchers at the National Graphene Institute, in collaboration with the National University of Singapore, have shown that the magnetic behavior of electrons in graphene can be precisely controlled using electricity, revealing unusually large spin signals in a carefully engineered graphene system.",
-      "date": "Jun 18, 2026",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrical-control-of.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "Flipped quantum interference unlocks clearer gluon maps from near-miss nuclear encounters",
-      "link": "https://phys.org/news/2026-06-flipped-quantum-clearer-gluon-nuclear.html",
-      "desc": "Scientists studying particle collisions at the Relativistic Heavy Ion Collider (RHIC) usually capture what happens when atomic nuclei smash into one another at nearly the speed of light. But even when the nuclei don't collide, interesting things can happen. In a new paper just published in Physical…",
-      "date": "Jun 17, 2026",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/improved-quantum-inter.jpg"
+      "title": "Tiny objects swimming in a superfluid of light move against the flow",
+      "link": "https://phys.org/news/2026-06-tiny-superfluid.html",
+      "desc": "Superfluids are intriguing states of matter in which particles behave like a giant collective wave, allowing them to flow without any friction. When this fluid flows past a fixed obstacle at a velocity below a specific threshold, it moves around it without slowing down or exerting any drag. Above…",
+      "date": "Jun 19, 2026",
+      "published_utc": "2026-06-19 17:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-objects-swimming.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Diamond-based particle detector captures one-picosecond electron bursts for high-rate beam diagnostics",
-      "link": "https://phys.org/news/2026-06-diamond-based-particle-detector-captures.html",
-      "desc": "Physicists at UC Santa Cruz and other institutes across California and New Mexico have developed a detection system that will allow next-generation particle accelerators to better reveal fundamental biological and chemical processes, as well as advance critical areas such as materials science and…",
-      "date": "Jun 18, 2026",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-builds-best-perfo.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Laser pulses set layered metals vibrating 1 trillion times per second, revealing electron-driven motion",
-      "link": "https://phys.org/news/2026-06-laser-pulses-layered-metals-vibrating.html",
-      "desc": "How does light turn into motion within a metal? A team of researchers from European XFEL, the University of Potsdam and other participating institutions has shown that ultrashort optical laser pulses can trigger extremely rapid lattice vibrations in periodically layered metal structures—not…",
-      "date": "Jun 18, 2026",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-hot-electrons-pou.jpg"
+      "title": "Five phases of localization physics observed in a single quantum system",
+      "link": "https://phys.org/news/2026-06-phases-localization-physics-quantum.html",
+      "desc": "Physicists in China have observed five phases in localization physics within a single quantum system. Using an advanced photonic platform, the team, led by Yucheng Wang and Jingyun Fan at the Southern University of Science and Technology, Shenzhen, has demonstrated that localization physics is…",
+      "date": "Jun 19, 2026",
+      "published_utc": "2026-06-19 11:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/five-phases-of-localiz.jpg"
     },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
-      "title": "New light-powered chip could accelerate AI and quantum computing",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-      "desc": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of…",
-      "date": "Jun 02, 2026",
+      "title": "Einstein’s “biggest blunder” may finally have an explanation",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
+      "desc": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological constant from disruptive quantum effects.",
+      "date": "Jun 19, 2026",
+      "published_utc": "2026-06-19 09:43 UTC",
       "image": ""
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists think they solved the mystery of the Amaterasu particle",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608040015.htm",
-      "desc": "The mysterious Amaterasu particle may not be a proton at all. New research suggests that some of the most extreme cosmic rays could be ultraheavy atomic nuclei, heavier than iron, which are better able to retain their energy while traveling through space. This idea could help explain how these rare…",
-      "date": "Jun 09, 2026",
+      "topic": "Cool Math",
+      "source": "ScienceDaily Math",
+      "title": "Researchers found a Wordle strategy that wins 99% of the time",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm",
+      "desc": "Researchers developed a Wordle-solving strategy that succeeds 99% of the time by focusing on information gain rather than likely answers. The method uses Shannon entropy to identify guesses that reveal the most about the hidden word. Each guess is designed to slash uncertainty and narrow the…",
+      "date": "Jun 19, 2026",
+      "published_utc": "2026-06-19 12:50 UTC",
       "image": ""
     },
     {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "Superconducting TES array X-ray spectrometer goes into operation at BESSY II",
-      "link": "https://phys.org/news/2026-06-superconducting-tes-array-ray-spectrometer.html",
-      "desc": "Europe's first and only TES spectrometer at a synchrotron source is now in operation at BESSY II, developed within a collaboration between the HZB, the MPI-CEC (Mühlheim-an-der-Ruhr, Germany) and the NIST (Boulder, Colorado, U.S.). The photon detection efficiency of the new instrument exceeds that…",
-      "date": "Jun 17, 2026",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/superconducting-tes-ar.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists found a surprisingly simple way to create powerful quantum states",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
-      "desc": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an optical cavity, researchers can generate a wide variety of highly entangled…",
-      "date": "Jun 06, 2026",
-      "image": ""
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space celebrates 1000 images",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_celebrates_1000_images",
+      "desc": "Image: ESA’s Earth from Space series reaches its 1000th image with a return to the vibrant waters of southern Florida, Cuba and the Bahamas – the same region featured in the very first edition in 2004.",
+      "date": "Jun 19, 2026",
+      "published_utc": "2026-06-19 08:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_celebrates_1000_images/27336814-1-eng-GB/Earth_from_Space_celebrates_1000_images_card_full.jpg"
     }
   ]
 }
