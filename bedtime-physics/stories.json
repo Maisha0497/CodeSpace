@@ -1,66 +1,26 @@
 {
-  "updated": "2026-06-20 05:05 UTC",
+  "updated": "2026-06-21 04:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A new way to control tiny quantum light sources by twisting atomically thin layers of hexagonal boron nitride",
-      "link": "https://phys.org/news/2026-06-tiny-quantum-sources-atomically-thin.html",
-      "desc": "In a paper published in Science Advances, researchers at the University of Technology Sydney (UTS) in collaboration with the University of Minnesota and Kyung Hee University have found a new way to control quantum light sources, which is one of the key elements needed before quantum technologies…",
-      "date": "Jun 19, 2026",
-      "published_utc": "2026-06-19 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-way-to-control-t.jpg"
+      "title": "Quantum gravity research links continuous parameters to local operators within the theory itself",
+      "link": "https://phys.org/news/2026-06-quantum-gravity-links-parameters-local.html",
+      "desc": "A researcher at Kyushu University and his collaborators have shown that continuous parameters in quantum gravity may not be freely adjustable \"dials\" from outside the theory, but rather arise from operators within the theory itself, supporting the century-old claim by Albert Einstein about the…",
+      "date": "Jun 20, 2026",
+      "published_utc": "2026-06-20 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exploring-the-origin-o.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Tiny objects swimming in a superfluid of light move against the flow",
-      "link": "https://phys.org/news/2026-06-tiny-superfluid.html",
-      "desc": "Superfluids are intriguing states of matter in which particles behave like a giant collective wave, allowing them to flow without any friction. When this fluid flows past a fixed obstacle at a velocity below a specific threshold, it moves around it without slowing down or exerting any drag. Above…",
-      "date": "Jun 19, 2026",
-      "published_utc": "2026-06-19 17:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-objects-swimming.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Five phases of localization physics observed in a single quantum system",
-      "link": "https://phys.org/news/2026-06-phases-localization-physics-quantum.html",
-      "desc": "Physicists in China have observed five phases in localization physics within a single quantum system. Using an advanced photonic platform, the team, led by Yucheng Wang and Jingyun Fan at the Southern University of Science and Technology, Shenzhen, has demonstrated that localization physics is…",
-      "date": "Jun 19, 2026",
-      "published_utc": "2026-06-19 11:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/five-phases-of-localiz.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Einstein’s “biggest blunder” may finally have an explanation",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
-      "desc": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological constant from disruptive quantum effects.",
-      "date": "Jun 19, 2026",
-      "published_utc": "2026-06-19 09:43 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Cool Math",
-      "source": "ScienceDaily Math",
-      "title": "Researchers found a Wordle strategy that wins 99% of the time",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm",
-      "desc": "Researchers developed a Wordle-solving strategy that succeeds 99% of the time by focusing on information gain rather than likely answers. The method uses Shannon entropy to identify guesses that reveal the most about the hidden word. Each guess is designed to slash uncertainty and narrow the…",
-      "date": "Jun 19, 2026",
-      "published_utc": "2026-06-19 12:50 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Earth from Space celebrates 1000 images",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_celebrates_1000_images",
-      "desc": "Image: ESA’s Earth from Space series reaches its 1000th image with a return to the vibrant waters of southern Florida, Cuba and the Bahamas – the same region featured in the very first edition in 2004.",
-      "date": "Jun 19, 2026",
-      "published_utc": "2026-06-19 08:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_celebrates_1000_images/27336814-1-eng-GB/Earth_from_Space_celebrates_1000_images_card_full.jpg"
+      "title": "Belgian Nobel laureate Francois Englert dies aged 93",
+      "link": "https://phys.org/news/2026-06-belgian-nobel-laureate-francois-englert.html",
+      "desc": "Belgian scientist Francois Englert, a particle physics specialist who won the Nobel Prize in 2013 for his work on the Higgs boson, has died at 93.",
+      "date": "Jun 20, 2026",
+      "published_utc": "2026-06-20 07:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/belgian-nobel-laureate.jpg"
     }
   ]
 }
