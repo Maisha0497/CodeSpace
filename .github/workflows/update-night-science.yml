@@ -2,7 +2,8 @@ name: Update Night Science Dispatch
 
 on:
   schedule:
-    - cron: "15 3 * * *"
+    # Refresh several times per day so the page catches same-day stories.
+    - cron: "15 */6 * * *"
   workflow_dispatch:
 
 permissions:
