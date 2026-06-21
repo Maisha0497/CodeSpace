@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21 04:40 UTC",
+  "updated": "2026-06-21 07:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Jun 20, 2026",
       "published_utc": "2026-06-20 19:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exploring-the-origin-o.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Belgian Nobel laureate Francois Englert dies aged 93",
-      "link": "https://phys.org/news/2026-06-belgian-nobel-laureate-francois-englert.html",
-      "desc": "Belgian scientist Francois Englert, a particle physics specialist who won the Nobel Prize in 2013 for his work on the Higgs boson, has died at 93.",
-      "date": "Jun 20, 2026",
-      "published_utc": "2026-06-20 07:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/belgian-nobel-laureate.jpg"
     }
   ]
 }
