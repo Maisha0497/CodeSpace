@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-22 14:11 UTC",
+  "updated": "2026-06-22 19:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Broken time-reversal symmetry phase in kagome metals may establish conditions for superconductivity",
+      "link": "https://phys.org/news/2026-06-broken-reversal-symmetry-phase-kagome.html",
+      "desc": "Physicists have long suspected that a peculiar quantum state lurks inside a class of materials known as kagome metals, but proving its existence has been elusive. Now, a team led by Yeongkwan Kim at the Korea Advanced Institute of Science and Technology has performed experiments on a kagome metal…",
+      "date": "Jun 22, 2026",
+      "published_utc": "2026-06-22 17:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-evidence-of-exot.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -33,6 +43,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/does-quantum-mechanics.jpg"
     },
     {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "A Dark Dimension Could Link Two of the Universe’s Great Unknowns",
+      "link": "https://www.quantamagazine.org/a-dark-dimension-could-link-two-of-the-universes-great-unknowns-20260622/",
+      "desc": "Recent observations suggest that dark energy is changing over time. Theorists wonder if dark matter is, too. The post A Dark Dimension Could Link Two of the Universe’s Great Unknowns first appeared on Quanta Magazine",
+      "date": "Jun 22, 2026",
+      "published_utc": "2026-06-22 14:52 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/DarkInteractions-cr-Ada-Zejun-Shen-Default-copy-1.webp"
+    },
+    {
       "topic": "Geoscience",
       "source": "Eos",
       "title": "A Quiet Quantum Revolution in Earth’s Deep Interior",
@@ -41,6 +61,16 @@
       "date": "Jun 22, 2026",
       "published_utc": "2026-06-22 12:59 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/06/illustration-earth-interior-layers-cutaway-1024x576.png"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Poo emoji, earthworm castings and pasta all obey the same coiling theory, physicists find",
+      "link": "https://phys.org/news/2026-06-poo-emoji-earthworm-pasta-obey.html",
+      "desc": "Ask a child to draw some poo, and the shape will invariably be the same: a coil, broad at the base and pointy at the top, similar to a spiral swirl of soft-serve ice cream. In fact, the often-used poo emoji has this exact shape, as do most actual mounds of feces found in nature. Exceptions occur,…",
+      "date": "Jun 22, 2026",
+      "published_utc": "2026-06-22 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-the-poo-emoji-has.jpg"
     },
     {
       "topic": "Earth Observation",
