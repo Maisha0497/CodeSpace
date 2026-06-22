@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-22 08:29 UTC",
+  "updated": "2026-06-22 14:11 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Electron-Ion Collider's radiofrequency controls system passes first real-world test",
+      "link": "https://phys.org/news/2026-06-electron-ion-collider-radiofrequency-real.html",
+      "desc": "The U.S. Department of Energy's (DOE) Brookhaven National Laboratory has reached a key early milestone in developing radiofrequency control systems for the Electron-Ion Collider (EIC)—a next-generation research facility that will collide electrons with ions to reveal how the building blocks of…",
+      "date": "Jun 22, 2026",
+      "published_utc": "2026-06-22 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/eic-radiofrequency-con.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Investigating quantum and molecular plumbing in nanofluidics research",
+      "link": "https://phys.org/news/2026-06-quantum-molecular-plumbing-nanofluidics.html",
+      "desc": "Our body contains an intricate system of tiny vessels through which blood, water and other molecules flow. When the size of the pipes shrinks to the nanoscale, where only a few molecules can fit side by side, the classical laws of physics governing the behavior of water are influenced by the atomic…",
+      "date": "Jun 22, 2026",
+      "published_utc": "2026-06-22 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-and-molecular.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -11,6 +31,16 @@
       "date": "Jun 21, 2026",
       "published_utc": "2026-06-21 22:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/does-quantum-mechanics.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "A Quiet Quantum Revolution in Earth’s Deep Interior",
+      "link": "https://eos.org/features/a-quiet-quantum-revolution-in-earths-deep-interior",
+      "desc": "A subtle change in iron ions’ electronic configuration produces a measurable difference in seismic wave speeds through mantle rocks.",
+      "date": "Jun 22, 2026",
+      "published_utc": "2026-06-22 12:59 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/06/illustration-earth-interior-layers-cutaway-1024x576.png"
     },
     {
       "topic": "Earth Observation",
