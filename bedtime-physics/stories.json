@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-21 18:49 UTC",
+  "updated": "2026-06-22 01:30 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum gravity research links continuous parameters to local operators within the theory itself",
-      "link": "https://phys.org/news/2026-06-quantum-gravity-links-parameters-local.html",
-      "desc": "A researcher at Kyushu University and his collaborators have shown that continuous parameters in quantum gravity may not be freely adjustable \"dials\" from outside the theory, but rather arise from operators within the theory itself, supporting the century-old claim by Albert Einstein about the…",
-      "date": "Jun 20, 2026",
-      "published_utc": "2026-06-20 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exploring-the-origin-o.jpg"
+      "title": "Quantum mechanics theory may work without imaginary numbers, new analysis suggests",
+      "link": "https://phys.org/news/2026-06-quantum-mechanics-theory-imaginary-analysis.html",
+      "desc": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In an article published in the journal Physical Review Letters, they show that this theory does not necessarily need to be…",
+      "date": "Jun 21, 2026",
+      "published_utc": "2026-06-21 22:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/does-quantum-mechanics.jpg"
     }
   ]
 }
