@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22 01:30 UTC",
+  "updated": "2026-06-22 08:29 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Jun 21, 2026",
       "published_utc": "2026-06-21 22:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/does-quantum-mechanics.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Signs of Thaw in the Bering Sea",
+      "link": "https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/",
+      "desc": "Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice. The post Signs of Thaw in the Bering Sea appeared first on NASA Science .",
+      "date": "Jun 22, 2026",
+      "published_utc": "2026-06-22 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_tmo_20260603.jpg"
     }
   ]
 }
