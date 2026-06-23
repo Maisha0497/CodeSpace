@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-22 19:26 UTC",
+  "updated": "2026-06-23 01:16 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Room-temperature device synchronizes distant laser spots into single coherent 'supermode'",
+      "link": "https://phys.org/news/2026-06-room-temperature-device-synchronizes-distant.html",
+      "desc": "Researchers have demonstrated a new way to make spatially separated lasers synchronize and act as a single coherent light source—without extreme conditions or complex materials.",
+      "date": "Jun 22, 2026",
+      "published_utc": "2026-06-22 21:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/room-temperature-devic.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Modeling nuclear fusion at lightning speed",
+      "link": "https://phys.org/news/2026-06-nuclear-fusion-lightning.html",
+      "desc": "As we scour and scorch the Earth for deeper wells of energy, investors and government agencies are pouring billions into nuclear fusion research. The hope is that fusion may ultimately provide a virtually limitless source of clean energy.",
+      "date": "Jun 22, 2026",
+      "published_utc": "2026-06-22 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/modeling-nuclear-fusio.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -33,16 +53,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-and-molecular.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum mechanics theory may work without imaginary numbers, new analysis suggests",
-      "link": "https://phys.org/news/2026-06-quantum-mechanics-theory-imaginary-analysis.html",
-      "desc": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In an article published in the journal Physical Review Letters, they show that this theory does not necessarily need to be…",
-      "date": "Jun 21, 2026",
-      "published_utc": "2026-06-21 22:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/does-quantum-mechanics.jpg"
-    },
-    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
       "title": "A Dark Dimension Could Link Two of the Universe’s Great Unknowns",
@@ -53,6 +63,26 @@
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/DarkInteractions-cr-Ada-Zejun-Shen-Default-copy-1.webp"
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Experiment upends beliefs on how electrons actually behave in warm dense matter",
+      "link": "https://phys.org/news/2026-06-upends-beliefs-electrons-dense.html",
+      "desc": "Researchers at European XFEL, Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Rostock University and other collaborating institutions have used high-precision experiments to demonstrate that the most widely used models for the behavior of electrons in warm dense matter are inaccurate. Warm dense…",
+      "date": "Jun 22, 2026",
+      "published_utc": "2026-06-22 22:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/experiment-reveals-how.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A minimal model for how a cell takes shape from the inside",
+      "link": "https://phys.org/news/2026-06-minimal-cell.html",
+      "desc": "Researchers at the University of Twente and Utrecht University have packed rigid, rod-shaped particles into soft lipid containers the size of a living cell and watched the container and its contents reshape each other. The vesicle's form determines how the rods line up; the tightly packed rods, in…",
+      "date": "Jun 22, 2026",
+      "published_utc": "2026-06-22 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-minimal-model-for-ho.jpg"
+    },
+    {
       "topic": "Geoscience",
       "source": "Eos",
       "title": "A Quiet Quantum Revolution in Earth’s Deep Interior",
@@ -61,26 +91,6 @@
       "date": "Jun 22, 2026",
       "published_utc": "2026-06-22 12:59 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/06/illustration-earth-interior-layers-cutaway-1024x576.png"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Poo emoji, earthworm castings and pasta all obey the same coiling theory, physicists find",
-      "link": "https://phys.org/news/2026-06-poo-emoji-earthworm-pasta-obey.html",
-      "desc": "Ask a child to draw some poo, and the shape will invariably be the same: a coil, broad at the base and pointy at the top, similar to a spiral swirl of soft-serve ice cream. In fact, the often-used poo emoji has this exact shape, as do most actual mounds of feces found in nature. Exceptions occur,…",
-      "date": "Jun 22, 2026",
-      "published_utc": "2026-06-22 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-the-poo-emoji-has.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Signs of Thaw in the Bering Sea",
-      "link": "https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/",
-      "desc": "Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice. The post Signs of Thaw in the Bering Sea appeared first on NASA Science .",
-      "date": "Jun 22, 2026",
-      "published_utc": "2026-06-22 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_tmo_20260603.jpg"
     }
   ]
 }
