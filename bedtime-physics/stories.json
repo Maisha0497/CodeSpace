@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23 13:17 UTC",
+  "updated": "2026-06-23 18:58 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,32 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Broken time-reversal symmetry phase in kagome metals may establish conditions for superconductivity",
-      "link": "https://phys.org/news/2026-06-broken-reversal-symmetry-phase-kagome.html",
-      "desc": "Physicists have long suspected that a peculiar quantum state lurks inside a class of materials known as kagome metals, but proving its existence has been elusive. Now, a team led by Yeongkwan Kim at the Korea Advanced Institute of Science and Technology has performed experiments on a kagome metal…",
-      "date": "Jun 22, 2026",
-      "published_utc": "2026-06-22 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-evidence-of-exot.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Investigating quantum and molecular plumbing in nanofluidics research",
-      "link": "https://phys.org/news/2026-06-quantum-molecular-plumbing-nanofluidics.html",
-      "desc": "Our body contains an intricate system of tiny vessels through which blood, water and other molecules flow. When the size of the pipes shrinks to the nanoscale, where only a few molecules can fit side by side, the classical laws of physics governing the behavior of water are influenced by the atomic…",
-      "date": "Jun 22, 2026",
-      "published_utc": "2026-06-22 14:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-and-molecular.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "A Dark Dimension Could Link Two of the Universe’s Great Unknowns",
-      "link": "https://www.quantamagazine.org/a-dark-dimension-could-link-two-of-the-universes-great-unknowns-20260622/",
-      "desc": "Recent observations suggest that dark energy is changing over time. Theorists wonder if dark matter is, too. The post A Dark Dimension Could Link Two of the Universe’s Great Unknowns first appeared on Quanta Magazine",
-      "date": "Jun 22, 2026",
-      "published_utc": "2026-06-22 14:52 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/DarkInteractions-cr-Ada-Zejun-Shen-Default-copy-1.webp"
+      "title": "Scientists create optical skyrmions using a two-century-old light phenomenon",
+      "link": "https://phys.org/news/2026-06-scientists-optical-skyrmions-century-phenomenon.html",
+      "desc": "Nanyang Technological University, Singapore (NTU Singapore) scientists have used a classic optical phenomenon known as the Poisson spot to create stable patterns of light called optical skyrmions, which are tiny, swirling configurations in the properties of light—akin to the spikes of a hedgehog.",
+      "date": "Jun 23, 2026",
+      "published_utc": "2026-06-23 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ntu-singapore-scientis-2.jpg"
     },
     {
       "topic": "Physics",
@@ -91,6 +71,26 @@
       "date": "Jun 23, 2026",
       "published_utc": "2026-06-23 04:45 UTC",
       "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Pathway to high-fidelity quantum computing identified",
+      "link": "https://phys.org/news/2026-06-pathway-high-fidelity-quantum.html",
+      "desc": "Researchers from the University of Sydney, working with IBM, have identified and quantified important factors limiting the performance of quantum computers and demonstrated ways to overcome their impact.",
+      "date": "Jun 23, 2026",
+      "published_utc": "2026-06-23 17:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pathway-to-high-fideli.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Iceberg Scours Reveal Ancient Wind Patterns",
+      "link": "https://eos.org/articles/iceberg-scours-reveal-ancient-wind-patterns",
+      "desc": "Scour marks left by icebergs that ran aground thousands of years ago record the winds blowing off the Laurentide Ice Sheet.",
+      "date": "Jun 23, 2026",
+      "published_utc": "2026-06-23 12:49 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/06/iceberg-scours-1024x576.jpg"
     }
   ]
 }
