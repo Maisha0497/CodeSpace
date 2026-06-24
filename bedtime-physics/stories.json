@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24 13:05 UTC",
+  "updated": "2026-06-24 18:54 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -55,32 +55,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Scientists create optical skyrmions using a two-century-old light phenomenon",
-      "link": "https://phys.org/news/2026-06-scientists-optical-skyrmions-century-phenomenon.html",
-      "desc": "Nanyang Technological University, Singapore (NTU Singapore) scientists have used a classic optical phenomenon known as the Poisson spot to create stable patterns of light called optical skyrmions, which are tiny, swirling configurations in the properties of light—akin to the spikes of a hedgehog.",
-      "date": "Jun 23, 2026",
-      "published_utc": "2026-06-23 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ntu-singapore-scientis-2.jpg"
+      "title": "Turning low-value diamond dust into high-performance quantum materials",
+      "link": "https://phys.org/news/2026-06-diamond-high-quantum-materials.html",
+      "desc": "Diamonds have long been coveted for their beauty. Their dazzling color and clarity make them perfect candidates for luxury jewelry. However, it's their other unique characteristics, including their hardness, thermal conductivity and chemical resistance, that make diamonds suitable for various…",
+      "date": "Jun 24, 2026",
+      "published_utc": "2026-06-24 15:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/good-sense-turning-dia.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Pathway to high-fidelity quantum computing identified",
-      "link": "https://phys.org/news/2026-06-pathway-high-fidelity-quantum.html",
-      "desc": "Researchers from the University of Sydney, working with IBM, have identified and quantified important factors limiting the performance of quantum computers and demonstrated ways to overcome their impact.",
-      "date": "Jun 23, 2026",
-      "published_utc": "2026-06-23 17:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pathway-to-high-fideli.jpg"
+      "title": "Scientists catch classical space-time crystals moving like Majorana quasiparticles",
+      "link": "https://phys.org/news/2026-06-scientists-classical-space-crystals-majorana.html",
+      "desc": "A research team from Hiroshima University, the University of Colorado, and other collaborators have demonstrated that space-time crystals—exotic structures that, under external drive, loop endlessly through both space and time—can be created using everyday liquid-crystal materials.",
+      "date": "Jun 24, 2026",
+      "published_utc": "2026-06-24 14:07 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-cl.jpg"
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Playing the Moon Game",
-      "link": "https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/",
-      "desc": "Apollo astronauts previewed their roles as lunar field geologists in Alaska’s Valley of Ten Thousand Smokes. The post Playing the Moon Game appeared first on NASA Science .",
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Geometric anti-spring works near absolute zero, suppressing vibrations below 0.185 hertz",
+      "link": "https://phys.org/news/2026-06-geometric-anti-absolute-suppressing-vibrations.html",
+      "desc": "Physicists and instrument makers in Leiden have succeeded in optimizing a spring that almost completely filters out vibrations at temperatures near absolute zero. This breakthrough opens the door to a new generation of highly sensitive experiments. The research is published in the journal…",
       "date": "Jun 24, 2026",
-      "published_utc": "2026-06-24 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/playing-the-moon-game-/tenthousandsmokes_oli2_20250929.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "published_utc": "2026-06-24 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-super-spring-for.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum squeezing sidesteps the limits on mechanical transducers",
+      "link": "https://phys.org/news/2026-06-quantum-sidesteps-limits-mechanical-transducers.html",
+      "desc": "From detecting the ripples of colliding black holes to imaging individual chemical bonds, mechanical transducers have repeatedly transformed our understanding of the universe. So far, however, the sensitivity of these devices has been intrinsically limited by the laws of quantum mechanics itself.",
+      "date": "Jun 24, 2026",
+      "published_utc": "2026-06-24 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-mechanics.jpg"
     }
   ]
 }
