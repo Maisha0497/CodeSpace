@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24 01:14 UTC",
+  "updated": "2026-06-24 07:29 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -63,16 +63,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ntu-singapore-scientis-2.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
-      "desc": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock new discoveries about the universe while paving the way for powerful future technologies in space…",
-      "date": "Jun 23, 2026",
-      "published_utc": "2026-06-23 04:45 UTC",
-      "image": ""
-    },
-    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Pathway to high-fidelity quantum computing identified",
@@ -91,6 +81,16 @@
       "date": "Jun 23, 2026",
       "published_utc": "2026-06-23 12:49 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/06/iceberg-scours-1024x576.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "Phys.org Quantum",
+      "title": "Horizon edge states gain finite description in string theory calculation",
+      "link": "https://phys.org/news/2026-06-horizon-edge-states-gain-finite.html",
+      "desc": "Modern physics theories highlight the key role of horizons—boundaries beyond which information cannot reach an observer—in a variety of cosmological and gravitational phenomena. Two renowned examples of these boundaries are event horizons in black holes and the cosmological horizon of the de Sitter…",
+      "date": "Jun 23, 2026",
+      "published_utc": "2026-06-23 12:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/event-horizon-of-a-bla.jpg"
     }
   ]
 }
