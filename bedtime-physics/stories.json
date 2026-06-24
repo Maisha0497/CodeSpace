@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23 18:58 UTC",
+  "updated": "2026-06-24 01:14 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,22 +15,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Room-temperature device synchronizes distant laser spots into single coherent 'supermode'",
-      "link": "https://phys.org/news/2026-06-room-temperature-device-synchronizes-distant.html",
-      "desc": "Researchers have demonstrated a new way to make spatially separated lasers synchronize and act as a single coherent light source—without extreme conditions or complex materials.",
-      "date": "Jun 22, 2026",
-      "published_utc": "2026-06-22 21:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/room-temperature-devic.jpg"
+      "title": "Listening for quantum oscillations in the Kondo insulator ytterbium dodecaboride",
+      "link": "https://phys.org/news/2026-06-quantum-oscillations-kondo-insulator-ytterbium.html",
+      "desc": "Magnetic quantum oscillations have been unexpectedly observed in insulators, where freely moving charge carriers are not expected to exist. A joint study by researchers from Tokyo University of Science, The University of Tokyo and Kobe University investigated this puzzling behavior in the Kondo…",
+      "date": "Jun 24, 2026",
+      "published_utc": "2026-06-24 00:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/listening-for-quantum.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Modeling nuclear fusion at lightning speed",
-      "link": "https://phys.org/news/2026-06-nuclear-fusion-lightning.html",
-      "desc": "As we scour and scorch the Earth for deeper wells of energy, investors and government agencies are pouring billions into nuclear fusion research. The hope is that fusion may ultimately provide a virtually limitless source of clean energy.",
-      "date": "Jun 22, 2026",
-      "published_utc": "2026-06-22 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/modeling-nuclear-fusio.jpg"
+      "title": "Wave-packet interferometry captures elusive dark excitons in organic superconductor",
+      "link": "https://phys.org/news/2026-06-packet-interferometry-captures-elusive-dark.html",
+      "desc": "In a recent study, Manish Garg, independent group leader at Max Planck Institute for Solid State Research (MPI FKF), succeeded in probing the local properties of bright and dark excitons in the organic superconductor copper naphthalocyanine (CuNc). The findings are published in the journal Nature…",
+      "date": "Jun 23, 2026",
+      "published_utc": "2026-06-23 22:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-dark-side-of-excit.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New breakthrough spots deadly methanol without opening bottles",
+      "link": "https://phys.org/news/2026-06-breakthrough-deadly-methanol-bottles.html",
+      "desc": "A new optical technique developed by researchers at the University of St Andrews and Adelaide University allows toxic methanol in alcoholic spirits to be detected without opening the bottle. Published in the Journal of Physics: Photonics, this new work offers a powerful new tool for tackling…",
+      "date": "Jun 23, 2026",
+      "published_utc": "2026-06-23 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/barbottles.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Graphene plasmon cavities enable advanced and scalable terahertz photodetectors",
+      "link": "https://phys.org/news/2026-06-graphene-plasmon-cavities-enable-advanced.html",
+      "desc": "How could we noninvasively distinguish between healthy and cancerous tissue? And how could we increase the speed of wireless communications? These two seemingly unrelated questions may share the same answer: terahertz (THz) light. Spanning frequencies between 0.3 and 20 THz, THz light interacts…",
+      "date": "Jun 23, 2026",
+      "published_utc": "2026-06-23 22:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/graphene-plasmon-cavit.jpg"
     },
     {
       "topic": "Physics",
@@ -41,26 +61,6 @@
       "date": "Jun 23, 2026",
       "published_utc": "2026-06-23 13:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ntu-singapore-scientis-2.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Experiment upends beliefs on how electrons actually behave in warm dense matter",
-      "link": "https://phys.org/news/2026-06-upends-beliefs-electrons-dense.html",
-      "desc": "Researchers at European XFEL, Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Rostock University and other collaborating institutions have used high-precision experiments to demonstrate that the most widely used models for the behavior of electrons in warm dense matter are inaccurate. Warm dense…",
-      "date": "Jun 22, 2026",
-      "published_utc": "2026-06-22 22:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/experiment-reveals-how.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "A minimal model for how a cell takes shape from the inside",
-      "link": "https://phys.org/news/2026-06-minimal-cell.html",
-      "desc": "Researchers at the University of Twente and Utrecht University have packed rigid, rod-shaped particles into soft lipid containers the size of a living cell and watched the container and its contents reshape each other. The vesicle's form determines how the rods line up; the tightly packed rods, in…",
-      "date": "Jun 22, 2026",
-      "published_utc": "2026-06-22 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-minimal-model-for-ho.jpg"
     },
     {
       "topic": "Quantum",
