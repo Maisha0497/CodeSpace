@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-25 13:05 UTC",
+  "updated": "2026-06-25 18:58 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Seven exotic quantum phases predicted in ultracold magnetic atoms, including topological superconductivity",
+      "link": "https://phys.org/news/2026-06-exotic-quantum-phases-ultracold-magnetic.html",
+      "desc": "Strongly interacting quantum particles are key to some of the most fascinating phenomena in modern physics—from magnetism and superconductivity to topological states. Yet the complexity of such systems makes many of their properties difficult to understand even today. A research team from Innsbruck…",
+      "date": "Jun 25, 2026",
+      "published_utc": "2026-06-25 18:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-blueprint-for-exot.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Trios of quantum particles form checkerboard layouts when particle density hits sweet spot",
+      "link": "https://phys.org/news/2026-06-trios-quantum-particles-checkerboard-layouts.html",
+      "desc": "Trions form when three particles, like quarks or electrons, come together. This formation occurs in quantum particles in nuclear physics, semiconductors and magnets, and understanding its behavior can be challenging. Rice University's Kaden Hazzard and his team recently developed a theory on how…",
+      "date": "Jun 25, 2026",
+      "published_utc": "2026-06-25 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-how-trio.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -65,32 +85,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Turning low-value diamond dust into high-performance quantum materials",
-      "link": "https://phys.org/news/2026-06-diamond-high-quantum-materials.html",
-      "desc": "Diamonds have long been coveted for their beauty. Their dazzling color and clarity make them perfect candidates for luxury jewelry. However, it's their other unique characteristics, including their hardness, thermal conductivity and chemical resistance, that make diamonds suitable for various…",
+      "title": "'Collapsible scissored surfaces' complete trilogy of metamaterial design principles",
+      "link": "https://phys.org/news/2026-06-collapsible-scissored-surfaces-trilogy-metamaterial.html",
+      "desc": "Over the past decade, Professor L. Mahadevan's Soft Math Lab at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) has helped establish how the ancient Japanese paper arts of folding or cutting can be used to inversely design structures that transform dramatically in…",
       "date": "Jun 24, 2026",
-      "published_utc": "2026-06-24 15:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/good-sense-turning-dia.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Scientists catch classical space-time crystals moving like Majorana quasiparticles",
-      "link": "https://phys.org/news/2026-06-scientists-classical-space-crystals-majorana.html",
-      "desc": "A research team from Hiroshima University, the University of Colorado, and other collaborators have demonstrated that space-time crystals—exotic structures that, under external drive, loop endlessly through both space and time—can be created using everyday liquid-crystal materials.",
-      "date": "Jun 24, 2026",
-      "published_utc": "2026-06-24 14:07 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-cl.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Geometric anti-spring works near absolute zero, suppressing vibrations below 0.185 hertz",
-      "link": "https://phys.org/news/2026-06-geometric-anti-absolute-suppressing-vibrations.html",
-      "desc": "Physicists and instrument makers in Leiden have succeeded in optimizing a spring that almost completely filters out vibrations at temperatures near absolute zero. This breakthrough opens the door to a new generation of highly sensitive experiments. The research is published in the journal…",
-      "date": "Jun 24, 2026",
-      "published_utc": "2026-06-24 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-super-spring-for.jpg"
+      "published_utc": "2026-06-24 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/collapsible-scissored.jpg"
     }
   ]
 }
