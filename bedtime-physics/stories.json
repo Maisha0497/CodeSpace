@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24 18:54 UTC",
+  "updated": "2026-06-25 01:18 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,42 +15,52 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Listening for quantum oscillations in the Kondo insulator ytterbium dodecaboride",
-      "link": "https://phys.org/news/2026-06-quantum-oscillations-kondo-insulator-ytterbium.html",
-      "desc": "Magnetic quantum oscillations have been unexpectedly observed in insulators, where freely moving charge carriers are not expected to exist. A joint study by researchers from Tokyo University of Science, The University of Tokyo and Kobe University investigated this puzzling behavior in the Kondo…",
+      "title": "Laser experiments push helium to record shock pressures",
+      "link": "https://phys.org/news/2026-06-laser-helium-pressures.html",
+      "desc": "Deep inside gas giants like Jupiter and Saturn, hydrogen and helium coexist under pressures millions of times greater than Earth's atmosphere. Under those conditions, helium may separate from hydrogen and influence a planet's internal heat flow, structure and magnetic field. Understanding these…",
       "date": "Jun 24, 2026",
-      "published_utc": "2026-06-24 00:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/listening-for-quantum.jpg"
+      "published_utc": "2026-06-24 23:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-experiments-push.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Wave-packet interferometry captures elusive dark excitons in organic superconductor",
-      "link": "https://phys.org/news/2026-06-packet-interferometry-captures-elusive-dark.html",
-      "desc": "In a recent study, Manish Garg, independent group leader at Max Planck Institute for Solid State Research (MPI FKF), succeeded in probing the local properties of bright and dark excitons in the organic superconductor copper naphthalocyanine (CuNc). The findings are published in the journal Nature…",
-      "date": "Jun 23, 2026",
-      "published_utc": "2026-06-23 22:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-dark-side-of-excit.jpg"
+      "title": "A magnetic field that kills superconductivity can also bring it back",
+      "link": "https://phys.org/news/2026-06-magnetic-field-superconductivity.html",
+      "desc": "Magnetic fields are generally known to destroy superconductivity in a material. However, in exceptional cases, they can lead to what is known as \"re-entrant superconductivity\"—where superconductivity disappears as expected, but then unexpectedly returns when the magnetic field is increased further.",
+      "date": "Jun 24, 2026",
+      "published_utc": "2026-06-24 23:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-magnetic-field-that.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New breakthrough spots deadly methanol without opening bottles",
-      "link": "https://phys.org/news/2026-06-breakthrough-deadly-methanol-bottles.html",
-      "desc": "A new optical technique developed by researchers at the University of St Andrews and Adelaide University allows toxic methanol in alcoholic spirits to be detected without opening the bottle. Published in the Journal of Physics: Photonics, this new work offers a powerful new tool for tackling…",
-      "date": "Jun 23, 2026",
-      "published_utc": "2026-06-23 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/barbottles.jpg"
+      "title": "A new quantum computer sets a high watermark for accuracy. Are we on the verge of a big breakthrough?",
+      "link": "https://phys.org/news/2026-06-quantum-high-watermark-accuracy-verge.html",
+      "desc": "In a laboratory in Broomfield, Colorado, 98 atoms are suspended in midair, held in place by electric fields and cooled to temperatures close to absolute zero.",
+      "date": "Jun 24, 2026",
+      "published_utc": "2026-06-24 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/quantum-computer-2.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Graphene plasmon cavities enable advanced and scalable terahertz photodetectors",
-      "link": "https://phys.org/news/2026-06-graphene-plasmon-cavities-enable-advanced.html",
-      "desc": "How could we noninvasively distinguish between healthy and cancerous tissue? And how could we increase the speed of wireless communications? These two seemingly unrelated questions may share the same answer: terahertz (THz) light. Spanning frequencies between 0.3 and 20 THz, THz light interacts…",
-      "date": "Jun 23, 2026",
-      "published_utc": "2026-06-23 22:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/graphene-plasmon-cavit.jpg"
+      "title": "Room-temperature laser hits record stability with 68-cm optical cavity",
+      "link": "https://phys.org/news/2026-06-room-temperature-laser-stability-cm.html",
+      "desc": "Scientists at NPL have demonstrated the best-reported laser frequency stability achieved with an optical reference cavity operating at room temperature, marking a major advance in ultrastable laser technology. The team's results have been published in Optica.",
+      "date": "Jun 24, 2026",
+      "published_utc": "2026-06-24 22:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/npl-achieves-world-lea.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Ultrafast X-rays allow researchers to 'watch' how molecules rearrange during a chemical reaction controlled by light",
+      "link": "https://phys.org/news/2026-06-ultrafast-rays-molecules-rearrange-chemical.html",
+      "desc": "Since the 1980s, researchers have sought to use laser light to control chemical reactions relevant to photochemistry, catalysis and light-responsive materials. But this technique, known as coherent control, has a blind spot: There has been no way to directly see the molecules in these reactions as…",
+      "date": "Jun 24, 2026",
+      "published_utc": "2026-06-24 21:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-x-ray-allows.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Jun 24, 2026",
       "published_utc": "2026-06-24 16:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-super-spring-for.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum squeezing sidesteps the limits on mechanical transducers",
-      "link": "https://phys.org/news/2026-06-quantum-sidesteps-limits-mechanical-transducers.html",
-      "desc": "From detecting the ripples of colliding black holes to imaging individual chemical bonds, mechanical transducers have repeatedly transformed our understanding of the universe. So far, however, the sensitivity of these devices has been intrinsically limited by the laws of quantum mechanics itself.",
-      "date": "Jun 24, 2026",
-      "published_utc": "2026-06-24 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-mechanics.jpg"
     }
   ]
 }
