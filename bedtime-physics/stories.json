@@ -1,17 +1,7 @@
 {
-  "updated": "2026-06-25 07:29 UTC",
+  "updated": "2026-06-25 13:05 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Interlayer self-doping could unlock room-temperature multiferroics in atom-thin materials",
-      "link": "https://phys.org/news/2026-06-interlayer-doping-room-temperature-multiferroics.html",
-      "desc": "Multiferroics are materials that exhibit more than one prominent \"ferroic\" property, such as ferromagnetism and ferroelectricity. One of their most advantageous features is that they allow engineers to control their magnetic states with electric fields or vice versa, due to an effect known as…",
-      "date": "Jun 24, 2026",
-      "published_utc": "2026-06-24 12:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-class-of-multife.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -61,6 +51,16 @@
       "date": "Jun 24, 2026",
       "published_utc": "2026-06-24 21:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-x-ray-allows.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A thermodynamic approach to gravity could explain cosmic acceleration without dark energy",
+      "link": "https://phys.org/news/2026-06-thermodynamic-approach-gravity-cosmic-dark.html",
+      "desc": "Gravity, the force that attracts objects toward each other, is currently framed by Albert Einstein's theory of general relativity. This framework describes gravity as the curvature of spacetime, the invisible four-dimensional fabric of the universe.",
+      "date": "Jun 25, 2026",
+      "published_utc": "2026-06-25 12:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-exploration-of-grav.jpg"
     },
     {
       "topic": "Physics",
