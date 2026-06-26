@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26 07:36 UTC",
+  "updated": "2026-06-26 13:00 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -55,12 +55,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A thermodynamic approach to gravity could explain cosmic acceleration without dark energy",
-      "link": "https://phys.org/news/2026-06-thermodynamic-approach-gravity-cosmic-dark.html",
-      "desc": "Gravity, the force that attracts objects toward each other, is currently framed by Albert Einstein's theory of general relativity. This framework describes gravity as the curvature of spacetime, the invisible four-dimensional fabric of the universe.",
-      "date": "Jun 25, 2026",
-      "published_utc": "2026-06-25 12:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-exploration-of-grav.jpg"
+      "title": "Metal hydride molecule trapped with laser light opens path to ultracold hydrogen",
+      "link": "https://phys.org/news/2026-06-metal-hydride-molecule-laser-path.html",
+      "desc": "Controlling and trapping molecules, units of a substance consisting of two or more chemically bound atoms, with laser light is significantly more challenging than trapping individual atoms. This is because molecules exhibit more complex vibrational and rotational dynamics that make them more…",
+      "date": "Jun 26, 2026",
+      "published_utc": "2026-06-26 11:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/trapping-a-metal-hydri.jpg"
     },
     {
       "topic": "Physics",
