@@ -1,17 +1,7 @@
 {
-  "updated": "2026-06-26 18:55 UTC",
+  "updated": "2026-06-27 01:17 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Ultra-fast light-shaping technology could be 'game-changer' for future imaging",
-      "link": "https://phys.org/news/2026-06-ultra-fast-technology-game-changer.html",
-      "desc": "Scientists have developed a new type of \"virtual\" metasurface—capable of controlling light in ways traditional lenses and optics can't—which they say is superior to the current approach, which relies on ultrathin engineered materials. The Nottingham Trent University team says the work will help…",
-      "date": "Jun 25, 2026",
-      "published_utc": "2026-06-25 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultra-fast-light-shapi-1.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,26 +11,6 @@
       "date": "Jun 26, 2026",
       "published_utc": "2026-06-26 17:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-use-novel-c.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Scientists measure hidden quantum forces that could power a new generation of pharmaceutical drugs",
-      "link": "https://phys.org/news/2026-06-scientists-hidden-quantum-power-generation.html",
-      "desc": "It's one thing to design a pharmaceutical drug. It's another to know if and why it actually works; not on paper or in a computer model, but inside the chaotic world of living systems, where proteins twist into shape, atoms constantly pull and push each other apart, and molecular interactions are…",
-      "date": "Jun 25, 2026",
-      "published_utc": "2026-06-25 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-measure-hid.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Laser pulses capture unexplored polaronic states",
-      "link": "https://phys.org/news/2026-06-laser-pulses-capture-unexplored-polaronic.html",
-      "desc": "In an international experiment, researchers observed Jahn–Teller polarons—quasiparticles that could play an important role in future ultrafast spintronic devices. These polarons emerged within the crystal lattice of cobalt oxide that had been activated by carefully tailored laser pulses.",
-      "date": "Jun 25, 2026",
-      "published_utc": "2026-06-25 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-pulses-capture-u.jpg"
     },
     {
       "topic": "Physics",
@@ -65,22 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Microscale hydrogel fibers could enable imaging inside tiny tissue structures",
-      "link": "https://phys.org/news/2026-06-microscale-hydrogel-fibers-enable-imaging.html",
-      "desc": "Researchers have developed light-transmitting hydrogel fibers that are just hundreds of micrometers in diameter. With further development, these soft fibers could one day make it possible to use imaging techniques to detect early breast cancer hidden inside very small breast ducts.",
-      "date": "Jun 25, 2026",
-      "published_utc": "2026-06-25 23:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscale-hydrogel-fi.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Nearly isotropic superconducting property revealed in trilayer nickelate",
-      "link": "https://phys.org/news/2026-06-isotropic-superconducting-property-revealed-trilayer.html",
-      "desc": "A research team led by Prof. Zhang Jinglei from Hefei Institutes of Physical Science, Chinese Academy of Sciences, found that the trilayer nickelate La4Ni3O10-δ exhibits a nearly isotropic upper critical field under high pressure. This finding provides important experimental insight into the…",
+      "title": "Clean crystal surface lets single molecules hit ultimate quantum limit",
+      "link": "https://phys.org/news/2026-06-crystal-surface-molecules-ultimate-quantum.html",
+      "desc": "Scientists at the Max Planck Institute for the Science of Light (MPL) have developed a technique for interrogating molecules on surfaces with spectroscopic precision, thereby reaching the ultimate quantum limit for the first time. With their findings, published in Science, the researchers open new…",
       "date": "Jun 26, 2026",
-      "published_utc": "2026-06-26 00:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nearly-isotropic-super.jpg"
+      "published_utc": "2026-06-26 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecules-on-a-surface.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -91,6 +51,36 @@
       "date": "Jun 26, 2026",
       "published_utc": "2026-06-26 15:26 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Ramsey-Updates-cr-Robert-Neubecker-Default.webp"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Measuring Microplastics in Every Ocean Layer",
+      "link": "https://eos.org/features/measuring-microplastics-in-every-ocean-layer",
+      "desc": "Small bits of plastic don’t just float at the sea surface—they span the entire water column. Scientists need consistent methods to track these particles and to better understand the hazards they pose.",
+      "date": "Jun 26, 2026",
+      "published_utc": "2026-06-26 12:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/06/ocean-plastic-particles-illustration-1024x576.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Extensive Sand Dune Loss Threatens California Coast",
+      "link": "https://eos.org/research-spotlights/extensive-sand-dune-loss-threatens-california-coast",
+      "desc": "Aerial photos combined with lidar data show the extent of the problem.",
+      "date": "Jun 26, 2026",
+      "published_utc": "2026-06-26 12:02 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/06/california-sand-dunes-1024x576.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space: Desert cropland",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Desert_cropland",
+      "desc": "Image: These Copernicus Sentinel-2 images show agricultural development in the desert of southern Egypt, close to the border with Sudan.",
+      "date": "Jun 26, 2026",
+      "published_utc": "2026-06-26 08:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_desert_cropland/27346937-1-eng-GB/Earth_from_Space_Desert_cropland_card_full.jpg"
     }
   ]
 }
