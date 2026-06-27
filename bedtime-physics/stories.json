@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27 07:23 UTC",
+  "updated": "2026-06-27 12:45 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Jun 26, 2026",
       "published_utc": "2026-06-26 17:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-use-novel-c.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Metal hydride molecule trapped with laser light opens path to ultracold hydrogen",
-      "link": "https://phys.org/news/2026-06-metal-hydride-molecule-laser-path.html",
-      "desc": "Controlling and trapping molecules, units of a substance consisting of two or more chemically bound atoms, with laser light is significantly more challenging than trapping individual atoms. This is because molecules exhibit more complex vibrational and rotational dynamics that make them more…",
-      "date": "Jun 26, 2026",
-      "published_utc": "2026-06-26 11:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/trapping-a-metal-hydri.jpg"
     },
     {
       "topic": "Physics",
@@ -53,34 +43,14 @@
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Ramsey-Updates-cr-Robert-Neubecker-Default.webp"
     },
     {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Measuring Microplastics in Every Ocean Layer",
-      "link": "https://eos.org/features/measuring-microplastics-in-every-ocean-layer",
-      "desc": "Small bits of plastic don’t just float at the sea surface—they span the entire water column. Scientists need consistent methods to track these particles and to better understand the hazards they pose.",
-      "date": "Jun 26, 2026",
-      "published_utc": "2026-06-26 12:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/06/ocean-plastic-particles-illustration-1024x576.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Extensive Sand Dune Loss Threatens California Coast",
-      "link": "https://eos.org/research-spotlights/extensive-sand-dune-loss-threatens-california-coast",
-      "desc": "Aerial photos combined with lidar data show the extent of the problem.",
-      "date": "Jun 26, 2026",
-      "published_utc": "2026-06-26 12:02 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/06/california-sand-dunes-1024x576.jpg"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Earth from Space: Desert cropland",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Desert_cropland",
-      "desc": "Image: These Copernicus Sentinel-2 images show agricultural development in the desert of southern Egypt, close to the border with Sudan.",
-      "date": "Jun 26, 2026",
-      "published_utc": "2026-06-26 08:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_desert_cropland/27346937-1-eng-GB/Earth_from_Space_Desert_cropland_card_full.jpg"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New driving model predicts split-second crash avoidance with humanlike accuracy",
+      "link": "https://phys.org/news/2026-06-humanlike-accuracy.html",
+      "desc": "Scientists at Delft University of Technology, in collaboration with Waymo, have developed a new model that predicts with high accuracy how human drivers respond to dangerous traffic situations. For the first time, different types of collision avoidance behavior are combined into a single model. The…",
+      "date": "Jun 27, 2026",
+      "published_utc": "2026-06-27 12:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-driving-model-pred.jpg"
     }
   ]
 }
