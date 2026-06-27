@@ -1,26 +1,16 @@
 {
-  "updated": "2026-06-27 12:45 UTC",
+  "updated": "2026-06-27 18:42 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Novel crystal strategy delivers near-perfect zero thermal expansion from 11 K to 893 K",
-      "link": "https://phys.org/news/2026-06-crystal-strategy-thermal-expansion.html",
-      "desc": "Almost every material expands when heated. Well-known examples include railroad tracks and concrete roadways, which feature visible expansion gaps to accommodate this effect. However, thermal expansion poses a far more acute challenge for extremely precise technologies, such as lasers and…",
-      "date": "Jun 26, 2026",
-      "published_utc": "2026-06-26 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-use-novel-c.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Semiconductor quantum dots 'reawaken' predicted Rabi oscillations, boosting quantum control",
-      "link": "https://phys.org/news/2026-06-semiconductor-quantum-dots-reawaken-rabi.html",
-      "desc": "Physicists at Paderborn University have, for the first time, experimentally demonstrated the so-called \"return\" of Rabi oscillations in semiconductor quantum dots. The phenomenon, which was first predicted theoretically in 2007, describes the decrease in the emission intensity of the quantum dots,…",
-      "date": "Jun 26, 2026",
-      "published_utc": "2026-06-26 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-experiment.jpg"
+      "title": "Non-Hermitian geometry reveals when quantum amplification depends only on start and end points",
+      "link": "https://phys.org/news/2026-06-hermitian-geometry-reveals-quantum-amplification.html",
+      "desc": "In quantum mechanics, the geometry of quantum states has emerged as a powerful framework for understanding phenomena ranging from electrical conductivity to superconductivity. One research direction aims to extend these geometric concepts to non-Hermitian quantum mechanics—where systems can…",
+      "date": "Jun 27, 2026",
+      "published_utc": "2026-06-27 15:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/non-hermitian-quantum.jpg"
     },
     {
       "topic": "Physics",
@@ -31,16 +21,6 @@
       "date": "Jun 26, 2026",
       "published_utc": "2026-06-26 21:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecules-on-a-surface.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade",
-      "link": "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/",
-      "desc": "Decades ago, Paul Erdős used randomness to illuminate the vast and weird world of networks. Now mathematicians are making his technique even more powerful. The post After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade first appeared on Quanta Magazine",
-      "date": "Jun 26, 2026",
-      "published_utc": "2026-06-26 15:26 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Ramsey-Updates-cr-Robert-Neubecker-Default.webp"
     },
     {
       "topic": "Physics",
