@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28 07:38 UTC",
+  "updated": "2026-06-28 12:45 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,16 +31,6 @@
       "date": "Jun 27, 2026",
       "published_utc": "2026-06-27 19:29 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/some-of-the-1232-dipol.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New driving model predicts split-second crash avoidance with humanlike accuracy",
-      "link": "https://phys.org/news/2026-06-humanlike-accuracy.html",
-      "desc": "Scientists at Delft University of Technology, in collaboration with Waymo, have developed a new model that predicts with high accuracy how human drivers respond to dangerous traffic situations. For the first time, different types of collision avoidance behavior are combined into a single model. The…",
-      "date": "Jun 27, 2026",
-      "published_utc": "2026-06-27 12:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-driving-model-pred.jpg"
     }
   ]
 }
