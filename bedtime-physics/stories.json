@@ -1,17 +1,7 @@
 {
-  "updated": "2026-06-28 12:45 UTC",
+  "updated": "2026-06-28 18:41 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Non-Hermitian geometry reveals when quantum amplification depends only on start and end points",
-      "link": "https://phys.org/news/2026-06-hermitian-geometry-reveals-quantum-amplification.html",
-      "desc": "In quantum mechanics, the geometry of quantum states has emerged as a powerful framework for understanding phenomena ranging from electrical conductivity to superconductivity. One research direction aims to extend these geometric concepts to non-Hermitian quantum mechanics—where systems can…",
-      "date": "Jun 27, 2026",
-      "published_utc": "2026-06-27 15:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/non-hermitian-quantum.jpg"
-    },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
