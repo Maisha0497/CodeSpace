@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28 01:23 UTC",
+  "updated": "2026-06-28 07:38 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Jun 27, 2026",
       "published_utc": "2026-06-27 15:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/non-hermitian-quantum.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "A rare supernova peeled back a star’s layers and revealed a hidden secret",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260616103133.htm",
+      "desc": "Astronomers studying the rare supernova SN 2021yfj discovered material from one of the deepest layers of a dying star, providing a rare look at its hidden interior. The finding confirms key theories about how massive stars forge the elements that help build planets, worlds, and life.",
+      "date": "Jun 28, 2026",
+      "published_utc": "2026-06-28 01:14 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
