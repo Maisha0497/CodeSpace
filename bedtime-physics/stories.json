@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29 13:47 UTC",
+  "updated": "2026-06-29 18:57 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -13,6 +13,26 @@
       "image": ""
     },
     {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "What Breaks a Cell’s Ribs Can Make It Stronger",
+      "link": "https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/",
+      "desc": "The mechanical process of cell division exerts powerful, if microscopic, forces. How do the molecular machines that power it manage the strain? The post What Breaks a Cell’s Ribs Can Make It Stronger first appeared on Quanta Magazine",
+      "date": "Jun 29, 2026",
+      "published_utc": "2026-06-29 14:00 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/SpindleForce-cr-Ada-Zejun-Shen-Default.webp"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Unbearable Heat for Hundreds of Millions",
+      "link": "https://eos.org/editor-highlights/unbearable-heat-for-hundreds-of-millions",
+      "desc": "The Global South, in particular, is suffering from the consequences of global heating. A new study quantifies heat stress in India by projecting it during the critical seasons.",
+      "date": "Jun 29, 2026",
+      "published_utc": "2026-06-29 14:22 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/06/2025AV001945-figure-4-final-1024x576.png"
+    },
+    {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
       "title": "Sentinel-1 shows ground displacement after Venezuela earthquakes",
@@ -21,16 +41,6 @@
       "date": "Jun 29, 2026",
       "published_utc": "2026-06-29 13:00 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/sentinel-1_shows_ground_displacement_after_venezuela_earthquakes/27354952-1-eng-GB/Sentinel-1_shows_ground_displacement_after_Venezuela_earthquakes_card_full.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Star-Spangled City",
-      "link": "https://science.nasa.gov/earth/earth-observatory/star-spangled-city-84346/",
-      "desc": "Two hundred years ago, a battle in the port city of Baltimore inspired the writing of America’s national anthem. The post Star-Spangled City appeared first on NASA Science .",
-      "date": "Jun 29, 2026",
-      "published_utc": "2026-06-29 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/84000/84346/baltimore_oli_2014114.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
