@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29 08:08 UTC",
+  "updated": "2026-06-29 13:47 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Jun 29, 2026",
       "published_utc": "2026-06-29 05:29 UTC",
       "image": ""
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Sentinel-1 shows ground displacement after Venezuela earthquakes",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Sentinel-1_shows_ground_displacement_after_Venezuela_earthquakes",
+      "desc": "Image: The map is an interferogram derived from the comparison of Sentinel-1 data on two dates: on the 18 June before the earthquakes and on 25 June a day after.",
+      "date": "Jun 29, 2026",
+      "published_utc": "2026-06-29 13:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/sentinel-1_shows_ground_displacement_after_venezuela_earthquakes/27354952-1-eng-GB/Sentinel-1_shows_ground_displacement_after_Venezuela_earthquakes_card_full.jpg"
     },
     {
       "topic": "Earth Observation",
