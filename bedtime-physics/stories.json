@@ -1,5 +1,26 @@
 {
-  "updated": "2026-06-29 01:24 UTC",
+  "updated": "2026-06-29 08:08 UTC",
   "fresh_window_hours": 24,
-  "stories": []
+  "stories": [
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Physicists create a strange new quantum state called a fractional fermi sea",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619101330.htm",
+      "desc": "Researchers have shown that ultracold atoms can be driven into a strange new quantum state called a fractional Fermi sea, where particles organize themselves in unexpected ways. The discovery points to a new phase of matter that goes beyond established quantum theories and could expand the…",
+      "date": "Jun 29, 2026",
+      "published_utc": "2026-06-29 05:29 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Star-Spangled City",
+      "link": "https://science.nasa.gov/earth/earth-observatory/star-spangled-city-84346/",
+      "desc": "Two hundred years ago, a battle in the port city of Baltimore inspired the writing of America’s national anthem. The post Star-Spangled City appeared first on NASA Science .",
+      "date": "Jun 29, 2026",
+      "published_utc": "2026-06-29 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/84000/84346/baltimore_oli_2014114.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    }
+  ]
 }
