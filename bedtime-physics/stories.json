@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-30 12:58 UTC",
+  "updated": "2026-06-30 18:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Quantum",
+      "source": "Phys.org Quantum",
+      "title": "Physicists demonstrate Hong–Ou–Mandel interference with more than 10 atoms",
+      "link": "https://phys.org/news/2026-06-physicists-hongoumandel-atoms.html",
+      "desc": "In a new study published in Nature Physics, researchers have demonstrated the Hong–Ou–Mandel (HOM) effect with up to 12 indistinguishable neutral atoms—an effect that has been predominantly observed in photonic systems.",
+      "date": "Jun 30, 2026",
+      "published_utc": "2026-06-30 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-demonstrate.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -53,16 +63,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-leap-inl-dis.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "What Breaks a Cell’s Ribs Can Make It Stronger",
-      "link": "https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/",
-      "desc": "The mechanical process of cell division exerts powerful, if microscopic, forces. How do the molecular machines that power it manage the strain? The post What Breaks a Cell’s Ribs Can Make It Stronger first appeared on Quanta Magazine",
-      "date": "Jun 29, 2026",
-      "published_utc": "2026-06-29 14:00 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/SpindleForce-cr-Ada-Zejun-Shen-Default.webp"
-    },
-    {
       "topic": "AI",
       "source": "ScienceDaily AI",
       "title": "Millions of exploding stars could soon reveal dark energy's secrets",
@@ -85,12 +85,12 @@
     {
       "topic": "Geoscience",
       "source": "Eos",
-      "title": "Unbearable Heat for Hundreds of Millions",
-      "link": "https://eos.org/editor-highlights/unbearable-heat-for-hundreds-of-millions",
-      "desc": "The Global South, in particular, is suffering from the consequences of global heating. A new study quantifies heat stress in India by projecting it during the critical seasons.",
-      "date": "Jun 29, 2026",
-      "published_utc": "2026-06-29 14:22 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/06/2025AV001945-figure-4-final-1024x576.png"
+      "title": "How Beavers Gnawed Their Way into the Arctic",
+      "link": "https://eos.org/articles/how-beavers-gnawed-their-way-into-the-arctic",
+      "desc": "Historical data on beavers’ Arctic expansion are lacking, but tree rings are shedding light on the timeline.",
+      "date": "Jun 30, 2026",
+      "published_utc": "2026-06-30 13:02 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/06/beaver-swims-pond-1024x575.jpg"
     }
   ]
 }
