@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 07:36 UTC",
+  "updated": "2026-06-30 12:58 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -73,6 +73,16 @@
       "image": ""
     },
     {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Time to say goodbye to Sentinel-1A",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A",
+      "desc": "After 12 years of exceptional service, the pioneering Copernicus Sentinel-1A radar satellite has reached the end of its mission. Originally designed for a seven-year life in orbit, the satellite has exceeded expectations, not only by its longevity, but through the extraordinary impact of its data,…",
+      "date": "Jun 30, 2026",
+      "published_utc": "2026-06-30 12:30 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/01/sentinel-1_radar_vision/13494392-1-eng-GB/Sentinel-1_radar_vision_card_full.jpg"
+    },
+    {
       "topic": "Geoscience",
       "source": "Eos",
       "title": "Unbearable Heat for Hundreds of Millions",
@@ -81,16 +91,6 @@
       "date": "Jun 29, 2026",
       "published_utc": "2026-06-29 14:22 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/06/2025AV001945-figure-4-final-1024x576.png"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Sentinel-1 shows ground displacement after Venezuela earthquakes",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Sentinel-1_shows_ground_displacement_after_Venezuela_earthquakes",
-      "desc": "Image: The map is an interferogram derived from the comparison of Sentinel-1 data on two dates: on the 18 June before the earthquakes and on 25 June a day after.",
-      "date": "Jun 29, 2026",
-      "published_utc": "2026-06-29 13:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/sentinel-1_shows_ground_displacement_after_venezuela_earthquakes/27354952-1-eng-GB/Sentinel-1_shows_ground_displacement_after_Venezuela_earthquakes_card_full.jpg"
     }
   ]
 }
