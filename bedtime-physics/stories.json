@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01 07:49 UTC",
+  "updated": "2026-07-01 13:14 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -23,24 +23,24 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/2-quantum.jpg"
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Time to say goodbye to Sentinel-1A",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A",
-      "desc": "After 12 years of exceptional service, the pioneering Copernicus Sentinel-1A radar satellite has reached the end of its mission. Originally designed for a seven-year life in orbit, the satellite has exceeded expectations, not only by its longevity, but through the extraordinary impact of its data,…",
-      "date": "Jun 30, 2026",
-      "published_utc": "2026-06-30 12:30 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/01/sentinel-1_radar_vision/13494392-1-eng-GB/Sentinel-1_radar_vision_card_full.jpg"
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Minute Man National Historical Park",
+      "link": "https://science.nasa.gov/earth/earth-observatory/minute-man-national-historical-park-88300/",
+      "desc": "Sites relevant to the start of the American Revolutionary War are interspersed throughout the modern-day Boston metropolitan region. The post Minute Man National Historical Park appeared first on NASA Science .",
+      "date": "Jul 01, 2026",
+      "published_utc": "2026-07-01 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/88000/88300/minuteman_oli_2015288_wide.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "How Beavers Gnawed Their Way into the Arctic",
-      "link": "https://eos.org/articles/how-beavers-gnawed-their-way-into-the-arctic",
-      "desc": "Historical data on beavers’ Arctic expansion are lacking, but tree rings are shedding light on the timeline.",
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "A Most “Pleasantly Situated” Estate",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-most-pleasantly-situated-estate-153949/",
+      "desc": "The farms and gardens of Mount Vernon played a central role in the life of America’s first president. The post A Most &ldquo;Pleasantly Situated&rdquo; Estate appeared first on NASA Science .",
       "date": "Jun 30, 2026",
-      "published_utc": "2026-06-30 13:02 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/06/beaver-swims-pond-1024x575.jpg"
+      "published_utc": "2026-06-30 16:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/153000/153949/mountvernon_oli_20240825.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
