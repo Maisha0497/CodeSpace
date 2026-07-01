@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-01 13:14 UTC",
+  "updated": "2026-07-01 18:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "Physicists demonstrate Hong–Ou–Mandel interference with more than 10 atoms",
-      "link": "https://phys.org/news/2026-06-physicists-hongoumandel-atoms.html",
-      "desc": "In a new study published in Nature Physics, researchers have demonstrated the Hong–Ou–Mandel (HOM) effect with up to 12 indistinguishable neutral atoms—an effect that has been predominantly observed in photonic systems.",
-      "date": "Jun 30, 2026",
-      "published_utc": "2026-06-30 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-demonstrate.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -23,6 +13,26 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/2-quantum.jpg"
     },
     {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
+      "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "desc": "Scientists built a synthetic cell that combines more lifelike properties than ever before — proof of concept that it’s possible to bring nonliving materials to life, or something close to it, in the lab. The post For the First Time, a Cell Built From Scratch Grows and Divides first appeared on…",
+      "date": "Jul 01, 2026",
+      "published_utc": "2026-07-01 14:00 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/SyntheticLife-cr-Ada-Zejun-Shen-default-copy.webp"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Mediterranean Sea breaks June surface heat record",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Mediterranean_Sea_breaks_June_surface_heat_record",
+      "desc": "Image: This image shows the sea surface temperature anomaly detected in the Mediterranean Sea on 29 June 2026.",
+      "date": "Jul 01, 2026",
+      "published_utc": "2026-07-01 13:45 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mediterranean_sea_breaks_june_surface_heat_record/27360205-1-eng-GB/Mediterranean_Sea_breaks_June_surface_heat_record_card_full.jpg"
+    },
+    {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
       "title": "Minute Man National Historical Park",
@@ -31,16 +41,6 @@
       "date": "Jul 01, 2026",
       "published_utc": "2026-07-01 04:00 UTC",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/88000/88300/minuteman_oli_2015288_wide.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "A Most “Pleasantly Situated” Estate",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-most-pleasantly-situated-estate-153949/",
-      "desc": "The farms and gardens of Mount Vernon played a central role in the life of America’s first president. The post A Most &ldquo;Pleasantly Situated&rdquo; Estate appeared first on NASA Science .",
-      "date": "Jun 30, 2026",
-      "published_utc": "2026-06-30 16:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/153000/153949/mountvernon_oli_20240825.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
