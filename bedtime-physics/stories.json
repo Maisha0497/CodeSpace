@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 18:56 UTC",
+  "updated": "2026-07-01 01:24 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,62 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "First-of-a-kind laser spring opens up new avenues for plasma control",
-      "link": "https://phys.org/news/2026-06-kind-laser-avenues-plasma.html",
-      "desc": "When a high-intensity laser interacts with plasma, the charged particles typically oscillate back and forth like waves on the ocean. But what if the laser itself could twist like a whirlpool? Researchers have now demonstrated a rotating, spring-shaped laser pulse, opening new possibilities for…",
-      "date": "Jun 29, 2026",
-      "published_utc": "2026-06-29 23:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-fir-4.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New superconductors identified, unlocking process that could yield thousands more",
-      "link": "https://phys.org/news/2026-06-superconductors-yield-thousands.html",
-      "desc": "An international team of quantum researchers has shown how machine learning can be used to filter a practically infinite number of possible material combinations to identify candidates for superconductivity. Thanks to the breakthrough, new superconductors can now be found much faster, says Aalto…",
-      "date": "Jun 29, 2026",
-      "published_utc": "2026-06-29 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-identify-n-13.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Disorder creates direction-dependent optics in compound semiconductors",
-      "link": "https://phys.org/news/2026-06-disorder-optics-compound-semiconductors.html",
-      "desc": "An international research team has demonstrated that the intrinsic disorder of the compound semiconductor CuInSnS₄ can be exploited to influence its optical properties. While the atomic vibrations also sense the local disorder, their response is averaged over many different local environments and…",
-      "date": "Jun 29, 2026",
-      "published_utc": "2026-06-29 22:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/disorder-creates-new-p.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Graphene can hold multiple states of superconductivity, a new study finds",
-      "link": "https://phys.org/news/2026-06-graphene-multiple-states-superconductivity.html",
-      "desc": "The ordinary graphite in pencil lead is proving to be surprisingly multifaceted at the microscale. In a study published in the journal Nature, MIT researchers report that a certain microscopic structure found in natural graphite can host multiple superconducting states. Superconductivity is an…",
-      "date": "Jun 29, 2026",
-      "published_utc": "2026-06-29 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/graphene-can-hold-mult.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Plutonium compound unlocks rare topological quantum behavior with potential nuclear science applications",
-      "link": "https://phys.org/news/2026-06-plutonium-compound-rare-topological-quantum.html",
-      "desc": "Plutonium is one of the most complex elements in the periodic table. First synthesized and isolated in 1940 by scientists at the University of California, Berkeley, plutonium has been studied closely for more than eight decades. It's most often associated with its role in nuclear security, but it's…",
-      "date": "Jun 29, 2026",
-      "published_utc": "2026-06-29 23:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-leap-inl-dis.jpg"
-    },
-    {
-      "topic": "AI",
-      "source": "ScienceDaily AI",
-      "title": "Millions of exploding stars could soon reveal dark energy's secrets",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
-      "desc": "A new AI-powered framework could transform how astronomers measure the expansion of the Universe. By analyzing images of Type Ia supernovae and modeling their environments in unprecedented detail, researchers can estimate cosmic distances with near-spectroscopic accuracy. The technique is designed…",
-      "date": "Jun 29, 2026",
-      "published_utc": "2026-06-29 21:57 UTC",
-      "image": ""
+      "title": "Quantum computer simulates hadronization, reproducing string breaking with 104 qubits",
+      "link": "https://phys.org/news/2026-06-quantum-simulates-hadronization-qubits.html",
+      "desc": "By remotely accessing an IBM quantum computer, a research scientist at Lawrence Berkeley National Laboratory has successfully simulated a key process in particle physics: hadronization. Although based on a simplified model of quantum mechanics, the project lays the groundwork for how physicists can…",
+      "date": "Jun 30, 2026",
+      "published_utc": "2026-06-30 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/2-quantum.jpg"
     },
     {
       "topic": "Remote Sensing",
