@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02 07:26 UTC",
+  "updated": "2026-07-02 12:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -23,14 +23,14 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mediterranean_sea_breaks_june_surface_heat_record/27360205-1-eng-GB/Mediterranean_Sea_breaks_June_surface_heat_record_card_full.jpg"
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Colonial National Historical Park",
-      "link": "https://science.nasa.gov/earth/earth-observatory/colonial-national-historical-park-92382/",
-      "desc": "The colonial communities of “America’s historic triangle” played defining roles in the road to American independence. The post Colonial National Historical Park appeared first on NASA Science .",
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "FLEX and Sentinel-3C bound for launch site",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/FLEX_and_Sentinel-3C_bound_for_launch_site",
+      "desc": "Image: FLEX and Sentinel-3C bound for launch site",
       "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/92000/92382/colonialpark_oli_2016161.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "published_utc": "2026-07-02 08:41 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/flex_and_sentinel-3c_bound_for_launch_site/27359545-2-eng-GB/FLEX_and_Sentinel-3C_bound_for_launch_site_card_full.jpg"
     }
   ]
 }
