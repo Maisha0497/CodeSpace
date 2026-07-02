@@ -1,26 +1,56 @@
 {
-  "updated": "2026-07-02 12:56 UTC",
+  "updated": "2026-07-02 18:48 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
-      "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "desc": "Scientists built a synthetic cell that combines more lifelike properties than ever before — proof of concept that it’s possible to bring nonliving materials to life, or something close to it, in the lab. The post For the First Time, a Cell Built From Scratch Grows and Divides first appeared on…",
-      "date": "Jul 01, 2026",
-      "published_utc": "2026-07-01 14:00 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/SyntheticLife-cr-Ada-Zejun-Shen-default-copy.webp"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum semiconductor design could expand search for dark matter",
+      "link": "https://phys.org/news/2026-07-quantum-semiconductor-dark.html",
+      "desc": "Dark matter accounts for 85% of the matter in the universe, but scientists still do not know what it is made of. A study, published in Physical Review Letters, by Rice University researchers proposes a detector design that could help search for axions, hypothetical particles that many physicists…",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-detector-design-ha.jpg"
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Mediterranean Sea breaks June surface heat record",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Mediterranean_Sea_breaks_June_surface_heat_record",
-      "desc": "Image: This image shows the sea surface temperature anomaly detected in the Mediterranean Sea on 29 June 2026.",
-      "date": "Jul 01, 2026",
-      "published_utc": "2026-07-01 13:45 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mediterranean_sea_breaks_june_surface_heat_record/27360205-1-eng-GB/Mediterranean_Sea_breaks_June_surface_heat_record_card_full.jpg"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum properties of multimode light observed despite extreme losses",
+      "link": "https://phys.org/news/2026-07-quantum-properties-multimode-extreme-losses.html",
+      "desc": "Quantum properties of light are extremely delicate. When researchers attempt to measure them, even small losses on the way to a detector can make them invisible, limiting their use outside carefully controlled environments. A collaborative team of researchers involving scientists at the Max Planck…",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 18:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-properties-of.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum gravity tests may mistake ordinary spacetime for superposition",
+      "link": "https://phys.org/news/2026-07-quantum-gravity-ordinary-spacetime-superposition.html",
+      "desc": "Everything around us, from atoms and molecules to planets and galaxies, is governed by two extraordinarily successful theories of physics: quantum mechanics and gravity. Quantum mechanics explains the behavior of the microscopic world, while Einstein's theory of gravity describes the motion of…",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-theoretical-fram.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Astrophysicists Puzzle Over Webb’s New Universe",
+      "link": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+      "desc": "Faced with observations of early black holes and galaxies that weren’t expected to exist, scientists have come up with a wealth of new theories to explain them. Now they just need to figure out which ones are true. The post Astrophysicists Puzzle Over Webb’s New Universe first appeared on Quanta…",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 14:57 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/JWSTUpdate-crKristinaArmitage-Default.webp"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Analog gravity advance offers new insights into Hawking radiation from black holes",
+      "link": "https://phys.org/news/2026-07-analog-gravity-advance-insights-hawking.html",
+      "desc": "Hawking radiation is a form of radiation emitted by black holes, as theoretically predicted by Stephen Hawking. It suggests that black holes do not merely swallow matter—as had previously been assumed—but also emit very faint radiation themselves. This radiation has not yet been observed in space;…",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/blackhole.jpg"
     },
     {
       "topic": "Remote Sensing",
@@ -31,6 +61,16 @@
       "date": "Jul 02, 2026",
       "published_utc": "2026-07-02 08:41 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/flex_and_sentinel-3c_bound_for_launch_site/27359545-2-eng-GB/FLEX_and_Sentinel-3C_bound_for_launch_site_card_full.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Colonial National Historical Park",
+      "link": "https://science.nasa.gov/earth/earth-observatory/colonial-national-historical-park-92382/",
+      "desc": "The colonial communities of “America’s historic triangle” played defining roles in the road to American independence. The post Colonial National Historical Park appeared first on NASA Science .",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/92000/92382/colonialpark_oli_2016161.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
