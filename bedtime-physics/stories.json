@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02 01:18 UTC",
+  "updated": "2026-07-02 07:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,12 +25,12 @@
     {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
-      "title": "Minute Man National Historical Park",
-      "link": "https://science.nasa.gov/earth/earth-observatory/minute-man-national-historical-park-88300/",
-      "desc": "Sites relevant to the start of the American Revolutionary War are interspersed throughout the modern-day Boston metropolitan region. The post Minute Man National Historical Park appeared first on NASA Science .",
-      "date": "Jul 01, 2026",
-      "published_utc": "2026-07-01 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/88000/88300/minuteman_oli_2015288_wide.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "title": "Colonial National Historical Park",
+      "link": "https://science.nasa.gov/earth/earth-observatory/colonial-national-historical-park-92382/",
+      "desc": "The colonial communities of “America’s historic triangle” played defining roles in the road to American independence. The post Colonial National Historical Park appeared first on NASA Science .",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/92000/92382/colonialpark_oli_2016161.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
