@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-01 18:56 UTC",
+  "updated": "2026-07-02 01:18 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum computer simulates hadronization, reproducing string breaking with 104 qubits",
-      "link": "https://phys.org/news/2026-06-quantum-simulates-hadronization-qubits.html",
-      "desc": "By remotely accessing an IBM quantum computer, a research scientist at Lawrence Berkeley National Laboratory has successfully simulated a key process in particle physics: hadronization. Although based on a simplified model of quantum mechanics, the project lays the groundwork for how physicists can…",
-      "date": "Jun 30, 2026",
-      "published_utc": "2026-06-30 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/2-quantum.jpg"
-    },
     {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
