@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03 07:25 UTC",
+  "updated": "2026-07-03 12:55 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -53,6 +53,26 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/evidence-of-spontaneou.jpg"
     },
     {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists make quantum time flow backward in stunning physics breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm",
+      "desc": "Researchers have created quantum control techniques that can make a system appear to run backward in time. By precisely managing quantum measurements, they can reshape the system's arrow of time and even harvest energy from the measurement process itself. The breakthrough could lead to more…",
+      "date": "Jul 03, 2026",
+      "published_utc": "2026-07-03 09:34 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "A strange LIGO signal could reveal the missing link behind dark matter",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626125703.htm",
+      "desc": "An unusual gravitational wave signal has renewed hopes that primordial black holes, long considered purely theoretical, may finally be within reach of discovery. If confirmed, they could solve one of astronomy's greatest mysteries by explaining the nature of dark matter.",
+      "date": "Jul 03, 2026",
+      "published_utc": "2026-07-03 03:56 UTC",
+      "image": ""
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Quantum gravity tests may mistake ordinary spacetime for superposition",
@@ -71,26 +91,6 @@
       "date": "Jul 02, 2026",
       "published_utc": "2026-07-02 21:10 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/orbitronics-clears-key.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Synchronized infrared lasers control molecular shape changes and expose hidden fingerprints",
-      "link": "https://phys.org/news/2026-07-synchronized-infrared-lasers-molecular-expose.html",
-      "desc": "Researchers from the Molecular Physics and Physical Chemistry departments of the Fritz Haber Institute have shown how two highly synchronized infrared (IR) laser beams can control molecules as they switch between different structural conformations. Their study provides a new window into how…",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 22:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-light-controls-m.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Astrophysicists Puzzle Over Webb’s New Universe",
-      "link": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "desc": "Faced with observations of early black holes and galaxies that weren’t expected to exist, scientists have come up with a wealth of new theories to explain them. Now they just need to figure out which ones are true. The post Astrophysicists Puzzle Over Webb’s New Universe first appeared on Quanta…",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 14:57 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/JWSTUpdate-crKristinaArmitage-Default.webp"
     }
   ]
 }
