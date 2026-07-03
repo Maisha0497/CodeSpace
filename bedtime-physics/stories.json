@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-02 18:48 UTC",
+  "updated": "2026-07-03 01:01 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Single ion maps 3D electromagnetic fields above chips with record sensitivity",
+      "link": "https://phys.org/news/2026-07-ion-3d-electromagnetic-fields-chips.html",
+      "desc": "Researchers at ETH Zurich have developed a method that uses a single ion to detect electromagnetic fields above a surface and to create a three-dimensional map of them. In the future, this approach can be used to improve chips for quantum computers and quantum sensors.",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 22:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-3d-scanner-for-elect.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Diffractive networks enable optical information transfer through random and unknown diffusers",
+      "link": "https://phys.org/news/2026-07-diffractive-networks-enable-optical-random.html",
+      "desc": "The transmission of optical information through random scattering media is a major challenge in optics, biomedical imaging, telecommunications and remote sensing. When light passes through a turbid or diffusive medium, such as biological tissue or a randomly structured optical material, the…",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diffractive-networks-e.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,12 +45,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Spontaneous current loops in a kagome metal point to hidden quantum order",
+      "link": "https://phys.org/news/2026-07-spontaneous-current-loops-kagome-metal.html",
+      "desc": "Quantum materials, materials exhibiting physical behavior governed by the laws of quantum mechanics, have proved promising for the development of numerous advanced technologies, including quantum technologies, memory devices and solar panels. In some of these materials, electrons can collectively…",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/evidence-of-spontaneou.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Quantum gravity tests may mistake ordinary spacetime for superposition",
       "link": "https://phys.org/news/2026-07-quantum-gravity-ordinary-spacetime-superposition.html",
       "desc": "Everything around us, from atoms and molecules to planets and galaxies, is governed by two extraordinarily successful theories of physics: quantum mechanics and gravity. Quantum mechanics explains the behavior of the microscopic world, while Einstein's theory of gravity describes the motion of…",
       "date": "Jul 02, 2026",
       "published_utc": "2026-07-02 16:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-theoretical-fram.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Orbitronics clears key hurdle with direct orbital currents, boosting signals 100-fold",
+      "link": "https://phys.org/news/2026-07-orbitronics-key-hurdle-orbital-currents.html",
+      "desc": "Researchers at Johannes Gutenberg University Mainz (JGU) are the first to directly utilize orbital currents without the need for conversion of the orbital current into a spin current.",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 21:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/orbitronics-clears-key.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Synchronized infrared lasers control molecular shape changes and expose hidden fingerprints",
+      "link": "https://phys.org/news/2026-07-synchronized-infrared-lasers-molecular-expose.html",
+      "desc": "Researchers from the Molecular Physics and Physical Chemistry departments of the Fritz Haber Institute have shown how two highly synchronized infrared (IR) laser beams can control molecules as they switch between different structural conformations. Their study provides a new window into how…",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 22:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-light-controls-m.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -41,36 +91,6 @@
       "date": "Jul 02, 2026",
       "published_utc": "2026-07-02 14:57 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/JWSTUpdate-crKristinaArmitage-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Analog gravity advance offers new insights into Hawking radiation from black holes",
-      "link": "https://phys.org/news/2026-07-analog-gravity-advance-insights-hawking.html",
-      "desc": "Hawking radiation is a form of radiation emitted by black holes, as theoretically predicted by Stephen Hawking. It suggests that black holes do not merely swallow matter—as had previously been assumed—but also emit very faint radiation themselves. This radiation has not yet been observed in space;…",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/blackhole.jpg"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "FLEX and Sentinel-3C bound for launch site",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/FLEX_and_Sentinel-3C_bound_for_launch_site",
-      "desc": "Image: FLEX and Sentinel-3C bound for launch site",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 08:41 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/flex_and_sentinel-3c_bound_for_launch_site/27359545-2-eng-GB/FLEX_and_Sentinel-3C_bound_for_launch_site_card_full.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Colonial National Historical Park",
-      "link": "https://science.nasa.gov/earth/earth-observatory/colonial-national-historical-park-92382/",
-      "desc": "The colonial communities of “America’s historic triangle” played defining roles in the road to American independence. The post Colonial National Historical Park appeared first on NASA Science .",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/92000/92382/colonialpark_oli_2016161.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
