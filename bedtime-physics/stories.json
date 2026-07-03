@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03 12:55 UTC",
+  "updated": "2026-07-03 18:42 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,26 +21,6 @@
       "date": "Jul 02, 2026",
       "published_utc": "2026-07-02 21:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diffractive-networks-e.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum semiconductor design could expand search for dark matter",
-      "link": "https://phys.org/news/2026-07-quantum-semiconductor-dark.html",
-      "desc": "Dark matter accounts for 85% of the matter in the universe, but scientists still do not know what it is made of. A study, published in Physical Review Letters, by Rice University researchers proposes a detector design that could help search for axions, hypothetical particles that many physicists…",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 14:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-detector-design-ha.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum properties of multimode light observed despite extreme losses",
-      "link": "https://phys.org/news/2026-07-quantum-properties-multimode-extreme-losses.html",
-      "desc": "Quantum properties of light are extremely delicate. When researchers attempt to measure them, even small losses on the way to a detector can make them invisible, limiting their use outside carefully controlled environments. A collaborative team of researchers involving scientists at the Max Planck…",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 18:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-properties-of.jpg"
     },
     {
       "topic": "Physics",
@@ -75,12 +55,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum gravity tests may mistake ordinary spacetime for superposition",
-      "link": "https://phys.org/news/2026-07-quantum-gravity-ordinary-spacetime-superposition.html",
-      "desc": "Everything around us, from atoms and molecules to planets and galaxies, is governed by two extraordinarily successful theories of physics: quantum mechanics and gravity. Quantum mechanics explains the behavior of the microscopic world, while Einstein's theory of gravity describes the motion of…",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-theoretical-fram.jpg"
+      "title": "Ultrafast scanning tunneling microscopy reaches the quantum mechanical space-time limit for the first time",
+      "link": "https://phys.org/news/2026-07-ultrafast-scanning-tunneling-microscopy-quantum.html",
+      "desc": "Werner Heisenberg's famous uncertainty principle describes one of the most intriguing features of quantum physics: certain pairs of physical quantities describing a particle, such as position and momentum, cannot simultaneously be determined with arbitrary precision—not because of imprecise…",
+      "date": "Jul 03, 2026",
+      "published_utc": "2026-07-03 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-scanning-tun.jpg"
     },
     {
       "topic": "Physics",
@@ -91,6 +71,26 @@
       "date": "Jul 02, 2026",
       "published_utc": "2026-07-02 21:10 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/orbitronics-clears-key.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Synchronized infrared lasers control molecular shape changes and expose hidden fingerprints",
+      "link": "https://phys.org/news/2026-07-synchronized-infrared-lasers-molecular-expose.html",
+      "desc": "Researchers from the Molecular Physics and Physical Chemistry departments of the Fritz Haber Institute have shown how two highly synchronized infrared (IR) laser beams can control molecules as they switch between different structural conformations. Their study provides a new window into how…",
+      "date": "Jul 02, 2026",
+      "published_utc": "2026-07-02 22:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-light-controls-m.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "The Birthplace of the United States",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-birthplace-of-the-united-states-90513/",
+      "desc": "It was here the founders shaped the future of American government. The post The Birthplace of the United States appeared first on NASA Science .",
+      "date": "Jul 03, 2026",
+      "published_utc": "2026-07-03 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/90000/90513/philadelphia_oli_2013152_wide.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
