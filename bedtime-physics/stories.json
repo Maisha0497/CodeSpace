@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04 12:41 UTC",
+  "updated": "2026-07-04 18:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Jul 03, 2026",
       "published_utc": "2026-07-03 22:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kriss-develops-a-plug.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Ultrafast scanning tunneling microscopy reaches the quantum mechanical space-time limit for the first time",
-      "link": "https://phys.org/news/2026-07-ultrafast-scanning-tunneling-microscopy-quantum.html",
-      "desc": "Werner Heisenberg's famous uncertainty principle describes one of the most intriguing features of quantum physics: certain pairs of physical quantities describing a particle, such as position and momentum, cannot simultaneously be determined with arbitrary precision—not because of imprecise…",
-      "date": "Jul 03, 2026",
-      "published_utc": "2026-07-03 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-scanning-tun.jpg"
     }
   ]
 }
