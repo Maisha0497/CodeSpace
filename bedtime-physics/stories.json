@@ -1,37 +1,7 @@
 {
-  "updated": "2026-07-03 18:42 UTC",
+  "updated": "2026-07-04 00:59 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Single ion maps 3D electromagnetic fields above chips with record sensitivity",
-      "link": "https://phys.org/news/2026-07-ion-3d-electromagnetic-fields-chips.html",
-      "desc": "Researchers at ETH Zurich have developed a method that uses a single ion to detect electromagnetic fields above a surface and to create a three-dimensional map of them. In the future, this approach can be used to improve chips for quantum computers and quantum sensors.",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 22:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-3d-scanner-for-elect.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Diffractive networks enable optical information transfer through random and unknown diffusers",
-      "link": "https://phys.org/news/2026-07-diffractive-networks-enable-optical-random.html",
-      "desc": "The transmission of optical information through random scattering media is a major challenge in optics, biomedical imaging, telecommunications and remote sensing. When light passes through a turbid or diffusive medium, such as biological tissue or a randomly structured optical material, the…",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 21:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diffractive-networks-e.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Spontaneous current loops in a kagome metal point to hidden quantum order",
-      "link": "https://phys.org/news/2026-07-spontaneous-current-loops-kagome-metal.html",
-      "desc": "Quantum materials, materials exhibiting physical behavior governed by the laws of quantum mechanics, have proved promising for the development of numerous advanced technologies, including quantum technologies, memory devices and solar panels. In some of these materials, electrons can collectively…",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/evidence-of-spontaneou.jpg"
-    },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
@@ -55,32 +25,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Plug-and-play single-photon source can work at room temperature",
+      "link": "https://phys.org/news/2026-07-play-photon-source-room-temperature.html",
+      "desc": "The Korea Research Institute of Standards and Science (KRISS) has developed a room-temperature single-photon source built into a compact 19-inch rack-mounted device that operates without cryogenic cooling. Designed as a plug-and-play system that works as soon as it is powered on, the device moves…",
+      "date": "Jul 03, 2026",
+      "published_utc": "2026-07-03 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kriss-develops-a-plug.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Ultrafast scanning tunneling microscopy reaches the quantum mechanical space-time limit for the first time",
       "link": "https://phys.org/news/2026-07-ultrafast-scanning-tunneling-microscopy-quantum.html",
       "desc": "Werner Heisenberg's famous uncertainty principle describes one of the most intriguing features of quantum physics: certain pairs of physical quantities describing a particle, such as position and momentum, cannot simultaneously be determined with arbitrary precision—not because of imprecise…",
       "date": "Jul 03, 2026",
       "published_utc": "2026-07-03 16:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-scanning-tun.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Orbitronics clears key hurdle with direct orbital currents, boosting signals 100-fold",
-      "link": "https://phys.org/news/2026-07-orbitronics-key-hurdle-orbital-currents.html",
-      "desc": "Researchers at Johannes Gutenberg University Mainz (JGU) are the first to directly utilize orbital currents without the need for conversion of the orbital current into a spin current.",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 21:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/orbitronics-clears-key.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Synchronized infrared lasers control molecular shape changes and expose hidden fingerprints",
-      "link": "https://phys.org/news/2026-07-synchronized-infrared-lasers-molecular-expose.html",
-      "desc": "Researchers from the Molecular Physics and Physical Chemistry departments of the Fritz Haber Institute have shown how two highly synchronized infrared (IR) laser beams can control molecules as they switch between different structural conformations. Their study provides a new window into how…",
-      "date": "Jul 02, 2026",
-      "published_utc": "2026-07-02 22:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-light-controls-m.jpg"
     },
     {
       "topic": "Earth Observation",
