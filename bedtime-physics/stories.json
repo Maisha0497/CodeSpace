@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-04 18:36 UTC",
+  "updated": "2026-07-05 01:05 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Plug-and-play single-photon source can work at room temperature",
-      "link": "https://phys.org/news/2026-07-play-photon-source-room-temperature.html",
-      "desc": "The Korea Research Institute of Standards and Science (KRISS) has developed a room-temperature single-photon source built into a compact 19-inch rack-mounted device that operates without cryogenic cooling. Designed as a plug-and-play system that works as soon as it is powered on, the device moves…",
-      "date": "Jul 03, 2026",
-      "published_utc": "2026-07-03 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kriss-develops-a-plug.jpg"
+      "title": "Optical writing of antiferromagnets points toward new storage devices and energy efficient information systems",
+      "link": "https://phys.org/news/2026-07-optical-antiferromagnets-storage-devices-energy.html",
+      "desc": "A German-Japanese research team involving the University of Augsburg has made a significant breakthrough in the use of antiferromagnets. For the first time, the team has succeeded in writing magnetic information using only ultrashort laser pulses—without the need for electric currents or magnetic…",
+      "date": "Jul 04, 2026",
+      "published_utc": "2026-07-04 20:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/towards-a-new-generati.jpg"
     }
   ]
 }
