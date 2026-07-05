@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05 01:05 UTC",
+  "updated": "2026-07-05 07:25 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Jul 04, 2026",
       "published_utc": "2026-07-04 20:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/towards-a-new-generati.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists may have finally solved the black hole information paradox",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025506.htm",
+      "desc": "Researchers have proposed that black holes stop evaporating at the last moment, leaving behind tiny remnants that preserve all the information they contain. The same seven-dimensional geometry behind this idea could also help explain why elementary particles have mass.",
+      "date": "Jul 05, 2026",
+      "published_utc": "2026-07-05 03:12 UTC",
+      "image": ""
     }
   ]
 }
