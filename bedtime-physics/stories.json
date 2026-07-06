@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06 01:05 UTC",
+  "updated": "2026-07-06 07:52 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,22 +15,22 @@
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
-      "title": "Scientists may have finally solved the black hole information paradox",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260624025506.htm",
-      "desc": "Researchers have proposed that black holes stop evaporating at the last moment, leaving behind tiny remnants that preserve all the information they contain. The same seven-dimensional geometry behind this idea could also help explain why elementary particles have mass.",
-      "date": "Jul 05, 2026",
-      "published_utc": "2026-07-05 03:12 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
       "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
       "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
       "desc": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
       "date": "Jul 05, 2026",
       "published_utc": "2026-07-05 18:13 UTC",
       "image": ""
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Examining Algal Blooms in Blue Mesa",
+      "link": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/",
+      "desc": "Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado's largest reservoirs. The post Examining Algal Blooms in Blue Mesa appeared first on NASA Science .",
+      "date": "Jul 06, 2026",
+      "published_utc": "2026-07-06 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20170919.jpg"
     }
   ]
 }
