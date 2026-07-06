@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06 13:32 UTC",
+  "updated": "2026-07-06 18:55 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -13,14 +13,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientist-proposes-a-p.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
-      "desc": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
-      "date": "Jul 05, 2026",
-      "published_utc": "2026-07-05 18:13 UTC",
-      "image": ""
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Researchers Reveal the Power of ‘Quantum Proofs’",
+      "link": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/",
+      "desc": "When checking that solutions to certain problems are correct, it turns out, you can’t get around the inherent complexity of the quantum world. The post Researchers Reveal the Power of ‘Quantum Proofs’ first appeared on Quanta Magazine",
+      "date": "Jul 06, 2026",
+      "published_utc": "2026-07-06 14:33 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/QuantumProof-cr-Ada-Zejun-Shen-Default.webp"
     },
     {
       "topic": "Physics",
@@ -31,6 +31,16 @@
       "date": "Jul 06, 2026",
       "published_utc": "2026-07-06 11:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-bioinspired-stra.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Reconnecting to the Lunar Trailblazer with Light",
+      "link": "https://eos.org/editor-highlights/reconnecting-to-the-lunar-trailblazer-with-light",
+      "desc": "Learning from the attempted rescue of the Lunar Trailblazer: how ground-based optical observations and laboratory measurements can improve recovery of the attitude of a spacecraft lost in space.",
+      "date": "Jul 06, 2026",
+      "published_utc": "2026-07-06 14:21 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/07/2025EA004733-Figure-11-final-1024x576.png"
     },
     {
       "topic": "Earth Observation",
