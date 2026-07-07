@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-07 07:27 UTC",
+  "updated": "2026-07-07 13:04 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Researchers break a fundamental rule to create a new concept: Heat that can be directed and 'programmed'",
+      "link": "https://phys.org/news/2026-07-fundamental-concept.html",
+      "desc": "Normally, a material absorbs and emits heat in a linked way: A surface that absorbs heat well at a certain wavelength and direction will also emit heat in the same way. This fundamental relationship, known as reciprocity, limits the ability to independently control heat absorption and heat emission.",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-heat-behave-lik-1.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,12 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Earth's deepest rocks help define upper limit for viscosity beyond which materials effectively become rigid",
-      "link": "https://phys.org/news/2026-07-earth-deepest-upper-limit-viscosity.html",
-      "desc": "Viscosity is one of the most fundamental physical properties used to describe how materials flow. It governs the movement of liquids, molten rocks and even slowly deforming regions deep inside the Earth. While scientists have long studied materials with low or moderate viscosities, a simple but…",
-      "date": "Jul 06, 2026",
-      "published_utc": "2026-07-06 12:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientist-proposes-a-p.jpg"
+      "title": "Bulk ferromagnetic quasicrystals emerge without rapid quenching, unlocking stable magnetic studies",
+      "link": "https://phys.org/news/2026-07-bulk-ferromagnetic-quasicrystals-emerge-rapid.html",
+      "desc": "Ferromagnetism has long been studied in a wide range of periodic crystals and amorphous materials. In quasicrystals (QCs), which possess long-range quasiperiodic order and unconventional rotational symmetries, such as 10-fold symmetry, ferromagnetism remained elusive until recently, when it was…",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 10:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-bulk-ferromagnet.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Metallic rutile oxides break the rules of cooling",
+      "link": "https://phys.org/news/2026-07-metallic-rutile-oxides-cooling.html",
+      "desc": "Physicists have long puzzled over a strange contradiction inside a family of minerals called rutile oxides. These materials all share the same crystal structure—but while some of them, like titanium dioxide, are firmly insulating, others, like ruthenium dioxide, conduct electricity like a metal. So…",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/electron-phonon.jpg"
     },
     {
       "topic": "Physics",
@@ -55,12 +75,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Bioinspired strategy creates complex 3D curved structures via programmed shrinkage",
-      "link": "https://phys.org/news/2026-07-bioinspired-strategy-complex-3d-shrinkage.html",
-      "desc": "The shape of biological structures, ranging from flower petals to the limbs or organs of animals, is often naturally best suited for performing specific functions. Biological structures also often present curved surfaces with specific functional advantages, such as facilitating the drainage of…",
-      "date": "Jul 06, 2026",
-      "published_utc": "2026-07-06 11:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-bioinspired-stra.jpg"
+      "title": "Scientists just measured the smallest possible contacts for future computer chips",
+      "link": "https://phys.org/news/2026-07-scientists-smallest-contacts-future-chips.html",
+      "desc": "The rise of AI has created an almost insatiable appetite for computing power. Training and running AI systems requires vast numbers of transistors, and engineers are now racing to pack more of them onto every chip. With their existing designs, however, silicon transistors are rapidly running up…",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 09:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-just-measur.jpg"
     },
     {
       "topic": "Geoscience",
@@ -71,16 +91,6 @@
       "date": "Jul 06, 2026",
       "published_utc": "2026-07-06 14:21 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/07/2025EA004733-Figure-11-final-1024x576.png"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "The World Cup From 250 Miles Up",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/",
-      "desc": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup. The post The World Cup From 250 Miles Up appeared first on NASA Science .",
-      "date": "Jul 07, 2026",
-      "published_utc": "2026-07-07 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-orbital-view-of-world-cup-stadiums/ISS067-E-202213_wide.jpg?w=1440&amp;h=959&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
