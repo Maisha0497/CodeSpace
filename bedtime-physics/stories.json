@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07 01:04 UTC",
+  "updated": "2026-07-07 07:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Jul 07, 2026",
       "published_utc": "2026-07-07 00:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/full-control-over-2000.jpg"
+    },
+    {
+      "topic": "Cool Math",
+      "source": "ScienceDaily Math",
+      "title": "AI just supercharged the race to find room temperature superconductors",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
+      "desc": "Scientists have combined machine learning with quantum physics to discover two new superconductors and create a much faster way to search for many more. The technique could bring researchers significantly closer to the long-sought goal of a room-temperature superconductor.",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 05:39 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
@@ -65,12 +75,12 @@
     {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
-      "title": "Examining Algal Blooms in Blue Mesa",
-      "link": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/",
-      "desc": "Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado's largest reservoirs. The post Examining Algal Blooms in Blue Mesa appeared first on NASA Science .",
-      "date": "Jul 06, 2026",
-      "published_utc": "2026-07-06 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20170919.jpg"
+      "title": "The World Cup From 250 Miles Up",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/",
+      "desc": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup. The post The World Cup From 250 Miles Up appeared first on NASA Science .",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-orbital-view-of-world-cup-stadiums/ISS067-E-202213_wide.jpg?w=1440&amp;h=959&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
