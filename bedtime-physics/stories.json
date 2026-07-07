@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-06 18:55 UTC",
+  "updated": "2026-07-07 01:04 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum computing: Laser-optical system offers full control over 2,000 trapped Rydberg atoms",
+      "link": "https://phys.org/news/2026-07-quantum-laser-optical-full-rydberg.html",
+      "desc": "Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be positioned with submicrometer precision in the computer's…",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 00:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/full-control-over-2000.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -11,6 +21,16 @@
       "date": "Jul 06, 2026",
       "published_utc": "2026-07-06 12:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientist-proposes-a-p.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Detecting neutron sources by borrowing inference tools from cosmology",
+      "link": "https://phys.org/news/2026-07-neutron-sources-inference-tools-cosmology.html",
+      "desc": "Neutron sources can be directly identified from measured spectra rather than proxies using inference tools adapted from cosmology, according to a University of Michigan Engineering study published in Physical Review Applied. The method can improve nuclear security by helping intercept materials at…",
+      "date": "Jul 06, 2026",
+      "published_utc": "2026-07-06 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/detecting-neutron-sour.jpg"
     },
     {
       "topic": "Math/Physics",
