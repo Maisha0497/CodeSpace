@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-07 13:04 UTC",
+  "updated": "2026-07-07 18:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Pressure unlocks 3D superconductivity in tantalum disulfide at triple the temperature",
+      "link": "https://phys.org/news/2026-07-pressure-3d-superconductivity-tantalum-disulfide.html",
+      "desc": "Superconductors have long been considered a promising technology for the energy systems of the future. They can conduct electricity without resistance, thus eliminating both conduction losses and waste heat. Up to now, however, superconductors have only been applied in special cases, as in the…",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 18:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-material-under.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Evidence of elusive high-energy gravitons in quantum Hall systems",
+      "link": "https://phys.org/news/2026-07-evidence-elusive-high-energy-gravitons.html",
+      "desc": "Electrons, negatively charged particles, sometimes coordinate their movements in ways that produce certain collective excitations referred to as quasiparticles. One case in which this occurs is the quantum Hall effect, a phenomenon that emerges when electrons are confined to a very thin layer,…",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/evidence-of-elusive-hi.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,6 +41,16 @@
       "date": "Jul 07, 2026",
       "published_utc": "2026-07-07 00:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/full-control-over-2000.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New ultrathin lens focuses light into an optical needle",
+      "link": "https://phys.org/news/2026-07-ultrathin-lens-focuses-optical-needle.html",
+      "desc": "Researchers have created a special flat lens that shapes light into an optical needle—a thin beam that stays tightly focused over a long distance. Combining this lens, which is about 7 microns thick, with optical coherence tomography (OCT) could allow imaging that reaches deeper into tissue while…",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 16:44 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/lightbeam.jpg"
     },
     {
       "topic": "Cool Math",
@@ -45,52 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Using quantum entanglement to secure ground-to-satellite timing",
+      "link": "https://phys.org/news/2026-07-quantum-entanglement-ground-satellite.html",
+      "desc": "From mobile phones and banking systems to aircraft, ships and emergency services, much of modern life relies on precise timing signals from satellites. Known as the Global Navigation Satellite System (GNSS), satellites carrying atomic clocks transmit time-stamped signals to receivers on Earth. The…",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-quantum-entangle.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Metallic rutile oxides break the rules of cooling",
       "link": "https://phys.org/news/2026-07-metallic-rutile-oxides-cooling.html",
       "desc": "Physicists have long puzzled over a strange contradiction inside a family of minerals called rutile oxides. These materials all share the same crystal structure—but while some of them, like titanium dioxide, are firmly insulating, others, like ruthenium dioxide, conduct electricity like a metal. So…",
       "date": "Jul 07, 2026",
       "published_utc": "2026-07-07 13:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/electron-phonon.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Detecting neutron sources by borrowing inference tools from cosmology",
-      "link": "https://phys.org/news/2026-07-neutron-sources-inference-tools-cosmology.html",
-      "desc": "Neutron sources can be directly identified from measured spectra rather than proxies using inference tools adapted from cosmology, according to a University of Michigan Engineering study published in Physical Review Applied. The method can improve nuclear security by helping intercept materials at…",
-      "date": "Jul 06, 2026",
-      "published_utc": "2026-07-06 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/detecting-neutron-sour.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Researchers Reveal the Power of ‘Quantum Proofs’",
-      "link": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/",
-      "desc": "When checking that solutions to certain problems are correct, it turns out, you can’t get around the inherent complexity of the quantum world. The post Researchers Reveal the Power of ‘Quantum Proofs’ first appeared on Quanta Magazine",
-      "date": "Jul 06, 2026",
-      "published_utc": "2026-07-06 14:33 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/QuantumProof-cr-Ada-Zejun-Shen-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Scientists just measured the smallest possible contacts for future computer chips",
-      "link": "https://phys.org/news/2026-07-scientists-smallest-contacts-future-chips.html",
-      "desc": "The rise of AI has created an almost insatiable appetite for computing power. Training and running AI systems requires vast numbers of transistors, and engineers are now racing to pack more of them onto every chip. With their existing designs, however, silicon transistors are rapidly running up…",
-      "date": "Jul 07, 2026",
-      "published_utc": "2026-07-07 09:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-just-measur.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Reconnecting to the Lunar Trailblazer with Light",
-      "link": "https://eos.org/editor-highlights/reconnecting-to-the-lunar-trailblazer-with-light",
-      "desc": "Learning from the attempted rescue of the Lunar Trailblazer: how ground-based optical observations and laboratory measurements can improve recovery of the attitude of a spacecraft lost in space.",
-      "date": "Jul 06, 2026",
-      "published_utc": "2026-07-06 14:21 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/07/2025EA004733-Figure-11-final-1024x576.png"
     }
   ]
 }
