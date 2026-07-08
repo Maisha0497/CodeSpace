@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07 18:56 UTC",
+  "updated": "2026-07-08 00:54 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,12 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum computing: Laser-optical system offers full control over 2,000 trapped Rydberg atoms",
-      "link": "https://phys.org/news/2026-07-quantum-laser-optical-full-rydberg.html",
-      "desc": "Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be positioned with submicrometer precision in the computer's…",
+      "title": "Quantum computers model nine fusion fuel material configurations for first time",
+      "link": "https://phys.org/news/2026-07-quantum-fusion-fuel-material-configurations.html",
+      "desc": "A team of scientists from Oak Ridge National Laboratory, Cleveland Clinic and IBM has calculated nine molecular configurations of a promising material to produce fuel for fusion energy—the first known instance of such computations on quantum computers.",
       "date": "Jul 07, 2026",
-      "published_utc": "2026-07-07 00:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/full-control-over-2000.jpg"
+      "published_utc": "2026-07-07 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-known-computatio.jpg"
     },
     {
       "topic": "Physics",
