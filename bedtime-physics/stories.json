@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-08 07:08 UTC",
+  "updated": "2026-07-08 12:50 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Quantum sensor breakthrough could reveal dark matter and ancient gravitational waves",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260622014303.htm",
-      "desc": "Scientists have taken an important step toward building quantum detectors that could reveal some of the universe’s biggest secrets. Using a prototype device with two clouds of ultracold atoms, researchers showed that a clever noise-canceling technique can recover hidden signals even when individual…",
-      "date": "Jul 07, 2026",
-      "published_utc": "2026-07-07 09:22 UTC",
-      "image": ""
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -31,16 +21,6 @@
       "date": "Jul 07, 2026",
       "published_utc": "2026-07-07 14:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/evidence-of-elusive-hi.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Researchers break a fundamental rule to create a new concept: Heat that can be directed and 'programmed'",
-      "link": "https://phys.org/news/2026-07-fundamental-concept.html",
-      "desc": "Normally, a material absorbs and emits heat in a linked way: A surface that absorbs heat well at a certain wavelength and direction will also emit heat in the same way. This fundamental relationship, known as reciprocity, limits the ability to independently control heat absorption and heat emission.",
-      "date": "Jul 07, 2026",
-      "published_utc": "2026-07-07 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-heat-behave-lik-1.jpg"
     },
     {
       "topic": "Physics",
@@ -75,22 +55,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Bulk ferromagnetic quasicrystals emerge without rapid quenching, unlocking stable magnetic studies",
-      "link": "https://phys.org/news/2026-07-bulk-ferromagnetic-quasicrystals-emerge-rapid.html",
-      "desc": "Ferromagnetism has long been studied in a wide range of periodic crystals and amorphous materials. In quasicrystals (QCs), which possess long-range quasiperiodic order and unconventional rotational symmetries, such as 10-fold symmetry, ferromagnetism remained elusive until recently, when it was…",
-      "date": "Jul 07, 2026",
-      "published_utc": "2026-07-07 10:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-bulk-ferromagnet.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Using quantum entanglement to secure ground-to-satellite timing",
       "link": "https://phys.org/news/2026-07-quantum-entanglement-ground-satellite.html",
       "desc": "From mobile phones and banking systems to aircraft, ships and emergency services, much of modern life relies on precise timing signals from satellites. Known as the Global Navigation Satellite System (GNSS), satellites carrying atomic clocks transmit time-stamped signals to receivers on Earth. The…",
       "date": "Jul 07, 2026",
       "published_utc": "2026-07-07 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-quantum-entangle.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Metallic rutile oxides break the rules of cooling",
+      "link": "https://phys.org/news/2026-07-metallic-rutile-oxides-cooling.html",
+      "desc": "Physicists have long puzzled over a strange contradiction inside a family of minerals called rutile oxides. These materials all share the same crystal structure—but while some of them, like titanium dioxide, are firmly insulating, others, like ruthenium dioxide, conduct electricity like a metal. So…",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/electron-phonon.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Magnetic octupole model captures domain-wall motion in noncollinear antiferromagnets",
+      "link": "https://phys.org/news/2026-07-magnetic-octupole-captures-domain-wall.html",
+      "desc": "Researchers from The Grainger College of Engineering at the University of Illinois Urbana-Champaign have developed the first magnetic multipole-based micromagnetic model for antiferromagnets. Published in Applied Physics Reviews, their generalized framework provides a theoretical and computational…",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 20:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-magneticfield.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
+      "desc": "A centimeter-sized crystal has revealed clear signs of quantum entanglement, showing that large, everyday objects can display surprisingly deep quantum behavior. The discovery could help solve the mystery of strange metals while opening new possibilities for ultra-precise quantum sensors and other…",
+      "date": "Jul 08, 2026",
+      "published_utc": "2026-07-08 00:46 UTC",
+      "image": ""
     }
   ]
 }
