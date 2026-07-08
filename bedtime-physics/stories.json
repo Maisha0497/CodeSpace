@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-08 00:54 UTC",
+  "updated": "2026-07-08 07:08 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Quantum sensor breakthrough could reveal dark matter and ancient gravitational waves",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260622014303.htm",
+      "desc": "Scientists have taken an important step toward building quantum detectors that could reveal some of the universe’s biggest secrets. Using a prototype device with two clouds of ultracold atoms, researchers showed that a clever noise-canceling technique can recover hidden signals even when individual…",
+      "date": "Jul 07, 2026",
+      "published_utc": "2026-07-07 09:22 UTC",
+      "image": ""
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -45,22 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Quantum vacuum could help break molecular bonds with less energy, simulations suggest",
+      "link": "https://phys.org/news/2026-07-quantum-vacuum-molecular-bonds-energy.html",
+      "desc": "A team of researchers led by Felipe Herrera, a professor at the University of Santiago and a researcher at the Millennium Institute for Research in Optics (MIRO), has identified a quantum phenomenon that enables chemical bonds to be broken using significantly less energy than is normally required.",
+      "date": "Jul 08, 2026",
+      "published_utc": "2026-07-08 01:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/57dfe35e10c2e.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "New ultrathin lens focuses light into an optical needle",
       "link": "https://phys.org/news/2026-07-ultrathin-lens-focuses-optical-needle.html",
       "desc": "Researchers have created a special flat lens that shapes light into an optical needle—a thin beam that stays tightly focused over a long distance. Combining this lens, which is about 7 microns thick, with optical coherence tomography (OCT) could allow imaging that reaches deeper into tissue while…",
       "date": "Jul 07, 2026",
       "published_utc": "2026-07-07 16:44 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/lightbeam.jpg"
-    },
-    {
-      "topic": "Cool Math",
-      "source": "ScienceDaily Math",
-      "title": "AI just supercharged the race to find room temperature superconductors",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
-      "desc": "Scientists have combined machine learning with quantum physics to discover two new superconductors and create a much faster way to search for many more. The technique could bring researchers significantly closer to the long-sought goal of a room-temperature superconductor.",
-      "date": "Jul 07, 2026",
-      "published_utc": "2026-07-07 05:39 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Jul 07, 2026",
       "published_utc": "2026-07-07 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-quantum-entangle.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Metallic rutile oxides break the rules of cooling",
-      "link": "https://phys.org/news/2026-07-metallic-rutile-oxides-cooling.html",
-      "desc": "Physicists have long puzzled over a strange contradiction inside a family of minerals called rutile oxides. These materials all share the same crystal structure—but while some of them, like titanium dioxide, are firmly insulating, others, like ruthenium dioxide, conduct electricity like a metal. So…",
-      "date": "Jul 07, 2026",
-      "published_utc": "2026-07-07 13:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/electron-phonon.jpg"
     }
   ]
 }
