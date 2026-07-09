@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09 07:27 UTC",
+  "updated": "2026-07-09 13:21 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -23,6 +23,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-approach-to-strongl-1.jpg"
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A new route to electrically controlled helimagnetic structures",
+      "link": "https://phys.org/news/2026-07-route-electrically-helimagnetic.html",
+      "desc": "Advanced magnetic memory and spintronic devices rely on the ability to control magnetic states using electricity. Today, such technologies work by manipulating relatively simple magnetic structures found in ferromagnets, where all the magnetic moments point the same way. However, researchers are…",
+      "date": "Jul 09, 2026",
+      "published_utc": "2026-07-09 11:48 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-route-to-electri.jpg"
+    },
+    {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
       "title": "Heidelberg physicists just united two opposing quantum theories",
@@ -41,6 +51,16 @@
       "date": "Jul 08, 2026",
       "published_utc": "2026-07-08 15:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/orbit.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "'Check your ingredients': A new blueprint for using Fermi's 'Golden Rule'",
+      "link": "https://phys.org/news/2026-07-ingredients-blueprint-fermi-golden.html",
+      "desc": "Underpinning much of modern technology, from smartphones to scanning tunneling microscopes to particle colliders, is Fermi's Golden Rule. Named for 20th-century Italian American physicist Enrico Fermi (but actually discovered by British physicist Paul Dirac), the rule is a formula that connects…",
+      "date": "Jul 09, 2026",
+      "published_utc": "2026-07-09 12:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/check-your-ingredients-1.jpg"
     },
     {
       "topic": "Physics",
@@ -71,16 +91,6 @@
       "date": "Jul 08, 2026",
       "published_utc": "2026-07-08 14:21 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/QualiaBiologicalAgency-cr-EduardoRamon-Default.webp"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Super Typhoon Bavi",
-      "link": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
-      "desc": "The third category 5 tropical cyclone of 2026 crossed the U.S. Northern Mariana Islands and Guam before continuing toward Asia. The post Super Typhoon Bavi appeared first on NASA Science .",
-      "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/super-typhoon-bavi/typhoonbavi_vir_20260705.jpg?w=2160&amp;h=1540&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
