@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08 18:47 UTC",
+  "updated": "2026-07-09 01:00 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,16 +25,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum computers model nine fusion fuel material configurations for first time",
-      "link": "https://phys.org/news/2026-07-quantum-fusion-fuel-material-configurations.html",
-      "desc": "A team of scientists from Oak Ridge National Laboratory, Cleveland Clinic and IBM has calculated nine molecular configurations of a promising material to produce fuel for fusion energy—the first known instance of such computations on quantum computers.",
-      "date": "Jul 07, 2026",
-      "published_utc": "2026-07-07 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-known-computatio.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Quantum vacuum could help break molecular bonds with less energy, simulations suggest",
       "link": "https://phys.org/news/2026-07-quantum-vacuum-molecular-bonds-energy.html",
       "desc": "A team of researchers led by Felipe Herrera, a professor at the University of Santiago and a researcher at the Millennium Institute for Research in Optics (MIRO), has identified a quantum phenomenon that enables chemical bonds to be broken using significantly less energy than is normally required.",
@@ -45,32 +35,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Magnetic octupole model captures domain-wall motion in noncollinear antiferromagnets",
-      "link": "https://phys.org/news/2026-07-magnetic-octupole-captures-domain-wall.html",
-      "desc": "Researchers from The Grainger College of Engineering at the University of Illinois Urbana-Champaign have developed the first magnetic multipole-based micromagnetic model for antiferromagnets. Published in Applied Physics Reviews, their generalized framework provides a theoretical and computational…",
-      "date": "Jul 07, 2026",
-      "published_utc": "2026-07-07 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-magneticfield.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
-      "desc": "A centimeter-sized crystal has revealed clear signs of quantum entanglement, showing that large, everyday objects can display surprisingly deep quantum behavior. The discovery could help solve the mystery of strange metals while opening new possibilities for ultra-precise quantum sensors and other…",
-      "date": "Jul 08, 2026",
-      "published_utc": "2026-07-08 00:46 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Space sensor could spot hidden nuclear weapons in orbit with 99% accuracy",
       "link": "https://phys.org/news/2026-07-space-sensor-hidden-nuclear-weapons.html",
       "desc": "In 2024, a U.S. government official warned that Russia could be developing a new satellite designed to carry nuclear weapons into space. The statement followed the launch of a suspicious Russian satellite into low-Earth orbit in 2022, just a few weeks before the country's full-scale invasion of…",
       "date": "Jul 08, 2026",
       "published_utc": "2026-07-08 15:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/orbit.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Why some glasses break suddenly while others deform smoothly",
+      "link": "https://phys.org/news/2026-07-glasses-suddenly-deform-smoothly.html",
+      "desc": "If a liquid is cooled slowly to its freezing point, it becomes a crystal in which the constituent particles are arranged in an ordered pattern. In contrast, when the liquid is cooled very quickly, the particles are unable to arrange themselves in an ordered fashion, and it becomes glass. Glassy…",
+      "date": "Jul 08, 2026",
+      "published_utc": "2026-07-08 23:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tifr-hyderabad-researc.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "X-pinch plasma achieves radial proton acceleration for crisp imaging",
+      "link": "https://phys.org/news/2026-07-plasma-radial-proton-crisp-imaging.html",
+      "desc": "Plasma pinches: From pursuits of nuclear fusion to an attractive point source of accelerated protons for proton radiography.",
+      "date": "Jul 08, 2026",
+      "published_utc": "2026-07-08 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/x-pinch-plasma-achieve.jpg"
     },
     {
       "topic": "Math/Physics",
