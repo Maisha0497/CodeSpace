@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09 01:00 UTC",
+  "updated": "2026-07-09 07:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -23,14 +23,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-approach-to-strongl-1.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum vacuum could help break molecular bonds with less energy, simulations suggest",
-      "link": "https://phys.org/news/2026-07-quantum-vacuum-molecular-bonds-energy.html",
-      "desc": "A team of researchers led by Felipe Herrera, a professor at the University of Santiago and a researcher at the Millennium Institute for Research in Optics (MIRO), has identified a quantum phenomenon that enables chemical bonds to be broken using significantly less energy than is normally required.",
-      "date": "Jul 08, 2026",
-      "published_utc": "2026-07-08 01:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/57dfe35e10c2e.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Heidelberg physicists just united two opposing quantum theories",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm",
+      "desc": "A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experiments on ultracold atoms, semiconductors, and other exotic forms of quantum matter.",
+      "date": "Jul 09, 2026",
+      "published_utc": "2026-07-09 00:15 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
@@ -75,12 +75,12 @@
     {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
-      "title": "Cottonwood Fire Chars Utah",
-      "link": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
-      "desc": "The blaze burned more than 150 square miles and swept through parts of a ski resort. The post Cottonwood Fire Chars Utah appeared first on NASA Science .",
-      "date": "Jul 08, 2026",
-      "published_utc": "2026-07-08 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cottonwood-fire-chars-utah/utcottonwoodfire_oli_20260629_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint"
+      "title": "Super Typhoon Bavi",
+      "link": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
+      "desc": "The third category 5 tropical cyclone of 2026 crossed the U.S. Northern Mariana Islands and Guam before continuing toward Asia. The post Super Typhoon Bavi appeared first on NASA Science .",
+      "date": "Jul 09, 2026",
+      "published_utc": "2026-07-09 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/super-typhoon-bavi/typhoonbavi_vir_20260705.jpg?w=2160&amp;h=1540&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
