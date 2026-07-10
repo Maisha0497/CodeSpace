@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10 07:27 UTC",
+  "updated": "2026-07-10 13:00 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Jul 09, 2026",
       "published_utc": "2026-07-09 14:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/inside-this-computer-c.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "A new route to electrically controlled helimagnetic structures",
-      "link": "https://phys.org/news/2026-07-route-electrically-helimagnetic.html",
-      "desc": "Advanced magnetic memory and spintronic devices rely on the ability to control magnetic states using electricity. Today, such technologies work by manipulating relatively simple magnetic structures found in ferromagnets, where all the magnetic moments point the same way. However, researchers are…",
-      "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 11:48 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-route-to-electri.jpg"
     },
     {
       "topic": "Physics",
@@ -73,16 +63,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-optics-may-tur.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "'Check your ingredients': A new blueprint for using Fermi's 'Golden Rule'",
-      "link": "https://phys.org/news/2026-07-ingredients-blueprint-fermi-golden.html",
-      "desc": "Underpinning much of modern technology, from smartphones to scanning tunneling microscopes to particle colliders, is Fermi's Golden Rule. Named for 20th-century Italian American physicist Enrico Fermi (but actually discovered by British physicist Paul Dirac), the rule is a formula that connects…",
-      "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 12:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/check-your-ingredients-1.jpg"
-    },
-    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
       "title": "Will We Ever Find Alien Civilizations?",
@@ -91,6 +71,26 @@
       "date": "Jul 09, 2026",
       "published_utc": "2026-07-09 13:39 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/JOW-S5E2-David-Kipping-cr-Chanelle-Nibbelink-Default-NO-LOGO.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Where Venezuela’s Earthquakes Shifted the Ground",
+      "link": "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
+      "desc": "Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors. The post Where Venezuela’s Earthquakes Shifted the Ground appeared first on NASA Science .",
+      "date": "Jul 10, 2026",
+      "published_utc": "2026-07-10 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/where-venezuela’s-earthquakes-shifted-the-ground/venezuela_nisar_20260630.jpg?w=1440&amp;h=1090&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Satellites in tandem reveal 30 years of Antarctic ice flow",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow",
+      "desc": "Thirty years after the European Space Agency first demonstrated the power of flying two satellites in very close formation, the concept was recently recreated. By temporarily positioning two Copernicus Sentinel-1 radar satellites to replicate the pioneering ERS-1–ERS-2 ‘tandem mission’, ESA…",
+      "date": "Jul 09, 2026",
+      "published_utc": "2026-07-09 15:10 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/interferograms_of_scar_inlet_ice_shelf_in_1995_compared_to_2026/27372839-1-eng-GB/Interferograms_of_Scar_Inlet_Ice_Shelf_in_1995_compared_to_2026_card_full.jpg"
     }
   ]
 }
