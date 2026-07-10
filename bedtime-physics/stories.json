@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09 18:54 UTC",
+  "updated": "2026-07-10 00:57 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -23,14 +23,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-route-to-electri.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Heidelberg physicists just united two opposing quantum theories",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm",
-      "desc": "A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experiments on ultracold atoms, semiconductors, and other exotic forms of quantum matter.",
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New physics-based machine-learning method speeds search for 2D quantum materials",
+      "link": "https://phys.org/news/2026-07-physics-based-machine-method-2d.html",
+      "desc": "Researchers at The University of Manchester have developed a new computational approach to help identify two-dimensional materials that may host unusual quantum behavior. The work, published in Science Advances, focuses on materials with \"flat bands,\" electronic states where electrons have very…",
       "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 00:15 UTC",
-      "image": ""
+      "published_utc": "2026-07-09 19:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tool-speeds-search.jpg"
     },
     {
       "topic": "Physics",
@@ -45,32 +45,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Programmable light simulates quantum matter across 300 processes without bigger circuits",
+      "link": "https://phys.org/news/2026-07-programmable-simulates-quantum-bigger-circuits.html",
+      "desc": "A team of researchers at the University of Ottawa and its Nexus for Quantum Technologies Institute, in collaboration with researchers from Federico II University in Italy, has developed a programmable quantum simulator that shapes a beam of light to replicate how particles move through complex…",
+      "date": "Jul 09, 2026",
+      "published_utc": "2026-07-09 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-as-a-quantum-pla.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "AI identifies new particle models that may explain neutrinos' tiny mass",
+      "link": "https://phys.org/news/2026-07-ai-particle-neutrinos-tiny-mass.html",
+      "desc": "Physicists at the University of California, Irvine, have developed an artificial intelligence system that can autonomously design theoretical physics models, a task traditionally carried out by human theorists. The approach allows researchers to explore large, uncharted areas of particle physics…",
+      "date": "Jul 09, 2026",
+      "published_utc": "2026-07-09 20:09 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-system-helps-explai.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum optics may turn this rare visual phenomenon into an eye test",
+      "link": "https://phys.org/news/2026-07-quantum-optics-rare-visual-phenomenon.html",
+      "desc": "Modern life depends on quantum physics. It makes technologies such as GPS navigation, MRI scanners and computer chips possible. Now, the same science may also lead to a new way to test the health of our eyes. A University at Buffalo-led team has used a technique from quantum optics to make a…",
+      "date": "Jul 09, 2026",
+      "published_utc": "2026-07-09 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-optics-may-tur.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "'Check your ingredients': A new blueprint for using Fermi's 'Golden Rule'",
       "link": "https://phys.org/news/2026-07-ingredients-blueprint-fermi-golden.html",
       "desc": "Underpinning much of modern technology, from smartphones to scanning tunneling microscopes to particle colliders, is Fermi's Golden Rule. Named for 20th-century Italian American physicist Enrico Fermi (but actually discovered by British physicist Paul Dirac), the rule is a formula that connects…",
       "date": "Jul 09, 2026",
       "published_utc": "2026-07-09 12:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/check-your-ingredients-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Why some glasses break suddenly while others deform smoothly",
-      "link": "https://phys.org/news/2026-07-glasses-suddenly-deform-smoothly.html",
-      "desc": "If a liquid is cooled slowly to its freezing point, it becomes a crystal in which the constituent particles are arranged in an ordered pattern. In contrast, when the liquid is cooled very quickly, the particles are unable to arrange themselves in an ordered fashion, and it becomes glass. Glassy…",
-      "date": "Jul 08, 2026",
-      "published_utc": "2026-07-08 23:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tifr-hyderabad-researc.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "X-pinch plasma achieves radial proton acceleration for crisp imaging",
-      "link": "https://phys.org/news/2026-07-plasma-radial-proton-crisp-imaging.html",
-      "desc": "Plasma pinches: From pursuits of nuclear fusion to an attractive point source of accelerated protons for proton radiography.",
-      "date": "Jul 08, 2026",
-      "published_utc": "2026-07-08 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/x-pinch-plasma-achieve.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -81,16 +91,6 @@
       "date": "Jul 09, 2026",
       "published_utc": "2026-07-09 13:39 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/JOW-S5E2-David-Kipping-cr-Chanelle-Nibbelink-Default-NO-LOGO.jpg"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Satellites in tandem reveal 30 years of Antarctic ice flow",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow",
-      "desc": "Thirty years after the European Space Agency first demonstrated the power of flying two satellites in very close formation, the concept was recently recreated. By temporarily positioning two Copernicus Sentinel-1 radar satellites to replicate the pioneering ERS-1–ERS-2 ‘tandem mission’, ESA…",
-      "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 15:10 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/interferograms_of_scar_inlet_ice_shelf_in_1995_compared_to_2026/27372839-1-eng-GB/Interferograms_of_Scar_Inlet_Ice_Shelf_in_1995_compared_to_2026_card_full.jpg"
     }
   ]
 }
