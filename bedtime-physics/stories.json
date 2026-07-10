@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-10 13:00 UTC",
+  "updated": "2026-07-10 18:46 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Using mechanical vibrations instead of magnetic memory for quantum computing",
-      "link": "https://phys.org/news/2026-07-mechanical-vibrations-magnetic-memory-quantum.html",
-      "desc": "Quantum computers still face limits when it comes to storing information. Researchers at ETH Zurich are now turning to mechanical vibrations rather than electromagnetic memory. Their new vibrating memory can store significantly more information in a smaller volume. Combined with a suitable computer…",
-      "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/inside-this-computer-c.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,16 +11,6 @@
       "date": "Jul 09, 2026",
       "published_utc": "2026-07-09 19:10 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tool-speeds-search.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum material opens new path for studying unusual electronic behavior",
-      "link": "https://phys.org/news/2026-07-quantum-material-path-unusual-electronic.html",
-      "desc": "By combining approaches from two rapidly growing fields of quantum physics, researchers at Penn State and Saint Louis University have demonstrated that a novel specialized material can naturally enable a new way to study unusual physical phenomena known as non-Hermitian dynamics.",
-      "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 18:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-material-opens-1.jpg"
     },
     {
       "topic": "Physics",
@@ -55,6 +35,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "New test certifies quantum measurements that simpler methods cannot mimic",
+      "link": "https://phys.org/news/2026-07-certifies-quantum-simpler-methods-mimic.html",
+      "desc": "Proving that one quantum measurement is more powerful than another has long been difficult. Physicists from Heinrich Heine University Düsseldorf, Lund University and the University of Innsbruck have now developed and demonstrated a simple technique to certify that a certain class of measurements…",
+      "date": "Jul 10, 2026",
+      "published_utc": "2026-07-10 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/not-all-quantum-measur.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Quantum optics may turn this rare visual phenomenon into an eye test",
       "link": "https://phys.org/news/2026-07-quantum-optics-rare-visual-phenomenon.html",
       "desc": "Modern life depends on quantum physics. It makes technologies such as GPS navigation, MRI scanners and computer chips possible. Now, the same science may also lead to a new way to test the health of our eyes. A University at Buffalo-led team has used a technique from quantum optics to make a…",
@@ -65,12 +55,12 @@
     {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
-      "title": "Will We Ever Find Alien Civilizations?",
-      "link": "https://www.quantamagazine.org/will-we-ever-find-alien-civilizations-20260709/",
-      "desc": "Astronomer David Kipping discusses why claims of extraterrestrial life keep dissolving under scrutiny, why we need a more statistically grounded approach to searching for life beyond Earth, and why it’s rational to believe that we may be alone. The post Will We Ever Find Alien Civilizations? first…",
-      "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 13:39 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/JOW-S5E2-David-Kipping-cr-Chanelle-Nibbelink-Default-NO-LOGO.jpg"
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.",
+      "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "desc": "Researchers thought that what enabled complex fluids to break apart was their elasticity. But a crack in a nonelastic simple fluid has them questioning that idea. The post We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture. first appeared on Quanta Magazine",
+      "date": "Jul 10, 2026",
+      "published_utc": "2026-07-10 14:51 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/CrackingLiquids-cr-Adapted-with-permission-from-Phys.-Rev.-Lett.-136-124002.-Copyrighted-by-the-American-Physical-Society.-Default.jpg"
     },
     {
       "topic": "Earth Observation",
@@ -85,12 +75,12 @@
     {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
-      "title": "Satellites in tandem reveal 30 years of Antarctic ice flow",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow",
-      "desc": "Thirty years after the European Space Agency first demonstrated the power of flying two satellites in very close formation, the concept was recently recreated. By temporarily positioning two Copernicus Sentinel-1 radar satellites to replicate the pioneering ERS-1–ERS-2 ‘tandem mission’, ESA…",
-      "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 15:10 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/interferograms_of_scar_inlet_ice_shelf_in_1995_compared_to_2026/27372839-1-eng-GB/Interferograms_of_Scar_Inlet_Ice_Shelf_in_1995_compared_to_2026_card_full.jpg"
+      "title": "Earth from Space: Great Bear Lake, Canada",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Great_Bear_Lake_Canada",
+      "desc": "Image: The Copernicus Sentinel-2 mission captures Canada’s Great Bear Lake in striking colours.",
+      "date": "Jul 10, 2026",
+      "published_utc": "2026-07-10 08:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_great_bear_lake_canada/27373021-1-eng-GB/Earth_from_Space_Great_Bear_Lake_Canada_card_full.jpg"
     }
   ]
 }
