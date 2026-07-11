@@ -1,37 +1,7 @@
 {
-  "updated": "2026-07-10 18:46 UTC",
+  "updated": "2026-07-11 00:52 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New physics-based machine-learning method speeds search for 2D quantum materials",
-      "link": "https://phys.org/news/2026-07-physics-based-machine-method-2d.html",
-      "desc": "Researchers at The University of Manchester have developed a new computational approach to help identify two-dimensional materials that may host unusual quantum behavior. The work, published in Science Advances, focuses on materials with \"flat bands,\" electronic states where electrons have very…",
-      "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 19:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tool-speeds-search.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Programmable light simulates quantum matter across 300 processes without bigger circuits",
-      "link": "https://phys.org/news/2026-07-programmable-simulates-quantum-bigger-circuits.html",
-      "desc": "A team of researchers at the University of Ottawa and its Nexus for Quantum Technologies Institute, in collaboration with researchers from Federico II University in Italy, has developed a programmable quantum simulator that shapes a beam of light to replicate how particles move through complex…",
-      "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-as-a-quantum-pla.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "AI identifies new particle models that may explain neutrinos' tiny mass",
-      "link": "https://phys.org/news/2026-07-ai-particle-neutrinos-tiny-mass.html",
-      "desc": "Physicists at the University of California, Irvine, have developed an artificial intelligence system that can autonomously design theoretical physics models, a task traditionally carried out by human theorists. The approach allows researchers to explore large, uncharted areas of particle physics…",
-      "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 20:09 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-system-helps-explai.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -45,12 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum optics may turn this rare visual phenomenon into an eye test",
-      "link": "https://phys.org/news/2026-07-quantum-optics-rare-visual-phenomenon.html",
-      "desc": "Modern life depends on quantum physics. It makes technologies such as GPS navigation, MRI scanners and computer chips possible. Now, the same science may also lead to a new way to test the health of our eyes. A University at Buffalo-led team has used a technique from quantum optics to make a…",
-      "date": "Jul 09, 2026",
-      "published_utc": "2026-07-09 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-optics-may-tur.jpg"
+      "title": "Dark energy flips its sign, but the Hubble tension refuses to budge",
+      "link": "https://phys.org/news/2026-07-dark-energy-flips-hubble-tension.html",
+      "desc": "For nearly a century, astronomers have known that the universe is expanding. In the late 1990s, two independent teams, the Supernova Cosmology Project, led by Saul Perlmutter, and the High-Z Supernova Search Team, led by Brian Schmidt and Adam Riess, discovered something strange: The expansion is…",
+      "date": "Jul 10, 2026",
+      "published_utc": "2026-07-10 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dark-energy-flips-its.jpg"
     },
     {
       "topic": "Math/Physics",
