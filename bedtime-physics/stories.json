@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-11 12:35 UTC",
+  "updated": "2026-07-11 18:34 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New test certifies quantum measurements that simpler methods cannot mimic",
-      "link": "https://phys.org/news/2026-07-certifies-quantum-simpler-methods-mimic.html",
-      "desc": "Proving that one quantum measurement is more powerful than another has long been difficult. Physicists from Heinrich Heine University Düsseldorf, Lund University and the University of Innsbruck have now developed and demonstrated a simple technique to certify that a certain class of measurements…",
-      "date": "Jul 10, 2026",
-      "published_utc": "2026-07-10 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/not-all-quantum-measur.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,16 +11,6 @@
       "date": "Jul 10, 2026",
       "published_utc": "2026-07-10 21:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dark-energy-flips-its.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.",
-      "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-      "desc": "Researchers thought that what enabled complex fluids to break apart was their elasticity. But a crack in a nonelastic simple fluid has them questioning that idea. The post We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture. first appeared on Quanta Magazine",
-      "date": "Jul 10, 2026",
-      "published_utc": "2026-07-10 14:51 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/CrackingLiquids-cr-Adapted-with-permission-from-Phys.-Rev.-Lett.-136-124002.-Copyrighted-by-the-American-Physical-Society.-Default.jpg"
     }
   ]
 }
