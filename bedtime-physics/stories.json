@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 07:00 UTC",
+  "updated": "2026-07-11 12:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,16 +31,6 @@
       "date": "Jul 10, 2026",
       "published_utc": "2026-07-10 14:51 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/CrackingLiquids-cr-Adapted-with-permission-from-Phys.-Rev.-Lett.-136-124002.-Copyrighted-by-the-American-Physical-Society.-Default.jpg"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Earth from Space: Great Bear Lake, Canada",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Great_Bear_Lake_Canada",
-      "desc": "Image: The Copernicus Sentinel-2 mission captures Canada’s Great Bear Lake in striking colours.",
-      "date": "Jul 10, 2026",
-      "published_utc": "2026-07-10 08:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_great_bear_lake_canada/27373021-1-eng-GB/Earth_from_Space_Great_Bear_Lake_Canada_card_full.jpg"
     }
   ]
 }
