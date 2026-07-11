@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 00:52 UTC",
+  "updated": "2026-07-11 07:00 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,16 +31,6 @@
       "date": "Jul 10, 2026",
       "published_utc": "2026-07-10 14:51 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/CrackingLiquids-cr-Adapted-with-permission-from-Phys.-Rev.-Lett.-136-124002.-Copyrighted-by-the-American-Physical-Society.-Default.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Where Venezuela’s Earthquakes Shifted the Ground",
-      "link": "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
-      "desc": "Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors. The post Where Venezuela’s Earthquakes Shifted the Ground appeared first on NASA Science .",
-      "date": "Jul 10, 2026",
-      "published_utc": "2026-07-10 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/where-venezuela’s-earthquakes-shifted-the-ground/venezuela_nisar_20260630.jpg?w=1440&amp;h=1090&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "topic": "Remote Sensing",
