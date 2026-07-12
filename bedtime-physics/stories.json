@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 12:34 UTC",
+  "updated": "2026-07-12 18:34 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,6 +21,16 @@
       "date": "Jul 11, 2026",
       "published_utc": "2026-07-11 20:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reimagining-the-furnac.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Physicists recreate black hole energy extraction in the lab",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
+      "desc": "Researchers have recreated the physics of extracting energy from a spinning black hole using a stationary device that produces synthetic ultrafast rotation. The achievement transforms a long-standing theoretical idea into a practical experiment and could inspire new advances in optics, wireless…",
+      "date": "Jul 12, 2026",
+      "published_utc": "2026-07-12 12:28 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
