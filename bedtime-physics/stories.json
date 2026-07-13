@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-13 13:04 UTC",
+  "updated": "2026-07-13 18:49 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "A 200-year-old physics experiment could help build future computers",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
+      "desc": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson spot. Instead of relying on expensive, highly engineered materials, they simply…",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 12:49 UTC",
+      "image": ""
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -15,12 +25,52 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "White-beam neutron device unlocks precise control of twisted quantum waves",
+      "link": "https://phys.org/news/2026-07-white-neutron-device-precise-quantum.html",
+      "desc": "CANISIUS is the official name of the new spin-echo neutron interferometer developed at Atominstitut, TU Wien. It enables precise control of neutron waves, something that was previously impossible.",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 18:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tu-wien-develops-novel.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Solving a 30-year-old puzzle about a mysterious superconducting material",
+      "link": "https://phys.org/news/2026-07-year-puzzle-mysterious-superconducting-material.html",
+      "desc": "A material made from yttrium, barium and copper oxide (better known as YBCO) has intrigued scientists since its discovery in 1987, largely because it retains its superconductive properties at a higher-than-normal temperature. However, it is extremely brittle, which makes it tricky to put to…",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 14:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/solving-a-30-year-old.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Atoms tell different stories when light hits a molecule in trillionths of a second",
+      "link": "https://phys.org/news/2026-07-atoms-stories-molecule-trillionths.html",
+      "desc": "Researchers have captured how a molecule redistributes energy after absorbing light, differentiating the roles of individual atoms in the process. They used X-ray flashes from the European XFEL to show that different atoms in the same molecule can reveal different aspects of the process. The study…",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-watch-chem-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "New 200Gbps photodetector doubles optical reception capacity for data centers",
       "link": "https://phys.org/news/2026-07-200gbps-photodetector-optical-reception-capacity.html",
       "desc": "Korean researchers have developed, for the first time in Korea, a 200Gbps-class photodetector device for use in hyperscale AI data centers and 5G/6G mobile communications infrastructure. The technology enables ultrahigh-speed data reception fast enough to transmit five 5GB full HD movies per…",
       "date": "Jul 13, 2026",
       "published_utc": "2026-07-13 11:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/etri-develops-koreas-f-1.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Why Am I Left-Handed?",
+      "link": "https://www.quantamagazine.org/why-am-i-left-handed-20260713/",
+      "desc": "An invisible difference in 10% of humans poses deep mysteries in several fields at once. The post Why Am I Left-Handed? first appeared on Quanta Magazine",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 14:22 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/QualiaLeftHand-crKristinaArmitage-Default.webp"
     },
     {
       "topic": "Physics",
@@ -41,36 +91,6 @@
       "date": "Jul 13, 2026",
       "published_utc": "2026-07-13 12:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/firefly-brightness-hol.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Oobleck droplets reveal 5 ways cornstarch 'goo' behaves when hitting water",
-      "link": "https://phys.org/news/2026-07-oobleck-droplets-reveal-ways-cornstarch.html",
-      "desc": "Cornstarch can thicken soup or serve as a base for a DIY shampoo, but there's more to the humble pantry staple. Given the right conditions, it seems to defy the laws of physics. Mixing cornstarch with water creates \"oobleck\"—a shape-shifting substance classified as a non-Newtonian fluid that…",
-      "date": "Jul 13, 2026",
-      "published_utc": "2026-07-13 13:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/these-researchers-are.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Wild, Scenic, and Increasingly Rusty",
-      "link": "https://science.nasa.gov/earth/earth-observatory/wild-scenic-and-increasingly-rusty/",
-      "desc": "Orange streams are now being spotted in hundreds of watersheds in permafrost areas throughout Alaska’s Brooks Range. The post Wild, Scenic, and Increasingly Rusty appeared first on NASA Science .",
-      "date": "Jul 13, 2026",
-      "published_utc": "2026-07-13 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/wild,-scenic,-and-increasingly-rusty/alaska_rustyrivers_20240520.jpg?w=2160&amp;h=1700&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "MTG-S1 enters service for weather forecasting",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-S1_enters_service_for_weather_forecasting",
-      "desc": "One year after launch, the first Meteosat Third Generation Sounder satellite, MTG-S1, has completed commissioning with flying colours, been placed in its operational position in geostationary orbit and is now delivering vital data to strengthen weather forecasting across Europe.",
-      "date": "Jul 13, 2026",
-      "published_utc": "2026-07-13 07:39 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/02/mtg-sounder_satellite_over_the_equator/26586287-1-eng-GB/MTG-Sounder_satellite_over_the_equator_card_full.jpg"
     }
   ]
 }
