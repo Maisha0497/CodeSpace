@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13 00:56 UTC",
+  "updated": "2026-07-13 07:24 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Jul 12, 2026",
       "published_utc": "2026-07-12 12:28 UTC",
       "image": ""
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Wild, Scenic, and Increasingly Rusty",
+      "link": "https://science.nasa.gov/earth/earth-observatory/wild-scenic-and-increasingly-rusty/",
+      "desc": "Orange streams are now being spotted in hundreds of watersheds in permafrost areas throughout Alaska’s Brooks Range. The post Wild, Scenic, and Increasingly Rusty appeared first on NASA Science .",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/wild,-scenic,-and-increasingly-rusty/alaska_rustyrivers_20240520.jpg?w=2160&amp;h=1700&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
