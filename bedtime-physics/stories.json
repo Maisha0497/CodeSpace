@@ -1,16 +1,56 @@
 {
-  "updated": "2026-07-13 07:24 UTC",
+  "updated": "2026-07-13 13:04 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Physicists recreate black hole energy extraction in the lab",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
-      "desc": "Researchers have recreated the physics of extracting energy from a spinning black hole using a stationary device that produces synthetic ultrafast rotation. The achievement transforms a long-standing theoretical idea into a practical experiment and could inspire new advances in optics, wireless…",
-      "date": "Jul 12, 2026",
-      "published_utc": "2026-07-12 12:28 UTC",
-      "image": ""
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "World's first superconducting quantum heat engine offers path to larger quantum computers",
+      "link": "https://phys.org/news/2026-07-world-superconducting-quantum-path-larger.html",
+      "desc": "Recent improvements in our understanding of how the principles of thermodynamics apply in the quantum realm could give a boost to quantum technology, and a clearer picture of quantum thermodynamics could in turn enhance our understanding of classical thermodynamics. Now, Aalto University…",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 09:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worlds-first-supercond.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New 200Gbps photodetector doubles optical reception capacity for data centers",
+      "link": "https://phys.org/news/2026-07-200gbps-photodetector-optical-reception-capacity.html",
+      "desc": "Korean researchers have developed, for the first time in Korea, a 200Gbps-class photodetector device for use in hyperscale AI data centers and 5G/6G mobile communications infrastructure. The technology enables ultrahigh-speed data reception fast enough to transmit five 5GB full HD movies per…",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 11:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/etri-develops-koreas-f-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Hidden fifth dimension could tune dark matter resonance, new theory proposes",
+      "link": "https://phys.org/news/2026-07-hidden-dimension-tune-dark-resonance.html",
+      "desc": "The mysterious substance that binds galaxies together could naturally be \"in tune\" with a hidden fifth dimension, according to a new University of Sheffield theory aiming to shed light on one of science's biggest enigmas: dark matter.",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 12:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dark-matter-could-reso.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Firefly brightness holds a cautionary tale about accepting older measurements",
+      "link": "https://phys.org/news/2026-07-firefly-brightness-cautionary-tale-older.html",
+      "desc": "For over a century, the accepted value for a firefly's brightness has mostly stood, tracing its origins to experiments carried out in 1912. Through rigorous new analysis published in the American Journal of Physics, David Silver of Remiza AI in New York has discovered that this value has likely…",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 12:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/firefly-brightness-hol.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Oobleck droplets reveal 5 ways cornstarch 'goo' behaves when hitting water",
+      "link": "https://phys.org/news/2026-07-oobleck-droplets-reveal-ways-cornstarch.html",
+      "desc": "Cornstarch can thicken soup or serve as a base for a DIY shampoo, but there's more to the humble pantry staple. Given the right conditions, it seems to defy the laws of physics. Mixing cornstarch with water creates \"oobleck\"—a shape-shifting substance classified as a non-Newtonian fluid that…",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/these-researchers-are.jpg"
     },
     {
       "topic": "Earth Observation",
@@ -21,6 +61,16 @@
       "date": "Jul 13, 2026",
       "published_utc": "2026-07-13 04:01 UTC",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/wild,-scenic,-and-increasingly-rusty/alaska_rustyrivers_20240520.jpg?w=2160&amp;h=1700&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "MTG-S1 enters service for weather forecasting",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-S1_enters_service_for_weather_forecasting",
+      "desc": "One year after launch, the first Meteosat Third Generation Sounder satellite, MTG-S1, has completed commissioning with flying colours, been placed in its operational position in geostationary orbit and is now delivering vital data to strengthen weather forecasting across Europe.",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 07:39 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/02/mtg-sounder_satellite_over_the_equator/26586287-1-eng-GB/MTG-Sounder_satellite_over_the_equator_card_full.jpg"
     }
   ]
 }
