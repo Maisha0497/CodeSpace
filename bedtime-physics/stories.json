@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13 18:49 UTC",
+  "updated": "2026-07-14 00:50 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -55,6 +55,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "New 3D thermal cloak hides objects from heat in any direction",
+      "link": "https://phys.org/news/2026-07-3d-thermal-cloak.html",
+      "desc": "Researchers have designed and built the first 3D device that can make objects invisible to heat, an advance that could transform how we protect sensitive electronics, manage heat in microchips and shield equipment from thermal detection.",
+      "date": "Jul 13, 2026",
+      "published_utc": "2026-07-13 18:57 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-3d-thermal-cloak-h.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "New 200Gbps photodetector doubles optical reception capacity for data centers",
       "link": "https://phys.org/news/2026-07-200gbps-photodetector-optical-reception-capacity.html",
       "desc": "Korean researchers have developed, for the first time in Korea, a 200Gbps-class photodetector device for use in hyperscale AI data centers and 5G/6G mobile communications infrastructure. The technology enables ultrahigh-speed data reception fast enough to transmit five 5GB full HD movies per…",
@@ -81,16 +91,6 @@
       "date": "Jul 13, 2026",
       "published_utc": "2026-07-13 12:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dark-matter-could-reso.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Firefly brightness holds a cautionary tale about accepting older measurements",
-      "link": "https://phys.org/news/2026-07-firefly-brightness-cautionary-tale-older.html",
-      "desc": "For over a century, the accepted value for a firefly's brightness has mostly stood, tracing its origins to experiments carried out in 1912. Through rigorous new analysis published in the American Journal of Physics, David Silver of Remiza AI in New York has discovered that this value has likely…",
-      "date": "Jul 13, 2026",
-      "published_utc": "2026-07-13 12:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/firefly-brightness-hol.jpg"
     }
   ]
 }
