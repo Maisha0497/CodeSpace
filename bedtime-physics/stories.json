@@ -1,16 +1,26 @@
 {
-  "updated": "2026-07-14 12:43 UTC",
+  "updated": "2026-07-14 18:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "A 200-year-old physics experiment could help build future computers",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
-      "desc": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson spot. Instead of relying on expensive, highly engineered materials, they simply…",
-      "date": "Jul 13, 2026",
-      "published_utc": "2026-07-13 12:49 UTC",
-      "image": ""
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Researchers define new frontier in quantum materials",
+      "link": "https://phys.org/news/2026-07-frontier-quantum-materials.html",
+      "desc": "Researchers at City College of New York physicist Vinod M. Menon's Laboratory for Nano and Micro Photonics (LaNMP) have outlined an emerging frontier in quantum materials: atomically thin systems in which light, magnetism and electric charge are strongly intertwined. This rapidly evolving field…",
+      "date": "Jul 14, 2026",
+      "published_utc": "2026-07-14 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-define-new.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Direct observation of spontaneous magnon coherence at room temperature",
+      "link": "https://phys.org/news/2026-07-spontaneous-magnon-coherence-room-temperature.html",
+      "desc": "Researchers at RPTU University Kaiserslautern-Landau have achieved a key experimental breakthrough: For the first time, the spontaneous macroscopic coherence of magnons—the quantized excitations of magnetic materials—has been directly observed. These experiments confirm a central prediction of the…",
+      "date": "Jul 14, 2026",
+      "published_utc": "2026-07-14 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/demonstration-of-spont.jpg"
     },
     {
       "topic": "Physics",
@@ -25,22 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Solving a 30-year-old puzzle about a mysterious superconducting material",
-      "link": "https://phys.org/news/2026-07-year-puzzle-mysterious-superconducting-material.html",
-      "desc": "A material made from yttrium, barium and copper oxide (better known as YBCO) has intrigued scientists since its discovery in 1987, largely because it retains its superconductive properties at a higher-than-normal temperature. However, it is extremely brittle, which makes it tricky to put to…",
-      "date": "Jul 13, 2026",
-      "published_utc": "2026-07-13 14:50 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/solving-a-30-year-old.jpg"
+      "title": "World-first neutron lens brings sharp focus to structures inside materials and objects",
+      "link": "https://phys.org/news/2026-07-world-neutron-lens-sharp-focus.html",
+      "desc": "Researchers at Paul Scherrer Institute (PSI) have developed the world's first achromatic lens for neutron imaging. The lens overcomes a longstanding obstacle in the field: focusing neutrons of different wavelengths well enough to form a sharp, magnified image. With the lens, researchers can now…",
+      "date": "Jul 14, 2026",
+      "published_utc": "2026-07-14 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-world-first-lens-bri.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Atoms tell different stories when light hits a molecule in trillionths of a second",
-      "link": "https://phys.org/news/2026-07-atoms-stories-molecule-trillionths.html",
-      "desc": "Researchers have captured how a molecule redistributes energy after absorbing light, differentiating the roles of individual atoms in the process. They used X-ray flashes from the European XFEL to show that different atoms in the same molecule can reveal different aspects of the process. The study…",
-      "date": "Jul 13, 2026",
-      "published_utc": "2026-07-13 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-watch-chem-1.jpg"
+      "title": "Twisted ultrathin magnet retains magnetization after field changes, study finds",
+      "link": "https://phys.org/news/2026-07-ultrathin-magnet-retains-magnetization-field.html",
+      "desc": "The properties of ultrathin magnets can be specifically altered by a slight twist between two atomic monolayers. This is the conclusion reached by an international research team led by TU Darmstadt in a study published in Nature Communications. The findings open new prospects for future memory…",
+      "date": "Jul 14, 2026",
+      "published_utc": "2026-07-14 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/twisted-ultrathin-magn.jpg"
     },
     {
       "topic": "Physics",
@@ -53,6 +63,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-3d-thermal-cloak-h.jpg"
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physicists confirm 20-year-old theory that could boost quantum technology",
+      "link": "https://phys.org/news/2026-07-physicists-year-theory-boost-quantum.html",
+      "desc": "Future quantum computing will require correlations between distant modules—a feature known as distributed entanglement. Traditionally, such entanglement has relied on active control and repeated measurements. Now, physicists at the Institute of Science and Technology Austria (ISTA) have realized a…",
+      "date": "Jul 14, 2026",
+      "published_utc": "2026-07-14 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-confirm-20.jpg"
+    },
+    {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
       "title": "New dark matter theory could solve multiple cosmic mysteries at once",
@@ -63,16 +83,6 @@
       "image": ""
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Why Am I Left-Handed?",
-      "link": "https://www.quantamagazine.org/why-am-i-left-handed-20260713/",
-      "desc": "An invisible difference in 10% of humans poses deep mysteries in several fields at once. The post Why Am I Left-Handed? first appeared on Quanta Magazine",
-      "date": "Jul 13, 2026",
-      "published_utc": "2026-07-13 14:22 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/QualiaLeftHand-crKristinaArmitage-Default.webp"
-    },
-    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "'Silly sprinklers' put in reverse to further unravel decades-old physics puzzle",
@@ -81,16 +91,6 @@
       "date": "Jul 13, 2026",
       "published_utc": "2026-07-13 19:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-put-silly-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "The ball is round—and contrary to some keepers' views, in this World Cup it has performed just fine",
-      "link": "https://phys.org/news/2026-07-ball-contrary-keepers-views-world.html",
-      "desc": "Not every World Cup goal is a classic. Sometimes a half-hearted shot goes in as a result of little more than a goalkeeper's error. And on those occasions, goalies may be inclined to find an excuse.",
-      "date": "Jul 13, 2026",
-      "published_utc": "2026-07-13 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fifa-2026-ball.jpg"
     }
   ]
 }
