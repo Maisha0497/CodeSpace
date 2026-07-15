@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 07:01 UTC",
+  "updated": "2026-07-15 12:45 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -71,6 +71,16 @@
       "date": "Jul 15, 2026",
       "published_utc": "2026-07-15 04:01 UTC",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712.jpg?w=2160&amp;h=1640&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "MTG-S1 commissioned and in position for weather forecasting",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-S1_commissioned_and_in_position_for_weather_forecasting",
+      "desc": "One year after launch, the first Meteosat Third Generation Sounder satellite, MTG-S1, is now commissioned and has been placed in its operational position in geostationary orbit at 0° longitude, and is now ready to deliver vital data to strengthen weather forecasting across Europe.",
+      "date": "Jul 15, 2026",
+      "published_utc": "2026-07-15 07:39 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/02/mtg-sounder_satellite_over_the_equator/26586287-1-eng-GB/MTG-Sounder_satellite_over_the_equator_card_full.jpg"
     }
   ]
 }
