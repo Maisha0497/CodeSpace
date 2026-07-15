@@ -1,46 +1,46 @@
 {
-  "updated": "2026-07-15 12:45 UTC",
+  "updated": "2026-07-15 18:39 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Researchers define new frontier in quantum materials",
-      "link": "https://phys.org/news/2026-07-frontier-quantum-materials.html",
-      "desc": "Researchers at City College of New York physicist Vinod M. Menon's Laboratory for Nano and Micro Photonics (LaNMP) have outlined an emerging frontier in quantum materials: atomically thin systems in which light, magnetism and electric charge are strongly intertwined. This rapidly evolving field…",
-      "date": "Jul 14, 2026",
-      "published_utc": "2026-07-14 13:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-define-new.jpg"
+      "title": "Sensitive measurements uncover dual superconducting states in atom-thin NbSe₂ and TaS₂",
+      "link": "https://phys.org/news/2026-07-sensitive-uncover-dual-superconducting-states.html",
+      "desc": "A new study reveals that two widely studied ultrathin superconducting materials are more sophisticated than they appear. Although they seem to behave like simple superconductors with a single energy gap, they actually contain two strongly interacting superconducting states that work together and…",
+      "date": "Jul 15, 2026",
+      "published_utc": "2026-07-15 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/superconducting-materi.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Direct observation of spontaneous magnon coherence at room temperature",
-      "link": "https://phys.org/news/2026-07-spontaneous-magnon-coherence-room-temperature.html",
-      "desc": "Researchers at RPTU University Kaiserslautern-Landau have achieved a key experimental breakthrough: For the first time, the spontaneous macroscopic coherence of magnons—the quantized excitations of magnetic materials—has been directly observed. These experiments confirm a central prediction of the…",
-      "date": "Jul 14, 2026",
-      "published_utc": "2026-07-14 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/demonstration-of-spont.jpg"
+      "title": "Physicists create first room-temperature quantum material",
+      "link": "https://phys.org/news/2026-07-physicists-room-temperature-quantum-material.html",
+      "desc": "Quantum materials could transform technologies ranging from powerful computers and ultrasecure communications to advanced energy systems. But there has always been one major obstacle.",
+      "date": "Jul 15, 2026",
+      "published_utc": "2026-07-15 15:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lsu-physicists-create.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Thermodynamic Computers Go With the (Energy) Flow",
+      "link": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
+      "desc": "Today’s computers need safeguards against random energy fluctuations. Thermodynamic computers would put those fluctuations to use. The post Thermodynamic Computers Go With the (Energy) Flow first appeared on Quanta Magazine",
+      "date": "Jul 15, 2026",
+      "published_utc": "2026-07-15 15:24 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Thermodynamic-Computing-cr-Ada-Zejun-Shen-Default-copy.webp"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "World-first neutron lens brings sharp focus to structures inside materials and objects",
-      "link": "https://phys.org/news/2026-07-world-neutron-lens-sharp-focus.html",
-      "desc": "Researchers at Paul Scherrer Institute (PSI) have developed the world's first achromatic lens for neutron imaging. The lens overcomes a longstanding obstacle in the field: focusing neutrons of different wavelengths well enough to form a sharp, magnified image. With the lens, researchers can now…",
-      "date": "Jul 14, 2026",
-      "published_utc": "2026-07-14 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-world-first-lens-bri.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Twisted ultrathin magnet retains magnetization after field changes, study finds",
-      "link": "https://phys.org/news/2026-07-ultrathin-magnet-retains-magnetization-field.html",
-      "desc": "The properties of ultrathin magnets can be specifically altered by a slight twist between two atomic monolayers. This is the conclusion reached by an international research team led by TU Darmstadt in a study published in Nature Communications. The findings open new prospects for future memory…",
-      "date": "Jul 14, 2026",
-      "published_utc": "2026-07-14 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/twisted-ultrathin-magn.jpg"
+      "title": "Plasma agriculture makes strides toward super-seeding conventional methods",
+      "link": "https://phys.org/news/2026-07-plasma-agriculture-super-seeding-conventional.html",
+      "desc": "Occasionally, the sun unleashes powerful flares and coronal mass ejections, which hurl plasma and energetic particles into space. On the infant Earth, this solar activity drove cascades of atmospheric chemical reactions that may have helped form the building blocks of life. More recently,…",
+      "date": "Jul 15, 2026",
+      "published_utc": "2026-07-15 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plasma-agriculture-mak.jpg"
     },
     {
       "topic": "Physics",
@@ -55,12 +55,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Physicists confirm 20-year-old theory that could boost quantum technology",
-      "link": "https://phys.org/news/2026-07-physicists-year-theory-boost-quantum.html",
-      "desc": "Future quantum computing will require correlations between distant modules—a feature known as distributed entanglement. Traditionally, such entanglement has relied on active control and repeated measurements. Now, physicists at the Institute of Science and Technology Austria (ISTA) have realized a…",
-      "date": "Jul 14, 2026",
-      "published_utc": "2026-07-14 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-confirm-20.jpg"
+      "title": "Faster quantum computers can learn from their own mistakes",
+      "link": "https://phys.org/news/2026-07-faster-quantum.html",
+      "desc": "Quantum computers promise to solve problems that would take even the fastest conventional supercomputers a vast amount of time, but the quantum information they store and process is extremely sensitive to even tiny disturbances from their surroundings. To keep these systems operating reliably, they…",
+      "date": "Jul 15, 2026",
+      "published_utc": "2026-07-15 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/faster-quantum-compute.jpg"
     },
     {
       "topic": "Earth Observation",
@@ -75,12 +75,22 @@
     {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
-      "title": "MTG-S1 commissioned and in position for weather forecasting",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-S1_commissioned_and_in_position_for_weather_forecasting",
-      "desc": "One year after launch, the first Meteosat Third Generation Sounder satellite, MTG-S1, is now commissioned and has been placed in its operational position in geostationary orbit at 0° longitude, and is now ready to deliver vital data to strengthen weather forecasting across Europe.",
+      "title": "ESA brings quantum computing to Earth observation",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/ESA_brings_quantum_computing_to_Earth_observation",
+      "desc": "The European Space Agency has installed its first quantum computer, called Bell-1, at its Earth observation centre in Italy. The move marks a significant step in exploring how quantum technology could be merged with classical high-performance computing to improve the speed and efficiency of…",
       "date": "Jul 15, 2026",
-      "published_utc": "2026-07-15 07:39 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/02/mtg-sounder_satellite_over_the_equator/26586287-1-eng-GB/MTG-Sounder_satellite_over_the_equator_card_full.jpg"
+      "published_utc": "2026-07-15 14:24 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/10/esrin/21100914-1-eng-GB/ESRIN_card_full.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "NASA’s Perseverance Rover Provides Sweeping View of Broom Point",
+      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-rover-provides-sweeping-view-of-broom-point/",
+      "desc": "Description This view looking back up at the outside lip of the 490-foot-tall (150-meter-tall) rim of Jezero Crater was taken by the Mastcam-Z instrument aboard NASA’s Perseverance on May 15, 2025, the 1,505th day, or sol, of the rover’s mission to Mars. The bright-colored rocks exposed across the…",
+      "date": "Jul 15, 2026",
+      "published_utc": "2026-07-15 17:59 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26755/PIA26755.png?w=4452&amp;h=1574&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
