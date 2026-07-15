@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 18:40 UTC",
+  "updated": "2026-07-15 00:48 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,16 +25,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "White-beam neutron device unlocks precise control of twisted quantum waves",
-      "link": "https://phys.org/news/2026-07-white-neutron-device-precise-quantum.html",
-      "desc": "CANISIUS is the official name of the new spin-echo neutron interferometer developed at Atominstitut, TU Wien. It enables precise control of neutron waves, something that was previously impossible.",
-      "date": "Jul 13, 2026",
-      "published_utc": "2026-07-13 18:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tu-wien-develops-novel.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "World-first neutron lens brings sharp focus to structures inside materials and objects",
       "link": "https://phys.org/news/2026-07-world-neutron-lens-sharp-focus.html",
       "desc": "Researchers at Paul Scherrer Institute (PSI) have developed the world's first achromatic lens for neutron imaging. The lens overcomes a longstanding obstacle in the field: focusing neutrons of different wavelengths well enough to form a sharp, magnified image. With the lens, researchers can now…",
@@ -55,12 +45,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New 3D thermal cloak hides objects from heat in any direction",
-      "link": "https://phys.org/news/2026-07-3d-thermal-cloak.html",
-      "desc": "Researchers have designed and built the first 3D device that can make objects invisible to heat, an advance that could transform how we protect sensitive electronics, manage heat in microchips and shield equipment from thermal detection.",
-      "date": "Jul 13, 2026",
-      "published_utc": "2026-07-13 18:57 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-3d-thermal-cloak-h.jpg"
+      "title": "New atomic trap boosts quantum performance by using surface forces",
+      "link": "https://phys.org/news/2026-07-atomic-boosts-quantum-surface.html",
+      "desc": "Researchers at Humboldt-Universität zu Berlin have developed a new method for trapping and controlling atoms near an ultrathin glass fiber. This has significantly improved the atoms' ability to store quantum information—an important step forward for future quantum technologies.",
+      "date": "Jul 14, 2026",
+      "published_utc": "2026-07-14 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-atomic-trap-boosts.jpg"
     },
     {
       "topic": "Physics",
@@ -83,14 +73,14 @@
       "image": ""
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "'Silly sprinklers' put in reverse to further unravel decades-old physics puzzle",
-      "link": "https://phys.org/news/2026-07-silly-sprinklers-reverse-unravel-decades.html",
-      "desc": "Each summer, lawns are marked by a familiar addition: \"silly sprinklers,\" whose loops and spirals spew water in creative ways. While seemingly frivolous in their construction, a team of mathematicians has used their design to address a long-standing mystery surrounding the laws of physics.",
-      "date": "Jul 13, 2026",
-      "published_utc": "2026-07-13 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-put-silly-1.jpg"
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Fans of the Arctic",
+      "link": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
+      "desc": "Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island. The post Fans of the Arctic appeared first on NASA Science .",
+      "date": "Jul 14, 2026",
+      "published_utc": "2026-07-14 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fans-of-the-arctic/duelingalluvialfans_oli2_20250801.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
