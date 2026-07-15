@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 00:48 UTC",
+  "updated": "2026-07-15 07:01 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -63,24 +63,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-confirm-20.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "New dark matter theory could solve multiple cosmic mysteries at once",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260711010128.htm",
-      "desc": "Dark matter may be far more complicated than scientists once believed. A new study suggests it could consist of at least two different kinds of particles that slowly separate over time, with heavier particles sinking toward the centers of galaxies and lighter ones drifting outward. This simple idea…",
-      "date": "Jul 14, 2026",
-      "published_utc": "2026-07-14 02:30 UTC",
-      "image": ""
-    },
-    {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
-      "title": "Fans of the Arctic",
-      "link": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
-      "desc": "Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island. The post Fans of the Arctic appeared first on NASA Science .",
-      "date": "Jul 14, 2026",
-      "published_utc": "2026-07-14 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fans-of-the-arctic/duelingalluvialfans_oli2_20250801.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "title": "Heat Dome Broils the Western U.S.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/",
+      "desc": "A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026. The post Heat Dome Broils the Western U.S. appeared first on NASA Science .",
+      "date": "Jul 15, 2026",
+      "published_utc": "2026-07-15 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712.jpg?w=2160&amp;h=1640&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
