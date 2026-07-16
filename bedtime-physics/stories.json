@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 18:39 UTC",
+  "updated": "2026-07-16 00:51 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,6 +35,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Doughnut‑shaped topology reveals new way to classify knitting, crochet and other textiles",
+      "link": "https://phys.org/news/2026-07-doughnutshaped-topology-reveals-crochet-textiles.html",
+      "desc": "Fabrics are made by repeatedly intertwining yarns into characteristic patterns. Many of their properties, such as stretchiness, arise not only from the material itself but also from how the yarns are arranged and entangled. Such properties illustrate how topology—the underlying patterns of…",
+      "date": "Jul 16, 2026",
+      "published_utc": "2026-07-16 00:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/understanding-textile.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Plasma agriculture makes strides toward super-seeding conventional methods",
       "link": "https://phys.org/news/2026-07-plasma-agriculture-super-seeding-conventional.html",
       "desc": "Occasionally, the sun unleashes powerful flares and coronal mass ejections, which hurl plasma and energetic particles into space. On the infant Earth, this solar activity drove cascades of atmospheric chemical reactions that may have helped form the building blocks of life. More recently,…",
@@ -45,12 +55,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New atomic trap boosts quantum performance by using surface forces",
-      "link": "https://phys.org/news/2026-07-atomic-boosts-quantum-surface.html",
-      "desc": "Researchers at Humboldt-Universität zu Berlin have developed a new method for trapping and controlling atoms near an ultrathin glass fiber. This has significantly improved the atoms' ability to store quantum information—an important step forward for future quantum technologies.",
-      "date": "Jul 14, 2026",
-      "published_utc": "2026-07-14 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-atomic-trap-boosts.jpg"
+      "title": "What does it mean to be 'quantum?' A physicist explains the basics behind Einstein's spooky actions at a distance",
+      "link": "https://phys.org/news/2026-07-quantum-physicist-basics-einstein-spooky.html",
+      "desc": "Imagine shining a flashlight across a dark room. You can predict exactly what the light will do: travel in a straight line from one point to another. That seems obvious because, in the world we see around us, light appears to follow a single, clear path.",
+      "date": "Jul 15, 2026",
+      "published_utc": "2026-07-15 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/quantum.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Jul 15, 2026",
       "published_utc": "2026-07-15 14:24 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/10/esrin/21100914-1-eng-GB/ESRIN_card_full.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "NASA’s Perseverance Rover Provides Sweeping View of Broom Point",
-      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-rover-provides-sweeping-view-of-broom-point/",
-      "desc": "Description This view looking back up at the outside lip of the 490-foot-tall (150-meter-tall) rim of Jezero Crater was taken by the Mastcam-Z instrument aboard NASA’s Perseverance on May 15, 2025, the 1,505th day, or sol, of the rover’s mission to Mars. The bright-colored rocks exposed across the…",
-      "date": "Jul 15, 2026",
-      "published_utc": "2026-07-15 17:59 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26755/PIA26755.png?w=4452&amp;h=1574&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
