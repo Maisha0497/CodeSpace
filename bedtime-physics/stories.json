@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-16 12:49 UTC",
+  "updated": "2026-07-16 18:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Sensitive measurements uncover dual superconducting states in atom-thin NbSe₂ and TaS₂",
-      "link": "https://phys.org/news/2026-07-sensitive-uncover-dual-superconducting-states.html",
-      "desc": "A new study reveals that two widely studied ultrathin superconducting materials are more sophisticated than they appear. Although they seem to behave like simple superconductors with a single energy gap, they actually contain two strongly interacting superconducting states that work together and…",
-      "date": "Jul 15, 2026",
-      "published_utc": "2026-07-15 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/superconducting-materi.jpg"
+      "title": "Scientists create stable 'boron graphene' and uncover quantum liquid crystal state",
+      "link": "https://phys.org/news/2026-07-scientists-stable-boron-graphene-uncover.html",
+      "desc": "Graphene has long been regarded as one of the most promising materials for future electronics, but its relatively weak electron interactions have limited its potential for applications such as high-temperature superconductivity. Now, researchers from Tohoku University have overcome a major obstacle…",
+      "date": "Jul 16, 2026",
+      "published_utc": "2026-07-16 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-realize-sta.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Physicists create first room-temperature quantum material",
-      "link": "https://phys.org/news/2026-07-physicists-room-temperature-quantum-material.html",
-      "desc": "Quantum materials could transform technologies ranging from powerful computers and ultrasecure communications to advanced energy systems. But there has always been one major obstacle.",
-      "date": "Jul 15, 2026",
-      "published_utc": "2026-07-15 15:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lsu-physicists-create.jpg"
+      "title": "Scientists achieve all-electrical control of single-molecule quantum states",
+      "link": "https://phys.org/news/2026-07-scientists-electrical-molecule-quantum-states.html",
+      "desc": "Quantum technologies promise revolutionary advances in computing, sensing and information processing. However, controlling individual quantum bits (qubits) at the atomic scale remains a major challenge because conventional approaches rely on magnetic fields, which are difficult to confine to a…",
+      "date": "Jul 16, 2026",
+      "published_utc": "2026-07-16 13:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-achieve-all.jpg"
     },
     {
       "topic": "Physics",
@@ -33,14 +33,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-teleportation.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Thermodynamic Computers Go With the (Energy) Flow",
-      "link": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
-      "desc": "Today’s computers need safeguards against random energy fluctuations. Thermodynamic computers would put those fluctuations to use. The post Thermodynamic Computers Go With the (Energy) Flow first appeared on Quanta Magazine",
-      "date": "Jul 15, 2026",
-      "published_utc": "2026-07-15 15:24 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Thermodynamic-Computing-cr-Ada-Zejun-Shen-Default-copy.webp"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Schrödinger‑like charges in six‑molecule clusters point to new quantum components",
+      "link": "https://phys.org/news/2026-07-schrdingerlike-sixmolecule-clusters-quantum-components.html",
+      "desc": "Researchers from the University of Basel have published details of how electrons within a cluster of molecules interact with one another and can be controlled. Their findings pave the way for new approaches to developing quantum components and electronic circuits on the nanometer scale.",
+      "date": "Jul 16, 2026",
+      "published_utc": "2026-07-16 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unpaired-electrons-in.jpg"
     },
     {
       "topic": "Physics",
@@ -55,12 +55,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Plasma agriculture makes strides toward super-seeding conventional methods",
-      "link": "https://phys.org/news/2026-07-plasma-agriculture-super-seeding-conventional.html",
-      "desc": "Occasionally, the sun unleashes powerful flares and coronal mass ejections, which hurl plasma and energetic particles into space. On the infant Earth, this solar activity drove cascades of atmospheric chemical reactions that may have helped form the building blocks of life. More recently,…",
-      "date": "Jul 15, 2026",
-      "published_utc": "2026-07-15 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plasma-agriculture-mak.jpg"
+      "title": "A new 'library' for Feynman integrals",
+      "link": "https://phys.org/news/2026-07-library-feynman.html",
+      "desc": "Theoretical physicists at Johannes Gutenberg University Mainz (JGU) have developed a new method of ordering Feynman integrals. This critical step in making theoretical predictions for high-energy precision measurements has posed a major computational bottleneck until now.",
+      "date": "Jul 16, 2026",
+      "published_utc": "2026-07-16 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-library-for-feyn.jpg"
     },
     {
       "topic": "Physics",
@@ -75,22 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Faster quantum computers can learn from their own mistakes",
-      "link": "https://phys.org/news/2026-07-faster-quantum.html",
-      "desc": "Quantum computers promise to solve problems that would take even the fastest conventional supercomputers a vast amount of time, but the quantum information they store and process is extremely sensitive to even tiny disturbances from their surroundings. To keep these systems operating reliably, they…",
-      "date": "Jul 15, 2026",
-      "published_utc": "2026-07-15 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/faster-quantum-compute.jpg"
+      "title": "Cold radioactive molecules prepped and readied for physics discoveries",
+      "link": "https://phys.org/news/2026-07-cold-radioactive-molecules-prepped-readied.html",
+      "desc": "For the first time, researchers have developed a way to create chilled molecules containing the radioactive element radium. The resulting laboratory concoctions, generated in part through steps similar to those used to make candy, are poised to help researchers solve one of the biggest mysteries of…",
+      "date": "Jul 16, 2026",
+      "published_utc": "2026-07-16 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cold-radioactive-molec.jpg"
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "ESA brings quantum computing to Earth observation",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/ESA_brings_quantum_computing_to_Earth_observation",
-      "desc": "The European Space Agency has installed its first quantum computer, called Bell-1, at its Earth observation centre in Italy. The move marks a significant step in exploring how quantum technology could be merged with classical high-performance computing to improve the speed and efficiency of…",
-      "date": "Jul 15, 2026",
-      "published_utc": "2026-07-15 14:24 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/10/esrin/21100914-1-eng-GB/ESRIN_card_full.jpg"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Study finds choice of team car could decide the Tour de France",
+      "link": "https://phys.org/news/2026-07-choice-team-car-de-france.html",
+      "desc": "Elite athletes competing in the Tour de France could gain more than eight seconds in the individual time trial depending solely on the type of team car following them, a new study has revealed.",
+      "date": "Jul 16, 2026",
+      "published_utc": "2026-07-16 15:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-choice-of-1.jpg"
     }
   ]
 }
