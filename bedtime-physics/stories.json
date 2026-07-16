@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16 07:06 UTC",
+  "updated": "2026-07-16 12:49 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,6 +21,16 @@
       "date": "Jul 15, 2026",
       "published_utc": "2026-07-15 15:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lsu-physicists-create.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum teleportation could reduce photon loss in long-distance communications",
+      "link": "https://phys.org/news/2026-07-quantum-teleportation-photon-loss-distance.html",
+      "desc": "Quantum technologies, which leverage the principles of quantum mechanics, have been found to outperform their classical counterparts on specific tasks. Among other things, past studies have highlighted the potential of quantum systems that can enable long-distance communication, using photons…",
+      "date": "Jul 16, 2026",
+      "published_utc": "2026-07-16 12:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-teleportation.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -81,16 +91,6 @@
       "date": "Jul 15, 2026",
       "published_utc": "2026-07-15 14:24 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/10/esrin/21100914-1-eng-GB/ESRIN_card_full.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "NASA’s Perseverance Rover Provides Sweeping View of Broom Point",
-      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-rover-provides-sweeping-view-of-broom-point/",
-      "desc": "Description This view looking back up at the outside lip of the 490-foot-tall (150-meter-tall) rim of Jezero Crater was taken by the Mastcam-Z instrument aboard NASA’s Perseverance on May 15, 2025, the 1,505th day, or sol, of the rover’s mission to Mars. The bright-colored rocks exposed across the…",
-      "date": "Jul 15, 2026",
-      "published_utc": "2026-07-15 17:59 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26755/PIA26755.png?w=4452&amp;h=1574&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
