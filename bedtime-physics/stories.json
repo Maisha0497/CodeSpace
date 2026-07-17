@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16 18:40 UTC",
+  "updated": "2026-07-17 00:54 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,6 +35,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Single fission experiment maps excess gamma rays from more than a dozen unstable nuclei",
+      "link": "https://phys.org/news/2026-07-fission-excess-gamma-rays-dozen.html",
+      "desc": "In a single experiment, physicists have measured the \"excess\" emission of high-energy gamma rays from more than a dozen heavy, unstable atomic nuclei. Mapping the gamma-ray emissions of so many isotopes produced in nuclear fission marks an important step toward a better understanding of one of the…",
+      "date": "Jul 16, 2026",
+      "published_utc": "2026-07-16 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-experiment-maps-mu.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Schrödinger‑like charges in six‑molecule clusters point to new quantum components",
       "link": "https://phys.org/news/2026-07-schrdingerlike-sixmolecule-clusters-quantum-components.html",
       "desc": "Researchers from the University of Basel have published details of how electrons within a cluster of molecules interact with one another and can be controlled. Their findings pave the way for new approaches to developing quantum components and electronic circuits on the nanometer scale.",
@@ -45,32 +55,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Doughnut‑shaped topology reveals new way to classify knitting, crochet and other textiles",
-      "link": "https://phys.org/news/2026-07-doughnutshaped-topology-reveals-crochet-textiles.html",
-      "desc": "Fabrics are made by repeatedly intertwining yarns into characteristic patterns. Many of their properties, such as stretchiness, arise not only from the material itself but also from how the yarns are arranged and entangled. Such properties illustrate how topology—the underlying patterns of…",
-      "date": "Jul 16, 2026",
-      "published_utc": "2026-07-16 00:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/understanding-textile.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "A new 'library' for Feynman integrals",
       "link": "https://phys.org/news/2026-07-library-feynman.html",
       "desc": "Theoretical physicists at Johannes Gutenberg University Mainz (JGU) have developed a new method of ordering Feynman integrals. This critical step in making theoretical predictions for high-energy precision measurements has posed a major computational bottleneck until now.",
       "date": "Jul 16, 2026",
       "published_utc": "2026-07-16 13:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-library-for-feyn.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "What does it mean to be 'quantum?' A physicist explains the basics behind Einstein's spooky actions at a distance",
-      "link": "https://phys.org/news/2026-07-quantum-physicist-basics-einstein-spooky.html",
-      "desc": "Imagine shining a flashlight across a dark room. You can predict exactly what the light will do: travel in a straight line from one point to another. That seems obvious because, in the world we see around us, light appears to follow a single, clear path.",
-      "date": "Jul 15, 2026",
-      "published_utc": "2026-07-15 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/quantum.jpg"
     },
     {
       "topic": "Physics",
@@ -91,6 +81,16 @@
       "date": "Jul 16, 2026",
       "published_utc": "2026-07-16 15:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-choice-of-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "How ions flow like a liquid through a solid crystal",
+      "link": "https://phys.org/news/2026-07-ions-liquid-solid-crystal.html",
+      "desc": "A research team led by the University of Osaka, working with the National Institute of Advanced Industrial Science and Technology (AIST), RIKEN and the Institute of Science Tokyo, has uncovered a fundamental mechanism behind superionic conduction, in which ions move rapidly through a solid while…",
+      "date": "Jul 16, 2026",
+      "published_utc": "2026-07-16 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-ions-flow-like-a-l-1.jpg"
     }
   ]
 }
