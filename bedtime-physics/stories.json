@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 12:41 UTC",
+  "updated": "2026-07-17 18:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,22 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Scientists create stable 'boron graphene' and uncover quantum liquid crystal state",
-      "link": "https://phys.org/news/2026-07-scientists-stable-boron-graphene-uncover.html",
-      "desc": "Graphene has long been regarded as one of the most promising materials for future electronics, but its relatively weak electron interactions have limited its potential for applications such as high-temperature superconductivity. Now, researchers from Tohoku University have overcome a major obstacle…",
-      "date": "Jul 16, 2026",
-      "published_utc": "2026-07-16 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-realize-sta.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Scientists achieve all-electrical control of single-molecule quantum states",
-      "link": "https://phys.org/news/2026-07-scientists-electrical-molecule-quantum-states.html",
-      "desc": "Quantum technologies promise revolutionary advances in computing, sensing and information processing. However, controlling individual quantum bits (qubits) at the atomic scale remains a major challenge because conventional approaches rely on magnetic fields, which are difficult to confine to a…",
-      "date": "Jul 16, 2026",
-      "published_utc": "2026-07-16 13:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-achieve-all.jpg"
+      "title": "The Large Hadron Collider is being upgraded so that it can unlock the secrets of the Higgs boson",
+      "link": "https://phys.org/news/2026-07-large-hadron-collider-secrets-higgs.html",
+      "desc": "Deep beneath the French-Swiss border, the world's largest scientific instrument has fallen silent. After years of smashing protons together at nearly the speed of light, CERN's Large Hadron Collider (LHC) has stopped operations and entered a long shutdown.",
+      "date": "Jul 17, 2026",
+      "published_utc": "2026-07-17 18:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-large-hadron-colli.jpg"
     },
     {
       "topic": "Physics",
@@ -45,52 +35,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Schrödinger‑like charges in six‑molecule clusters point to new quantum components",
-      "link": "https://phys.org/news/2026-07-schrdingerlike-sixmolecule-clusters-quantum-components.html",
-      "desc": "Researchers from the University of Basel have published details of how electrons within a cluster of molecules interact with one another and can be controlled. Their findings pave the way for new approaches to developing quantum components and electronic circuits on the nanometer scale.",
-      "date": "Jul 16, 2026",
-      "published_utc": "2026-07-16 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unpaired-electrons-in.jpg"
+      "title": "A scheme to verify gates of a quantum computer without examining devices",
+      "link": "https://phys.org/news/2026-07-scheme-gates-quantum-devices.html",
+      "desc": "Quantum computers, systems that process information using the principles of quantum mechanics, could solve some problems that cannot be tackled by the classical computers currently used worldwide. Despite their potential, verifying that these computers are working correctly and can reliably perform…",
+      "date": "Jul 17, 2026",
+      "published_utc": "2026-07-17 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-scheme-to-verify-gat.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "A new 'library' for Feynman integrals",
-      "link": "https://phys.org/news/2026-07-library-feynman.html",
-      "desc": "Theoretical physicists at Johannes Gutenberg University Mainz (JGU) have developed a new method of ordering Feynman integrals. This critical step in making theoretical predictions for high-energy precision measurements has posed a major computational bottleneck until now.",
-      "date": "Jul 16, 2026",
-      "published_utc": "2026-07-16 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-library-for-feyn.jpg"
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Martin Picard’s Mitochondrial Theory of Mind",
+      "link": "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/",
+      "desc": "The biologist’s bold “energetic view of life” looks to the body’s strangest organelles as the link between cells, health, and mind and the foundation of our experience of being alive. The post Martin Picard’s Mitochondrial Theory of Mind first appeared on Quanta Magazine",
+      "date": "Jul 17, 2026",
+      "published_utc": "2026-07-17 14:31 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Martin-Picard-cr-Sasha-Maslov-Default.webp"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Cold radioactive molecules prepped and readied for physics discoveries",
-      "link": "https://phys.org/news/2026-07-cold-radioactive-molecules-prepped-readied.html",
-      "desc": "For the first time, researchers have developed a way to create chilled molecules containing the radioactive element radium. The resulting laboratory concoctions, generated in part through steps similar to those used to make candy, are poised to help researchers solve one of the biggest mysteries of…",
-      "date": "Jul 16, 2026",
-      "published_utc": "2026-07-16 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cold-radioactive-molec.jpg"
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
+      "link": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
+      "desc": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars. Psyche was traveling from right to left (northeast to southwest on Mars) during…",
+      "date": "Jul 17, 2026",
+      "published_utc": "2026-07-17 17:38 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26749/PIA26749.png?w=2363&amp;h=1360&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Study finds choice of team car could decide the Tour de France",
-      "link": "https://phys.org/news/2026-07-choice-team-car-de-france.html",
-      "desc": "Elite athletes competing in the Tour de France could gain more than eight seconds in the individual time trial depending solely on the type of team car following them, a new study has revealed.",
-      "date": "Jul 16, 2026",
-      "published_utc": "2026-07-16 15:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-choice-of-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "How ions flow like a liquid through a solid crystal",
-      "link": "https://phys.org/news/2026-07-ions-liquid-solid-crystal.html",
-      "desc": "A research team led by the University of Osaka, working with the National Institute of Advanced Industrial Science and Technology (AIST), RIKEN and the Institute of Science Tokyo, has uncovered a fundamental mechanism behind superionic conduction, in which ions move rapidly through a solid while…",
-      "date": "Jul 16, 2026",
-      "published_utc": "2026-07-16 13:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-ions-flow-like-a-l-1.jpg"
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space: Guinea-Bissau",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Guinea-Bissau",
+      "desc": "Image: This Copernicus Sentinel-2 image features part of the Republic of Guinea-Bissau in western Africa.",
+      "date": "Jul 17, 2026",
+      "published_utc": "2026-07-17 08:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_guinea-bissau/27381078-2-eng-GB/Earth_from_Space_Guinea-Bissau_card_full.jpg"
     }
   ]
 }
