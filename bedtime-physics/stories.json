@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 06:56 UTC",
+  "updated": "2026-07-18 12:34 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,6 +21,16 @@
       "date": "Jul 17, 2026",
       "published_utc": "2026-07-17 18:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/snuuniversity-of-seoul.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "AI unlocks QLED recipe that doubles efficiency and boosts lifetime 40-fold",
+      "link": "https://phys.org/news/2026-07-ai-qled-recipe-efficiency-boosts.html",
+      "desc": "A technology has been developed that allows artificial intelligence to inversely determine the process conditions for quantum-dot light-emitting diode (QLED) devices—conditions that previously required extensive trial and error to identify.",
+      "date": "Jul 18, 2026",
+      "published_utc": "2026-07-18 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/snu-researchers-develo-18.jpg"
     },
     {
       "topic": "Physics",
@@ -53,6 +63,16 @@
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Martin-Picard-cr-Sasha-Maslov-Default.webp"
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "How physics and mathematical modeling help us make better clothes",
+      "link": "https://phys.org/news/2026-07-physics-mathematical.html",
+      "desc": "A new paper in the journal Nature Physics offers insights into the physics of liquid droplets—and while many people may not appreciate the mathematical accomplishment, they will benefit from the athletic wear and raincoats it makes possible. The recent article, \"Tricky Tension,\" explores the…",
+      "date": "Jul 18, 2026",
+      "published_utc": "2026-07-18 12:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-physics-and-mathem.jpg"
+    },
+    {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
       "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
@@ -63,14 +83,14 @@
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26749/PIA26749.png?w=2363&amp;h=1360&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Earth from Space: Guinea-Bissau",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Guinea-Bissau",
-      "desc": "Image: This Copernicus Sentinel-2 image features part of the Republic of Guinea-Bissau in western Africa.",
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
+      "link": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
+      "desc": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the smallest crescent at the center of the of the image as Mars is farthest from the…",
       "date": "Jul 17, 2026",
-      "published_utc": "2026-07-17 08:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_guinea-bissau/27381078-2-eng-GB/Earth_from_Space_Guinea-Bissau_card_full.jpg"
+      "published_utc": "2026-07-17 22:32 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26586/PIA26586.png?w=1648&amp;h=1080&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
