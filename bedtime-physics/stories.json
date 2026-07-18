@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 12:34 UTC",
+  "updated": "2026-07-18 18:34 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,32 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "The Large Hadron Collider is being upgraded so that it can unlock the secrets of the Higgs boson",
-      "link": "https://phys.org/news/2026-07-large-hadron-collider-secrets-higgs.html",
-      "desc": "Deep beneath the French-Swiss border, the world's largest scientific instrument has fallen silent. After years of smashing protons together at nearly the speed of light, CERN's Large Hadron Collider (LHC) has stopped operations and entered a long shutdown.",
-      "date": "Jul 17, 2026",
-      "published_utc": "2026-07-17 18:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-large-hadron-colli.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "A scheme to verify gates of a quantum computer without examining devices",
-      "link": "https://phys.org/news/2026-07-scheme-gates-quantum-devices.html",
-      "desc": "Quantum computers, systems that process information using the principles of quantum mechanics, could solve some problems that cannot be tackled by the classical computers currently used worldwide. Despite their potential, verifying that these computers are working correctly and can reliably perform…",
-      "date": "Jul 17, 2026",
-      "published_utc": "2026-07-17 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-scheme-to-verify-gat.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Martin Picard’s Mitochondrial Theory of Mind",
-      "link": "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/",
-      "desc": "The biologist’s bold “energetic view of life” looks to the body’s strangest organelles as the link between cells, health, and mind and the foundation of our experience of being alive. The post Martin Picard’s Mitochondrial Theory of Mind first appeared on Quanta Magazine",
-      "date": "Jul 17, 2026",
-      "published_utc": "2026-07-17 14:31 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Martin-Picard-cr-Sasha-Maslov-Default.webp"
+      "title": "How quantum circuits based on neutral atoms could find and fix errors",
+      "link": "https://phys.org/news/2026-07-quantum-circuits-based-neutral-atoms.html",
+      "desc": "Quantum computers, devices that process information by leveraging the laws of quantum mechanics, have been found to outperform classical computers in some advanced tasks. Instead of storing information in the form of classical binary bits (i.e., 0 or 1), quantum computers rely on quantum bits…",
+      "date": "Jul 18, 2026",
+      "published_utc": "2026-07-18 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-quantum-circuits-b-1.jpg"
     },
     {
       "topic": "Physics",
@@ -71,16 +51,6 @@
       "date": "Jul 18, 2026",
       "published_utc": "2026-07-18 12:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-physics-and-mathem.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
-      "link": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
-      "desc": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars. Psyche was traveling from right to left (northeast to southwest on Mars) during…",
-      "date": "Jul 17, 2026",
-      "published_utc": "2026-07-17 17:38 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26749/PIA26749.png?w=2363&amp;h=1360&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "topic": "Earth Observation",
