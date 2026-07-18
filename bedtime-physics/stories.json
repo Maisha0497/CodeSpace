@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-18 00:50 UTC",
+  "updated": "2026-07-18 06:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists built a camera that can track invisible particles in 3D",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
-      "desc": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or…",
-      "date": "Jul 17, 2026",
-      "published_utc": "2026-07-17 06:04 UTC",
-      "image": ""
-    },
     {
       "topic": "Quantum",
       "source": "Phys.org Quantum",
