@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-19 12:34 UTC",
+  "updated": "2026-07-19 18:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "How quantum circuits based on neutral atoms could find and fix errors",
-      "link": "https://phys.org/news/2026-07-quantum-circuits-based-neutral-atoms.html",
-      "desc": "Quantum computers, devices that process information by leveraging the laws of quantum mechanics, have been found to outperform classical computers in some advanced tasks. Instead of storing information in the form of classical binary bits (i.e., 0 or 1), quantum computers rely on quantum bits…",
-      "date": "Jul 18, 2026",
-      "published_utc": "2026-07-18 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-quantum-circuits-b-1.jpg"
+      "title": "Quantum entanglement without transport: Leaky qubits offer route around noisy channels",
+      "link": "https://phys.org/news/2026-07-quantum-entanglement-leaky-qubits-route.html",
+      "desc": "The inevitable leakage of energy and information from a quantum system into its surrounding environment is the enemy of quantum technology. Now, researchers have demonstrated that it can be exploited to generate entanglement—the \"resource\" that quantum technologies use to perform tasks inaccessible…",
+      "date": "Jul 19, 2026",
+      "published_utc": "2026-07-19 18:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/entanglement-over-larg.jpg"
     }
   ]
 }
