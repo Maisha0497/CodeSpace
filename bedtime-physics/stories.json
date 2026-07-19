@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-18 18:34 UTC",
+  "updated": "2026-07-19 00:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "How Gravity from Entropy theory connects the second law of thermodynamics with the emergence of cosmic structure",
-      "link": "https://phys.org/news/2026-07-gravity-entropy-theory-law-thermodynamics.html",
-      "desc": "A new study by Queen Mary University of London mathematician Professor Ginestra Bianconi proposes a new perspective on one of the deepest questions in modern physics: How can the universe become increasingly structured and complex while still obeying the second law of thermodynamics?",
-      "date": "Jul 17, 2026",
-      "published_utc": "2026-07-17 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/entropy.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New optical chip design controls light speed in real time, simulations suggest",
-      "link": "https://phys.org/news/2026-07-optical-chip-real-simulations.html",
-      "desc": "Seoul National University College of Engineering announced that a joint research team led by Professor Namkyoo Park and Professor Sunkyu Yu of the Department of Electrical and Computer Engineering at SNU, in collaboration with Professor Xianji Piao of the School of Electrical and Computer…",
-      "date": "Jul 17, 2026",
-      "published_utc": "2026-07-17 18:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/snuuniversity-of-seoul.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -51,16 +31,6 @@
       "date": "Jul 18, 2026",
       "published_utc": "2026-07-18 12:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-physics-and-mathem.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
-      "link": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
-      "desc": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the smallest crescent at the center of the of the image as Mars is farthest from the…",
-      "date": "Jul 17, 2026",
-      "published_utc": "2026-07-17 22:32 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26586/PIA26586.png?w=1648&amp;h=1080&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
