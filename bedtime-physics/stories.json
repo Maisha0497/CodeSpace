@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-19 07:08 UTC",
+  "updated": "2026-07-19 12:34 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "AI unlocks QLED recipe that doubles efficiency and boosts lifetime 40-fold",
-      "link": "https://phys.org/news/2026-07-ai-qled-recipe-efficiency-boosts.html",
-      "desc": "A technology has been developed that allows artificial intelligence to inversely determine the process conditions for quantum-dot light-emitting diode (QLED) devices—conditions that previously required extensive trial and error to identify.",
-      "date": "Jul 18, 2026",
-      "published_utc": "2026-07-18 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/snu-researchers-develo-18.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,16 +11,6 @@
       "date": "Jul 18, 2026",
       "published_utc": "2026-07-18 13:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-quantum-circuits-b-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "How physics and mathematical modeling help us make better clothes",
-      "link": "https://phys.org/news/2026-07-physics-mathematical.html",
-      "desc": "A new paper in the journal Nature Physics offers insights into the physics of liquid droplets—and while many people may not appreciate the mathematical accomplishment, they will benefit from the athletic wear and raincoats it makes possible. The recent article, \"Tricky Tension,\" explores the…",
-      "date": "Jul 18, 2026",
-      "published_utc": "2026-07-18 12:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-physics-and-mathem.jpg"
     }
   ]
 }
