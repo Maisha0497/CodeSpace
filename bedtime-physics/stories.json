@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20 07:22 UTC",
+  "updated": "2026-07-20 12:58 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Jul 19, 2026",
       "published_utc": "2026-07-19 18:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/entanglement-over-larg.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Sentinel-3C unpacked",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Sentinel-3C_unpacked",
+      "desc": "Image: The next satellite in the EU’s Copernicus Earth observation satellite system, Sentinel-3C, has been unpacked from its container at Europe’s Spaceport in French Guiana.",
+      "date": "Jul 20, 2026",
+      "published_utc": "2026-07-20 12:13 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/sentinel-3c_unpacked/27383691-1-eng-GB/Sentinel-3C_unpacked_card_full.jpg"
     },
     {
       "topic": "Earth Observation",
