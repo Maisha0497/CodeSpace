@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-20 12:58 UTC",
+  "updated": "2026-07-20 18:54 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum entanglement without transport: Leaky qubits offer route around noisy channels",
-      "link": "https://phys.org/news/2026-07-quantum-entanglement-leaky-qubits-route.html",
-      "desc": "The inevitable leakage of energy and information from a quantum system into its surrounding environment is the enemy of quantum technology. Now, researchers have demonstrated that it can be exploited to generate entanglement—the \"resource\" that quantum technologies use to perform tasks inaccessible…",
-      "date": "Jul 19, 2026",
-      "published_utc": "2026-07-19 18:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/entanglement-over-larg.jpg"
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "The Organisms That Make Earth’s Harshest Places Home",
+      "link": "https://www.quantamagazine.org/the-organisms-that-make-earths-harshest-places-home-20260720/",
+      "desc": "Extremophiles that thrive in the most unforgiving environments aren’t just biological curiosities. Understanding their resilience has many implications for us. The post The Organisms That Make Earth’s Harshest Places Home first appeared on Quanta Magazine",
+      "date": "Jul 20, 2026",
+      "published_utc": "2026-07-20 15:03 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2055/07/ImageGallery_Extremophiles-crWysiati_Alamy-Default.webp"
     },
     {
       "topic": "Remote Sensing",
