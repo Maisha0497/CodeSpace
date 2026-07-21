@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-21 12:45 UTC",
+  "updated": "2026-07-21 18:44 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Frozen fiber couples light and sound 1,000 times more strongly than standard glass fibers",
+      "link": "https://phys.org/news/2026-07-frozen-fiber-couples-strongly-standard.html",
+      "desc": "Researchers have developed a new type of optical fiber by freezing a glass capillary filled with liquid. It guides light and sound waves simultaneously and enables highly efficient coupling between them. The high coupling strength lowers the energy consumption of photonic neuromorphic computing…",
+      "date": "Jul 21, 2026",
+      "published_utc": "2026-07-21 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/extremely-cold-and-hig.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -11,6 +21,16 @@
       "date": "Jul 21, 2026",
       "published_utc": "2026-07-21 10:07 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/riding-a-miniature-mag.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "New quantum gravity theory links entropy, dark energy, and life",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719035947.htm",
+      "desc": "A new theoretical study offers a possible explanation for how the Universe can grow more complex without violating the second law of thermodynamics. Using a quantum gravity framework called Gravity from Entropy, mathematician Ginestra Bianconi found that the Universe’s total entropy may rise as…",
+      "date": "Jul 21, 2026",
+      "published_utc": "2026-07-21 02:40 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
@@ -23,14 +43,24 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-ai-scientist-could.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "The Organisms That Make Earth’s Harshest Places Home",
-      "link": "https://www.quantamagazine.org/the-organisms-that-make-earths-harshest-places-home-20260720/",
-      "desc": "Extremophiles that thrive in the most unforgiving environments aren’t just biological curiosities. Understanding their resilience has many implications for us. The post The Organisms That Make Earth’s Harshest Places Home first appeared on Quanta Magazine",
-      "date": "Jul 20, 2026",
-      "published_utc": "2026-07-20 15:03 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2055/07/ImageGallery_Extremophiles-crWysiati_Alamy-Default.webp"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "From quantum error correction to emergent gravity: Probing holographic universes at QLab",
+      "link": "https://phys.org/news/2026-07-quantum-error-emergent-gravity-probing.html",
+      "desc": "One of the deepest ambitions in modern physics is understanding how the fabric of space and time could emerge from fundamental quantum degrees of freedom to establish a quantum theory of gravity.",
+      "date": "Jul 21, 2026",
+      "published_utc": "2026-07-21 15:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-quantum-error-cor.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Slums are bearing the brunt of the climate crisis—and devising solutions",
+      "link": "https://eos.org/articles/slums-are-bearing-the-brunt-of-the-climate-crisis-and-devising-solutions",
+      "desc": "As temperatures rise, it is the poor who suffer most. The coping strategies of those living in informal settlements may hold lessons for cities of the future.",
+      "date": "Jul 21, 2026",
+      "published_utc": "2026-07-21 13:11 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/07/broom-dust-pollution-1024x576.jpg"
     },
     {
       "topic": "Earth Observation",
