@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21 00:53 UTC",
+  "updated": "2026-07-21 07:09 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,12 +25,12 @@
     {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
-      "title": "Shaping the Emerald City",
-      "link": "https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/",
-      "desc": "The hills and basins of Seattle, Washington, have been sculpted by glaciers and modified by humans. The post Shaping the Emerald City appeared first on NASA Science .",
-      "date": "Jul 20, 2026",
-      "published_utc": "2026-07-20 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shaping-the-emerald-city/ISS074-E-723719.jpg?w=2160&amp;h=1440&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "title": "Why Maine’s Sandy Shorelines Turn Jagged",
+      "link": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
+      "desc": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city. The post Why Maine&#8217;s Sandy Shorelines Turn Jagged appeared first on NASA Science .",
+      "date": "Jul 21, 2026",
+      "published_utc": "2026-07-21 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/why-maine&#039;s-sandy-shorelines-turn-jagged/mainecoast_oli2_20250831.jpg?w=2160&amp;h=2407&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
