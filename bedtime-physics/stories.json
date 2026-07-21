@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-21 07:09 UTC",
+  "updated": "2026-07-21 12:45 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Aligned graphite particles unlock stable levitation above magnets, study finds",
+      "link": "https://phys.org/news/2026-07-aligned-graphite-particles-stable-levitation.html",
+      "desc": "A diamagnetic substance is slightly repelled by magnetic fields. With a strong enough magnet, the diamagnetic force can override gravity, and the substance will float in the air. Graphite, the main component of pencil lead, is considered one of the best substances for such real-world levitation,…",
+      "date": "Jul 21, 2026",
+      "published_utc": "2026-07-21 10:07 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/riding-a-miniature-mag.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "AI agent helps prepare synchrotron X-ray experimental measurements, paving the way for autonomous operation",
+      "link": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html",
+      "desc": "Artificial intelligence (AI) models are now used daily by many people worldwide, both for professional and personal purposes. Over the past decades, scientists specialized in various disciplines have also started using these models to conduct research or simplify their experimental practices.",
+      "date": "Jul 21, 2026",
+      "published_utc": "2026-07-21 11:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-ai-scientist-could.jpg"
+    },
     {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
@@ -11,16 +31,6 @@
       "date": "Jul 20, 2026",
       "published_utc": "2026-07-20 15:03 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2055/07/ImageGallery_Extremophiles-crWysiati_Alamy-Default.webp"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Sentinel-3C unpacked",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Sentinel-3C_unpacked",
-      "desc": "Image: The next satellite in the EU’s Copernicus Earth observation satellite system, Sentinel-3C, has been unpacked from its container at Europe’s Spaceport in French Guiana.",
-      "date": "Jul 20, 2026",
-      "published_utc": "2026-07-20 12:13 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/sentinel-3c_unpacked/27383691-1-eng-GB/Sentinel-3C_unpacked_card_full.jpg"
     },
     {
       "topic": "Earth Observation",
