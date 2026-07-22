@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-21 18:44 UTC",
+  "updated": "2026-07-22 00:52 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Two-color lasers aim electron currents through semiconductor with no electric field",
+      "link": "https://phys.org/news/2026-07-lasers-aim-electron-currents-semiconductor.html",
+      "desc": "Researchers at the University of Michigan have created a device that enables them to control the flow of electrons through a semiconductor using only laser light—no electrical power source required. The device was built to explore fundamental physics and realize a previously unobserved behavior,…",
+      "date": "Jul 21, 2026",
+      "published_utc": "2026-07-21 20:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electron-lighthouse-il.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,6 +31,16 @@
       "date": "Jul 21, 2026",
       "published_utc": "2026-07-21 10:07 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/riding-a-miniature-mag.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum sensing microscope illuminates transistor design",
+      "link": "https://phys.org/news/2026-07-quantum-microscope-illuminates-transistor.html",
+      "desc": "Artificial intelligence faces an energy crisis stemming from a physical traffic jam inside modern computer chips. Processors must continually shuffle data, such as the billions of parameters in complex models, between separate computing and memory nodes. This traffic jam, known as the \"von Neumann…",
+      "date": "Jul 21, 2026",
+      "published_utc": "2026-07-21 20:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-sensing-micros.jpg"
     },
     {
       "topic": "Quantum",
@@ -53,6 +73,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-quantum-error-cor.jpg"
     },
     {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica",
+      "link": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
+      "desc": "Description Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak Zaterjavshijsja — a mountaintop in East Antarctica — poking out amid a stream of ice flowing northeast to the ocean. The obstruction causes…",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 00:33 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26617/PIA26617.png?w=4200&amp;h=3300&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
       "topic": "Geoscience",
       "source": "Eos",
       "title": "Slums are bearing the brunt of the climate crisis—and devising solutions",
@@ -61,16 +91,6 @@
       "date": "Jul 21, 2026",
       "published_utc": "2026-07-21 13:11 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/07/broom-dust-pollution-1024x576.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Why Maine’s Sandy Shorelines Turn Jagged",
-      "link": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
-      "desc": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city. The post Why Maine&#8217;s Sandy Shorelines Turn Jagged appeared first on NASA Science .",
-      "date": "Jul 21, 2026",
-      "published_utc": "2026-07-21 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/why-maine&#039;s-sandy-shorelines-turn-jagged/mainecoast_oli2_20250831.jpg?w=2160&amp;h=2407&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
