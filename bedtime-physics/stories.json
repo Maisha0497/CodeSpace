@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 12:46 UTC",
+  "updated": "2026-07-22 18:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -23,14 +23,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electron-lighthouse-il.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Frozen fiber couples light and sound 1,000 times more strongly than standard glass fibers",
-      "link": "https://phys.org/news/2026-07-frozen-fiber-couples-strongly-standard.html",
-      "desc": "Researchers have developed a new type of optical fiber by freezing a glass capillary filled with liquid. It guides light and sound waves simultaneously and enables highly efficient coupling between them. The high coupling strength lowers the energy consumption of photonic neuromorphic computing…",
-      "date": "Jul 21, 2026",
-      "published_utc": "2026-07-21 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/extremely-cold-and-hig.jpg"
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "NASA’s Juno Peers Beneath Io’s Surface",
+      "link": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
+      "desc": "Description This map represents data captured by the Microwave Radiometer (MWR) aboard NASA’s Juno spacecraft, indicating heat rising from just beneath the surface of Jupiter’s moon Io. While infrared instruments measure the temperature of the moon’s surface, the lowest frequency microwave channels…",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 14:58 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26756/PIA26756.png?w=1339&amp;h=813&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "topic": "Quantum",
@@ -53,6 +53,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-sensing-micros.jpg"
     },
     {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Mapping Io’s Hidden Heat With NASA’s Juno",
+      "link": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/",
+      "desc": "Description This graphic illustrates the areas of Jupiter’s moon Io sampled by the Microwave Radiometer (MWR) instrument aboard NASA’s Juno spacecraft during two close flybys. The black overlapping lines show the instrument&#8217;s footprints during Perijove 57 on Dec. 30, 2023, when the spacecraft…",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 15:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26757/PIA26757.png?w=1307&amp;h=1188&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "New multiplexing scheme accelerates long-distance quantum communication",
@@ -63,34 +73,24 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-multiplexing-schem.jpg"
     },
     {
+      "topic": "AI",
+      "source": "ScienceDaily AI",
+      "title": "MIT’s new lidar chip could give self-driving cars a wider view",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+      "desc": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another’s signals. In tests, the system sharply reduced interference while steering a…",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 10:00 UTC",
+      "image": ""
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "From quantum error correction to emergent gravity: Probing holographic universes at QLab",
-      "link": "https://phys.org/news/2026-07-quantum-error-emergent-gravity-probing.html",
-      "desc": "One of the deepest ambitions in modern physics is understanding how the fabric of space and time could emerge from fundamental quantum degrees of freedom to establish a quantum theory of gravity.",
-      "date": "Jul 21, 2026",
-      "published_utc": "2026-07-21 15:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-quantum-error-cor.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica",
-      "link": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
-      "desc": "Description Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak Zaterjavshijsja — a mountaintop in East Antarctica — poking out amid a stream of ice flowing northeast to the ocean. The obstruction causes…",
+      "title": "Microscale roughness breakthrough defies 80 years of fluid dynamics",
+      "link": "https://phys.org/news/2026-07-microscale-roughness-breakthrough-defies-years.html",
+      "desc": "Logically, you would think a sleek surface has optimal aerodynamics—but recent research at Tohoku University turns this fundamental principle on its head. Applying an irregular microscale surface texture reduced the aerodynamic drag of a test model. The innovation has potential applications in the…",
       "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 00:33 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26617/PIA26617.png?w=4200&amp;h=3300&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Slums are bearing the brunt of the climate crisis—and devising solutions",
-      "link": "https://eos.org/articles/slums-are-bearing-the-brunt-of-the-climate-crisis-and-devising-solutions",
-      "desc": "As temperatures rise, it is the poor who suffer most. The coping strategies of those living in informal settlements may hold lessons for cities of the future.",
-      "date": "Jul 21, 2026",
-      "published_utc": "2026-07-21 13:11 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/07/broom-dust-pollution-1024x576.jpg"
+      "published_utc": "2026-07-22 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscale-roughness-b.jpg"
     }
   ]
 }
