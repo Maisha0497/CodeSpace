@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-22 07:10 UTC",
+  "updated": "2026-07-22 12:46 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Researchers expand simulation tool to help design the next generation of photonic and quantum devices",
+      "link": "https://phys.org/news/2026-07-simulation-tool-generation-photonic-quantum.html",
+      "desc": "Many modern technologies, from optical communications and artificial intelligence (AI) hardware to advanced sensors and medical imaging, depend on photonic and semiconductor devices that precisely control the interaction between light and electrons. Designing these devices, however, remains a major…",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 12:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-expand-sim.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,16 +31,6 @@
       "date": "Jul 21, 2026",
       "published_utc": "2026-07-21 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/extremely-cold-and-hig.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Aligned graphite particles unlock stable levitation above magnets, study finds",
-      "link": "https://phys.org/news/2026-07-aligned-graphite-particles-stable-levitation.html",
-      "desc": "A diamagnetic substance is slightly repelled by magnetic fields. With a strong enough magnet, the diamagnetic force can override gravity, and the substance will float in the air. Graphite, the main component of pencil lead, is considered one of the best substances for such real-world levitation,…",
-      "date": "Jul 21, 2026",
-      "published_utc": "2026-07-21 10:07 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/riding-a-miniature-mag.jpg"
     },
     {
       "topic": "Quantum",
@@ -55,12 +55,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "AI agent helps prepare synchrotron X-ray experimental measurements, paving the way for autonomous operation",
-      "link": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html",
-      "desc": "Artificial intelligence (AI) models are now used daily by many people worldwide, both for professional and personal purposes. Over the past decades, scientists specialized in various disciplines have also started using these models to conduct research or simplify their experimental practices.",
-      "date": "Jul 21, 2026",
-      "published_utc": "2026-07-21 11:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-ai-scientist-could.jpg"
+      "title": "New multiplexing scheme accelerates long-distance quantum communication",
+      "link": "https://phys.org/news/2026-07-multiplexing-scheme-distance-quantum-communication.html",
+      "desc": "Quantum networks, systems consisting of multiple connected nodes or devices that can transmit quantum information to one another, have the potential to advance future communications. These networks typically leverage entanglement, a quantum phenomenon that prompts two or more distant particles to…",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 10:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-multiplexing-schem.jpg"
     },
     {
       "topic": "Physics",
