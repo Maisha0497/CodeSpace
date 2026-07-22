@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 00:52 UTC",
+  "updated": "2026-07-22 07:10 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -33,6 +33,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/riding-a-miniature-mag.jpg"
     },
     {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "New programmable photonic chip can control how fast light moves",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "desc": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more…",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 02:43 UTC",
+      "image": ""
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Quantum sensing microscope illuminates transistor design",
@@ -41,16 +51,6 @@
       "date": "Jul 21, 2026",
       "published_utc": "2026-07-21 20:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-sensing-micros.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "New quantum gravity theory links entropy, dark energy, and life",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719035947.htm",
-      "desc": "A new theoretical study offers a possible explanation for how the Universe can grow more complex without violating the second law of thermodynamics. Using a quantum gravity framework called Gravity from Entropy, mathematician Ginestra Bianconi found that the Universe’s total entropy may rise as…",
-      "date": "Jul 21, 2026",
-      "published_utc": "2026-07-21 02:40 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
