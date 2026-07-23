@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 18:40 UTC",
+  "updated": "2026-07-23 00:54 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,12 +15,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Two-color lasers aim electron currents through semiconductor with no electric field",
-      "link": "https://phys.org/news/2026-07-lasers-aim-electron-currents-semiconductor.html",
-      "desc": "Researchers at the University of Michigan have created a device that enables them to control the flow of electrons through a semiconductor using only laser light—no electrical power source required. The device was built to explore fundamental physics and realize a previously unobserved behavior,…",
-      "date": "Jul 21, 2026",
-      "published_utc": "2026-07-21 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electron-lighthouse-il.jpg"
+      "title": "Detecting the body's magnetic fields with a low-power Ramsey-based magnetometer",
+      "link": "https://phys.org/news/2026-07-body-magnetic-fields-power-ramsey.html",
+      "desc": "Our bodies generate extremely weak magnetic fields as electric currents flow through the heart, brain and other tissues. These signals are used in magnetocardiography and magnetoencephalography to assess heart function and brain activity, respectively. These fields can be detected at room…",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 20:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/detecting-the-bodys-ma-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Neural networks unlock larger quantum simulations with lower computational costs",
+      "link": "https://phys.org/news/2026-07-neural-networks-larger-quantum-simulations.html",
+      "desc": "In recent years, research using artificial intelligence to predict material properties has advanced rapidly. Neural network quantum Monte Carlo methods have attracted attention as highly accurate simulation techniques. However, their extremely high computational cost has limited their application…",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 20:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/neural-network-1.jpg"
     },
     {
       "topic": "Earth Observation",
@@ -45,12 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum sensing microscope illuminates transistor design",
-      "link": "https://phys.org/news/2026-07-quantum-microscope-illuminates-transistor.html",
-      "desc": "Artificial intelligence faces an energy crisis stemming from a physical traffic jam inside modern computer chips. Processors must continually shuffle data, such as the billions of parameters in complex models, between separate computing and memory nodes. This traffic jam, known as the \"von Neumann…",
-      "date": "Jul 21, 2026",
-      "published_utc": "2026-07-21 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-sensing-micros.jpg"
+      "title": "Water-surface vortices drive tiny rotors without electricity, magnets or chemicals",
+      "link": "https://phys.org/news/2026-07-surface-vortices-tiny-rotors-electricity.html",
+      "desc": "Reliably generating controlled miniature rotations has long been a challenge: Chemical propulsion systems wear out, and methods that use electric or magnetic fields require complex setups. A team from KIT's Institute of Microstructure Technology (IMT) and the Suzhou Institute of Nano-tech and…",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 22:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microtechnology-water.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Plasma design rules show how to preserve attosecond flashes for observing electrons",
+      "link": "https://phys.org/news/2026-07-plasma-attosecond-electrons.html",
+      "desc": "Researchers at Skoltech, together with a colleague from the Shanghai Institute of Optics and Fine Mechanics of the Chinese Academy of Sciences, working within the joint SIOM–Skoltech laboratory, have determined how to select the thickness and density of a plasma target so that a pulse passing…",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/electron.jpg"
     },
     {
       "topic": "Earth Observation",
@@ -71,26 +91,6 @@
       "date": "Jul 22, 2026",
       "published_utc": "2026-07-22 10:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-multiplexing-schem.jpg"
-    },
-    {
-      "topic": "AI",
-      "source": "ScienceDaily AI",
-      "title": "MIT’s new lidar chip could give self-driving cars a wider view",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
-      "desc": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another’s signals. In tests, the system sharply reduced interference while steering a…",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 10:00 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Microscale roughness breakthrough defies 80 years of fluid dynamics",
-      "link": "https://phys.org/news/2026-07-microscale-roughness-breakthrough-defies-years.html",
-      "desc": "Logically, you would think a sleek surface has optimal aerodynamics—but recent research at Tohoku University turns this fundamental principle on its head. Applying an irregular microscale surface texture reduced the aerodynamic drag of a test model. The innovation has potential applications in the…",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscale-roughness-b.jpg"
     }
   ]
 }
