@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-23 12:48 UTC",
+  "updated": "2026-07-23 18:42 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Shaking atoms to bring black-hole quantum chaos into the lab",
+      "link": "https://phys.org/news/2026-07-atoms-black-hole-quantum-chaos.html",
+      "desc": "Physicists have discovered a surprisingly simple way to reproduce one of the most fascinating models in modern physics—linked to black holes, quantum chaos and exotic electronic materials—using ultracold atoms trapped in light.",
+      "date": "Jul 23, 2026",
+      "published_utc": "2026-07-23 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shaking-atoms-to-bring-1.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -33,14 +43,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/neural-network-1.jpg"
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "NASA’s Juno Peers Beneath Io’s Surface",
-      "link": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
-      "desc": "Description This map represents data captured by the Microwave Radiometer (MWR) aboard NASA’s Juno spacecraft, indicating heat rising from just beneath the surface of Jupiter’s moon Io. While infrared instruments measure the temperature of the moon’s surface, the lowest frequency microwave channels…",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 14:58 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26756/PIA26756.png?w=1339&amp;h=813&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "topic": "Quantum",
+      "source": "Phys.org Quantum",
+      "title": "Molecular clock transitions tune out the noise in the hunt for new physics",
+      "link": "https://phys.org/news/2026-07-molecular-clock-transitions-tune-noise.html",
+      "desc": "Heavy polar molecules are some of the most sensitive tools physicists have for probing what lies beyond the Standard Model, the theory that describes the particles and forces we know about. But turning that sensitivity into precise, trustworthy measurements has long been held back by one stubborn…",
+      "date": "Jul 23, 2026",
+      "published_utc": "2026-07-23 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-clock-transi.jpg"
     },
     {
       "topic": "Physics",
@@ -63,34 +73,24 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/electron.jpg"
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Mapping Io’s Hidden Heat With NASA’s Juno",
-      "link": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/",
-      "desc": "Description This graphic illustrates the areas of Jupiter’s moon Io sampled by the Microwave Radiometer (MWR) instrument aboard NASA’s Juno spacecraft during two close flybys. The black overlapping lines show the instrument&#8217;s footprints during Perijove 57 on Dec. 30, 2023, when the spacecraft…",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 15:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26757/PIA26757.png?w=1307&amp;h=1188&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum Newton's cradle set to level up computing",
+      "link": "https://phys.org/news/2026-07-quantum-newton-cradle.html",
+      "desc": "Sending quantum information through a chain of qubits, like energy through a Newton's cradle, could be the key to faster operations and take quantum computing to the next level.",
+      "date": "Jul 23, 2026",
+      "published_utc": "2026-07-23 18:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-newtons-cradle.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum internet leaves the lab with first real-world entanglement over busy telecom fiber",
-      "link": "https://phys.org/news/2026-07-quantum-internet-lab-real-world.html",
-      "desc": "Quantum information is notoriously fragile. Internet traffic is anything but. Yet Northwestern University scientists have demonstrated they can peacefully coexist inside the same fiber-optic cable.",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-internet-leave.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physics-based AI could boost biomedical imaging and autonomous vehicle sensors",
-      "link": "https://phys.org/news/2026-07-physics-based-ai-boost-biomedical.html",
-      "desc": "A research team led by UCLA and the University of Rochester has demonstrated a promising evolution of an imaging system designed to capture details within \"complex media,\" which scatter light, from depicting structures inside body tissue to seeing obstacles through heavy fog. The system uses…",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biomedical-imaging-aut.jpg"
+      "title": "From one frontier to another: The quantum revolution",
+      "link": "https://phys.org/news/2026-07-frontier-quantum-revolution.html",
+      "desc": "Manchester's quantum researchers are building on the Ferranti Mark I legacy, using ultra-pure silicon and single atoms to move quantum computing closer to real-world impact.",
+      "date": "Jul 23, 2026",
+      "published_utc": "2026-07-23 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/quantum-computer.jpg"
     }
   ]
 }
