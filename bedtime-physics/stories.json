@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-23 07:09 UTC",
+  "updated": "2026-07-23 12:48 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Researchers expand simulation tool to help design the next generation of photonic and quantum devices",
-      "link": "https://phys.org/news/2026-07-simulation-tool-generation-photonic-quantum.html",
-      "desc": "Many modern technologies, from optical communications and artificial intelligence (AI) hardware to advanced sensors and medical imaging, depend on photonic and semiconductor devices that precisely control the interaction between light and electrons. Designing these devices, however, remains a major…",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 12:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-expand-sim.jpg"
+      "title": "Striped or checkered? Magnetic field influences competing electronic patterns in a graphene-like quantum material",
+      "link": "https://phys.org/news/2026-07-striped-checkered-magnetic-field-electronic.html",
+      "desc": "In most everyday materials, such as copper, silver and silicon, the behavior of electrons is relatively predictable. In quantum materials, however, electrons can interact in complex ways, giving rise to collective electronic states with remarkable properties. Understanding how these states…",
+      "date": "Jul 23, 2026",
+      "published_utc": "2026-07-23 09:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/striped-or-checkered-m.jpg"
     },
     {
       "topic": "Physics",
@@ -75,22 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New multiplexing scheme accelerates long-distance quantum communication",
-      "link": "https://phys.org/news/2026-07-multiplexing-scheme-distance-quantum-communication.html",
-      "desc": "Quantum networks, systems consisting of multiple connected nodes or devices that can transmit quantum information to one another, have the potential to advance future communications. These networks typically leverage entanglement, a quantum phenomenon that prompts two or more distant particles to…",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 10:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-multiplexing-schem.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Quantum internet leaves the lab with first real-world entanglement over busy telecom fiber",
       "link": "https://phys.org/news/2026-07-quantum-internet-lab-real-world.html",
       "desc": "Quantum information is notoriously fragile. Internet traffic is anything but. Yet Northwestern University scientists have demonstrated they can peacefully coexist inside the same fiber-optic cable.",
       "date": "Jul 22, 2026",
       "published_utc": "2026-07-22 22:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-internet-leave.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physics-based AI could boost biomedical imaging and autonomous vehicle sensors",
+      "link": "https://phys.org/news/2026-07-physics-based-ai-boost-biomedical.html",
+      "desc": "A research team led by UCLA and the University of Rochester has demonstrated a promising evolution of an imaging system designed to capture details within \"complex media,\" which scatter light, from depicting structures inside body tissue to seeing obstacles through heavy fog. The system uses…",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biomedical-imaging-aut.jpg"
     }
   ]
 }
