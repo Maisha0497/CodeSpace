@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23 00:54 UTC",
+  "updated": "2026-07-23 07:09 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -43,16 +43,6 @@
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26756/PIA26756.png?w=1339&amp;h=813&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "New programmable photonic chip can control how fast light moves",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
-      "desc": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more…",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 02:43 UTC",
-      "image": ""
-    },
-    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Water-surface vortices drive tiny rotors without electricity, magnets or chemicals",
@@ -91,6 +81,16 @@
       "date": "Jul 22, 2026",
       "published_utc": "2026-07-22 10:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-multiplexing-schem.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum internet leaves the lab with first real-world entanglement over busy telecom fiber",
+      "link": "https://phys.org/news/2026-07-quantum-internet-lab-real-world.html",
+      "desc": "Quantum information is notoriously fragile. Internet traffic is anything but. Yet Northwestern University scientists have demonstrated they can peacefully coexist inside the same fiber-optic cable.",
+      "date": "Jul 22, 2026",
+      "published_utc": "2026-07-22 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-internet-leave.jpg"
     }
   ]
 }
