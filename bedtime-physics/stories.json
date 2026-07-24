@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-24 12:46 UTC",
+  "updated": "2026-07-24 18:47 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Shaking atoms to bring black-hole quantum chaos into the lab",
-      "link": "https://phys.org/news/2026-07-atoms-black-hole-quantum-chaos.html",
-      "desc": "Physicists have discovered a surprisingly simple way to reproduce one of the most fascinating models in modern physics—linked to black holes, quantum chaos and exotic electronic materials—using ultracold atoms trapped in light.",
-      "date": "Jul 23, 2026",
-      "published_utc": "2026-07-23 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shaking-atoms-to-bring-1.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -33,14 +23,24 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/materials-surrounding.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "Molecular clock transitions tune out the noise in the hunt for new physics",
-      "link": "https://phys.org/news/2026-07-molecular-clock-transitions-tune-noise.html",
-      "desc": "Heavy polar molecules are some of the most sensitive tools physicists have for probing what lies beyond the Standard Model, the theory that describes the particles and forces we know about. But turning that sensitivity into precise, trustworthy measurements has long been held back by one stubborn…",
-      "date": "Jul 23, 2026",
-      "published_utc": "2026-07-23 14:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-clock-transi.jpg"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Magnetic clues inside atomic nuclei help explain how elements form in stars",
+      "link": "https://phys.org/news/2026-07-magnetic-clues-atomic-nuclei-elements.html",
+      "desc": "A scientific team led by Facility for Rare Isotope Beams, or FRIB, has identified the origin of a mysterious excess of low-energy gamma rays emitted by the nucleus zinc-70. They found that the excess is caused by magnetic transitions within the nucleus. The study, \"Magnetic Character of the…",
+      "date": "Jul 24, 2026",
+      "published_utc": "2026-07-24 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astrophysics.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "World's first 'zinc oxide spin qubit' could advance scalable quantum devices",
+      "link": "https://phys.org/news/2026-07-world-zinc-oxide-qubit-advance.html",
+      "desc": "A research team led by SKKU professor Hosung Seo of the Department of Quantum Information Engineering and the SKKU Advanced Institute of Nanotechnology, working with the University of Wisconsin–Madison and the University of Washington, has identified—for the first time—an atomic defect structure in…",
+      "date": "Jul 24, 2026",
+      "published_utc": "2026-07-24 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-identifiy.jpg"
     },
     {
       "topic": "Physics",
@@ -51,6 +51,26 @@
       "date": "Jul 23, 2026",
       "published_utc": "2026-07-23 20:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/universal-structure-of.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physicists turn to the universe's 'piano notes' to detect hidden particles",
+      "link": "https://phys.org/news/2026-07-physicists-universe-piano-hidden-particles.html",
+      "desc": "It's been said that a finely tuned ear knows the size and shape of a piano by merely listening to the instrument's notes. An international team of physicists has now devised an analogous approach to detect the universe's hidden particles at high energies—opening a potential pathway for discovering…",
+      "date": "Jul 24, 2026",
+      "published_utc": "2026-07-24 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/piano.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum Zeno effect could freeze computations as qubit systems scale up",
+      "link": "https://phys.org/news/2026-07-quantum-zeno-effect-qubit-scale.html",
+      "desc": "The promise of quantum computing is to solve complex problems faster and more energy-efficiently than today's supercomputers—from optimizing logistics to simulating molecules. This goal is coming within reach as the number of qubits—the computational units of quantum computing—increases.",
+      "date": "Jul 24, 2026",
+      "published_utc": "2026-07-24 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-even-minor-yet-fre.jpg"
     },
     {
       "topic": "Physics",
@@ -71,26 +91,6 @@
       "date": "Jul 23, 2026",
       "published_utc": "2026-07-23 21:50 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chocolate-syrup-like-f.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum Newton's cradle set to level up computing",
-      "link": "https://phys.org/news/2026-07-quantum-newton-cradle.html",
-      "desc": "Sending quantum information through a chain of qubits, like energy through a Newton's cradle, could be the key to faster operations and take quantum computing to the next level.",
-      "date": "Jul 23, 2026",
-      "published_utc": "2026-07-23 18:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-newtons-cradle.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "From one frontier to another: The quantum revolution",
-      "link": "https://phys.org/news/2026-07-frontier-quantum-revolution.html",
-      "desc": "Manchester's quantum researchers are building on the Ferranti Mark I legacy, using ultra-pure silicon and single atoms to move quantum computing closer to real-world impact.",
-      "date": "Jul 23, 2026",
-      "published_utc": "2026-07-23 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/quantum-computer.jpg"
     }
   ]
 }
