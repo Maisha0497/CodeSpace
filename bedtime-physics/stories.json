@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 07:09 UTC",
+  "updated": "2026-07-24 12:46 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,16 +31,6 @@
       "date": "Jul 23, 2026",
       "published_utc": "2026-07-23 22:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/materials-surrounding.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Striped or checkered? Magnetic field influences competing electronic patterns in a graphene-like quantum material",
-      "link": "https://phys.org/news/2026-07-striped-checkered-magnetic-field-electronic.html",
-      "desc": "In most everyday materials, such as copper, silver and silicon, the behavior of electrons is relatively predictable. In quantum materials, however, electrons can interact in complex ways, giving rise to collective electronic states with remarkable properties. Understanding how these states…",
-      "date": "Jul 23, 2026",
-      "published_utc": "2026-07-23 09:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/striped-or-checkered-m.jpg"
     },
     {
       "topic": "Quantum",
@@ -91,6 +81,16 @@
       "date": "Jul 23, 2026",
       "published_utc": "2026-07-23 18:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-newtons-cradle.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "From one frontier to another: The quantum revolution",
+      "link": "https://phys.org/news/2026-07-frontier-quantum-revolution.html",
+      "desc": "Manchester's quantum researchers are building on the Ferranti Mark I legacy, using ultra-pure silicon and single atoms to move quantum computing closer to real-world impact.",
+      "date": "Jul 23, 2026",
+      "published_utc": "2026-07-23 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/quantum-computer.jpg"
     }
   ]
 }
