@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23 18:42 UTC",
+  "updated": "2026-07-24 00:51 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,32 +15,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Engineers observe quantum heat waves at room temperature",
+      "link": "https://phys.org/news/2026-07-quantum-room-temperature.html",
+      "desc": "Efficient heat management in solids is key to advancing the next generation of electronics. However, wave-like heat movement—known as phonon focusing—had been observed only at extremely low, or cryogenic, temperatures, limiting its study and practical use.",
+      "date": "Jul 23, 2026",
+      "published_utc": "2026-07-23 21:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ucla-engineers-observe.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Materials surrounding a fusion reaction can dramatically increase how often it occurs",
+      "link": "https://phys.org/news/2026-07-materials-fusion-reaction.html",
+      "desc": "Fusion at high temperatures powers the sun and, if harnessed, could provide a potential source of energy here on Earth. But controlling fusion reactions has other benefits. The process also generates subatomic particles called neutrons that are used in a range of applications spanning medicine,…",
+      "date": "Jul 23, 2026",
+      "published_utc": "2026-07-23 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/materials-surrounding.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Striped or checkered? Magnetic field influences competing electronic patterns in a graphene-like quantum material",
       "link": "https://phys.org/news/2026-07-striped-checkered-magnetic-field-electronic.html",
       "desc": "In most everyday materials, such as copper, silver and silicon, the behavior of electrons is relatively predictable. In quantum materials, however, electrons can interact in complex ways, giving rise to collective electronic states with remarkable properties. Understanding how these states…",
       "date": "Jul 23, 2026",
       "published_utc": "2026-07-23 09:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/striped-or-checkered-m.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Detecting the body's magnetic fields with a low-power Ramsey-based magnetometer",
-      "link": "https://phys.org/news/2026-07-body-magnetic-fields-power-ramsey.html",
-      "desc": "Our bodies generate extremely weak magnetic fields as electric currents flow through the heart, brain and other tissues. These signals are used in magnetocardiography and magnetoencephalography to assess heart function and brain activity, respectively. These fields can be detected at room…",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/detecting-the-bodys-ma-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Neural networks unlock larger quantum simulations with lower computational costs",
-      "link": "https://phys.org/news/2026-07-neural-networks-larger-quantum-simulations.html",
-      "desc": "In recent years, research using artificial intelligence to predict material properties has advanced rapidly. Neural network quantum Monte Carlo methods have attracted attention as highly accurate simulation techniques. However, their extremely high computational cost has limited their application…",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/neural-network-1.jpg"
     },
     {
       "topic": "Quantum",
@@ -55,22 +55,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Water-surface vortices drive tiny rotors without electricity, magnets or chemicals",
-      "link": "https://phys.org/news/2026-07-surface-vortices-tiny-rotors-electricity.html",
-      "desc": "Reliably generating controlled miniature rotations has long been a challenge: Chemical propulsion systems wear out, and methods that use electric or magnetic fields require complex setups. A team from KIT's Institute of Microstructure Technology (IMT) and the Suzhou Institute of Nano-tech and…",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 22:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microtechnology-water.jpg"
+      "title": "Universal structure of exceptional points revealed in nonlinear light‑based systems",
+      "link": "https://phys.org/news/2026-07-universal-exceptional-revealed-nonlinear-lightbased.html",
+      "desc": "Exceptional points, or EPs for short, are among the phenomena of modern physics. These are special points or locations at which the properties of matter, space or time change. In a new theoretical study, researchers from the Institute for Photonic Quantum Systems (PhoQS) at Paderborn University, in…",
+      "date": "Jul 23, 2026",
+      "published_utc": "2026-07-23 20:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/universal-structure-of.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Plasma design rules show how to preserve attosecond flashes for observing electrons",
-      "link": "https://phys.org/news/2026-07-plasma-attosecond-electrons.html",
-      "desc": "Researchers at Skoltech, together with a colleague from the Shanghai Institute of Optics and Fine Mechanics of the Chinese Academy of Sciences, working within the joint SIOM–Skoltech laboratory, have determined how to select the thickness and density of a plasma target so that a pulse passing…",
-      "date": "Jul 22, 2026",
-      "published_utc": "2026-07-22 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/electron.jpg"
+      "title": "Simple circuit brings topological insulators closer to practical electrical measurement standards",
+      "link": "https://phys.org/news/2026-07-simple-circuit-topological-insulators-closer.html",
+      "desc": "Researchers at the University of Würzburg have succeeded in detecting exceptionally robust electrical transport in a topological insulator. This could lead to new metrological applications. The work is published in the journal Nature Communications.",
+      "date": "Jul 23, 2026",
+      "published_utc": "2026-07-23 21:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-circuit-brings-top.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Chocolate syrup-like fluid stores multiple interacting memories",
+      "link": "https://phys.org/news/2026-07-chocolate-syrup-fluid-multiple-interacting.html",
+      "desc": "Animals and electronic devices aren't the only things with memory. Materials can retain memories of past deformations in their microscopic structure. A common example is a crease in a sheet of paper that has been folded then unfolded. Understanding this type of memory could benefit the design of…",
+      "date": "Jul 23, 2026",
+      "published_utc": "2026-07-23 21:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chocolate-syrup-like-f.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Jul 23, 2026",
       "published_utc": "2026-07-23 18:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-newtons-cradle.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "From one frontier to another: The quantum revolution",
-      "link": "https://phys.org/news/2026-07-frontier-quantum-revolution.html",
-      "desc": "Manchester's quantum researchers are building on the Ferranti Mark I legacy, using ultra-pure silicon and single atoms to move quantum computing closer to real-world impact.",
-      "date": "Jul 23, 2026",
-      "published_utc": "2026-07-23 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/quantum-computer.jpg"
     }
   ]
 }
