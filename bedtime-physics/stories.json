@@ -1,47 +1,7 @@
 {
-  "updated": "2026-07-25 07:02 UTC",
+  "updated": "2026-07-25 18:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Magnetic clues inside atomic nuclei help explain how elements form in stars",
-      "link": "https://phys.org/news/2026-07-magnetic-clues-atomic-nuclei-elements.html",
-      "desc": "A scientific team led by Facility for Rare Isotope Beams, or FRIB, has identified the origin of a mysterious excess of low-energy gamma rays emitted by the nucleus zinc-70. They found that the excess is caused by magnetic transitions within the nucleus. The study, \"Magnetic Character of the…",
-      "date": "Jul 24, 2026",
-      "published_utc": "2026-07-24 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astrophysics.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "World's first 'zinc oxide spin qubit' could advance scalable quantum devices",
-      "link": "https://phys.org/news/2026-07-world-zinc-oxide-qubit-advance.html",
-      "desc": "A research team led by SKKU professor Hosung Seo of the Department of Quantum Information Engineering and the SKKU Advanced Institute of Nanotechnology, working with the University of Wisconsin–Madison and the University of Washington, has identified—for the first time—an atomic defect structure in…",
-      "date": "Jul 24, 2026",
-      "published_utc": "2026-07-24 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-identifiy.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physicists turn to the universe's 'piano notes' to detect hidden particles",
-      "link": "https://phys.org/news/2026-07-physicists-universe-piano-hidden-particles.html",
-      "desc": "It's been said that a finely tuned ear knows the size and shape of a piano by merely listening to the instrument's notes. An international team of physicists has now devised an analogous approach to detect the universe's hidden particles at high energies—opening a potential pathway for discovering…",
-      "date": "Jul 24, 2026",
-      "published_utc": "2026-07-24 13:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/piano.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum Zeno effect could freeze computations as qubit systems scale up",
-      "link": "https://phys.org/news/2026-07-quantum-zeno-effect-qubit-scale.html",
-      "desc": "The promise of quantum computing is to solve complex problems faster and more energy-efficiently than today's supercomputers—from optimizing logistics to simulating molecules. This goal is coming within reach as the number of qubits—the computational units of quantum computing—increases.",
-      "date": "Jul 24, 2026",
-      "published_utc": "2026-07-24 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-even-minor-yet-fre.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -61,36 +21,6 @@
       "date": "Jul 25, 2026",
       "published_utc": "2026-07-25 03:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/2026-europhysics-prize.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Oxygen collisions at the LHC show new indications of extreme state of matter",
-      "link": "https://phys.org/news/2026-07-oxygen-collisions-lhc-indications-extreme.html",
-      "desc": "All four main LHC experiments have found new signs that oxygen and neon collisions may create the extreme state of matter that existed during the first microseconds after the Big Bang.",
-      "date": "Jul 24, 2026",
-      "published_utc": "2026-07-24 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/largehadronc.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Io’s Hidden Heat Revealed for the First Time",
-      "link": "https://eos.org/research-spotlights/ios-hidden-heat-revealed-for-the-first-time",
-      "desc": "Data from the Juno spacecraft also suggest that Jupiter’s moon has a relatively smooth, low-density surface.",
-      "date": "Jul 24, 2026",
-      "published_utc": "2026-07-24 10:46 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/07/io-partial-surface-1024x576.jpg"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Earth from Space: Agricultural patchwork",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Agricultural_patchwork",
-      "desc": "Image: The Copernicus Sentinel-2 mission takes us over Australia’s southwestern corner in the Goldfields–Esperance region of Western Australia.",
-      "date": "Jul 24, 2026",
-      "published_utc": "2026-07-24 08:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_agricultural_patchwork/27388597-1-eng-GB/Earth_from_Space_Agricultural_patchwork_card_full.jpg"
     }
   ]
 }
