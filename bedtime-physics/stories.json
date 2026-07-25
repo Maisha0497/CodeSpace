@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-24 18:47 UTC",
+  "updated": "2026-07-25 00:54 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Engineers observe quantum heat waves at room temperature",
-      "link": "https://phys.org/news/2026-07-quantum-room-temperature.html",
-      "desc": "Efficient heat management in solids is key to advancing the next generation of electronics. However, wave-like heat movement—known as phonon focusing—had been observed only at extremely low, or cryogenic, temperatures, limiting its study and practical use.",
-      "date": "Jul 23, 2026",
-      "published_utc": "2026-07-23 21:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ucla-engineers-observe.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Materials surrounding a fusion reaction can dramatically increase how often it occurs",
-      "link": "https://phys.org/news/2026-07-materials-fusion-reaction.html",
-      "desc": "Fusion at high temperatures powers the sun and, if harnessed, could provide a potential source of energy here on Earth. But controlling fusion reactions has other benefits. The process also generates subatomic particles called neutrons that are used in a range of applications spanning medicine,…",
-      "date": "Jul 23, 2026",
-      "published_utc": "2026-07-23 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/materials-surrounding.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -41,16 +21,6 @@
       "date": "Jul 24, 2026",
       "published_utc": "2026-07-24 13:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-identifiy.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Universal structure of exceptional points revealed in nonlinear light‑based systems",
-      "link": "https://phys.org/news/2026-07-universal-exceptional-revealed-nonlinear-lightbased.html",
-      "desc": "Exceptional points, or EPs for short, are among the phenomena of modern physics. These are special points or locations at which the properties of matter, space or time change. In a new theoretical study, researchers from the Institute for Photonic Quantum Systems (PhoQS) at Paderborn University, in…",
-      "date": "Jul 23, 2026",
-      "published_utc": "2026-07-23 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/universal-structure-of.jpg"
     },
     {
       "topic": "Physics",
@@ -75,22 +45,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Simple circuit brings topological insulators closer to practical electrical measurement standards",
-      "link": "https://phys.org/news/2026-07-simple-circuit-topological-insulators-closer.html",
-      "desc": "Researchers at the University of Würzburg have succeeded in detecting exceptionally robust electrical transport in a topological insulator. This could lead to new metrological applications. The work is published in the journal Nature Communications.",
-      "date": "Jul 23, 2026",
-      "published_utc": "2026-07-23 21:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-circuit-brings-top.jpg"
+      "title": "Long-lived ytterbium states could sharpen quantum computing and atomic clocks",
+      "link": "https://phys.org/news/2026-07-ytterbium-states-sharpen-quantum-atomic.html",
+      "desc": "Researchers from the University of Amsterdam and the University of New South Wales have answered a question that has been around for decades: whether ions of the metal ytterbium can enter certain long-lived, nearly stable states and, if so, for how long. The measured long-lived states may find…",
+      "date": "Jul 24, 2026",
+      "published_utc": "2026-07-24 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-live-ytterbium.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Chocolate syrup-like fluid stores multiple interacting memories",
-      "link": "https://phys.org/news/2026-07-chocolate-syrup-fluid-multiple-interacting.html",
-      "desc": "Animals and electronic devices aren't the only things with memory. Materials can retain memories of past deformations in their microscopic structure. A common example is a crease in a sheet of paper that has been folded then unfolded. Understanding this type of memory could benefit the design of…",
-      "date": "Jul 23, 2026",
-      "published_utc": "2026-07-23 21:50 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chocolate-syrup-like-f.jpg"
+      "title": "Oxygen collisions at the LHC show new indications of extreme state of matter",
+      "link": "https://phys.org/news/2026-07-oxygen-collisions-lhc-indications-extreme.html",
+      "desc": "All four main LHC experiments have found new signs that oxygen and neon collisions may create the extreme state of matter that existed during the first microseconds after the Big Bang.",
+      "date": "Jul 24, 2026",
+      "published_utc": "2026-07-24 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/largehadronc.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Io’s Hidden Heat Revealed for the First Time",
+      "link": "https://eos.org/research-spotlights/ios-hidden-heat-revealed-for-the-first-time",
+      "desc": "Data from the Juno spacecraft also suggest that Jupiter’s moon has a relatively smooth, low-density surface.",
+      "date": "Jul 24, 2026",
+      "published_utc": "2026-07-24 10:46 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/07/io-partial-surface-1024x576.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space: Agricultural patchwork",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Agricultural_patchwork",
+      "desc": "Image: The Copernicus Sentinel-2 mission takes us over Australia’s southwestern corner in the Goldfields–Esperance region of Western Australia.",
+      "date": "Jul 24, 2026",
+      "published_utc": "2026-07-24 08:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_agricultural_patchwork/27388597-1-eng-GB/Earth_from_Space_Agricultural_patchwork_card_full.jpg"
     }
   ]
 }
