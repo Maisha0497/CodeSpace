@@ -1,5 +1,16 @@
 {
-  "updated": "2026-07-26 12:39 UTC",
+  "updated": "2026-07-26 18:37 UTC",
   "fresh_window_hours": 24,
-  "stories": []
+  "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A quantum heat engine that simultaneously provides work and refrigeration",
+      "link": "https://phys.org/news/2026-07-quantum-simultaneously-refrigeration.html",
+      "desc": "The laws of thermodynamics state that heat naturally flows from hotter systems or regions to colder systems or regions until a state of thermal equilibrium is reached. This simple principle underpins the operation of numerous technologies, ranging from refrigerators to power plants.",
+      "date": "Jul 26, 2026",
+      "published_utc": "2026-07-26 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-heat-engine.jpg"
+    }
+  ]
 }
