@@ -1,16 +1,5 @@
 {
-  "updated": "2026-07-26 00:58 UTC",
+  "updated": "2026-07-26 07:10 UTC",
   "fresh_window_hours": 24,
-  "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Prize honors discovery of altermagnetism as a third fundamental class of magnetism",
-      "link": "https://phys.org/news/2026-07-prize-honors-discovery-altermagnetism-fundamental.html",
-      "desc": "One of Europe's highest distinctions in condensed matter physics has been awarded for a discovery that is reshaping our understanding of magnetism: The 2026 Europhysics Prize of the European Physical Society (EPS) Condensed Matter Division goes to Professor Jairo Sinova of Johannes Gutenberg…",
-      "date": "Jul 25, 2026",
-      "published_utc": "2026-07-25 03:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/2026-europhysics-prize.jpg"
-    }
-  ]
+  "stories": []
 }
