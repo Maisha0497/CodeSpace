@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27 00:58 UTC",
+  "updated": "2026-07-27 07:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,6 +31,16 @@
       "date": "Jul 26, 2026",
       "published_utc": "2026-07-26 19:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/twisting-light-for-dis.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Pink Penguin Guano Provides Diet Clues",
+      "link": "https://science.nasa.gov/earth/earth-observatory/pink-penguin-guano-provides-diet-clues/",
+      "desc": "The color of Adélie penguin droppings reveals what the birds are eating, offering scientists a way to track how sea ice conditions influence their diet. The post Pink Penguin Guano Provides Diet Clues appeared first on NASA Science .",
+      "date": "Jul 27, 2026",
+      "published_utc": "2026-07-27 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/reading-penguin-diets-in-shades-of-guano/dangerislands_oli_20230122.jpg?w=1279&amp;h=1183&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
