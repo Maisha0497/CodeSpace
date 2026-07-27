@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26 18:37 UTC",
+  "updated": "2026-07-27 00:58 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,26 @@
       "date": "Jul 26, 2026",
       "published_utc": "2026-07-26 16:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-heat-engine.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Near a black hole, gravity changes a quantum circuit's readings, not its rules",
+      "link": "https://phys.org/news/2026-07-black-hole-gravity-quantum-circuit.html",
+      "desc": "Imagine holding one of our most precise quantum devices at a fixed position outside a black hole. A Josephson junction—two superconductors separated by an ultrathin barrier—can turn a voltage into a quantum oscillation with extraordinary precision. Would intense gravity change that quantum rule, or…",
+      "date": "Jul 26, 2026",
+      "published_utc": "2026-07-26 23:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/near-a-black-hole-grav.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Twisted laser light distinguishes mirror-image molecules by their fragment counts",
+      "link": "https://phys.org/news/2026-07-laser-distinguishes-mirror-image-molecules.html",
+      "desc": "Many molecules exist in two mirror-image forms—like left and right hands—that look identical but can behave very differently, especially in biological systems and pharmaceuticals. Distinguishing between these enantiomers (also called chiral molecules) is a longstanding challenge in science and…",
+      "date": "Jul 26, 2026",
+      "published_utc": "2026-07-26 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/twisting-light-for-dis.jpg"
     }
   ]
 }
