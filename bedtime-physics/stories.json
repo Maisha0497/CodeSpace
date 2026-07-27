@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27 07:26 UTC",
+  "updated": "2026-07-27 13:20 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Jul 26, 2026",
       "published_utc": "2026-07-26 16:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-heat-engine.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physicists capture first direct evidence of a Floquet topological state",
+      "link": "https://phys.org/news/2026-07-physicists-capture-evidence-floquet-topological.html",
+      "desc": "A new study published in Nature Physics reports the first direct experimental evidence of a Floquet topological state, a novel light-induced phase of matter that, until now, has existed only on paper and in simulations. Topological insulators can conduct electricity along their surface while…",
+      "date": "Jul 27, 2026",
+      "published_utc": "2026-07-27 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-observe-fir.jpg"
     },
     {
       "topic": "Physics",
@@ -31,6 +41,16 @@
       "date": "Jul 26, 2026",
       "published_utc": "2026-07-26 19:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/twisting-light-for-dis.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "A Changing Climate Will Lead to More AC in Wealthier Countries, and More Deaths in Poor Ones, New Report Suggests",
+      "link": "https://eos.org/research-and-developments/a-changing-climate-will-lead-to-more-ac-in-wealthier-countries-and-more-deaths-in-poor-ones-new-report-suggests",
+      "desc": "A new report finds that the regions most affected by extreme heat are also the regions least likely to have increased levels of electricity to power the air conditioning that might provide relief.",
+      "date": "Jul 27, 2026",
+      "published_utc": "2026-07-27 11:19 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/07/Figure-2-Exec-Summary-Interactive-with-title-margin-footnote@2x-resize-1024x576.jpg"
     },
     {
       "topic": "Earth Observation",
