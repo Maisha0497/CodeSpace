@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28 12:55 UTC",
+  "updated": "2026-07-28 18:47 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,12 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Highly tunable electro-optic isolator achieves one-way light flow on photonic chips",
-      "link": "https://phys.org/news/2026-07-highly-tunable-electro-optic-isolator.html",
-      "desc": "Integrated photonic devices—tiny circuits that use light instead of electrons—are becoming increasingly important for scalable photonics technologies and high-bandwidth communications. They are particularly valuable for managing low-power, light-based data transfer inside data centers, which are…",
-      "date": "Jul 27, 2026",
-      "published_utc": "2026-07-27 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-highly-tunable-elect.jpg"
+      "title": "New research shows how 'hot electrons' can reshape metals in billionths of a second",
+      "link": "https://phys.org/news/2026-07-hot-electrons-reshape-metals-billionths.html",
+      "desc": "Researchers at The University of Manchester have revealed how intense electronic excitation can trigger rapid structural changes in metals—without heating the atomic lattice—offering new insight into ultrafast materials behavior.",
+      "date": "Jul 28, 2026",
+      "published_utc": "2026-07-28 14:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-shows-how-5.jpg"
     },
     {
       "topic": "Physics",
@@ -55,12 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum neural networks get their first hardware test",
-      "link": "https://phys.org/news/2026-07-quantum-neural-networks-hardware.html",
-      "desc": "Neural networks have transformed how machines find patterns in data, from recognizing faces in photos to predicting the shapes of proteins. So far, all of this progress has been made on ordinary classical computers, but with quantum computers now edging into practical use, there is a real…",
-      "date": "Jul 27, 2026",
-      "published_utc": "2026-07-27 14:50 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-neural-network.jpg"
+      "title": "A way to read quantum bits faster and with less hardware",
+      "link": "https://phys.org/news/2026-07-quantum-bits-faster-hardware.html",
+      "desc": "Quantum computers process information in a fundamentally different way from conventional computers, using quantum bits, or qubits, that can exist in multiple states at once. This could allow them to tackle problems beyond the reach of today's machines, from simulating new materials to optimizing…",
+      "date": "Jul 28, 2026",
+      "published_utc": "2026-07-28 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-way-to-read-quantum.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Ultracold neutrons don't disappear into the mirror world",
+      "link": "https://phys.org/news/2026-07-ultracold-neutrons-dont-mirror-world.html",
+      "desc": "For decades, a theory in physics has postulated the existence of a mirror world whose interaction with our own reality is extremely feeble. The particles in this mirror universe are also thought to be candidates for dark matter. Researchers at the Paul Scherrer Institute PSI have now examined some…",
+      "date": "Jul 28, 2026",
+      "published_utc": "2026-07-28 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neutrons-dont-disappea.jpg"
     },
     {
       "topic": "Physics",
@@ -73,24 +83,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-quantum-material-a.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere",
-      "link": "https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-earths-atmosphere-20260727/",
-      "desc": "An organelle discovered inside a microbe inside a cow’s gut helps explain how livestock burps contribute to warming our planet. The post A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere first appeared on Quanta Magazine",
-      "date": "Jul 27, 2026",
-      "published_utc": "2026-07-27 14:40 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Hydrogenobody-cr-Ada-Zejun-Shen-Default-1.webp"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Fires rage near Bordeaux, France",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Fires_rage_near_Bordeaux_France",
-      "desc": "Image: These images by the Copernicus Sentinel-2 mission, captured on 26 July, show the area to the west of Bordeaux, France, where wildfires continue to burn countryside, fanned by wind and heatwave conditions.",
-      "date": "Jul 27, 2026",
-      "published_utc": "2026-07-27 13:50 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/fires_rage_near_bordeaux_france/27393135-1-eng-GB/Fires_rage_near_Bordeaux_France_card_full.jpg"
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Smoke Blankets Oregon",
+      "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
+      "desc": "Lightning storms have ignited dozens of fires in central and eastern Oregon. The post Smoke Blankets Oregon appeared first on NASA Science .",
+      "date": "Jul 28, 2026",
+      "published_utc": "2026-07-28 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg?w=2160&amp;h=1740&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
