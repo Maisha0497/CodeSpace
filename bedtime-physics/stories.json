@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28 07:11 UTC",
+  "updated": "2026-07-28 12:55 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -55,16 +55,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Physicists capture first direct evidence of a Floquet topological state",
-      "link": "https://phys.org/news/2026-07-physicists-capture-evidence-floquet-topological.html",
-      "desc": "A new study published in Nature Physics reports the first direct experimental evidence of a Floquet topological state, a novel light-induced phase of matter that, until now, has existed only on paper and in simulations. Topological insulators can conduct electricity along their surface while…",
-      "date": "Jul 27, 2026",
-      "published_utc": "2026-07-27 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-observe-fir.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Quantum neural networks get their first hardware test",
       "link": "https://phys.org/news/2026-07-quantum-neural-networks-hardware.html",
       "desc": "Neural networks have transformed how machines find patterns in data, from recognizing faces in photos to predicting the shapes of proteins. So far, all of this progress has been made on ordinary classical computers, but with quantum computers now edging into practical use, there is a real…",
@@ -91,6 +81,16 @@
       "date": "Jul 27, 2026",
       "published_utc": "2026-07-27 14:40 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Hydrogenobody-cr-Ada-Zejun-Shen-Default-1.webp"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Fires rage near Bordeaux, France",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Fires_rage_near_Bordeaux_France",
+      "desc": "Image: These images by the Copernicus Sentinel-2 mission, captured on 26 July, show the area to the west of Bordeaux, France, where wildfires continue to burn countryside, fanned by wind and heatwave conditions.",
+      "date": "Jul 27, 2026",
+      "published_utc": "2026-07-27 13:50 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/fires_rage_near_bordeaux_france/27393135-1-eng-GB/Fires_rage_near_Bordeaux_France_card_full.jpg"
     }
   ]
 }
