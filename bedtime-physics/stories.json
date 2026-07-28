@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-27 18:47 UTC",
+  "updated": "2026-07-28 00:51 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Simple semiconductor films break light's front-back symmetry",
+      "link": "https://phys.org/news/2026-07-simple-semiconductor-front-symmetry.html",
+      "desc": "Light typically interacts with a material the same way whether it enters through the front or the back—like polarized sunglasses that work the same from either side. Cornell researchers have demonstrated a simple route to breaking that symmetry, opening new possibilities for photonics and quantum…",
+      "date": "Jul 27, 2026",
+      "published_utc": "2026-07-27 20:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-break-ligh.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -11,6 +21,26 @@
       "date": "Jul 27, 2026",
       "published_utc": "2026-07-27 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-highly-tunable-elect.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Light reveals transient electronic step behind a hidden state in metal-organic framework",
+      "link": "https://phys.org/news/2026-07-reveals-transient-electronic-hidden-state.html",
+      "desc": "A fleeting photoinduced electronic state and the subsequent formation of a photoinduced hidden state in a metal–organic framework were captured in just 30 femtoseconds by researchers at Science Tokyo, Tohoku University and Nagoya Institute of Technology, Japan. By combining ultrafast laser…",
+      "date": "Jul 27, 2026",
+      "published_utc": "2026-07-27 20:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/metal-organic-framewor.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New thermodynamic framework explains pressure and edge currents in spinning active particles",
+      "link": "https://phys.org/news/2026-07-thermodynamic-framework-pressure-edge-currents.html",
+      "desc": "Physicists from Heinrich Heine University Düsseldorf (HHU), the Technical University of Darmstadt, Sapienza University in Rome and the University of Camerino (both in Italy) have calculated the fundamental laws of thermodynamics for a gas composed of spinning particles. In the scientific journal…",
+      "date": "Jul 27, 2026",
+      "published_utc": "2026-07-27 22:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/thermodynamics-of-spin.jpg"
     },
     {
       "topic": "Physics",
@@ -25,32 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Near a black hole, gravity changes a quantum circuit's readings, not its rules",
-      "link": "https://phys.org/news/2026-07-black-hole-gravity-quantum-circuit.html",
-      "desc": "Imagine holding one of our most precise quantum devices at a fixed position outside a black hole. A Josephson junction—two superconductors separated by an ultrathin barrier—can turn a voltage into a quantum oscillation with extraordinary precision. Would intense gravity change that quantum rule, or…",
-      "date": "Jul 26, 2026",
-      "published_utc": "2026-07-26 23:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/near-a-black-hole-grav.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Twisted laser light distinguishes mirror-image molecules by their fragment counts",
-      "link": "https://phys.org/news/2026-07-laser-distinguishes-mirror-image-molecules.html",
-      "desc": "Many molecules exist in two mirror-image forms—like left and right hands—that look identical but can behave very differently, especially in biological systems and pharmaceuticals. Distinguishing between these enantiomers (also called chiral molecules) is a longstanding challenge in science and…",
-      "date": "Jul 26, 2026",
-      "published_utc": "2026-07-26 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/twisting-light-for-dis.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Quantum neural networks get their first hardware test",
       "link": "https://phys.org/news/2026-07-quantum-neural-networks-hardware.html",
       "desc": "Neural networks have transformed how machines find patterns in data, from recognizing faces in photos to predicting the shapes of proteins. So far, all of this progress has been made on ordinary classical computers, but with quantum computers now edging into practical use, there is a real…",
       "date": "Jul 27, 2026",
       "published_utc": "2026-07-27 14:50 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-neural-network.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New quantum chip architecture could use built-in vibrations to link distant qubits",
+      "link": "https://phys.org/news/2026-07-quantum-chip-architecture-built-vibrations.html",
+      "desc": "A new concept from Warwick researchers could help solve one of the biggest challenges to building large-scale quantum computers: enabling communication between vast numbers of quantum bits (qubits) over long distances across a single chip.",
+      "date": "Jul 27, 2026",
+      "published_utc": "2026-07-27 21:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-quantum-material-a.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -71,26 +91,6 @@
       "date": "Jul 27, 2026",
       "published_utc": "2026-07-27 13:50 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/fires_rage_near_bordeaux_france/27393135-1-eng-GB/Fires_rage_near_Bordeaux_France_card_full.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "A Changing Climate Will Lead to More AC in Wealthier Countries, and More Deaths in Poor Ones, New Report Suggests",
-      "link": "https://eos.org/research-and-developments/a-changing-climate-will-lead-to-more-ac-in-wealthier-countries-and-more-deaths-in-poor-ones-new-report-suggests",
-      "desc": "A new report finds that the regions most affected by extreme heat are also the regions least likely to have increased levels of electricity to power the air conditioning that might provide relief.",
-      "date": "Jul 27, 2026",
-      "published_utc": "2026-07-27 11:19 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/07/Figure-2-Exec-Summary-Interactive-with-title-margin-footnote@2x-resize-1024x576.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Pink Penguin Guano Provides Diet Clues",
-      "link": "https://science.nasa.gov/earth/earth-observatory/pink-penguin-guano-provides-diet-clues/",
-      "desc": "The color of Adélie penguin droppings reveals what the birds are eating, offering scientists a way to track how sea ice conditions influence their diet. The post Pink Penguin Guano Provides Diet Clues appeared first on NASA Science .",
-      "date": "Jul 27, 2026",
-      "published_utc": "2026-07-27 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/reading-penguin-diets-in-shades-of-guano/dangerislands_oli_20230122.jpg?w=1279&amp;h=1183&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
