@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 00:52 UTC",
+  "updated": "2026-07-29 07:12 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Jul 28, 2026",
       "published_utc": "2026-07-28 14:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-shows-how-5.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New sensing method measures laser-cutting depth by tracking vaporization recoil",
-      "link": "https://phys.org/news/2026-07-method-laser-depth-tracking-vaporization.html",
-      "desc": "Laser dicing, a technique that uses focused laser pulses to separate individual chips from a semiconductor wafer, is increasingly favored over mechanical blade cutting because it can process delicate, low-strength materials with minimal physical stress. However, achieving proper yield requires…",
-      "date": "Jul 28, 2026",
-      "published_utc": "2026-07-28 01:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/monitoring-laser-ablat.jpg"
     },
     {
       "topic": "Physics",
@@ -55,12 +45,12 @@
     {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
-      "title": "Smoke Blankets Oregon",
-      "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
-      "desc": "Lightning storms have ignited dozens of fires in central and eastern Oregon. The post Smoke Blankets Oregon appeared first on NASA Science .",
-      "date": "Jul 28, 2026",
-      "published_utc": "2026-07-28 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg?w=2160&amp;h=1740&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "title": "Sizing Up the Sargassum Belt",
+      "link": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
+      "desc": "Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs. The post Sizing Up the Sargassum Belt appeared first on NASA Science .",
+      "date": "Jul 29, 2026",
+      "published_utc": "2026-07-29 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606.jpg?w=1440&amp;h=1090&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "topic": "Geoscience",
