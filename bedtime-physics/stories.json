@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 07:12 UTC",
+  "updated": "2026-07-29 12:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,12 +25,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "New twist on the Einstein problem reveals unexpected physics",
+      "link": "https://phys.org/news/2026-07-einstein-problem-reveals-unexpected-physics.html",
+      "desc": "A shape that captured worldwide attention for solving a decades-old mathematical puzzle has returned to the spotlight. While the shape's properties allowed it to solve previous puzzles, little is known about its other associated properties, creating opportunities for further discovery. These…",
+      "date": "Jul 29, 2026",
+      "published_utc": "2026-07-29 09:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-twist-on-the-ein.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Ultracold neutrons don't disappear into the mirror world",
       "link": "https://phys.org/news/2026-07-ultracold-neutrons-dont-mirror-world.html",
       "desc": "For decades, a theory in physics has postulated the existence of a mirror world whose interaction with our own reality is extremely feeble. The particles in this mirror universe are also thought to be candidates for dark matter. Researchers at the Paul Scherrer Institute PSI have now examined some…",
       "date": "Jul 28, 2026",
       "published_utc": "2026-07-28 16:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neutrons-dont-disappea.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Rare-earth ions could enable telecom-ready control of interacting qubits",
+      "link": "https://phys.org/news/2026-07-rare-earth-ions-enable-telecom.html",
+      "desc": "Quantum technologies are devices and systems that exploit the laws of quantum mechanics and could perform tasks that are difficult or impossible to tackle using their classical counterparts. These technologies process and store information using qubits (i.e., quantum bits), which can exist in a…",
+      "date": "Jul 29, 2026",
+      "published_utc": "2026-07-29 12:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-coherent-optical-a-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Repeating distance patterns let optical systems tackle large optimization problems",
+      "link": "https://phys.org/news/2026-07-distance-patterns-optical-tackle-large.html",
+      "desc": "From planning transportation networks to organizing massive datasets, many of society's most important challenges boil down to an optimization problem: finding the best solution among an enormous number of possibilities. As these problems increase in size and scope, however, the computational…",
+      "date": "Jul 29, 2026",
+      "published_utc": "2026-07-29 09:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/solving-complex-optimi.jpg"
     },
     {
       "topic": "Physics",
@@ -43,6 +73,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/skoltech-scientists-de.jpg"
     },
     {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Tracking Penguin Poop from Space Reveals Antarctica’s Changing Ecosystems",
+      "link": "https://eos.org/articles/tracking-penguin-poop-from-space-reveals-antarcticas-changing-ecosystems",
+      "desc": "Long-term records documenting the colors of penguin guano shed light on how declining sea ice may be affecting penguin diets.",
+      "date": "Jul 29, 2026",
+      "published_utc": "2026-07-29 12:46 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/07/penguin-poop-coronation-island-antarctica-1024x576.jpg"
+    },
+    {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
       "title": "Sizing Up the Sargassum Belt",
@@ -51,16 +91,6 @@
       "date": "Jul 29, 2026",
       "published_utc": "2026-07-29 04:00 UTC",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606.jpg?w=1440&amp;h=1090&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Enhancing Induced Seismicity: A New Window into Earthquake Physics",
-      "link": "https://eos.org/editor-highlights/enhancing-induced-seismicity-a-new-window-into-earthquake-physics",
-      "desc": "Controlled multi-day hydraulic stimulation experiments in the BedrettoLab aim to generate seismicity in order improve the understanding for rupture processes of natural and induced earthquakes.",
-      "date": "Jul 28, 2026",
-      "published_utc": "2026-07-28 12:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/07/Untitled-1-1024x576.png"
     }
   ]
 }
