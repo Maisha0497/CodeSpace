@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-28 18:47 UTC",
+  "updated": "2026-07-29 00:52 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Simple semiconductor films break light's front-back symmetry",
-      "link": "https://phys.org/news/2026-07-simple-semiconductor-front-symmetry.html",
-      "desc": "Light typically interacts with a material the same way whether it enters through the front or the back—like polarized sunglasses that work the same from either side. Cornell researchers have demonstrated a simple route to breaking that symmetry, opening new possibilities for photonics and quantum…",
-      "date": "Jul 27, 2026",
-      "published_utc": "2026-07-27 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-break-ligh.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,26 +11,6 @@
       "date": "Jul 28, 2026",
       "published_utc": "2026-07-28 14:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-shows-how-5.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Light reveals transient electronic step behind a hidden state in metal-organic framework",
-      "link": "https://phys.org/news/2026-07-reveals-transient-electronic-hidden-state.html",
-      "desc": "A fleeting photoinduced electronic state and the subsequent formation of a photoinduced hidden state in a metal–organic framework were captured in just 30 femtoseconds by researchers at Science Tokyo, Tohoku University and Nagoya Institute of Technology, Japan. By combining ultrafast laser…",
-      "date": "Jul 27, 2026",
-      "published_utc": "2026-07-27 20:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/metal-organic-framewor.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New thermodynamic framework explains pressure and edge currents in spinning active particles",
-      "link": "https://phys.org/news/2026-07-thermodynamic-framework-pressure-edge-currents.html",
-      "desc": "Physicists from Heinrich Heine University Düsseldorf (HHU), the Technical University of Darmstadt, Sapienza University in Rome and the University of Camerino (both in Italy) have calculated the fundamental laws of thermodynamics for a gas composed of spinning particles. In the scientific journal…",
-      "date": "Jul 27, 2026",
-      "published_utc": "2026-07-27 22:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/thermodynamics-of-spin.jpg"
     },
     {
       "topic": "Physics",
@@ -75,12 +45,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New quantum chip architecture could use built-in vibrations to link distant qubits",
-      "link": "https://phys.org/news/2026-07-quantum-chip-architecture-built-vibrations.html",
-      "desc": "A new concept from Warwick researchers could help solve one of the biggest challenges to building large-scale quantum computers: enabling communication between vast numbers of quantum bits (qubits) over long distances across a single chip.",
-      "date": "Jul 27, 2026",
-      "published_utc": "2026-07-27 21:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-quantum-material-a.jpg"
+      "title": "Scientists demonstrate transition between strong and weak coupling regimes in a polariton microcavity",
+      "link": "https://phys.org/news/2026-07-scientists-transition-strong-weak-coupling.html",
+      "desc": "Researchers from Skoltech, together with colleagues from the N.D. Zelinsky Institute of Organic Chemistry and Westlake University, have experimentally demonstrated how the operating regime of a polariton laser changes with a gradual increase in cavity thickness.",
+      "date": "Jul 28, 2026",
+      "published_utc": "2026-07-28 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/skoltech-scientists-de.jpg"
     },
     {
       "topic": "Earth Observation",
@@ -91,6 +61,16 @@
       "date": "Jul 28, 2026",
       "published_utc": "2026-07-28 04:01 UTC",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg?w=2160&amp;h=1740&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Enhancing Induced Seismicity: A New Window into Earthquake Physics",
+      "link": "https://eos.org/editor-highlights/enhancing-induced-seismicity-a-new-window-into-earthquake-physics",
+      "desc": "Controlled multi-day hydraulic stimulation experiments in the BedrettoLab aim to generate seismicity in order improve the understanding for rupture processes of natural and induced earthquakes.",
+      "date": "Jul 28, 2026",
+      "published_utc": "2026-07-28 12:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/07/Untitled-1-1024x576.png"
     }
   ]
 }
