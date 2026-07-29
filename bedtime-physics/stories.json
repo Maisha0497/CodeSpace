@@ -1,26 +1,36 @@
 {
-  "updated": "2026-07-29 12:56 UTC",
+  "updated": "2026-07-29 18:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New research shows how 'hot electrons' can reshape metals in billionths of a second",
-      "link": "https://phys.org/news/2026-07-hot-electrons-reshape-metals-billionths.html",
-      "desc": "Researchers at The University of Manchester have revealed how intense electronic excitation can trigger rapid structural changes in metals—without heating the atomic lattice—offering new insight into ultrafast materials behavior.",
-      "date": "Jul 28, 2026",
-      "published_utc": "2026-07-28 14:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-shows-how-5.jpg"
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.",
+      "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "desc": "New calculations seem to have put a 25-year-old particle physics puzzle to rest. But they’ve also created a clash with other experimental results. The post Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up. first appeared on Quanta Magazine",
+      "date": "Jul 29, 2026",
+      "published_utc": "2026-07-29 14:53 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/E989-storage-ring-magnet-at-Fermilab-cr-Reidar-Hahn-Fermilab-Default.webp"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A way to read quantum bits faster and with less hardware",
-      "link": "https://phys.org/news/2026-07-quantum-bits-faster-hardware.html",
-      "desc": "Quantum computers process information in a fundamentally different way from conventional computers, using quantum bits, or qubits, that can exist in multiple states at once. This could allow them to tackle problems beyond the reach of today's machines, from simulating new materials to optimizing…",
-      "date": "Jul 28, 2026",
-      "published_utc": "2026-07-28 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-way-to-read-quantum.jpg"
+      "title": "Beyond wrinkles: New rule explains why growing shapes suddenly crumple",
+      "link": "https://phys.org/news/2026-07-wrinkles-suddenly-crumple.html",
+      "desc": "Scientists have discovered a previously unknown law of geometry that explains why some growing surfaces, whether in nature or in engineered materials, suddenly stop being able to stay smooth and instead form dimples and folds. Until now, researchers believed they understood the geometric rules…",
+      "date": "Jul 29, 2026",
+      "published_utc": "2026-07-29 17:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beyond-wrinkles-scient.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Two attosecond flashes capture electrons in motion",
+      "link": "https://phys.org/news/2026-07-attosecond-capture-electrons-motion.html",
+      "desc": "Electronic motion sets the stage for virtually every light-induced process in nature, from the first step of a chemical reaction to the flow of charge in a solid. Yet these processes unfold so rapidly that they can be observed only with flashes of light lasting a few hundred attoseconds—billionths…",
+      "date": "Jul 29, 2026",
+      "published_utc": "2026-07-29 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-attosecond-flashes.jpg"
     },
     {
       "topic": "Physics",
@@ -35,12 +45,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Ultracold neutrons don't disappear into the mirror world",
-      "link": "https://phys.org/news/2026-07-ultracold-neutrons-dont-mirror-world.html",
-      "desc": "For decades, a theory in physics has postulated the existence of a mirror world whose interaction with our own reality is extremely feeble. The particles in this mirror universe are also thought to be candidates for dark matter. Researchers at the Paul Scherrer Institute PSI have now examined some…",
-      "date": "Jul 28, 2026",
-      "published_utc": "2026-07-28 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neutrons-dont-disappea.jpg"
+      "title": "Bringing complex field physics to the tabletop: A photonic stage for non-Abelian gauge fields",
+      "link": "https://phys.org/news/2026-07-complex-field-physics-tabletop-photonic.html",
+      "desc": "For most theories in physics, the order of operations has little impact on the result. When setting a dial to a certain position, for example, it doesn't matter whether it's turned clockwise or counterclockwise—the result will always be the same. Yet for non-Abelian gauge theories, order does…",
+      "date": "Jul 29, 2026",
+      "published_utc": "2026-07-29 15:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-photonic-stage-for-n.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Jul 29, 2026",
       "published_utc": "2026-07-29 12:46 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/07/penguin-poop-coronation-island-antarctica-1024x576.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Sizing Up the Sargassum Belt",
-      "link": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
-      "desc": "Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs. The post Sizing Up the Sargassum Belt appeared first on NASA Science .",
-      "date": "Jul 29, 2026",
-      "published_utc": "2026-07-29 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606.jpg?w=1440&amp;h=1090&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
