@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30 07:10 UTC",
+  "updated": "2026-07-30 12:51 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -45,6 +45,26 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Physicists create Bose–Einstein condensate from ultracold polar molecules",
+      "link": "https://phys.org/news/2026-07-physicists-boseeinstein-condensate-ultracold-polar.html",
+      "desc": "Bose–Einstein condensates are states of matter that form when particles called bosons are cooled to temperatures that are only a fraction of a degree above absolute zero (i.e., 0 Kelvin [-460°F]). In these states, particles occupy the same quantum state and exhibit interesting collective behaviors,…",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 11:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-create-bose.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "A New Pathway for Energy Redistribution in Near-Earth Space",
+      "link": "https://eos.org/editor-highlights/a-new-pathway-for-energy-redistribution-in-near-earth-space",
+      "desc": "In situ evidence of bidirectional wave-particle energy transfer enabled by local magnetic-field gradient reveals an inhomogeneity-driven pathway for energy redistribution.",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 12:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/07/logan-voss-3PWloCszCc-unsplash-1024x576.png"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "2D quantum memory device reaches single-electron limit of information storage",
       "link": "https://phys.org/news/2026-07-2d-quantum-memory-device-electron.html",
       "desc": "Most electronic memory storage devices require the ability to trap large numbers of electrons for each bit of memory. In an ideal world, however, it would take only one electron. This would reduce space requirements and power consumption for devices. Now, a team in China has realized this goal with…",
@@ -71,26 +91,6 @@
       "date": "Jul 29, 2026",
       "published_utc": "2026-07-29 14:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-attosecond-flashes.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New twist on the Einstein problem reveals unexpected physics",
-      "link": "https://phys.org/news/2026-07-einstein-problem-reveals-unexpected-physics.html",
-      "desc": "A shape that captured worldwide attention for solving a decades-old mathematical puzzle has returned to the spotlight. While the shape's properties allowed it to solve previous puzzles, little is known about its other associated properties, creating opportunities for further discovery. These…",
-      "date": "Jul 29, 2026",
-      "published_utc": "2026-07-29 09:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-twist-on-the-ein.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Bringing complex field physics to the tabletop: A photonic stage for non-Abelian gauge fields",
-      "link": "https://phys.org/news/2026-07-complex-field-physics-tabletop-photonic.html",
-      "desc": "For most theories in physics, the order of operations has little impact on the result. When setting a dial to a certain position, for example, it doesn't matter whether it's turned clockwise or counterclockwise—the result will always be the same. Yet for non-Abelian gauge theories, order does…",
-      "date": "Jul 29, 2026",
-      "published_utc": "2026-07-29 15:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-photonic-stage-for-n.jpg"
     }
   ]
 }
