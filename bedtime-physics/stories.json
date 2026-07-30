@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30 00:49 UTC",
+  "updated": "2026-07-30 07:10 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Jul 29, 2026",
       "published_utc": "2026-07-29 23:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mechanical-strain-crea.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum in the palm of your hand: The evolution of superconducting qubits",
+      "link": "https://phys.org/news/2026-07-quantum-palm-evolution-superconducting-qubits.html",
+      "desc": "Electrons zipping through transistors, powering the screens on our smartphones. Light zooming from distant stars to Earth, moving faster than anything else in the universe. Protons enabling MRI machines to analyze people's injuries.",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 03:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-in-the-palm-of.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Jul 29, 2026",
       "published_utc": "2026-07-29 15:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-photonic-stage-for-n.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Rare-earth ions could enable telecom-ready control of interacting qubits",
-      "link": "https://phys.org/news/2026-07-rare-earth-ions-enable-telecom.html",
-      "desc": "Quantum technologies are devices and systems that exploit the laws of quantum mechanics and could perform tasks that are difficult or impossible to tackle using their classical counterparts. These technologies process and store information using qubits (i.e., quantum bits), which can exist in a…",
-      "date": "Jul 29, 2026",
-      "published_utc": "2026-07-29 12:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-coherent-optical-a-1.jpg"
     }
   ]
 }
