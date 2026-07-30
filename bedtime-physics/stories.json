@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-29 18:35 UTC",
+  "updated": "2026-07-30 00:49 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Strain turns non-chiral crystals left- or right-handed on demand",
+      "link": "https://phys.org/news/2026-07-strain-chiral-crystals-left-demand.html",
+      "desc": "Mechanical strain is one of the most common tools used to tailor the properties of materials. In piezoelectric materials, stretching or compressing a crystal generates an electrical polarization. In piezomagnetic materials, it induces magnetization. Researchers at the Max Planck Institute for the…",
+      "date": "Jul 29, 2026",
+      "published_utc": "2026-07-29 23:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mechanical-strain-crea.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "First electrically pumped perovskite polariton laser diode solves a decades-long challenge",
+      "link": "https://phys.org/news/2026-07-electrically-perovskite-polariton-laser-diode.html",
+      "desc": "Resolving a long-standing problem in semiconductor physics and optoelectronics, a team of researchers from Skoltech—a VEB.RF group institution—and their colleagues from ITMO University and HSE University have for the first time demonstrated direct electrical pumping of a polariton laser based on a…",
+      "date": "Jul 29, 2026",
+      "published_utc": "2026-07-29 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-demonstrat-9.jpg"
+    },
     {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
@@ -11,6 +31,16 @@
       "date": "Jul 29, 2026",
       "published_utc": "2026-07-29 14:53 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/E989-storage-ring-magnet-at-Fermilab-cr-Reidar-Hahn-Fermilab-Default.webp"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "2D quantum memory device reaches single-electron limit of information storage",
+      "link": "https://phys.org/news/2026-07-2d-quantum-memory-device-electron.html",
+      "desc": "Most electronic memory storage devices require the ability to trap large numbers of electrons for each bit of memory. In an ideal world, however, it would take only one electron. This would reduce space requirements and power consumption for devices. Now, a team in China has realized this goal with…",
+      "date": "Jul 29, 2026",
+      "published_utc": "2026-07-29 18:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/2d-quantum-memory-devi.jpg"
     },
     {
       "topic": "Physics",
@@ -61,36 +91,6 @@
       "date": "Jul 29, 2026",
       "published_utc": "2026-07-29 12:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-coherent-optical-a-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Repeating distance patterns let optical systems tackle large optimization problems",
-      "link": "https://phys.org/news/2026-07-distance-patterns-optical-tackle-large.html",
-      "desc": "From planning transportation networks to organizing massive datasets, many of society's most important challenges boil down to an optimization problem: finding the best solution among an enormous number of possibilities. As these problems increase in size and scope, however, the computational…",
-      "date": "Jul 29, 2026",
-      "published_utc": "2026-07-29 09:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/solving-complex-optimi.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Scientists demonstrate transition between strong and weak coupling regimes in a polariton microcavity",
-      "link": "https://phys.org/news/2026-07-scientists-transition-strong-weak-coupling.html",
-      "desc": "Researchers from Skoltech, together with colleagues from the N.D. Zelinsky Institute of Organic Chemistry and Westlake University, have experimentally demonstrated how the operating regime of a polariton laser changes with a gradual increase in cavity thickness.",
-      "date": "Jul 28, 2026",
-      "published_utc": "2026-07-28 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/skoltech-scientists-de.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Tracking Penguin Poop from Space Reveals Antarctica’s Changing Ecosystems",
-      "link": "https://eos.org/articles/tracking-penguin-poop-from-space-reveals-antarcticas-changing-ecosystems",
-      "desc": "Long-term records documenting the colors of penguin guano shed light on how declining sea ice may be affecting penguin diets.",
-      "date": "Jul 29, 2026",
-      "published_utc": "2026-07-29 12:46 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/07/penguin-poop-coronation-island-antarctica-1024x576.jpg"
     }
   ]
 }
