@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30 12:51 UTC",
+  "updated": "2026-07-30 18:47 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -33,16 +33,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-demonstrat-9.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.",
-      "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-      "desc": "New calculations seem to have put a 25-year-old particle physics puzzle to rest. But they’ve also created a clash with other experimental results. The post Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up. first appeared on Quanta Magazine",
-      "date": "Jul 29, 2026",
-      "published_utc": "2026-07-29 14:53 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/E989-storage-ring-magnet-at-Fermilab-cr-Reidar-Hahn-Fermilab-Default.webp"
-    },
-    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Physicists create Bose–Einstein condensate from ultracold polar molecules",
@@ -51,6 +41,16 @@
       "date": "Jul 30, 2026",
       "published_utc": "2026-07-30 11:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-create-bose.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "One LED produces four stable colors at room temperature",
+      "link": "https://phys.org/news/2026-07-stable-room-temperature.html",
+      "desc": "Full-color displays normally require separate red, green and blue light emitters. A team from the University of Osaka and Ritsumeikan University has demonstrated another approach: a single light-emitting layer that produces several colors when electrically powered at room temperature. The study was…",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-led-four-stable-co.jpg"
     },
     {
       "topic": "Geoscience",
@@ -65,32 +65,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "2D quantum memory device reaches single-electron limit of information storage",
-      "link": "https://phys.org/news/2026-07-2d-quantum-memory-device-electron.html",
-      "desc": "Most electronic memory storage devices require the ability to trap large numbers of electrons for each bit of memory. In an ideal world, however, it would take only one electron. This would reduce space requirements and power consumption for devices. Now, a team in China has realized this goal with…",
-      "date": "Jul 29, 2026",
-      "published_utc": "2026-07-29 18:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/2d-quantum-memory-devi.jpg"
+      "title": "Light's hidden properties save quantum information from the chaos of bad weather",
+      "link": "https://phys.org/news/2026-07-hidden-properties-quantum-chaos-bad.html",
+      "desc": "For years, researchers have tried to harness the \"twist\" of light to transmit data. This property describes how light spirals as it travels forward, and because it can be molded into a virtually infinite number of different twists, it provides a massive, promising alphabet for high-capacity…",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 17:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lights-hidden-properti.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Beyond wrinkles: New rule explains why growing shapes suddenly crumple",
-      "link": "https://phys.org/news/2026-07-wrinkles-suddenly-crumple.html",
-      "desc": "Scientists have discovered a previously unknown law of geometry that explains why some growing surfaces, whether in nature or in engineered materials, suddenly stop being able to stay smooth and instead form dimples and folds. Until now, researchers believed they understood the geometric rules…",
-      "date": "Jul 29, 2026",
-      "published_utc": "2026-07-29 17:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beyond-wrinkles-scient.jpg"
+      "title": "Physicists link the Riemann Hypothesis to phase transitions in quantum systems",
+      "link": "https://phys.org/news/2026-07-physicists-link-riemann-hypothesis-phase.html",
+      "desc": "A new study in Nature Communications has established a link between the Riemann Hypothesis and dynamical phase transitions in engineered quantum systems, demonstrating the effect on a quantum processor.",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-link-the-ri.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Two attosecond flashes capture electrons in motion",
-      "link": "https://phys.org/news/2026-07-attosecond-capture-electrons-motion.html",
-      "desc": "Electronic motion sets the stage for virtually every light-induced process in nature, from the first step of a chemical reaction to the flow of charge in a solid. Yet these processes unfold so rapidly that they can be observed only with flashes of light lasting a few hundred attoseconds—billionths…",
-      "date": "Jul 29, 2026",
-      "published_utc": "2026-07-29 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-attosecond-flashes.jpg"
+      "title": "Neutron star collisions may forge gold more slowly than expected",
+      "link": "https://phys.org/news/2026-07-neutron-star-collisions-forge-gold.html",
+      "desc": "Where do gold, platinum and uranium come from? This question has fascinated astrophysicists and nuclear physicists for decades. A research team from Technische Universität Darmstadt has now taken an important step toward understanding the origin of heavy elements. Their findings are published in…",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gold-and-platinum.jpg"
     }
   ]
 }
