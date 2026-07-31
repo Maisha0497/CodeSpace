@@ -1,16 +1,36 @@
 {
-  "updated": "2026-07-30 18:47 UTC",
+  "updated": "2026-07-31 00:55 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Strain turns non-chiral crystals left- or right-handed on demand",
-      "link": "https://phys.org/news/2026-07-strain-chiral-crystals-left-demand.html",
-      "desc": "Mechanical strain is one of the most common tools used to tailor the properties of materials. In piezoelectric materials, stretching or compressing a crystal generates an electrical polarization. In piezomagnetic materials, it induces magnetization. Researchers at the Max Planck Institute for the…",
-      "date": "Jul 29, 2026",
-      "published_utc": "2026-07-29 23:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mechanical-strain-crea.jpg"
+      "title": "Electrically controlled magnetic switching shows promise for next-gen cryogenic devices",
+      "link": "https://phys.org/news/2026-07-electrically-magnetic-gen-cryogenic-devices.html",
+      "desc": "Researchers at the Indian Institute of Science (IISc) have demonstrated a new way of switching a material between two fundamentally different magnetic states using an electric current. The discovery could pave the way for compact, energy-efficient electronic devices that store information, perform…",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 20:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrically-controlle.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum spin effects may enhance one-way electrical transport in chiral magnets",
+      "link": "https://phys.org/news/2026-07-quantum-effects-electrical-chiral-magnets.html",
+      "desc": "Quantum fluctuations influence direction-dependent electrical transport in chiral magnets, researchers from Science Tokyo report. In chiral magnetic systems, electric current flows differently depending on its direction, but the role of quantum effects in this behavior has remained unclear. Through…",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 21:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unveiling-how-quantum.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Cesium atoms and quantum dots generate indistinguishable photons for modular quantum networks",
+      "link": "https://phys.org/news/2026-07-cesium-atoms-quantum-dots-generate.html",
+      "desc": "Large-scale quantum communication networks require both reliable quantum memories and coherent single-photon sources that can exchange quantum information efficiently. A coherent source of single photons with narrow linewidth, high brightness, spectral uniformity and compatibility with quantum…",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 20:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-develop-a-h.jpg"
     },
     {
       "topic": "Physics",
@@ -25,12 +45,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "First electrically pumped perovskite polariton laser diode solves a decades-long challenge",
-      "link": "https://phys.org/news/2026-07-electrically-perovskite-polariton-laser-diode.html",
-      "desc": "Resolving a long-standing problem in semiconductor physics and optoelectronics, a team of researchers from Skoltech—a VEB.RF group institution—and their colleagues from ITMO University and HSE University have for the first time demonstrated direct electrical pumping of a polariton laser based on a…",
-      "date": "Jul 29, 2026",
-      "published_utc": "2026-07-29 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-demonstrat-9.jpg"
+      "title": "Photonic time crystals unlock ultrafast control of light in the terahertz range",
+      "link": "https://phys.org/news/2026-07-photonic-crystals-ultrafast-terahertz-range.html",
+      "desc": "An international team of researchers from École Polytechnique, Collège de France and Helmholtz-Zentrum Dresden-Rossendorf (HZDR) has achieved a world first: the experimental realization of an all-optical photonic time crystal (PTC), a material whose optical properties can be strongly and…",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 23:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shaping-light-like-nev-1.jpg"
     },
     {
       "topic": "Physics",
@@ -71,26 +91,6 @@
       "date": "Jul 30, 2026",
       "published_utc": "2026-07-30 17:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lights-hidden-properti.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physicists link the Riemann Hypothesis to phase transitions in quantum systems",
-      "link": "https://phys.org/news/2026-07-physicists-link-riemann-hypothesis-phase.html",
-      "desc": "A new study in Nature Communications has established a link between the Riemann Hypothesis and dynamical phase transitions in engineered quantum systems, demonstrating the effect on a quantum processor.",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-link-the-ri.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Neutron star collisions may forge gold more slowly than expected",
-      "link": "https://phys.org/news/2026-07-neutron-star-collisions-forge-gold.html",
-      "desc": "Where do gold, platinum and uranium come from? This question has fascinated astrophysicists and nuclear physicists for decades. A research team from Technische Universität Darmstadt has now taken an important step toward understanding the origin of heavy elements. Their findings are published in…",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gold-and-platinum.jpg"
     }
   ]
 }
