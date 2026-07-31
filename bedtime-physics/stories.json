@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 07:16 UTC",
+  "updated": "2026-07-31 12:55 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -45,12 +45,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Physicists create Bose–Einstein condensate from ultracold polar molecules",
-      "link": "https://phys.org/news/2026-07-physicists-boseeinstein-condensate-ultracold-polar.html",
-      "desc": "Bose–Einstein condensates are states of matter that form when particles called bosons are cooled to temperatures that are only a fraction of a degree above absolute zero (i.e., 0 Kelvin [-460°F]). In these states, particles occupy the same quantum state and exhibit interesting collective behaviors,…",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 11:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-create-bose.jpg"
+      "title": "Two independent studies push semiconductor qubits towards practical scales",
+      "link": "https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html",
+      "desc": "Semiconductor spin qubits are one of the most promising building blocks for future quantum computers, but turning them into a working, large-scale quantum computer has so far proven difficult. For now, two big questions remain open: how to connect qubits that aren't sitting right next to each…",
+      "date": "Jul 31, 2026",
+      "published_utc": "2026-07-31 11:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-independent-studie.jpg"
     },
     {
       "topic": "Physics",
@@ -61,16 +61,6 @@
       "date": "Jul 30, 2026",
       "published_utc": "2026-07-30 14:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-led-four-stable-co.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "A New Pathway for Energy Redistribution in Near-Earth Space",
-      "link": "https://eos.org/editor-highlights/a-new-pathway-for-energy-redistribution-in-near-earth-space",
-      "desc": "In situ evidence of bidirectional wave-particle energy transfer enabled by local magnetic-field gradient reveals an inhomogeneity-driven pathway for energy redistribution.",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 12:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/07/logan-voss-3PWloCszCc-unsplash-1024x576.png"
     },
     {
       "topic": "Physics",
@@ -91,6 +81,16 @@
       "date": "Jul 30, 2026",
       "published_utc": "2026-07-30 20:50 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spectroscopy-system-de.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Learning may rely on stronger neural connections, not expanding networks",
+      "link": "https://phys.org/news/2026-07-stronger-neural-networks.html",
+      "desc": "How does the brain learn? Does it acquire new knowledge by creating new neural pathways or by strengthening existing connections? A new study from Bar-Ilan University offers evidence in favor of the latter, suggesting that learning is driven primarily by changes in the strength of existing neural…",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-paradigms-for-brai.jpg"
     }
   ]
 }
