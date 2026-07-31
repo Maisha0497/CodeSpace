@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 12:55 UTC",
+  "updated": "2026-07-31 18:46 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,6 +25,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "New photonic platform offers a four-lane highway for light",
+      "link": "https://phys.org/news/2026-07-photonic-platform-lane-highway.html",
+      "desc": "Topological photonics can force propagating light to travel in a single direction—allowing researchers to route optical signals around corners and past defects without any of it scattering backward. So far, however, this one-way flow has only been found at the boundary between two specially…",
+      "date": "Jul 31, 2026",
+      "published_utc": "2026-07-31 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-photonic-platform.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Cesium atoms and quantum dots generate indistinguishable photons for modular quantum networks",
       "link": "https://phys.org/news/2026-07-cesium-atoms-quantum-dots-generate.html",
       "desc": "Large-scale quantum communication networks require both reliable quantum memories and coherent single-photon sources that can exchange quantum information efficiently. A coherent source of single photons with narrow linewidth, high brightness, spectral uniformity and compatibility with quantum…",
@@ -45,6 +55,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "New open-source software predicts energy transfer between tiny defects in solid materials",
+      "link": "https://phys.org/news/2026-07-source-software-energy-tiny-defects.html",
+      "desc": "The performance of many next-generation devices depends on controlling how energy flows at extremely small scales. In the field of microelectronics—where devices continue to shrink and new materials are introduced—small imperfections in solids can strongly influence how a material stores, transfers…",
+      "date": "Jul 31, 2026",
+      "published_utc": "2026-07-31 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-open-source-softwa.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Two independent studies push semiconductor qubits towards practical scales",
       "link": "https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html",
       "desc": "Semiconductor spin qubits are one of the most promising building blocks for future quantum computers, but turning them into a working, large-scale quantum computer has so far proven difficult. For now, two big questions remain open: how to connect qubits that aren't sitting right next to each…",
@@ -55,22 +75,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "One LED produces four stable colors at room temperature",
-      "link": "https://phys.org/news/2026-07-stable-room-temperature.html",
-      "desc": "Full-color displays normally require separate red, green and blue light emitters. A team from the University of Osaka and Ritsumeikan University has demonstrated another approach: a single light-emitting layer that produces several colors when electrically powered at room temperature. The study was…",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-led-four-stable-co.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Light's hidden properties save quantum information from the chaos of bad weather",
-      "link": "https://phys.org/news/2026-07-hidden-properties-quantum-chaos-bad.html",
-      "desc": "For years, researchers have tried to harness the \"twist\" of light to transmit data. This property describes how light spirals as it travels forward, and because it can be molded into a virtually infinite number of different twists, it provides a massive, promising alphabet for high-capacity…",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lights-hidden-properti.jpg"
+      "title": "Diamond's newfound defect may tame vibrations that hinder quantum light sources",
+      "link": "https://phys.org/news/2026-07-diamond-newfound-defect-vibrations-hinder.html",
+      "desc": "Researchers in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign have discovered a new type of quantum light emitter in diamonds that could help overcome a number of challenges facing quantum technologies.",
+      "date": "Jul 31, 2026",
+      "published_utc": "2026-07-31 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/illinois-researchers-d-1.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Jul 30, 2026",
       "published_utc": "2026-07-30 20:50 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spectroscopy-system-de.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Learning may rely on stronger neural connections, not expanding networks",
-      "link": "https://phys.org/news/2026-07-stronger-neural-networks.html",
-      "desc": "How does the brain learn? Does it acquire new knowledge by creating new neural pathways or by strengthening existing connections? A new study from Bar-Ilan University offers evidence in favor of the latter, suggesting that learning is driven primarily by changes in the strength of existing neural…",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-paradigms-for-brai.jpg"
     }
   ]
 }
