@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 00:55 UTC",
+  "updated": "2026-07-31 07:16 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,16 +31,6 @@
       "date": "Jul 30, 2026",
       "published_utc": "2026-07-30 20:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-develop-a-h.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum in the palm of your hand: The evolution of superconducting qubits",
-      "link": "https://phys.org/news/2026-07-quantum-palm-evolution-superconducting-qubits.html",
-      "desc": "Electrons zipping through transistors, powering the screens on our smartphones. Light zooming from distant stars to Earth, moving faster than anything else in the universe. Protons enabling MRI machines to analyze people's injuries.",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 03:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-in-the-palm-of.jpg"
     },
     {
       "topic": "Physics",
@@ -91,6 +81,16 @@
       "date": "Jul 30, 2026",
       "published_utc": "2026-07-30 17:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lights-hidden-properti.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Spectroscopy system detects aerosols using light reflected from traffic signs and tree trunks",
+      "link": "https://phys.org/news/2026-07-spectroscopy-aerosols-traffic-tree-trunks.html",
+      "desc": "Researchers have developed and tested an infrared spectroscopy system that can rapidly detect chemical aerosols from a distance by using light reflected from common surfaces such as traffic signs, tree trunks or painted surfaces. The new method could make it possible to detect hazards without…",
+      "date": "Jul 30, 2026",
+      "published_utc": "2026-07-30 20:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spectroscopy-system-de.jpg"
     }
   ]
 }
