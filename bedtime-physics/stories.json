@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01 00:56 UTC",
+  "updated": "2026-08-01 07:07 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -73,16 +73,6 @@
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Default.webp"
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Destructive Fires Char Western Europe",
-      "link": "https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/",
-      "desc": "Raging wildfires disrupted summer in Spain and France amid sweltering heat waves and prolonged drought. The post Destructive Fires Char Western Europe appeared first on NASA Science .",
-      "date": "Jul 31, 2026",
-      "published_utc": "2026-07-31 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/destructive-fires-char-western-europe/spainfires_oli2_20260729.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
       "title": "Earth from Space: New Orleans and the mighty Mississippi",
@@ -91,6 +81,16 @@
       "date": "Jul 31, 2026",
       "published_utc": "2026-07-31 08:00 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_new_orleans_and_the_mighty_mississippi/27399649-1-eng-GB/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi_card_full.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Heat, Drought, Wildfires: Climate Change Supercharges Disasters in Europe",
+      "link": "https://eos.org/articles/heat-drought-wildfires-climate-change-supercharges-disasters-in-europe",
+      "desc": "Western Europe is experiencing a summer of weather extremes.",
+      "date": "Jul 31, 2026",
+      "published_utc": "2026-07-31 12:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/07/spain-wildfire-satellite-image-1024x576.jpg"
     }
   ]
 }
