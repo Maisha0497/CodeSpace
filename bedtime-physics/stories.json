@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01 07:07 UTC",
+  "updated": "2026-08-01 12:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,22 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Two independent studies push semiconductor qubits towards practical scales",
-      "link": "https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html",
-      "desc": "Semiconductor spin qubits are one of the most promising building blocks for future quantum computers, but turning them into a working, large-scale quantum computer has so far proven difficult. For now, two big questions remain open: how to connect qubits that aren't sitting right next to each…",
-      "date": "Jul 31, 2026",
-      "published_utc": "2026-07-31 11:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-independent-studie.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Diamond's newfound defect may tame vibrations that hinder quantum light sources",
       "link": "https://phys.org/news/2026-07-diamond-newfound-defect-vibrations-hinder.html",
       "desc": "Researchers in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign have discovered a new type of quantum light emitter in diamonds that could help overcome a number of challenges facing quantum technologies.",
       "date": "Jul 31, 2026",
       "published_utc": "2026-07-31 15:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/illinois-researchers-d-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum computer completes verified task beyond practical reach of classical simulations",
+      "link": "https://phys.org/news/2026-07-quantum-task-classical-simulations.html",
+      "desc": "IBM and researchers from the University of Chicago announced a demonstration in quantum computing that meets the fundamental criteria for \"quantum advantage\"—the point where quantum computers can be confirmed to have outperformed classical computers on trusted computations.",
+      "date": "Aug 01, 2026",
+      "published_utc": "2026-08-01 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-demonstrat-10.jpg"
     },
     {
       "topic": "Physics",
@@ -71,26 +71,6 @@
       "date": "Jul 31, 2026",
       "published_utc": "2026-07-31 14:50 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Default.webp"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Earth from Space: New Orleans and the mighty Mississippi",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi",
-      "desc": "Image: This colourful radar image captured by the Copernicus Sentinel-1 mission features New Orleans and the delta of the Mississippi River, one the largest rivers in North America.",
-      "date": "Jul 31, 2026",
-      "published_utc": "2026-07-31 08:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_new_orleans_and_the_mighty_mississippi/27399649-1-eng-GB/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi_card_full.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Heat, Drought, Wildfires: Climate Change Supercharges Disasters in Europe",
-      "link": "https://eos.org/articles/heat-drought-wildfires-climate-change-supercharges-disasters-in-europe",
-      "desc": "Western Europe is experiencing a summer of weather extremes.",
-      "date": "Jul 31, 2026",
-      "published_utc": "2026-07-31 12:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/07/spain-wildfire-satellite-image-1024x576.jpg"
     }
   ]
 }
