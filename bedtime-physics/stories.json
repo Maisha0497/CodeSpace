@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01 12:35 UTC",
+  "updated": "2026-08-01 18:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,62 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New photonic platform offers a four-lane highway for light",
-      "link": "https://phys.org/news/2026-07-photonic-platform-lane-highway.html",
-      "desc": "Topological photonics can force propagating light to travel in a single direction—allowing researchers to route optical signals around corners and past defects without any of it scattering backward. So far, however, this one-way flow has only been found at the boundary between two specially…",
-      "date": "Jul 31, 2026",
-      "published_utc": "2026-07-31 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-photonic-platform.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New open-source software predicts energy transfer between tiny defects in solid materials",
-      "link": "https://phys.org/news/2026-07-source-software-energy-tiny-defects.html",
-      "desc": "The performance of many next-generation devices depends on controlling how energy flows at extremely small scales. In the field of microelectronics—where devices continue to shrink and new materials are introduced—small imperfections in solids can strongly influence how a material stores, transfers…",
-      "date": "Jul 31, 2026",
-      "published_utc": "2026-07-31 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-open-source-softwa.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Diamond's newfound defect may tame vibrations that hinder quantum light sources",
-      "link": "https://phys.org/news/2026-07-diamond-newfound-defect-vibrations-hinder.html",
-      "desc": "Researchers in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign have discovered a new type of quantum light emitter in diamonds that could help overcome a number of challenges facing quantum technologies.",
-      "date": "Jul 31, 2026",
-      "published_utc": "2026-07-31 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/illinois-researchers-d-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Quantum computer completes verified task beyond practical reach of classical simulations",
       "link": "https://phys.org/news/2026-07-quantum-task-classical-simulations.html",
       "desc": "IBM and researchers from the University of Chicago announced a demonstration in quantum computing that meets the fundamental criteria for \"quantum advantage\"—the point where quantum computers can be confirmed to have outperformed classical computers on trusted computations.",
       "date": "Aug 01, 2026",
       "published_utc": "2026-08-01 12:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-demonstrat-10.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Less-explored form of quantum code could be more powerful—and more stable—than its alternative in error correction",
-      "link": "https://phys.org/news/2026-07-explored-quantum-code-powerful-stable.html",
-      "desc": "In mathematics and getting dressed, some processes are commutative, while others are noncommutative. Commutative means the order doesn't matter (3 + 2 is the same as 2 + 3, and it doesn't matter which sock goes on first). Noncommutative means the order does matter.",
-      "date": "Jul 31, 2026",
-      "published_utc": "2026-07-31 14:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/less-explored-form-of.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Is AI Reasoning Right for the Wrong Reasons?",
-      "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "desc": "The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled. The post Is AI Reasoning Right for the Wrong Reasons? first appeared on Quanta Magazine",
-      "date": "Jul 31, 2026",
-      "published_utc": "2026-07-31 14:50 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Default.webp"
     }
   ]
 }
