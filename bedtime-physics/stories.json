@@ -1,26 +1,16 @@
 {
-  "updated": "2026-07-31 18:46 UTC",
+  "updated": "2026-08-01 00:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Electrically controlled magnetic switching shows promise for next-gen cryogenic devices",
-      "link": "https://phys.org/news/2026-07-electrically-magnetic-gen-cryogenic-devices.html",
-      "desc": "Researchers at the Indian Institute of Science (IISc) have demonstrated a new way of switching a material between two fundamentally different magnetic states using an electric current. The discovery could pave the way for compact, energy-efficient electronic devices that store information, perform…",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 20:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrically-controlle.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum spin effects may enhance one-way electrical transport in chiral magnets",
-      "link": "https://phys.org/news/2026-07-quantum-effects-electrical-chiral-magnets.html",
-      "desc": "Quantum fluctuations influence direction-dependent electrical transport in chiral magnets, researchers from Science Tokyo report. In chiral magnetic systems, electric current flows differently depending on its direction, but the role of quantum effects in this behavior has remained unclear. Through…",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 21:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unveiling-how-quantum.jpg"
+      "title": "Optimized magnetic pulses could cut memory switching energy by several orders of magnitude",
+      "link": "https://phys.org/news/2026-07-optimized-magnetic-pulses-memory-energy.html",
+      "desc": "Information and communication technologies (ICTs) driven by artificial intelligence (AI) are generating data at an unprecedented rate. Every internet search, AI-generated image, recommendation, scientific simulation and large language model creates and processes enormous amounts of information that…",
+      "date": "Jul 31, 2026",
+      "published_utc": "2026-07-31 20:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-route-towards-ul.jpg"
     },
     {
       "topic": "Physics",
@@ -31,26 +21,6 @@
       "date": "Jul 31, 2026",
       "published_utc": "2026-07-31 14:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-photonic-platform.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Cesium atoms and quantum dots generate indistinguishable photons for modular quantum networks",
-      "link": "https://phys.org/news/2026-07-cesium-atoms-quantum-dots-generate.html",
-      "desc": "Large-scale quantum communication networks require both reliable quantum memories and coherent single-photon sources that can exchange quantum information efficiently. A coherent source of single photons with narrow linewidth, high brightness, spectral uniformity and compatibility with quantum…",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-develop-a-h.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Photonic time crystals unlock ultrafast control of light in the terahertz range",
-      "link": "https://phys.org/news/2026-07-photonic-crystals-ultrafast-terahertz-range.html",
-      "desc": "An international team of researchers from École Polytechnique, Collège de France and Helmholtz-Zentrum Dresden-Rossendorf (HZDR) has achieved a world first: the experimental realization of an all-optical photonic time crystal (PTC), a material whose optical properties can be strongly and…",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 23:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shaping-light-like-nev-1.jpg"
     },
     {
       "topic": "Physics",
@@ -85,12 +55,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Spectroscopy system detects aerosols using light reflected from traffic signs and tree trunks",
-      "link": "https://phys.org/news/2026-07-spectroscopy-aerosols-traffic-tree-trunks.html",
-      "desc": "Researchers have developed and tested an infrared spectroscopy system that can rapidly detect chemical aerosols from a distance by using light reflected from common surfaces such as traffic signs, tree trunks or painted surfaces. The new method could make it possible to detect hazards without…",
-      "date": "Jul 30, 2026",
-      "published_utc": "2026-07-30 20:50 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spectroscopy-system-de.jpg"
+      "title": "Less-explored form of quantum code could be more powerful—and more stable—than its alternative in error correction",
+      "link": "https://phys.org/news/2026-07-explored-quantum-code-powerful-stable.html",
+      "desc": "In mathematics and getting dressed, some processes are commutative, while others are noncommutative. Commutative means the order doesn't matter (3 + 2 is the same as 2 + 3, and it doesn't matter which sock goes on first). Noncommutative means the order does matter.",
+      "date": "Jul 31, 2026",
+      "published_utc": "2026-07-31 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/less-explored-form-of.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Is AI Reasoning Right for the Wrong Reasons?",
+      "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "desc": "The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled. The post Is AI Reasoning Right for the Wrong Reasons? first appeared on Quanta Magazine",
+      "date": "Jul 31, 2026",
+      "published_utc": "2026-07-31 14:50 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Default.webp"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Destructive Fires Char Western Europe",
+      "link": "https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/",
+      "desc": "Raging wildfires disrupted summer in Spain and France amid sweltering heat waves and prolonged drought. The post Destructive Fires Char Western Europe appeared first on NASA Science .",
+      "date": "Jul 31, 2026",
+      "published_utc": "2026-07-31 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/destructive-fires-char-western-europe/spainfires_oli2_20260729.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space: New Orleans and the mighty Mississippi",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi",
+      "desc": "Image: This colourful radar image captured by the Copernicus Sentinel-1 mission features New Orleans and the delta of the Mississippi River, one the largest rivers in North America.",
+      "date": "Jul 31, 2026",
+      "published_utc": "2026-07-31 08:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_new_orleans_and_the_mighty_mississippi/27399649-1-eng-GB/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi_card_full.jpg"
     }
   ]
 }
