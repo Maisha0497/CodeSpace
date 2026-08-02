@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 07:08 UTC",
+  "updated": "2026-08-02 12:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Aug 01, 2026",
       "published_utc": "2026-08-01 18:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unusual-metal-oxide-ex.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum computer completes verified task beyond practical reach of classical simulations",
-      "link": "https://phys.org/news/2026-07-quantum-task-classical-simulations.html",
-      "desc": "IBM and researchers from the University of Chicago announced a demonstration in quantum computing that meets the fundamental criteria for \"quantum advantage\"—the point where quantum computers can be confirmed to have outperformed classical computers on trusted computations.",
-      "date": "Aug 01, 2026",
-      "published_utc": "2026-08-01 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-demonstrat-10.jpg"
     },
     {
       "topic": "Physics",
