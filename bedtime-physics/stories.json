@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 12:37 UTC",
+  "updated": "2026-08-02 18:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,6 +21,26 @@
       "date": "Aug 01, 2026",
       "published_utc": "2026-08-01 19:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/decelerated-ions---a-m-1.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm",
+      "desc": "Scientists have identified LHAASO J1912+1014u as a cosmic accelerator that can push protons beyond one quadrillion electron volts. The finding may help reveal where the Milky Way’s most energetic cosmic rays come from and how they influence the galaxy.",
+      "date": "Aug 02, 2026",
+      "published_utc": "2026-08-02 02:59 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Cool Math",
+      "source": "ScienceDaily Math",
+      "title": "Mathematicians prove perfectly fair elections are impossible",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+      "desc": "Mathematicians have shown that no electoral system can perfectly balance local representation, proportional national results, and a fixed-size parliament once enough parties compete. A newly proposed voting method could soften these unavoidable trade-offs and produce outcomes that are much closer…",
+      "date": "Aug 02, 2026",
+      "published_utc": "2026-08-02 13:10 UTC",
+      "image": ""
     }
   ]
 }
