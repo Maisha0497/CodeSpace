@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-02 18:36 UTC",
+  "updated": "2026-08-03 00:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Unusual metal oxide shows signs of magnetism under lattice strain in ultrathin layers",
-      "link": "https://phys.org/news/2026-07-unusual-metal-oxide-magnetism-lattice.html",
-      "desc": "Ruthenium dioxide (RuO2) is a metal oxide that commonly serves as an important metallic conductor, quantum material and industrial electrocatalyst. While there have been debates surrounding the magnetic properties of RuO2, it is generally thought to be nonmagnetic in its bulk form. But now, a new…",
-      "date": "Aug 01, 2026",
-      "published_utc": "2026-08-01 18:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unusual-metal-oxide-ex.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Electron cooling tames highly charged ions in Penning trap for first time",
-      "link": "https://phys.org/news/2026-07-electron-cooling-highly-ions-penning.html",
-      "desc": "Researchers at Technical University of Darmstadt and the GSI Helmholtz Center for Heavy Ion Research have succeeded for the first time in decelerating highly charged ions from the GSI accelerator to low energies and subsequently storing them in a Penning trap. They were also successful in…",
-      "date": "Aug 01, 2026",
-      "published_utc": "2026-08-01 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/decelerated-ions---a-m-1.jpg"
-    },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
