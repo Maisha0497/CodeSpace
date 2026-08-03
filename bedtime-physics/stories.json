@@ -1,16 +1,26 @@
 {
-  "updated": "2026-08-03 07:25 UTC",
+  "updated": "2026-08-03 13:18 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
-      "topic": "Cool Math",
-      "source": "ScienceDaily Math",
-      "title": "Mathematicians prove perfectly fair elections are impossible",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
-      "desc": "Mathematicians have shown that no electoral system can perfectly balance local representation, proportional national results, and a fixed-size parliament once enough parties compete. A newly proposed voting method could soften these unavoidable trade-offs and produce outcomes that are much closer…",
-      "date": "Aug 02, 2026",
-      "published_utc": "2026-08-02 13:10 UTC",
-      "image": ""
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Chet Udell: A Passion for Instrumentation Creates a New Path",
+      "link": "https://eos.org/features/chet-udell-a-passion-for-instrumentation-creates-a-new-path",
+      "desc": "A love for experimental music helped Chet Udell forge a unique career developing new musical and scientific instruments.",
+      "date": "Aug 03, 2026",
+      "published_utc": "2026-08-03 13:05 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/07/chet-udell-suit-1024x576.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Jill Pelto: Glacier Monitoring as a Lifelong Muse",
+      "link": "https://eos.org/features/jill-pelto-glacier-monitoring-as-a-lifelong-muse",
+      "desc": "Jill Pelto turned her childhood fascination with glaciers into a busy life creating data-art.",
+      "date": "Aug 03, 2026",
+      "published_utc": "2026-08-03 13:16 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/07/north-cascades-40-years-crop-1024x576.jpg"
     }
   ]
 }
