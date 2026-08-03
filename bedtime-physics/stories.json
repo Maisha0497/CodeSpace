@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-03 13:18 UTC",
+  "updated": "2026-08-03 18:53 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists reveal the hidden force driving the universe’s hottest fluid",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260802223422.htm",
+      "desc": "When atomic nuclei smash together at nearly the speed of light, they create the hottest fluid in the universe, but scientists may have overlooked one of its most important forces. New simulations reveal that extreme acceleration builds up along the edges of quark-gluon plasma, helping drive its…",
+      "date": "Aug 03, 2026",
+      "published_utc": "2026-08-03 11:58 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Key principle to boost efficiency of artificial photosynthesis and next-generation semiconductors",
+      "link": "https://phys.org/news/2026-08-key-principle-boost-efficiency-artificial.html",
+      "desc": "A research team led by Taeyeon Kim, a professor in the Department of Chemistry at Sungkyunkwan University, in collaboration with a team from Yonsei University, has identified a new principle that controls charge separation, a phenomenon that plays a central role in both plants' generation of…",
+      "date": "Aug 03, 2026",
+      "published_utc": "2026-08-03 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/key-principle-to-boost.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Why the Legendary Erdős Problems Are Falling to AI",
+      "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "desc": "AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math. The post Why the Legendary Erdős Problems Are Falling to…",
+      "date": "Aug 03, 2026",
+      "published_utc": "2026-08-03 15:05 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Erdos-cr.DVDP-Default.webp"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Ultrafast X-ray flashes partially reverse the damage they cause, enabling brighter, more accurate imaging",
+      "link": "https://phys.org/news/2026-08-ultrafast-ray-partially-reverse-enabling.html",
+      "desc": "The interaction between X-rays and matter can be actively controlled, according to an international research team led by the University of Hamburg and SLAC National Accelerator Laboratory that has succeeded in producing bright X-ray images with significantly less damage. In an article published in…",
+      "date": "Aug 03, 2026",
+      "published_utc": "2026-08-03 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-x-ray-flashe-1.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "The Definitive Guide to the TEX86 Paleothermometer",
+      "link": "https://eos.org/editor-highlights/the-definitive-guide-to-the-tex86-paleothermometer",
+      "desc": "A new review article summarizes our knowledge of how microbial lipids archived in marine sediments record ancient ocean temperatures and outlines challenges and next steps for the TEX 86 proxy.",
+      "date": "Aug 03, 2026",
+      "published_utc": "2026-08-03 13:26 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/palo70128-fig-0013-m-1024x576.png"
+    },
     {
       "topic": "Geoscience",
       "source": "Eos",
@@ -13,14 +63,14 @@
       "image": "https://eos.org/wp-content/uploads/2026/07/chet-udell-suit-1024x576.jpg"
     },
     {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Jill Pelto: Glacier Monitoring as a Lifelong Muse",
-      "link": "https://eos.org/features/jill-pelto-glacier-monitoring-as-a-lifelong-muse",
-      "desc": "Jill Pelto turned her childhood fascination with glaciers into a busy life creating data-art.",
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "A Bare Summer for Barnes Ice Cap",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-bare-summer-for-barnes-ice-cap/",
+      "desc": "The expanse of glacial ice on Canada’s Baffin Island lost its snow cover quickly and early in summer 2026, revealing a network of melt features. The post A Bare Summer for Barnes Ice Cap appeared first on NASA Science .",
       "date": "Aug 03, 2026",
-      "published_utc": "2026-08-03 13:16 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/07/north-cascades-40-years-crop-1024x576.jpg"
+      "published_utc": "2026-08-03 16:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bare-summer-for-barnes-ice-cap/barnesicecapzm2_oli2_20260712.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
