@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-03 00:56 UTC",
+  "updated": "2026-08-03 07:25 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm",
-      "desc": "Scientists have identified LHAASO J1912+1014u as a cosmic accelerator that can push protons beyond one quadrillion electron volts. The finding may help reveal where the Milky Way’s most energetic cosmic rays come from and how they influence the galaxy.",
-      "date": "Aug 02, 2026",
-      "published_utc": "2026-08-02 02:59 UTC",
-      "image": ""
-    },
     {
       "topic": "Cool Math",
       "source": "ScienceDaily Math",
