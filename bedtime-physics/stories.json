@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-03 18:53 UTC",
+  "updated": "2026-08-04 00:54 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Light controls nanoscale 'bubble' domains in a ferroelectric crystal",
+      "link": "https://phys.org/news/2026-08-nanoscale-domains-ferroelectric-crystal.html",
+      "desc": "Researchers at Flinders University have discovered an unexpected way light can control tiny electronic structures inside advanced materials, a development that could help pave the way for more energy-efficient memory devices, sensors and future computing technologies.",
+      "date": "Aug 03, 2026",
+      "published_utc": "2026-08-03 20:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lightbulb-way-to-switc.jpg"
+    },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
@@ -21,6 +31,16 @@
       "date": "Aug 03, 2026",
       "published_utc": "2026-08-03 13:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/key-principle-to-boost.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Bringing it all into focus—computational microscope captures 25.2 billion pixels per second across a wide field of view",
+      "link": "https://phys.org/news/2026-08-focus-microscope-captures-billion-pixels.html",
+      "desc": "When designing microscopes, optical engineers have long faced a trade-off between speed, field of view and resolution. But improving one of these properties typically comes at the expense of another. Now, a UC Berkeley–led team of researchers has found a way to address this challenge, opening the…",
+      "date": "Aug 03, 2026",
+      "published_utc": "2026-08-03 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bringing-it-all-into-f.jpg"
     },
     {
       "topic": "Math/Physics",
