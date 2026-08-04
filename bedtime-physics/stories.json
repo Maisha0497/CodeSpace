@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 07:10 UTC",
+  "updated": "2026-08-04 12:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Aug 03, 2026",
       "published_utc": "2026-08-03 20:50 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lightbulb-way-to-switc.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists reveal the hidden force driving the universe’s hottest fluid",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223422.htm",
-      "desc": "When atomic nuclei smash together at nearly the speed of light, they create the hottest fluid in the universe, but scientists may have overlooked one of its most important forces. New simulations reveal that extreme acceleration builds up along the edges of quark-gluon plasma, helping drive its…",
-      "date": "Aug 03, 2026",
-      "published_utc": "2026-08-03 11:58 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
