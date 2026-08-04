@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-04 12:56 UTC",
+  "updated": "2026-08-04 18:49 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Pushing the boundaries of ultracold neutral plasmas",
+      "link": "https://phys.org/news/2026-08-boundaries-ultracold-neutral-plasmas.html",
+      "desc": "Using a combination of laser cooling techniques and strong magnetic fields, researchers at Colorado State University have for the first time created an ultracold neutral plasma with electrons cooled to temperatures measured to be within one degree Kelvin.",
+      "date": "Aug 04, 2026",
+      "published_utc": "2026-08-04 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-pushes-the-bo.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -15,12 +25,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Key principle to boost efficiency of artificial photosynthesis and next-generation semiconductors",
-      "link": "https://phys.org/news/2026-08-key-principle-boost-efficiency-artificial.html",
-      "desc": "A research team led by Taeyeon Kim, a professor in the Department of Chemistry at Sungkyunkwan University, in collaboration with a team from Yonsei University, has identified a new principle that controls charge separation, a phenomenon that plays a central role in both plants' generation of…",
-      "date": "Aug 03, 2026",
-      "published_utc": "2026-08-03 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/key-principle-to-boost.jpg"
+      "title": "Two materials, one photonic chip: Unlocking a new way to generate light frequencies",
+      "link": "https://phys.org/news/2026-08-materials-photonic-chip-generate-frequencies.html",
+      "desc": "Modern photonic chips can pack sophisticated optical functions onto devices smaller than a fingernail. They are increasingly used to generate, manipulate and measure light for applications ranging from communications to sensing. But most of these chips rely on a single material to do the heavy…",
+      "date": "Aug 04, 2026",
+      "published_utc": "2026-08-04 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-materials-one-phot-2.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New approach to cleaning the inner walls of a fusion system removes another obstacle to near-endless energy",
+      "link": "https://phys.org/news/2026-08-approach-walls-fusion-obstacle-endless.html",
+      "desc": "Fusion systems need inner walls that can withstand extreme heat. One promising solution uses liquid lithium to protect the walls, held like water in a sponge made of the exceptionally strong metal tungsten. An advanced manufacturing process can be used to make tungsten into sponge-like wall tiles…",
+      "date": "Aug 04, 2026",
+      "published_utc": "2026-08-04 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-to-clea.jpg"
     },
     {
       "topic": "Physics",
@@ -33,54 +53,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bringing-it-all-into-f.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Why the Legendary Erdős Problems Are Falling to AI",
-      "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-      "desc": "AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math. The post Why the Legendary Erdős Problems Are Falling to…",
-      "date": "Aug 03, 2026",
-      "published_utc": "2026-08-03 15:05 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Erdos-cr.DVDP-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Ultrafast X-ray flashes partially reverse the damage they cause, enabling brighter, more accurate imaging",
-      "link": "https://phys.org/news/2026-08-ultrafast-ray-partially-reverse-enabling.html",
-      "desc": "The interaction between X-rays and matter can be actively controlled, according to an international research team led by the University of Hamburg and SLAC National Accelerator Laboratory that has succeeded in producing bright X-ray images with significantly less damage. In an article published in…",
-      "date": "Aug 03, 2026",
-      "published_utc": "2026-08-03 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-x-ray-flashe-1.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "The Definitive Guide to the TEX86 Paleothermometer",
-      "link": "https://eos.org/editor-highlights/the-definitive-guide-to-the-tex86-paleothermometer",
-      "desc": "A new review article summarizes our knowledge of how microbial lipids archived in marine sediments record ancient ocean temperatures and outlines challenges and next steps for the TEX 86 proxy.",
-      "date": "Aug 03, 2026",
-      "published_utc": "2026-08-03 13:26 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/palo70128-fig-0013-m-1024x576.png"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Chet Udell: A Passion for Instrumentation Creates a New Path",
-      "link": "https://eos.org/features/chet-udell-a-passion-for-instrumentation-creates-a-new-path",
-      "desc": "A love for experimental music helped Chet Udell forge a unique career developing new musical and scientific instruments.",
-      "date": "Aug 03, 2026",
-      "published_utc": "2026-08-03 13:05 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/07/chet-udell-suit-1024x576.jpg"
-    },
-    {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
-      "title": "A Bare Summer for Barnes Ice Cap",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-bare-summer-for-barnes-ice-cap/",
-      "desc": "The expanse of glacial ice on Canada’s Baffin Island lost its snow cover quickly and early in summer 2026, revealing a network of melt features. The post A Bare Summer for Barnes Ice Cap appeared first on NASA Science .",
-      "date": "Aug 03, 2026",
-      "published_utc": "2026-08-03 16:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bare-summer-for-barnes-ice-cap/barnesicecapzm2_oli2_20260712.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "title": "Smoke Streams Across Eastern Washington",
+      "link": "https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/",
+      "desc": "Wildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations in Spokane. The post Smoke Streams Across Eastern Washington appeared first on NASA Science .",
+      "date": "Aug 04, 2026",
+      "published_utc": "2026-08-04 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-streams-across-eastern-washington/washingtonfires_tmo_20260802.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
