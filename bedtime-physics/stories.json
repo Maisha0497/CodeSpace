@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 07:11 UTC",
+  "updated": "2026-08-05 12:54 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -81,6 +81,16 @@
       "date": "Aug 05, 2026",
       "published_utc": "2026-08-05 04:01 UTC",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-paradox-of-lençóis-maranhenses-national-park/brazillencois_oli_20260608.jpg?w=2160&amp;h=1413&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Europe’s forests losing more biomass since 2018",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018",
+      "desc": "Europe’s forests are losing more biomass than previously thought, with disturbances such as drought and pests causing increasingly large losses from some of the oldest forests in Europe. This situation has deteriorated markedly since 2018.",
+      "date": "Aug 05, 2026",
+      "published_utc": "2026-08-05 09:30 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/europe_s_forests_losing_biomass_due_to_disturbances/27405448-2-eng-GB/Europe_s_forests_losing_biomass_due_to_disturbances_card_full.jpg"
     }
   ]
 }
