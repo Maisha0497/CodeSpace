@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 12:54 UTC",
+  "updated": "2026-08-05 18:48 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,32 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Pushing the boundaries of ultracold neutral plasmas",
-      "link": "https://phys.org/news/2026-08-boundaries-ultracold-neutral-plasmas.html",
-      "desc": "Using a combination of laser cooling techniques and strong magnetic fields, researchers at Colorado State University have for the first time created an ultracold neutral plasma with electrons cooled to temperatures measured to be within one degree Kelvin.",
-      "date": "Aug 04, 2026",
-      "published_utc": "2026-08-04 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-pushes-the-bo.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Molecular orbitals imaged in 3D, opening path to femtosecond videos",
       "link": "https://phys.org/news/2026-08-molecular-orbitals-imaged-3d-path.html",
       "desc": "One of the most famous and intriguing results of quantum mechanics is the finding that fundamental particles, such as electrons, cannot be pinned down to one single location. Instead, a particle is described by its \"wavefunction,\" which allows researchers to derive probability distributions—a sort…",
       "date": "Aug 04, 2026",
       "published_utc": "2026-08-04 22:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/zooming-in-electron-or.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Two materials, one photonic chip: Unlocking a new way to generate light frequencies",
-      "link": "https://phys.org/news/2026-08-materials-photonic-chip-generate-frequencies.html",
-      "desc": "Modern photonic chips can pack sophisticated optical functions onto devices smaller than a fingernail. They are increasingly used to generate, manipulate and measure light for applications ranging from communications to sensing. But most of these chips rely on a single material to do the heavy…",
-      "date": "Aug 04, 2026",
-      "published_utc": "2026-08-04 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-materials-one-phot-2.jpg"
     },
     {
       "topic": "Physics",
@@ -63,34 +43,44 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-create-more.jpg"
     },
     {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot",
+      "link": "https://www.quantamagazine.org/corals-spin-tiny-vortices-to-get-oxygen-but-not-if-its-too-hot-20260805/",
+      "desc": "New research is helping biologists understand how an overlooked aspect of coral physiology may affect their fate under climate change. The post Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot first appeared on Quanta Magazine",
+      "date": "Aug 05, 2026",
+      "published_utc": "2026-08-05 15:40 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/CoralCilia-crCesarPacharres-Default.webp"
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New approach to cleaning the inner walls of a fusion system removes another obstacle to near-endless energy",
-      "link": "https://phys.org/news/2026-08-approach-walls-fusion-obstacle-endless.html",
-      "desc": "Fusion systems need inner walls that can withstand extreme heat. One promising solution uses liquid lithium to protect the walls, held like water in a sponge made of the exceptionally strong metal tungsten. An advanced manufacturing process can be used to make tungsten into sponge-like wall tiles…",
-      "date": "Aug 04, 2026",
-      "published_utc": "2026-08-04 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-to-clea.jpg"
+      "title": "Tiny vortices discovered on the sun's surface",
+      "link": "https://phys.org/news/2026-08-tiny-vortices-sun-surface.html",
+      "desc": "Researchers from the U.S. National Science Foundation National Solar Observatory (NSF NSO), the Max Planck Institute for Solar System Research (MPS) in Germany, and the High Altitude Observatory (HAO) in the U.S. have made a discovery in solar physics. New images of the sun's surface taken with the…",
+      "date": "Aug 05, 2026",
+      "published_utc": "2026-08-05 15:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-vortices-discover.jpg"
     },
     {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
-      "title": "The Paradox of Lençóis Maranhenses National Park",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/",
-      "desc": "The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year. The post The Paradox of Lençóis Maranhenses National Park appeared first on NASA Science .",
+      "title": "NASA’s Perseverance Captures Phobos and Earth",
+      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
+      "desc": "Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, 1,907th Martian day, or sol, of the mission. The…",
       "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-paradox-of-lençóis-maranhenses-national-park/brazillencois_oli_20260608.jpg?w=2160&amp;h=1413&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "published_utc": "2026-08-05 15:28 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26758/PIA26758.png?w=1535&amp;h=333&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Europe’s forests losing more biomass since 2018",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018",
-      "desc": "Europe’s forests are losing more biomass than previously thought, with disturbances such as drought and pests causing increasingly large losses from some of the oldest forests in Europe. This situation has deteriorated markedly since 2018.",
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "How Bubbles Reshape Air-Sea Gas Exchange",
+      "link": "https://eos.org/editors-vox/how-bubbles-reshape-air-sea-gas-exchange",
+      "desc": "Bubbles produced by breaking waves provide an important but often overlooked pathway for exchanging carbon dioxide, oxygen, and other gases between the ocean and atmosphere.",
       "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 09:30 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/europe_s_forests_losing_biomass_due_to_disturbances/27405448-2-eng-GB/Europe_s_forests_losing_biomass_due_to_disturbances_card_full.jpg"
+      "published_utc": "2026-08-05 14:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/Air-Sea-Gas-Exchange-Featured-IMage-Final-1-1024x576.png"
     }
   ]
 }
