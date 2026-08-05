@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 00:49 UTC",
+  "updated": "2026-08-05 07:11 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -75,12 +75,12 @@
     {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
-      "title": "Smoke Streams Across Eastern Washington",
-      "link": "https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/",
-      "desc": "Wildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations in Spokane. The post Smoke Streams Across Eastern Washington appeared first on NASA Science .",
-      "date": "Aug 04, 2026",
-      "published_utc": "2026-08-04 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-streams-across-eastern-washington/washingtonfires_tmo_20260802.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "title": "The Paradox of Lençóis Maranhenses National Park",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/",
+      "desc": "The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year. The post The Paradox of Lençóis Maranhenses National Park appeared first on NASA Science .",
+      "date": "Aug 05, 2026",
+      "published_utc": "2026-08-05 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-paradox-of-lençóis-maranhenses-national-park/brazillencois_oli_20260608.jpg?w=2160&amp;h=1413&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
