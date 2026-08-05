@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-04 18:49 UTC",
+  "updated": "2026-08-05 00:49 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum fluid reveals hidden states that can be switched with a magnetic field",
+      "link": "https://phys.org/news/2026-08-quantum-fluid-reveals-hidden-states.html",
+      "desc": "Bose-Einstein condensates (BECs) are often described as a \"fifth state of matter\": a quantum state in which many particles lose their individual identities and behave as one collective object. For more than 60 years, researchers have sought to create such condensates from excitons—electron-hole…",
+      "date": "Aug 04, 2026",
+      "published_utc": "2026-08-04 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-reveal-hidd.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -15,12 +25,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Light controls nanoscale 'bubble' domains in a ferroelectric crystal",
-      "link": "https://phys.org/news/2026-08-nanoscale-domains-ferroelectric-crystal.html",
-      "desc": "Researchers at Flinders University have discovered an unexpected way light can control tiny electronic structures inside advanced materials, a development that could help pave the way for more energy-efficient memory devices, sensors and future computing technologies.",
-      "date": "Aug 03, 2026",
-      "published_utc": "2026-08-03 20:50 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lightbulb-way-to-switc.jpg"
+      "title": "Molecular orbitals imaged in 3D, opening path to femtosecond videos",
+      "link": "https://phys.org/news/2026-08-molecular-orbitals-imaged-3d-path.html",
+      "desc": "One of the most famous and intriguing results of quantum mechanics is the finding that fundamental particles, such as electrons, cannot be pinned down to one single location. Instead, a particle is described by its \"wavefunction,\" which allows researchers to derive probability distributions—a sort…",
+      "date": "Aug 04, 2026",
+      "published_utc": "2026-08-04 22:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/zooming-in-electron-or.jpg"
     },
     {
       "topic": "Physics",
@@ -35,22 +45,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "First measurement of antineutrinos from spent nuclear fuel confirms emissions persist after reactor shutdown",
+      "link": "https://phys.org/news/2026-08-antineutrinos-spent-nuclear-fuel-emissions.html",
+      "desc": "Even when the lights go out and nuclear reactors are turned off, the story inside the reactor core still has a great deal to tell. Radioactive, long-lived fission products continue to decay for months or even years, producing a faint flux of a specific type of particle known as antineutrinos.…",
+      "date": "Aug 04, 2026",
+      "published_utc": "2026-08-04 20:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-measurement-of-a.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A temperature dial for more realistic quantum simulations",
+      "link": "https://phys.org/news/2026-08-temperature-dial-realistic-quantum-simulations.html",
+      "desc": "Scientists from Rice University in the U.S. have developed a way to precisely tune the temperature inside a trapped-ion simulator. The breakthrough means they will be able to run quantum simulations at precise temperatures that better reflect real-world conditions.",
+      "date": "Aug 04, 2026",
+      "published_utc": "2026-08-04 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-create-more.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "New approach to cleaning the inner walls of a fusion system removes another obstacle to near-endless energy",
       "link": "https://phys.org/news/2026-08-approach-walls-fusion-obstacle-endless.html",
       "desc": "Fusion systems need inner walls that can withstand extreme heat. One promising solution uses liquid lithium to protect the walls, held like water in a sponge made of the exceptionally strong metal tungsten. An advanced manufacturing process can be used to make tungsten into sponge-like wall tiles…",
       "date": "Aug 04, 2026",
       "published_utc": "2026-08-04 14:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-to-clea.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Bringing it all into focus—computational microscope captures 25.2 billion pixels per second across a wide field of view",
-      "link": "https://phys.org/news/2026-08-focus-microscope-captures-billion-pixels.html",
-      "desc": "When designing microscopes, optical engineers have long faced a trade-off between speed, field of view and resolution. But improving one of these properties typically comes at the expense of another. Now, a UC Berkeley–led team of researchers has found a way to address this challenge, opening the…",
-      "date": "Aug 03, 2026",
-      "published_utc": "2026-08-03 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bringing-it-all-into-f.jpg"
     },
     {
       "topic": "Earth Observation",
