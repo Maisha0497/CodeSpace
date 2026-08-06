@@ -1,46 +1,66 @@
 {
-  "updated": "2026-08-05 18:48 UTC",
+  "updated": "2026-08-06 00:46 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum fluid reveals hidden states that can be switched with a magnetic field",
-      "link": "https://phys.org/news/2026-08-quantum-fluid-reveals-hidden-states.html",
-      "desc": "Bose-Einstein condensates (BECs) are often described as a \"fifth state of matter\": a quantum state in which many particles lose their individual identities and behave as one collective object. For more than 60 years, researchers have sought to create such condensates from excitons—electron-hole…",
-      "date": "Aug 04, 2026",
-      "published_utc": "2026-08-04 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-reveal-hidd.jpg"
+      "title": "Electric field reverses phonon chirality and spin direction in ferroelectric crystal",
+      "link": "https://phys.org/news/2026-08-electric-field-reverses-phonon-chirality.html",
+      "desc": "Chiral phonons are groups of atoms that move in a circular direction when excited by an energy source, such as heat. As the phonons move through a material, they propagate that circular motion, or angular momentum, through the material. The angular momentum serves as the source of spin, and the…",
+      "date": "Aug 05, 2026",
+      "published_utc": "2026-08-05 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-an-ele.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Molecular orbitals imaged in 3D, opening path to femtosecond videos",
-      "link": "https://phys.org/news/2026-08-molecular-orbitals-imaged-3d-path.html",
-      "desc": "One of the most famous and intriguing results of quantum mechanics is the finding that fundamental particles, such as electrons, cannot be pinned down to one single location. Instead, a particle is described by its \"wavefunction,\" which allows researchers to derive probability distributions—a sort…",
-      "date": "Aug 04, 2026",
-      "published_utc": "2026-08-04 22:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/zooming-in-electron-or.jpg"
+      "title": "Using the Earth's magnetic field to hunt for axions and dark photons",
+      "link": "https://phys.org/news/2026-08-earth-magnetic-field-axions-dark.html",
+      "desc": "Dark matter's existence is all but certain—astronomers believe it makes up about a quarter of the universe's total energy content—yet its true identity has eluded us for decades. Two of the leading candidates for dark matter are the hypothetical particles ultralight axions and dark photons, which…",
+      "date": "Aug 05, 2026",
+      "published_utc": "2026-08-05 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/earth-1.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "First measurement of antineutrinos from spent nuclear fuel confirms emissions persist after reactor shutdown",
-      "link": "https://phys.org/news/2026-08-antineutrinos-spent-nuclear-fuel-emissions.html",
-      "desc": "Even when the lights go out and nuclear reactors are turned off, the story inside the reactor core still has a great deal to tell. Radioactive, long-lived fission products continue to decay for months or even years, producing a faint flux of a specific type of particle known as antineutrinos.…",
-      "date": "Aug 04, 2026",
-      "published_utc": "2026-08-04 20:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-measurement-of-a.jpg"
+      "title": "Air-stable, ultrathin superconductors developed for more scalable quantum devices",
+      "link": "https://phys.org/news/2026-08-air-stable-ultrathin-superconductors-scalable.html",
+      "desc": "Super-thin superconducting materials, which are only one or a few atoms thick, have unique properties scientists can leverage to produce more compact, scalable, and efficient quantum devices. But these fragile materials degrade so rapidly in air that they are difficult to study or manufacture.",
+      "date": "Aug 05, 2026",
+      "published_utc": "2026-08-05 23:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-make-air-s.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A temperature dial for more realistic quantum simulations",
-      "link": "https://phys.org/news/2026-08-temperature-dial-realistic-quantum-simulations.html",
-      "desc": "Scientists from Rice University in the U.S. have developed a way to precisely tune the temperature inside a trapped-ion simulator. The breakthrough means they will be able to run quantum simulations at precise temperatures that better reflect real-world conditions.",
-      "date": "Aug 04, 2026",
-      "published_utc": "2026-08-04 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-create-more.jpg"
+      "title": "Miniaturized laser technology paves the way for fundamental physics experiments in space",
+      "link": "https://phys.org/news/2026-08-miniaturized-laser-technology-paves-fundamental.html",
+      "desc": "An international team of researchers has succeeded in producing atomic quantum gas mixtures with an unprecedented particle flux. In the journal Nature Communications, the scientists report on experiments conducted with the MAIUS-B apparatus, in which Bose–Einstein condensates (BECs) consisting of…",
+      "date": "Aug 05, 2026",
+      "published_utc": "2026-08-05 23:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-precision-laser-s.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "'Spooky' particles transit DC suburbs, a step toward a quantum network",
+      "link": "https://phys.org/news/2026-08-spooky-particles-transit-dc-suburbs.html",
+      "desc": "In early 2025, special signals wended their way through a fiber-optic highway strung above the streets and sidewalks of the Maryland suburbs. The arrival of those signals at their destination marks a significant step toward a long-held dream of building a \"quantum network.\" Researchers believe that…",
+      "date": "Aug 05, 2026",
+      "published_utc": "2026-08-05 20:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spooky-particles-trans.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New semiconductor maser operates continuously above room temperature",
+      "link": "https://phys.org/news/2026-08-semiconductor-maser-room-temperature.html",
+      "desc": "Lasers have become indispensable in everyday life and research, with applications ranging from data transmission and metrology to manufacturing. Masers, by contrast, have so far found hardly any practical applications.",
+      "date": "Aug 05, 2026",
+      "published_utc": "2026-08-05 20:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worlds-first-semicondu-1.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -55,32 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Attosecond X-ray method maps early electron motions that trigger chemical reactions",
+      "link": "https://phys.org/news/2026-08-attosecond-ray-method-early-electron.html",
+      "desc": "All chemistry starts with a push from electrons. In the early moments of a chemical reaction, it's the movement of electrons that initiates the breaking of old chemical bonds and forging of new ones, transforming one molecule into another.",
+      "date": "Aug 05, 2026",
+      "published_utc": "2026-08-05 20:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/slac-researchers-make.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Tiny vortices discovered on the sun's surface",
       "link": "https://phys.org/news/2026-08-tiny-vortices-sun-surface.html",
       "desc": "Researchers from the U.S. National Science Foundation National Solar Observatory (NSF NSO), the Max Planck Institute for Solar System Research (MPS) in Germany, and the High Altitude Observatory (HAO) in the U.S. have made a discovery in solar physics. New images of the sun's surface taken with the…",
       "date": "Aug 05, 2026",
       "published_utc": "2026-08-05 15:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-vortices-discover.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "NASA’s Perseverance Captures Phobos and Earth",
-      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
-      "desc": "Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, 1,907th Martian day, or sol, of the mission. The…",
-      "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 15:28 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26758/PIA26758.png?w=1535&amp;h=333&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "How Bubbles Reshape Air-Sea Gas Exchange",
-      "link": "https://eos.org/editors-vox/how-bubbles-reshape-air-sea-gas-exchange",
-      "desc": "Bubbles produced by breaking waves provide an important but often overlooked pathway for exchanging carbon dioxide, oxygen, and other gases between the ocean and atmosphere.",
-      "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 14:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/Air-Sea-Gas-Exchange-Featured-IMage-Final-1-1024x576.png"
     }
   ]
 }
