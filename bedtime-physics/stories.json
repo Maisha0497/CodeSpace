@@ -1,46 +1,36 @@
 {
-  "updated": "2026-08-07 12:30 UTC",
+  "updated": "2026-08-07 18:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Repurposing deep-Earth tools in the hunt for practical superconductors",
-      "link": "https://phys.org/news/2026-08-repurposing-deep-earth-tools-superconductors.html",
-      "desc": "If scientists could find a material that acts as a superconductor—that is, one that transmits energy with zero resistance—at normal pressures and relatively high temperatures, it would open up a vast number of possibilities. These include medical imaging, quantum computing and numerous other…",
-      "date": "Aug 06, 2026",
-      "published_utc": "2026-08-06 14:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/superconductor.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "UCLA scientists discover how to guide heat like light at room temperature",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
+      "desc": "Scientists have demonstrated that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly. The breakthrough could make it possible to route heat around sensitive parts of next-generation chips and quantum devices.",
+      "date": "Aug 07, 2026",
+      "published_utc": "2026-08-07 12:22 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle",
+      "link": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+      "desc": "A global constellation of neutrino detectors is creating a never-before-seen view of the radioactive elements that power Earth’s tectonic heat engine. The post Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle first appeared on Quanta Magazine",
+      "date": "Aug 07, 2026",
+      "published_utc": "2026-08-07 13:55 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Central-acrylic-sphere-and-PMTs-cr-JUNO-Collaboration-Default.webp"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Sunlight-powered setup generates quantum entanglement",
-      "link": "https://phys.org/news/2026-08-sunlight-powered-setup-generates-quantum.html",
-      "desc": "Today's quantum technologies rely on energy-intensive lasers, raising concerns that scaling them up could further increase energy demands. In new work, researchers have demonstrated that quantum entanglement between photons can be generated directly from sunlight, offering a potential alternative.",
-      "date": "Aug 06, 2026",
-      "published_utc": "2026-08-06 14:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-generate-q-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Two-qubit entangling gate flags its own errors as detectable photon losses",
-      "link": "https://phys.org/news/2026-08-qubit-entangling-gate-flags-errors.html",
-      "desc": "Quantum errors are a normal part of quantum computing because fragile physical qubits (the tiny components storing data) can easily break down because of environmental noise, like heat, stray signals or microscopic vibrations. Typical fixes involve vast amounts of extra hardware qubits, which make…",
-      "date": "Aug 06, 2026",
-      "published_utc": "2026-08-06 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-develop-a-n-1.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Antenna Testing for NASA’s SkyFall Mission",
-      "link": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
-      "desc": "Description SkyFall ground-penetrating radar engineer Maya Román connects a coaxial cable to a test antenna in the Environmental Test Lab’s electromagnetic interference testing chamber at NASA’s Jet Propulsion Laboratory in Southern California. The antenna was pointed up during test to minimize…",
-      "date": "Aug 06, 2026",
-      "published_utc": "2026-08-06 17:56 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26759/PIA26759.jpg?w=8256&amp;h=5504&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "title": "Physicists watch a material's electrons assemble, and reassemble, into coexisting phases",
+      "link": "https://phys.org/news/2026-08-physicists-material-electrons-reassemble-coexisting.html",
+      "desc": "A tall glass of ice water isn't just a thirst quencher; it's also an everyday example of coexisting phases. Water can exist simultaneously in both liquid and solid phases. As it turns out, this phase duality can also exist in more exotic quantum materials, in ways that are far more complicated to…",
+      "date": "Aug 07, 2026",
+      "published_utc": "2026-08-07 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-watch-a-mat.jpg"
     },
     {
       "topic": "Physics",
@@ -73,14 +63,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-demonstrat-11.jpg"
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "NASA’s SkyFall Helicopters at Work (Artist’s Concept)",
-      "link": "https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/",
-      "desc": "Description This artist’s concept depicts NASA’s three SkyFall Mars helicopters collecting data while flying over the surface of the Red Planet. The green frequency waves emanating from the helicopters’ large antennas depict collection of subsurface radar data. The red beams depict collect…",
-      "date": "Aug 06, 2026",
-      "published_utc": "2026-08-06 18:06 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26760/PIA26760.jpg?w=2880&amp;h=1620&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "XENONnT detector narrows the hunt for dark matter",
+      "link": "https://phys.org/news/2026-08-xenonnt-detector-narrows-dark.html",
+      "desc": "Using a detector filled with nearly 9 metric tons of liquid xenon, researchers have delivered some of the most sensitive dark matter results ever recorded. In the latest analysis from the XENON collaboration, working at the Gran Sasso National Laboratory in Italy, researchers carried out a \"blind\"…",
+      "date": "Aug 07, 2026",
+      "published_utc": "2026-08-07 15:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/dark-matter-1.jpg"
     },
     {
       "topic": "Physics",
@@ -91,6 +81,16 @@
       "date": "Aug 06, 2026",
       "published_utc": "2026-08-06 21:50 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/never-before-seen-wove-1.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Sensing the Poles’ Hidden Heat",
+      "link": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
+      "desc": "New animations from NASA's PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic. The post Sensing the Poles’ Hidden Heat appeared first on NASA Science .",
+      "date": "Aug 07, 2026",
+      "published_utc": "2026-08-07 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sensing-the-poles’-hidden-heat/seasonaltempbal_prefire_2026_th.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint"
     }
   ]
 }
