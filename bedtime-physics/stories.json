@@ -1,96 +1,96 @@
 {
-  "updated": "2026-08-06 12:55 UTC",
+  "updated": "2026-08-07 01:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Electric field reverses phonon chirality and spin direction in ferroelectric crystal",
-      "link": "https://phys.org/news/2026-08-electric-field-reverses-phonon-chirality.html",
-      "desc": "Chiral phonons are groups of atoms that move in a circular direction when excited by an energy source, such as heat. As the phonons move through a material, they propagate that circular motion, or angular momentum, through the material. The angular momentum serves as the source of spin, and the…",
-      "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-an-ele.jpg"
+      "title": "Repurposing deep-Earth tools in the hunt for practical superconductors",
+      "link": "https://phys.org/news/2026-08-repurposing-deep-earth-tools-superconductors.html",
+      "desc": "If scientists could find a material that acts as a superconductor—that is, one that transmits energy with zero resistance—at normal pressures and relatively high temperatures, it would open up a vast number of possibilities. These include medical imaging, quantum computing and numerous other…",
+      "date": "Aug 06, 2026",
+      "published_utc": "2026-08-06 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/superconductor.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Using the Earth's magnetic field to hunt for axions and dark photons",
-      "link": "https://phys.org/news/2026-08-earth-magnetic-field-axions-dark.html",
-      "desc": "Dark matter's existence is all but certain—astronomers believe it makes up about a quarter of the universe's total energy content—yet its true identity has eluded us for decades. Two of the leading candidates for dark matter are the hypothetical particles ultralight axions and dark photons, which…",
-      "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/earth-1.jpg"
+      "title": "Sunlight-powered setup generates quantum entanglement",
+      "link": "https://phys.org/news/2026-08-sunlight-powered-setup-generates-quantum.html",
+      "desc": "Today's quantum technologies rely on energy-intensive lasers, raising concerns that scaling them up could further increase energy demands. In new work, researchers have demonstrated that quantum entanglement between photons can be generated directly from sunlight, offering a potential alternative.",
+      "date": "Aug 06, 2026",
+      "published_utc": "2026-08-06 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-generate-q-1.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Air-stable, ultrathin superconductors developed for more scalable quantum devices",
-      "link": "https://phys.org/news/2026-08-air-stable-ultrathin-superconductors-scalable.html",
-      "desc": "Super-thin superconducting materials, which are only one or a few atoms thick, have unique properties scientists can leverage to produce more compact, scalable, and efficient quantum devices. But these fragile materials degrade so rapidly in air that they are difficult to study or manufacture.",
-      "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 23:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-make-air-s.jpg"
+      "title": "Two-qubit entangling gate flags its own errors as detectable photon losses",
+      "link": "https://phys.org/news/2026-08-qubit-entangling-gate-flags-errors.html",
+      "desc": "Quantum errors are a normal part of quantum computing because fragile physical qubits (the tiny components storing data) can easily break down because of environmental noise, like heat, stray signals or microscopic vibrations. Typical fixes involve vast amounts of extra hardware qubits, which make…",
+      "date": "Aug 06, 2026",
+      "published_utc": "2026-08-06 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-develop-a-n-1.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Antenna Testing for NASA’s SkyFall Mission",
+      "link": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
+      "desc": "Description SkyFall ground-penetrating radar engineer Maya Román connects a coaxial cable to a test antenna in the Environmental Test Lab’s electromagnetic interference testing chamber at NASA’s Jet Propulsion Laboratory in Southern California. The antenna was pointed up during test to minimize…",
+      "date": "Aug 06, 2026",
+      "published_utc": "2026-08-06 17:56 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26759/PIA26759.jpg?w=8256&amp;h=5504&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Miniaturized laser technology paves the way for fundamental physics experiments in space",
-      "link": "https://phys.org/news/2026-08-miniaturized-laser-technology-paves-fundamental.html",
-      "desc": "An international team of researchers has succeeded in producing atomic quantum gas mixtures with an unprecedented particle flux. In the journal Nature Communications, the scientists report on experiments conducted with the MAIUS-B apparatus, in which Bose–Einstein condensates (BECs) consisting of…",
-      "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 23:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-precision-laser-s.jpg"
+      "title": "New quantum microscopy trick quadruples microscope resolution",
+      "link": "https://phys.org/news/2026-08-quantum-microscopy-quadruples-microscope-resolution.html",
+      "desc": "Three years after a team of Caltech scientists showed that pairs of entangled photons could double the resolution of a light microscope, the same lab has figured out a way to double down on that improvement. They have now achieved a fourfold resolution boost compared to a classical microscope,…",
+      "date": "Aug 06, 2026",
+      "published_utc": "2026-08-06 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-quantum-microscopy-1.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "'Spooky' particles transit DC suburbs, a step toward a quantum network",
-      "link": "https://phys.org/news/2026-08-spooky-particles-transit-dc-suburbs.html",
-      "desc": "In early 2025, special signals wended their way through a fiber-optic highway strung above the streets and sidewalks of the Maryland suburbs. The arrival of those signals at their destination marks a significant step toward a long-held dream of building a \"quantum network.\" Researchers believe that…",
-      "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 20:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spooky-particles-trans.jpg"
+      "title": "An elegant modification doubles the range of low-noise 'white lasers' in a single fiber",
+      "link": "https://phys.org/news/2026-08-elegant-modification-range-noise-white.html",
+      "desc": "Supercontinuum light sources—often called \"white lasers\" because they emit a broad, continuous rainbow of colors—are essential tools for everything from advanced medical imaging to environmental gas detection. However, researchers have historically faced a frustrating trade-off: A broad spectrum…",
+      "date": "Aug 06, 2026",
+      "published_utc": "2026-08-06 23:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-record-dtu-researc.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New semiconductor maser operates continuously above room temperature",
-      "link": "https://phys.org/news/2026-08-semiconductor-maser-room-temperature.html",
-      "desc": "Lasers have become indispensable in everyday life and research, with applications ranging from data transmission and metrology to manufacturing. Masers, by contrast, have so far found hardly any practical applications.",
-      "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 20:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worlds-first-semicondu-1.jpg"
+      "title": "Researchers demonstrate first fully solution-processed solid-state polariton laser",
+      "link": "https://phys.org/news/2026-08-fully-solution-solid-state-polariton.html",
+      "desc": "Researchers have demonstrated a solid-state organic laser microcavity fabricated entirely by solution processing. The device operates in the strong light–matter coupling regime, where light and matter form hybrid states called polaritons. This makes the platform not only a new type of…",
+      "date": "Aug 06, 2026",
+      "published_utc": "2026-08-06 22:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-demonstrat-11.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot",
-      "link": "https://www.quantamagazine.org/corals-spin-tiny-vortices-to-get-oxygen-but-not-if-its-too-hot-20260805/",
-      "desc": "New research is helping biologists understand how an overlooked aspect of coral physiology may affect their fate under climate change. The post Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot first appeared on Quanta Magazine",
-      "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 15:40 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/CoralCilia-crCesarPacharres-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Attosecond X-ray method maps early electron motions that trigger chemical reactions",
-      "link": "https://phys.org/news/2026-08-attosecond-ray-method-early-electron.html",
-      "desc": "All chemistry starts with a push from electrons. In the early moments of a chemical reaction, it's the movement of electrons that initiates the breaking of old chemical bonds and forging of new ones, transforming one molecule into another.",
-      "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 20:50 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/slac-researchers-make.jpg"
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "NASA’s SkyFall Helicopters at Work (Artist’s Concept)",
+      "link": "https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/",
+      "desc": "Description This artist’s concept depicts NASA’s three SkyFall Mars helicopters collecting data while flying over the surface of the Red Planet. The green frequency waves emanating from the helicopters’ large antennas depict collection of subsurface radar data. The red beams depict collect…",
+      "date": "Aug 06, 2026",
+      "published_utc": "2026-08-06 18:06 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26760/PIA26760.jpg?w=2880&amp;h=1620&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Tiny vortices discovered on the sun's surface",
-      "link": "https://phys.org/news/2026-08-tiny-vortices-sun-surface.html",
-      "desc": "Researchers from the U.S. National Science Foundation National Solar Observatory (NSF NSO), the Max Planck Institute for Solar System Research (MPS) in Germany, and the High Altitude Observatory (HAO) in the U.S. have made a discovery in solar physics. New images of the sun's surface taken with the…",
-      "date": "Aug 05, 2026",
-      "published_utc": "2026-08-05 15:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-vortices-discover.jpg"
+      "title": "Never-before-seen woven structure that forms naturally inside a crystal discovered",
+      "link": "https://phys.org/news/2026-08-woven-naturally-crystal.html",
+      "desc": "For the first time, scientists have observed a three-dimensional woven structure forming naturally inside a crystal, revealing a previously unknown way in which matter can organize itself.",
+      "date": "Aug 06, 2026",
+      "published_utc": "2026-08-06 21:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/never-before-seen-wove-1.jpg"
     }
   ]
 }
