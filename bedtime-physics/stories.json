@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08 06:27 UTC",
+  "updated": "2026-08-08 12:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -45,11 +45,11 @@
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
-      "title": "UCLA scientists discover how to guide heat like light at room temperature",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
-      "desc": "Scientists have demonstrated that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly. The breakthrough could make it possible to route heat around sensitive parts of next-generation chips and quantum devices.",
-      "date": "Aug 07, 2026",
-      "published_utc": "2026-08-07 12:22 UTC",
+      "title": "Sunlight creates quantum entanglement once thought to require lasers",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
+      "desc": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled photons with about 94% similarity to an ideal state. The result could pave the way…",
+      "date": "Aug 08, 2026",
+      "published_utc": "2026-08-08 03:49 UTC",
       "image": ""
     },
     {
