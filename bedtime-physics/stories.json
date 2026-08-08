@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-07 18:31 UTC",
+  "updated": "2026-08-08 00:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Crossing into a mirror world: Particles turn to wisps of fog, and the magnetic monopole paradox dissolves",
+      "link": "https://phys.org/news/2026-08-mirror-world-particles-wisps-fog.html",
+      "desc": "In Goethe's ballad \"Erlkönig,\" immortalized in Schubert's fevered 1815 setting, a dying boy riding through the night sees a spectral king beckoning from the darkness. His father calms him: \"Mein Sohn, es ist ein Nebelstreif\"—my son, it is only a wisp of fog. In the poem, the father's reassurance…",
+      "date": "Aug 07, 2026",
+      "published_utc": "2026-08-07 20:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/crossing-into-a-mirror-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Tiny floating magnet detects ultrafaint magnetic fields at room temperature",
+      "link": "https://phys.org/news/2026-08-tiny-magnet-ultrafaint-magnetic-fields.html",
+      "desc": "Measuring faint magnetic fields is useful in a number of areas, including mapping brain activity, monitoring hearts and probing fundamental physics. Typically, picking up such weak signals requires expensive or bulky equipment, such as liquid-helium cooling tanks or specially shielded rooms that…",
+      "date": "Aug 07, 2026",
+      "published_utc": "2026-08-07 20:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-tiny-levitating-magn.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Boron layers could set a superconductivity record, theoretical study predicts",
+      "link": "https://phys.org/news/2026-08-boron-layers-superconductivity-theoretical.html",
+      "desc": "Scientists in China predict that stacking two microscopic layers of boron could set a new record for superconductivity. Superconductors are materials that conduct electricity with zero resistance. Traditional types need temperatures close to absolute zero to work, requiring complex and expensive…",
+      "date": "Aug 07, 2026",
+      "published_utc": "2026-08-07 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-theoretical-study.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
+      "link": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
+      "desc": "Using light to process quantum information is one of the most promising approaches to building future quantum computers. Light particles, known as photons, are excellent carriers of quantum information, but their lack of natural interactions has created a major challenge for researchers seeking to…",
+      "date": "Aug 07, 2026",
+      "published_utc": "2026-08-07 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-shape-shifting-arc.jpg"
+    },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
@@ -35,32 +75,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New quantum microscopy trick quadruples microscope resolution",
-      "link": "https://phys.org/news/2026-08-quantum-microscopy-quadruples-microscope-resolution.html",
-      "desc": "Three years after a team of Caltech scientists showed that pairs of entangled photons could double the resolution of a light microscope, the same lab has figured out a way to double down on that improvement. They have now achieved a fourfold resolution boost compared to a classical microscope,…",
-      "date": "Aug 06, 2026",
-      "published_utc": "2026-08-06 21:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-quantum-microscopy-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "An elegant modification doubles the range of low-noise 'white lasers' in a single fiber",
-      "link": "https://phys.org/news/2026-08-elegant-modification-range-noise-white.html",
-      "desc": "Supercontinuum light sources—often called \"white lasers\" because they emit a broad, continuous rainbow of colors—are essential tools for everything from advanced medical imaging to environmental gas detection. However, researchers have historically faced a frustrating trade-off: A broad spectrum…",
-      "date": "Aug 06, 2026",
-      "published_utc": "2026-08-06 23:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-record-dtu-researc.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Researchers demonstrate first fully solution-processed solid-state polariton laser",
-      "link": "https://phys.org/news/2026-08-fully-solution-solid-state-polariton.html",
-      "desc": "Researchers have demonstrated a solid-state organic laser microcavity fabricated entirely by solution processing. The device operates in the strong light–matter coupling regime, where light and matter form hybrid states called polaritons. This makes the platform not only a new type of…",
-      "date": "Aug 06, 2026",
-      "published_utc": "2026-08-06 22:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-demonstrat-11.jpg"
+      "title": "Laser spectroscopy helps reveal hidden nuclear properties in fermium",
+      "link": "https://phys.org/news/2026-08-laser-spectroscopy-reveal-hidden-nuclear.html",
+      "desc": "For the first time, researchers have determined the shape of the actinide nucleus of fermium-255 and measured its structure with high precision and resolution.",
+      "date": "Aug 07, 2026",
+      "published_utc": "2026-08-07 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-spectroscopy-hel.jpg"
     },
     {
       "topic": "Physics",
@@ -71,26 +91,6 @@
       "date": "Aug 07, 2026",
       "published_utc": "2026-08-07 15:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/dark-matter-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Never-before-seen woven structure that forms naturally inside a crystal discovered",
-      "link": "https://phys.org/news/2026-08-woven-naturally-crystal.html",
-      "desc": "For the first time, scientists have observed a three-dimensional woven structure forming naturally inside a crystal, revealing a previously unknown way in which matter can organize itself.",
-      "date": "Aug 06, 2026",
-      "published_utc": "2026-08-06 21:50 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/never-before-seen-wove-1.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Sensing the Poles’ Hidden Heat",
-      "link": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
-      "desc": "New animations from NASA's PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic. The post Sensing the Poles’ Hidden Heat appeared first on NASA Science .",
-      "date": "Aug 07, 2026",
-      "published_utc": "2026-08-07 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sensing-the-poles’-hidden-heat/seasonaltempbal_prefire_2026_th.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint"
     }
   ]
 }
