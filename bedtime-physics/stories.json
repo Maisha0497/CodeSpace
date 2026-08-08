@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08 12:26 UTC",
+  "updated": "2026-08-08 18:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -53,24 +53,14 @@
       "image": ""
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle",
-      "link": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
-      "desc": "A global constellation of neutrino detectors is creating a never-before-seen view of the radioactive elements that power Earth’s tectonic heat engine. The post Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle first appeared on Quanta Magazine",
-      "date": "Aug 07, 2026",
-      "published_utc": "2026-08-07 13:55 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Central-acrylic-sphere-and-PMTs-cr-JUNO-Collaboration-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physicists watch a material's electrons assemble, and reassemble, into coexisting phases",
-      "link": "https://phys.org/news/2026-08-physicists-material-electrons-reassemble-coexisting.html",
-      "desc": "A tall glass of ice water isn't just a thirst quencher; it's also an everyday example of coexisting phases. Water can exist simultaneously in both liquid and solid phases. As it turns out, this phase duality can also exist in more exotic quantum materials, in ways that are far more complicated to…",
-      "date": "Aug 07, 2026",
-      "published_utc": "2026-08-07 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-watch-a-mat.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
+      "desc": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration systems. Built from a gold film carved with hundreds of microscopic structures, the ultrathin…",
+      "date": "Aug 08, 2026",
+      "published_utc": "2026-08-08 13:17 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
@@ -81,16 +71,6 @@
       "date": "Aug 07, 2026",
       "published_utc": "2026-08-07 21:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-spectroscopy-hel.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "XENONnT detector narrows the hunt for dark matter",
-      "link": "https://phys.org/news/2026-08-xenonnt-detector-narrows-dark.html",
-      "desc": "Using a detector filled with nearly 9 metric tons of liquid xenon, researchers have delivered some of the most sensitive dark matter results ever recorded. In the latest analysis from the XENON collaboration, working at the Gran Sasso National Laboratory in Italy, researchers carried out a \"blind\"…",
-      "date": "Aug 07, 2026",
-      "published_utc": "2026-08-07 15:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/dark-matter-1.jpg"
     }
   ]
 }
