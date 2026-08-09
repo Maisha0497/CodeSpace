@@ -1,46 +1,16 @@
 {
-  "updated": "2026-08-08 18:26 UTC",
+  "updated": "2026-08-09 00:32 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Crossing into a mirror world: Particles turn to wisps of fog, and the magnetic monopole paradox dissolves",
-      "link": "https://phys.org/news/2026-08-mirror-world-particles-wisps-fog.html",
-      "desc": "In Goethe's ballad \"Erlkönig,\" immortalized in Schubert's fevered 1815 setting, a dying boy riding through the night sees a spectral king beckoning from the darkness. His father calms him: \"Mein Sohn, es ist ein Nebelstreif\"—my son, it is only a wisp of fog. In the poem, the father's reassurance…",
-      "date": "Aug 07, 2026",
-      "published_utc": "2026-08-07 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/crossing-into-a-mirror-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Tiny floating magnet detects ultrafaint magnetic fields at room temperature",
-      "link": "https://phys.org/news/2026-08-tiny-magnet-ultrafaint-magnetic-fields.html",
-      "desc": "Measuring faint magnetic fields is useful in a number of areas, including mapping brain activity, monitoring hearts and probing fundamental physics. Typically, picking up such weak signals requires expensive or bulky equipment, such as liquid-helium cooling tanks or specially shielded rooms that…",
-      "date": "Aug 07, 2026",
-      "published_utc": "2026-08-07 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-tiny-levitating-magn.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Boron layers could set a superconductivity record, theoretical study predicts",
-      "link": "https://phys.org/news/2026-08-boron-layers-superconductivity-theoretical.html",
-      "desc": "Scientists in China predict that stacking two microscopic layers of boron could set a new record for superconductivity. Superconductors are materials that conduct electricity with zero resistance. Traditional types need temperatures close to absolute zero to work, requiring complex and expensive…",
-      "date": "Aug 07, 2026",
-      "published_utc": "2026-08-07 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-theoretical-study.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
-      "link": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
-      "desc": "Using light to process quantum information is one of the most promising approaches to building future quantum computers. Light particles, known as photons, are excellent carriers of quantum information, but their lack of natural interactions has created a major challenge for researchers seeking to…",
-      "date": "Aug 07, 2026",
-      "published_utc": "2026-08-07 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-shape-shifting-arc.jpg"
+      "title": "'Flying focus' laser overcomes key limitation in plasma-based particle accelerators",
+      "link": "https://phys.org/news/2026-08-flying-focus-laser-key-limitation.html",
+      "desc": "In a new Nature Physics study, researchers accelerated electrons to more than twice the energy predicted by the traditional dephasing limit for laser-plasma accelerators operating over the same distance. This was made possible by a specially engineered laser pulse called a flying focus, which…",
+      "date": "Aug 08, 2026",
+      "published_utc": "2026-08-08 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-use-flying.jpg"
     },
     {
       "topic": "Quantum",
@@ -61,16 +31,6 @@
       "date": "Aug 08, 2026",
       "published_utc": "2026-08-08 13:17 UTC",
       "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Laser spectroscopy helps reveal hidden nuclear properties in fermium",
-      "link": "https://phys.org/news/2026-08-laser-spectroscopy-reveal-hidden-nuclear.html",
-      "desc": "For the first time, researchers have determined the shape of the actinide nucleus of fermium-255 and measured its structure with high precision and resolution.",
-      "date": "Aug 07, 2026",
-      "published_utc": "2026-08-07 21:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-spectroscopy-hel.jpg"
     }
   ]
 }
