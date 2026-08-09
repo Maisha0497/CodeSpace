@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 00:32 UTC",
+  "updated": "2026-08-09 06:30 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Aug 08, 2026",
       "published_utc": "2026-08-08 19:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-use-flying.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Sunlight creates quantum entanglement once thought to require lasers",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
-      "desc": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled photons with about 94% similarity to an ideal state. The result could pave the way…",
-      "date": "Aug 08, 2026",
-      "published_utc": "2026-08-08 03:49 UTC",
-      "image": ""
     },
     {
       "topic": "Quantum",
