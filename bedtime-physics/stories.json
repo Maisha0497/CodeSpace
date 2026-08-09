@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 12:27 UTC",
+  "updated": "2026-08-09 18:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -13,14 +13,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-use-flying.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
-      "desc": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration systems. Built from a gold film carved with hundreds of microscopic structures, the ultrathin…",
-      "date": "Aug 08, 2026",
-      "published_utc": "2026-08-08 13:17 UTC",
-      "image": ""
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Tiny particles defy action-reaction symmetry to stay in motion",
+      "link": "https://phys.org/news/2026-08-tiny-particles-defy-action-reaction.html",
+      "desc": "From schools of fish and flocks of birds to microscopic synthetic particles, many systems in nature and the laboratory consist of individual units or agents that move by consuming energy. These systems are known as active matter because their components continuously use energy to generate motion,…",
+      "date": "Aug 09, 2026",
+      "published_utc": "2026-08-09 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-particles-defy-ac-1.jpg"
     }
   ]
 }
