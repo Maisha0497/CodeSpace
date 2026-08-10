@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10 00:34 UTC",
+  "updated": "2026-08-10 06:44 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Aug 09, 2026",
       "published_utc": "2026-08-09 16:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-particles-defy-ac-1.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "El Niño Alters Marine Life in the Pacific",
+      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/",
+      "desc": "Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026. The post El Niño Alters Marine Life in the Pacific appeared first on NASA Science .",
+      "date": "Aug 10, 2026",
+      "published_utc": "2026-08-10 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño alters-marine-life-in-the-pacific/chlorophyll_pace_202506.jpg"
     }
   ]
 }
