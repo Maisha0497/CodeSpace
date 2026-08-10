@@ -1,16 +1,56 @@
 {
-  "updated": "2026-08-10 12:32 UTC",
+  "updated": "2026-08-10 18:33 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Tiny particles defy action-reaction symmetry to stay in motion",
-      "link": "https://phys.org/news/2026-08-tiny-particles-defy-action-reaction.html",
-      "desc": "From schools of fish and flocks of birds to microscopic synthetic particles, many systems in nature and the laboratory consist of individual units or agents that move by consuming energy. These systems are known as active matter because their components continuously use energy to generate motion,…",
-      "date": "Aug 09, 2026",
-      "published_utc": "2026-08-09 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-particles-defy-ac-1.jpg"
+      "title": "Real-time measurements reveal antiferromagnetic skyrmions move in line with an applied current",
+      "link": "https://phys.org/news/2026-08-real-reveal-antiferromagnetic-skyrmions-line.html",
+      "desc": "Skyrmions—essentially magnetic vortices—represent a promising approach in spintronics; in the future, they could serve as components in storage media or computers, potentially complementing established CMOS technologies. Researchers at Johannes Gutenberg University Mainz (JGU) have now visualized…",
+      "date": "Aug 10, 2026",
+      "published_utc": "2026-08-10 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-watch-antif.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Discovery of 'slow' electrons in 2D material could lead to new memory device",
+      "link": "https://phys.org/news/2026-08-discovery-electrons-2d-material-memory.html",
+      "desc": "Over the last decade, researchers have developed two-dimensional materials with fascinating quantum effects that could be harnessed for next-generation technologies.",
+      "date": "Aug 10, 2026",
+      "published_utc": "2026-08-10 17:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-of-slow-elec-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "'Lying mirror' uses structured surfaces to conceal optical information",
+      "link": "https://phys.org/news/2026-08-mirror-surfaces-conceal-optical.html",
+      "desc": "Mirrors normally reveal what is placed in front of them, even when their curvature distorts a reflection. Researchers at the University of California, Los Angeles (UCLA) have introduced a different optical concept: a \"lying mirror\" that hides information carried by an input image and transforms it…",
+      "date": "Aug 10, 2026",
+      "published_utc": "2026-08-10 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lying-mirror-uses-stru.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Why Are Rivers So Mathematical?",
+      "link": "https://www.quantamagazine.org/why-are-rivers-so-mathematical-20260810/",
+      "desc": "A simple scaling law brings order to the chaos of flowing water, rock, and sediment. New findings have extended the law even further. The post Why Are Rivers So Mathematical? first appeared on Quanta Magazine",
+      "date": "Aug 10, 2026",
+      "published_utc": "2026-08-10 14:56 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia-River-Fractals-cr-Ada-Zejun-Shen-Default.webp"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Wildfires, drought and extreme heat, 2026",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026",
+      "desc": "Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space. This page is updated on a regular basis with a selection of ESA’s most recent news-related images showing how the effects of climate change are impacting our world.",
+      "date": "Aug 10, 2026",
+      "published_utc": "2026-08-10 13:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/drought_hits_rivers_in_southern_norway/27411534-1-eng-GB/Drought_hits_rivers_in_southern_Norway_card_full.jpg"
     },
     {
       "topic": "Earth Observation",
