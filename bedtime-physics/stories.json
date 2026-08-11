@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11 06:34 UTC",
+  "updated": "2026-08-11 12:30 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Aug 10, 2026",
       "published_utc": "2026-08-10 16:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-watch-antif.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New optical method reveals internal dynamics of elusive Wigner crystals",
+      "link": "https://phys.org/news/2026-08-optical-method-reveals-internal-dynamics.html",
+      "desc": "Researchers at the University of Basel and the Technical University of Munich have developed a new method to reveal the collective motion of electrons in one of the most elusive states of matter: the Wigner crystal. Using light, the physicists were able to uncover previously inaccessible properties…",
+      "date": "Aug 11, 2026",
+      "published_utc": "2026-08-11 09:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-optical-method-rev.jpg"
     },
     {
       "topic": "Physics",
@@ -73,14 +83,14 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/drought_hits_rivers_in_southern_norway/27411534-1-eng-GB/Drought_hits_rivers_in_southern_Norway_card_full.jpg"
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Bountiful Roebuck Bay",
-      "link": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/",
-      "desc": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia's Kimberley region. The post Bountiful Roebuck Bay appeared first on NASA Science .",
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "The Under-the-Radar Creeks That Are Sweeping Carbon Out of Salt Marshes",
+      "link": "https://eos.org/research-spotlights/the-under-the-radar-creeks-that-are-sweeping-carbon-out-of-salt-marshes",
+      "desc": "Transport via tidal creeks is a “major and often underrecognized” pathway of carbon in the coastal wetlands, and a gap in most blue carbon assessments, new research reports.",
       "date": "Aug 11, 2026",
-      "published_utc": "2026-08-11 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/bountiful-roebuck-bay/broomewater_oli_20260318.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "published_utc": "2026-08-11 12:04 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/barataria-basin-1024x576.jpg"
     }
   ]
 }
