@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-11 18:34 UTC",
+  "updated": "2026-08-12 00:38 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New contactless method reveals how mirror-image materials respond differently to light",
+      "link": "https://phys.org/news/2026-08-contactless-method-reveals-mirror-image.html",
+      "desc": "New research introduces a contactless way to see how mirror-image materials respond differently to circularly polarized light, without first building them into a complete electronic device. The researchers developed a novel method based on light-induced charge separation that allows researchers to…",
+      "date": "Aug 11, 2026",
+      "published_utc": "2026-08-11 20:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-contactless-method-1.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,22 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum heat circuits learn electronics' oldest trick: Sharing a power supply",
-      "link": "https://phys.org/news/2026-08-quantum-circuits-electronics-oldest-power.html",
-      "desc": "Every electronic and optoelectronic device generates heat, and today that heat is managed almost entirely from the outside. Heatsinks, fans, cold plates and refrigerators are bulky exterior measures bolted onto a chip or package after the fact. They treat heat as a single averaged quantity to be…",
-      "date": "Aug 10, 2026",
-      "published_utc": "2026-08-10 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-heat-circuits.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Distant time crystals oscillate in unison, paving the way for spin networks",
-      "link": "https://phys.org/news/2026-08-distant-crystals-oscillate-unison-paving.html",
-      "desc": "In January 2024, physicists at TU Dortmund University demonstrated a continuous time crystal in a semiconductor whose oscillations remained stable for hours. In a new study published in Nature Communications, Professor Alex Greilich and his team show that many such time crystals can form in the…",
-      "date": "Aug 10, 2026",
-      "published_utc": "2026-08-10 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/distant-time-crystals.jpg"
+      "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
+      "link": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
+      "desc": "A University of Kansas physicist played a leading role in a CERN study showing that two rival explanations for how gluons behave inside atomic nuclei can now be experimentally distinguished.",
+      "date": "Aug 11, 2026",
+      "published_utc": "2026-08-11 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-cern-measurement-c.jpg"
     },
     {
       "topic": "Geoscience",
@@ -51,6 +51,16 @@
       "date": "Aug 11, 2026",
       "published_utc": "2026-08-11 12:04 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/08/barataria-basin-1024x576.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Bountiful Roebuck Bay",
+      "link": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/",
+      "desc": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia's Kimberley region. The post Bountiful Roebuck Bay appeared first on NASA Science .",
+      "date": "Aug 11, 2026",
+      "published_utc": "2026-08-11 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/bountiful-roebuck-bay/broomewater_oli_20260318.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
