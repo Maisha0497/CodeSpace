@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-12 12:32 UTC",
+  "updated": "2026-08-12 18:34 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Spontaneous magnons synchronize with external signals at room temperature",
+      "link": "https://phys.org/news/2026-08-spontaneous-magnons-synchronize-external-room.html",
+      "desc": "Signals ride on waves of one kind or another: light, sound, radio. But new carriers are needed to relay information in next-generation devices. Disturbances or waves in magnetic materials called magnons could be an efficient option—if scientists can tame them.",
+      "date": "Aug 12, 2026",
+      "published_utc": "2026-08-12 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-generate-s.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,22 +35,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "X-rays: Beyond the Nobel Prize limit",
-      "link": "https://phys.org/news/2026-08-rays-nobel-prize-limit.html",
-      "desc": "When certain atoms are irradiated with laser light, they can produce a very different kind of laser light: laser pulses with extremely high frequencies in the X-ray range. These laser pulses, which helped achieve record-breaking results at TU Wien in the 1990s, were the subject of the 2023 Nobel…",
-      "date": "Aug 11, 2026",
-      "published_utc": "2026-08-11 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/x-rays-beyond-the-nobe.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
       "link": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
       "desc": "A University of Kansas physicist played a leading role in a CERN study showing that two rival explanations for how gluons behave inside atomic nuclei can now be experimentally distinguished.",
       "date": "Aug 11, 2026",
       "published_utc": "2026-08-11 21:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-cern-measurement-c.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum advantage reassessed: More realistic benchmarks for quantum algorithms",
+      "link": "https://phys.org/news/2026-08-quantum-advantage-reassessed-realistic-benchmarks.html",
+      "desc": "Quantum advantage refers to the point at which a quantum computer solves a clearly defined task faster or more efficiently than any classical computer—or makes it solvable in the first place. For many practical applications, this has not yet been demonstrated. Research therefore relies heavily on…",
+      "date": "Aug 12, 2026",
+      "published_utc": "2026-08-12 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/quantum-computer-2.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+      "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+      "desc": "The math, which combines chaos, quantum theory, and infinitely complex fractal structures, has been called a “foundational result.” The post Graduate Student Proves a Quantum Uncertainty Principle for Fractals first appeared on Quanta Magazine",
+      "date": "Aug 12, 2026",
+      "published_utc": "2026-08-12 14:14 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Fractal-Uncertainty-cr-Ada-Zejun-Shen-Default.webp"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Extreme Heat May Drive Asthma Risk in Baltimore, Especially at Night",
+      "link": "https://eos.org/research-spotlights/extreme-heat-may-drive-asthma-risk-in-baltimore-especially-at-night",
+      "desc": "A new study paints a fuller picture of how heat affects respiratory health, especially in Baltimore’s socially vulnerable neighborhoods.",
+      "date": "Aug 12, 2026",
+      "published_utc": "2026-08-12 14:26 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/baltimore-from-above-1024x576.jpg"
     },
     {
       "topic": "Geoscience",
@@ -61,16 +91,6 @@
       "date": "Aug 12, 2026",
       "published_utc": "2026-08-12 12:00 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/07/EspirituSanto-1-final-1024x576.png"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "The evolution of the Wanlixi landslide in Taiwan",
-      "link": "https://eos.org/thelandslideblog/wanlixi-landslide-2",
-      "desc": "Planet Labs satellite imagery highlights how the Wanlixi landslide in Taiwan evolved prior to the main failure on 21 June, and how it has continued to move subsequently. On 31 July 2026 I highlighted the valley-blocking Wanlixi landslide in Hualien County, Taiwan. The location of the landslide is…",
-      "date": "Aug 12, 2026",
-      "published_utc": "2026-08-12 06:48 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/26_08-Wanlixi-2-1024x838.jpg"
     }
   ]
 }
