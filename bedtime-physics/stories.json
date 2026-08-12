@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-12 06:45 UTC",
+  "updated": "2026-08-12 12:32 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Long-sought Zhang-Rice singlet visualized directly in cuprate superconductor",
+      "link": "https://phys.org/news/2026-08-sought-zhang-rice-singlet-visualized.html",
+      "desc": "Superconductors are materials that conduct electricity with zero electrical resistance below specific temperatures. Most of these materials become superconducting at very low temperatures, but some also exhibit superconductivity at higher temperatures.",
+      "date": "Aug 12, 2026",
+      "published_utc": "2026-08-12 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-first-direct-visua.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,16 +35,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New optical method reveals internal dynamics of elusive Wigner crystals",
-      "link": "https://phys.org/news/2026-08-optical-method-reveals-internal-dynamics.html",
-      "desc": "Researchers at the University of Basel and the Technical University of Munich have developed a new method to reveal the collective motion of electrons in one of the most elusive states of matter: the Wigner crystal. Using light, the physicists were able to uncover previously inaccessible properties…",
-      "date": "Aug 11, 2026",
-      "published_utc": "2026-08-11 09:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-optical-method-rev.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
       "link": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
       "desc": "A University of Kansas physicist played a leading role in a CERN study showing that two rival explanations for how gluons behave inside atomic nuclei can now be experimentally distinguished.",
@@ -45,22 +45,32 @@
     {
       "topic": "Geoscience",
       "source": "Eos",
-      "title": "The Under-the-Radar Creeks That Are Sweeping Carbon Out of Salt Marshes",
-      "link": "https://eos.org/research-spotlights/the-under-the-radar-creeks-that-are-sweeping-carbon-out-of-salt-marshes",
-      "desc": "Transport via tidal creeks is a “major and often underrecognized” pathway of carbon in the coastal wetlands, and a gap in most blue carbon assessments, new research reports.",
-      "date": "Aug 11, 2026",
-      "published_utc": "2026-08-11 12:04 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/barataria-basin-1024x576.jpg"
+      "title": "Forty Years of Looking to Earth’s Past to Understand Its Future",
+      "link": "https://eos.org/editors-vox/forty-years-of-looking-to-earths-past-to-understand-its-future",
+      "desc": "From ancient greenhouse worlds to ice ages, Earth's past offers vital clues to its future. Explore the 40 th anniversary special collection from Paleoceanography and Paleoclimatology .",
+      "date": "Aug 12, 2026",
+      "published_utc": "2026-08-12 11:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/07/MARUM_IODP_03-Final-1024x576.png"
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Stops Along the Path of Totality",
-      "link": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
-      "desc": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026. The post Stops Along the Path of Totality appeared first on NASA Science .",
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Introducing Research Letters in Paleoceanography and Paleoclimatology",
+      "link": "https://eos.org/editors-vox/introducing-research-letters-in-paleoceanography-and-paleoclimatology",
+      "desc": "Paleoceanography and Paleoclimatology now offers Research Letters, a new format for brief, timely, scientific communications, launched on the journal’s 40th anniversary.",
       "date": "Aug 12, 2026",
-      "published_utc": "2026-08-12 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/iceland_oli2_20260725.jpg?w=2160&amp;h=1500&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "published_utc": "2026-08-12 12:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/07/EspirituSanto-1-final-1024x576.png"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "The evolution of the Wanlixi landslide in Taiwan",
+      "link": "https://eos.org/thelandslideblog/wanlixi-landslide-2",
+      "desc": "Planet Labs satellite imagery highlights how the Wanlixi landslide in Taiwan evolved prior to the main failure on 21 June, and how it has continued to move subsequently. On 31 July 2026 I highlighted the valley-blocking Wanlixi landslide in Hualien County, Taiwan. The location of the landslide is…",
+      "date": "Aug 12, 2026",
+      "published_utc": "2026-08-12 06:48 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/26_08-Wanlixi-2-1024x838.jpg"
     }
   ]
 }
