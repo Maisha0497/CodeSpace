@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12 00:38 UTC",
+  "updated": "2026-08-12 06:45 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -55,12 +55,12 @@
     {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
-      "title": "Bountiful Roebuck Bay",
-      "link": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/",
-      "desc": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia's Kimberley region. The post Bountiful Roebuck Bay appeared first on NASA Science .",
-      "date": "Aug 11, 2026",
-      "published_utc": "2026-08-11 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/bountiful-roebuck-bay/broomewater_oli_20260318.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "title": "Stops Along the Path of Totality",
+      "link": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
+      "desc": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026. The post Stops Along the Path of Totality appeared first on NASA Science .",
+      "date": "Aug 12, 2026",
+      "published_utc": "2026-08-12 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/iceland_oli2_20260725.jpg?w=2160&amp;h=1500&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
