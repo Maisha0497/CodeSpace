@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-13 12:32 UTC",
+  "updated": "2026-08-13 18:34 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Spontaneous magnons synchronize with external signals at room temperature",
-      "link": "https://phys.org/news/2026-08-spontaneous-magnons-synchronize-external-room.html",
-      "desc": "Signals ride on waves of one kind or another: light, sound, radio. But new carriers are needed to relay information in next-generation devices. Disturbances or waves in magnetic materials called magnons could be an efficient option—if scientists can tame them.",
-      "date": "Aug 12, 2026",
-      "published_utc": "2026-08-12 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-generate-s.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,32 +15,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum advantage reassessed: More realistic benchmarks for quantum algorithms",
-      "link": "https://phys.org/news/2026-08-quantum-advantage-reassessed-realistic-benchmarks.html",
-      "desc": "Quantum advantage refers to the point at which a quantum computer solves a clearly defined task faster or more efficiently than any classical computer—or makes it solvable in the first place. For many practical applications, this has not yet been demonstrated. Research therefore relies heavily on…",
-      "date": "Aug 12, 2026",
-      "published_utc": "2026-08-12 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/quantum-computer-2.jpg"
+      "title": "Muon g-2 experiment places new constraints on a forbidden property of muons",
+      "link": "https://phys.org/news/2026-08-muon-constraints-forbidden-property-muons.html",
+      "desc": "A year after its final muon magnetic anomaly announcement, the Muon g-2 collaboration reports a new measurement of a different property of the muon: its electric dipole moment. The work is published on the arXiv preprint server.",
+      "date": "Aug 13, 2026",
+      "published_utc": "2026-08-13 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/muon-g-2-experiment-pl.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
-      "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-      "desc": "The math, which combines chaos, quantum theory, and infinitely complex fractal structures, has been called a “foundational result.” The post Graduate Student Proves a Quantum Uncertainty Principle for Fractals first appeared on Quanta Magazine",
-      "date": "Aug 12, 2026",
-      "published_utc": "2026-08-12 14:14 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Fractal-Uncertainty-cr-Ada-Zejun-Shen-Default.webp"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Melting diamond could unlock triple fusion gain and the secrets of ice giant planets",
+      "link": "https://phys.org/news/2026-08-diamond-triple-fusion-gain-secrets.html",
+      "desc": "Diamond is more than a dazzling gem—the extremely hard form of carbon makes up the pellet that encases fuel for inertial confinement fusion, and scientists believe it rains down deep inside ice giant planets like Neptune and Uranus. In both cases, the material experiences enormous pressures. Until…",
+      "date": "Aug 13, 2026",
+      "published_utc": "2026-08-13 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/melting-diamond-could-1.jpg"
     },
     {
       "topic": "Geoscience",
       "source": "Eos",
-      "title": "Extreme Heat May Drive Asthma Risk in Baltimore, Especially at Night",
-      "link": "https://eos.org/research-spotlights/extreme-heat-may-drive-asthma-risk-in-baltimore-especially-at-night",
-      "desc": "A new study paints a fuller picture of how heat affects respiratory health, especially in Baltimore’s socially vulnerable neighborhoods.",
-      "date": "Aug 12, 2026",
-      "published_utc": "2026-08-12 14:26 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/baltimore-from-above-1024x576.jpg"
+      "title": "How Fluid Mixing due to Kelvin-Helmholtz Instabilities Really Works",
+      "link": "https://eos.org/editor-highlights/how-fluid-mixing-due-to-kelvin-helmholtz-instabilities-really-works",
+      "desc": "Physical oceanographers might have a misconception about the anatomy of mixing at realistic Reynolds numbers in this important type of shear instability.",
+      "date": "Aug 13, 2026",
+      "published_utc": "2026-08-13 13:46 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/Figure-16-ab-Vertical-stack-1-1024x576.png"
     },
     {
       "topic": "Earth Observation",
