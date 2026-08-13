@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12 18:34 UTC",
+  "updated": "2026-08-13 00:39 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,26 +21,6 @@
       "date": "Aug 12, 2026",
       "published_utc": "2026-08-12 12:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-first-direct-visua.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New contactless method reveals how mirror-image materials respond differently to light",
-      "link": "https://phys.org/news/2026-08-contactless-method-reveals-mirror-image.html",
-      "desc": "New research introduces a contactless way to see how mirror-image materials respond differently to circularly polarized light, without first building them into a complete electronic device. The researchers developed a novel method based on light-induced charge separation that allows researchers to…",
-      "date": "Aug 11, 2026",
-      "published_utc": "2026-08-11 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-contactless-method-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
-      "link": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
-      "desc": "A University of Kansas physicist played a leading role in a CERN study showing that two rival explanations for how gluons behave inside atomic nuclei can now be experimentally distinguished.",
-      "date": "Aug 11, 2026",
-      "published_utc": "2026-08-11 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-cern-measurement-c.jpg"
     },
     {
       "topic": "Physics",
@@ -91,6 +71,16 @@
       "date": "Aug 12, 2026",
       "published_utc": "2026-08-12 12:00 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/07/EspirituSanto-1-final-1024x576.png"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "The evolution of the Wanlixi landslide in Taiwan",
+      "link": "https://eos.org/thelandslideblog/wanlixi-landslide-2",
+      "desc": "Planet Labs satellite imagery highlights how the Wanlixi landslide in Taiwan evolved prior to the main failure on 21 June, and how it has continued to move subsequently. On 31 July 2026 I highlighted the valley-blocking Wanlixi landslide in Hualien County, Taiwan. The location of the landslide is…",
+      "date": "Aug 12, 2026",
+      "published_utc": "2026-08-12 06:48 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/26_08-Wanlixi-2-1024x838.jpg"
     }
   ]
 }
