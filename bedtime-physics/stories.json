@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13 00:39 UTC",
+  "updated": "2026-08-13 06:46 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Aug 12, 2026",
       "published_utc": "2026-08-12 16:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-generate-s.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Uniaxial strain reveals new way to tune electron flow in altermagnet material",
+      "link": "https://phys.org/news/2026-08-uniaxial-strain-reveals-tune-electron.html",
+      "desc": "Altermagnetism is a new, third type of magnetism of great interest for spin-transport applications like computer memory. If properly harnessed, it could combine the benefits of the two existing types of magnetism, ferromagnetism and antiferromagnetism, ultimately reducing or eliminating heat during…",
+      "date": "Aug 13, 2026",
+      "published_utc": "2026-08-13 06:39 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rice-researchers-disco.jpg"
     },
     {
       "topic": "Physics",
