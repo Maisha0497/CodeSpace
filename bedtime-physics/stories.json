@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13 18:34 UTC",
+  "updated": "2026-08-14 00:39 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,12 +15,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Copper's surprising melting behavior provides insights into future fusion design",
+      "link": "https://phys.org/news/2026-08-copper-behavior-insights-future-fusion.html",
+      "desc": "Future fusion power plants aim to recreate the heart of a star here on Earth to power our future energy needs. While the core fusion plasma will burn at hundreds of millions of degrees, the surrounding structural components must handle sudden, punishing heat loads that rival the extreme…",
+      "date": "Aug 13, 2026",
+      "published_utc": "2026-08-13 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/slac-researchers-uncov.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Muon g-2 experiment places new constraints on a forbidden property of muons",
       "link": "https://phys.org/news/2026-08-muon-constraints-forbidden-property-muons.html",
       "desc": "A year after its final muon magnetic anomaly announcement, the Muon g-2 collaboration reports a new measurement of a different property of the muon: its electric dipole moment. The work is published on the arXiv preprint server.",
       "date": "Aug 13, 2026",
       "published_utc": "2026-08-13 13:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/muon-g-2-experiment-pl.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Theoretical framework expands directional light control beyond ordered crystal structures",
+      "link": "https://phys.org/news/2026-08-theoretical-framework-crystal.html",
+      "desc": "A research team has developed a new theoretical framework that can suppress light scattering in certain directions while enhancing it in others, even in irregularly arranged materials. The work extends research on controlling light scattering, which has traditionally centered on ordered crystal…",
+      "date": "Aug 13, 2026",
+      "published_utc": "2026-08-13 22:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/designing-the-directio.jpg"
     },
     {
       "topic": "Physics",
