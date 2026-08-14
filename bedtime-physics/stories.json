@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 12:30 UTC",
+  "updated": "2026-08-14 18:32 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,16 +15,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Muon g-2 experiment places new constraints on a forbidden property of muons",
-      "link": "https://phys.org/news/2026-08-muon-constraints-forbidden-property-muons.html",
-      "desc": "A year after its final muon magnetic anomaly announcement, the Muon g-2 collaboration reports a new measurement of a different property of the muon: its electric dipole moment. The work is published on the arXiv preprint server.",
-      "date": "Aug 13, 2026",
-      "published_utc": "2026-08-13 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/muon-g-2-experiment-pl.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Theoretical framework expands directional light control beyond ordered crystal structures",
       "link": "https://phys.org/news/2026-08-theoretical-framework-crystal.html",
       "desc": "A research team has developed a new theoretical framework that can suppress light scattering in certain directions while enhancing it in others, even in irregularly arranged materials. The work extends research on controlling light scattering, which has traditionally centered on ordered crystal…",
@@ -33,14 +23,34 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/designing-the-directio.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Melting diamond could unlock triple fusion gain and the secrets of ice giant planets",
-      "link": "https://phys.org/news/2026-08-diamond-triple-fusion-gain-secrets.html",
-      "desc": "Diamond is more than a dazzling gem—the extremely hard form of carbon makes up the pellet that encases fuel for inertial confinement fusion, and scientists believe it rains down deep inside ice giant planets like Neptune and Uranus. In both cases, the material experiences enormous pressures. Until…",
-      "date": "Aug 13, 2026",
-      "published_utc": "2026-08-13 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/melting-diamond-could-1.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+      "desc": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing…",
+      "date": "Aug 14, 2026",
+      "published_utc": "2026-08-14 12:56 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
+      "desc": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predictions of radioactive decay inside the reactor and nearby spent-fuel pools. The…",
+      "date": "Aug 14, 2026",
+      "published_utc": "2026-08-14 13:16 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Why Aging May Be a Program, Not a Breakdown",
+      "link": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+      "desc": "By deciphering the molecular signatures of millions of mouse cells, Junyue Cao has found that aging is not haphazard wear and tear but rather a “remodeling of the cell society.” The post Why Aging May Be a Program, Not a Breakdown first appeared on Quanta Magazine",
+      "date": "Aug 14, 2026",
+      "published_utc": "2026-08-14 13:10 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Junyue-Cao-cr-Karan-Dias-Default.webp"
     },
     {
       "topic": "Geoscience",
@@ -53,14 +63,14 @@
       "image": "https://eos.org/wp-content/uploads/2026/08/ice-shelf-antarctica-larsen-c-1024x576.jpg"
     },
     {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "How Fluid Mixing due to Kelvin-Helmholtz Instabilities Really Works",
-      "link": "https://eos.org/editor-highlights/how-fluid-mixing-due-to-kelvin-helmholtz-instabilities-really-works",
-      "desc": "Physical oceanographers might have a misconception about the anatomy of mixing at realistic Reynolds numbers in this important type of shear instability.",
-      "date": "Aug 13, 2026",
-      "published_utc": "2026-08-13 13:46 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/Figure-16-ab-Vertical-stack-1-1024x576.png"
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "A Sunflower’s View of Totality",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/",
+      "desc": "The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026. The post A Sunflower&#8217;s View of Totality appeared first on NASA Science .",
+      "date": "Aug 14, 2026",
+      "published_utc": "2026-08-14 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sunflower&#039;s-view-of-totality/55460226954_564d105934_o.jpg?w=4663&amp;h=5277&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
