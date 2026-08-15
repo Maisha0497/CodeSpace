@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-15 12:26 UTC",
+  "updated": "2026-08-15 18:25 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Tungsten may suffer more radiation damage in fusion reactors than expected",
+      "link": "https://phys.org/news/2026-08-tungsten-fusion-reactors.html",
+      "desc": "Fusion reactors, devices that generate energy by fusing light atomic nuclei at extremely high temperatures, could contribute to ongoing efforts aimed at producing electricity more sustainably. The extreme environment inside these devices, however, can damage materials that surround the superheated,…",
+      "date": "Aug 15, 2026",
+      "published_utc": "2026-08-15 12:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tungsten-is-unexpected-1.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -23,16 +33,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/laser.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
-      "desc": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing…",
-      "date": "Aug 14, 2026",
-      "published_utc": "2026-08-14 12:56 UTC",
-      "image": ""
-    },
-    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Controlling the rotation direction of light without complex new materials",
@@ -41,26 +41,6 @@
       "date": "Aug 14, 2026",
       "published_utc": "2026-08-14 18:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-controls-the-rot.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
-      "desc": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predictions of radioactive decay inside the reactor and nearby spent-fuel pools. The…",
-      "date": "Aug 14, 2026",
-      "published_utc": "2026-08-14 13:16 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Why Aging May Be a Program, Not a Breakdown",
-      "link": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
-      "desc": "By deciphering the molecular signatures of millions of mouse cells, Junyue Cao has found that aging is not haphazard wear and tear but rather a “remodeling of the cell society.” The post Why Aging May Be a Program, Not a Breakdown first appeared on Quanta Magazine",
-      "date": "Aug 14, 2026",
-      "published_utc": "2026-08-14 13:10 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Junyue-Cao-cr-Karan-Dias-Default.webp"
     },
     {
       "topic": "Physics",
