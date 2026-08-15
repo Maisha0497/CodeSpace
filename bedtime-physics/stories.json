@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 06:26 UTC",
+  "updated": "2026-08-15 12:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Aug 14, 2026",
       "published_utc": "2026-08-14 21:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bound-gravitational-wa.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Nonrepeating photonic crystal may enable more tunable, reliable semiconductor lasers",
+      "link": "https://phys.org/news/2026-08-nonrepeating-photonic-crystal-enable-tunable.html",
+      "desc": "Over the past two decades, photonic-crystal surface-emitting lasers (PCSELs) have shown promise as a type of advanced semiconductor laser useful in defense- and aerospace-related applications. Typically, these devices are made with photonic crystal patterns that repeat across the area of the…",
+      "date": "Aug 15, 2026",
+      "published_utc": "2026-08-15 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/laser.jpg"
     },
     {
       "topic": "Quantum",
@@ -61,16 +71,6 @@
       "date": "Aug 14, 2026",
       "published_utc": "2026-08-14 21:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cell-biochemistry-beyo.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Antarctica Is Releasing Mercury Faster Than Ever Because of Climate Change",
-      "link": "https://eos.org/articles/antarctica-is-releasing-mercury-faster-than-ever-because-of-climate-change",
-      "desc": "A new study shows melting glaciers are remobilizing pollutants.",
-      "date": "Aug 14, 2026",
-      "published_utc": "2026-08-14 12:01 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/ice-shelf-antarctica-larsen-c-1024x576.jpg"
     }
   ]
 }
