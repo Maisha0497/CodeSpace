@@ -1,26 +1,16 @@
 {
-  "updated": "2026-08-14 18:32 UTC",
+  "updated": "2026-08-15 00:28 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Copper's surprising melting behavior provides insights into future fusion design",
-      "link": "https://phys.org/news/2026-08-copper-behavior-insights-future-fusion.html",
-      "desc": "Future fusion power plants aim to recreate the heart of a star here on Earth to power our future energy needs. While the core fusion plasma will burn at hundreds of millions of degrees, the surrounding structural components must handle sudden, punishing heat loads that rival the extreme…",
-      "date": "Aug 13, 2026",
-      "published_utc": "2026-08-13 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/slac-researchers-uncov.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Theoretical framework expands directional light control beyond ordered crystal structures",
-      "link": "https://phys.org/news/2026-08-theoretical-framework-crystal.html",
-      "desc": "A research team has developed a new theoretical framework that can suppress light scattering in certain directions while enhancing it in others, even in irregularly arranged materials. The work extends research on controlling light scattering, which has traditionally centered on ordered crystal…",
-      "date": "Aug 13, 2026",
-      "published_utc": "2026-08-13 22:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/designing-the-directio.jpg"
+      "title": "Bound gravitational waves inspired by photonic systems",
+      "link": "https://phys.org/news/2026-08-bound-gravitational-photonic.html",
+      "desc": "When one mentions \"waves,\" we immediately think of a perturbation that propagates. This applies to waves on the shore, sound waves in the air or electromagnetic waves that we use to transmit information via optical fibers. The same idea of propagating perturbations applies to gravitational waves…",
+      "date": "Aug 14, 2026",
+      "published_utc": "2026-08-14 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bound-gravitational-wa.jpg"
     },
     {
       "topic": "Quantum",
@@ -31,6 +21,16 @@
       "date": "Aug 14, 2026",
       "published_utc": "2026-08-14 12:56 UTC",
       "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Controlling the rotation direction of light without complex new materials",
+      "link": "https://phys.org/news/2026-08-rotation-complex-materials.html",
+      "desc": "A new pathway has opened for controlling the rotation direction of light simply by changing how molecules are arranged, without having to synthesize complex new materials. Circularly polarized light is a special form of light that travels while rotating like a pinwheel to the left or right. Because…",
+      "date": "Aug 14, 2026",
+      "published_utc": "2026-08-14 18:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-controls-the-rot.jpg"
     },
     {
       "topic": "Quantum",
@@ -51,6 +51,16 @@
       "date": "Aug 14, 2026",
       "published_utc": "2026-08-14 13:10 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Junyue-Cao-cr-Karan-Dias-Default.webp"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Cell biochemistry beyond membranes: Condensate physics reveals general rules for chemical responses",
+      "link": "https://phys.org/news/2026-08-cell-biochemistry-membranes-condensate-physics.html",
+      "desc": "Basic biology courses teach that cells contain organelles—such as the nucleus, mitochondria and Golgi apparatus—set apart by lipid membranes to get things done. Recent cell biology research has revealed another organizational principle at work in cells across all orders of biology.",
+      "date": "Aug 14, 2026",
+      "published_utc": "2026-08-14 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cell-biochemistry-beyo.jpg"
     },
     {
       "topic": "Geoscience",
