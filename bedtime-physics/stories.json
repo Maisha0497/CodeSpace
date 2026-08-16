@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 06:26 UTC",
+  "updated": "2026-08-16 12:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,12 +15,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Nonrepeating photonic crystal may enable more tunable, reliable semiconductor lasers",
-      "link": "https://phys.org/news/2026-08-nonrepeating-photonic-crystal-enable-tunable.html",
-      "desc": "Over the past two decades, photonic-crystal surface-emitting lasers (PCSELs) have shown promise as a type of advanced semiconductor laser useful in defense- and aerospace-related applications. Typically, these devices are made with photonic crystal patterns that repeat across the area of the…",
-      "date": "Aug 15, 2026",
-      "published_utc": "2026-08-15 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/laser.jpg"
+      "title": "Centuries-old physics test could help detect millicharged particles",
+      "link": "https://phys.org/news/2026-08-centuries-physics-millicharged-particles.html",
+      "desc": "Theoretical physicists have long predicted the existence of millicharged particles (mCPs), hypothetical particles that carry a very small electric charge. These particles are expected to interact very weakly with ordinary matter and electromagnetic fields; hence, they would be difficult to detect…",
+      "date": "Aug 16, 2026",
+      "published_utc": "2026-08-16 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-centuries-old-physic.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
+      "desc": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-shaped junction of the gluons connecting them. The finding challenges a…",
+      "date": "Aug 16, 2026",
+      "published_utc": "2026-08-16 09:55 UTC",
+      "image": ""
     }
   ]
 }
