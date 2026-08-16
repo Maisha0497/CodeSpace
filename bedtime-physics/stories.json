@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-16 12:26 UTC",
+  "updated": "2026-08-16 18:25 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Tungsten may suffer more radiation damage in fusion reactors than expected",
-      "link": "https://phys.org/news/2026-08-tungsten-fusion-reactors.html",
-      "desc": "Fusion reactors, devices that generate energy by fusing light atomic nuclei at extremely high temperatures, could contribute to ongoing efforts aimed at producing electricity more sustainably. The extreme environment inside these devices, however, can damage materials that surround the superheated,…",
-      "date": "Aug 15, 2026",
-      "published_utc": "2026-08-15 12:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tungsten-is-unexpected-1.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,6 +11,26 @@
       "date": "Aug 16, 2026",
       "published_utc": "2026-08-16 12:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-centuries-old-physic.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "Phys.org Quantum",
+      "title": "Strain flips Hall signal in altermagnetic manganese telluride, suggesting a path to practical spintronics",
+      "link": "https://phys.org/news/2026-08-strain-flips-hall-altermagnetic-manganese.html",
+      "desc": "Time-reversal symmetry is an exotic behavior found in systems whose internal physics looks different when running forward versus backward in time. For some time, physicists have searched for this behavior in systems with almost no overall magnetization. Such phases are highly prized for…",
+      "date": "Aug 16, 2026",
+      "published_utc": "2026-08-16 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/strain-flips-a-magneti.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Active particles could make stable glasses stronger without catastrophic brittle failure",
+      "link": "https://phys.org/news/2026-08-particles-stable-glasses-stronger-catastrophic.html",
+      "desc": "The strongest glasses have an Achilles' heel that causes them to fail catastrophically when pushed past their limit. They do not bend or stretch, as all damage concentrates into a single plane and the material fails in an instant. This brittleness has long capped the usefulness of high-stability…",
+      "date": "Aug 16, 2026",
+      "published_utc": "2026-08-16 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tuning-brittle-failure.jpg"
     },
     {
       "topic": "Quantum",
