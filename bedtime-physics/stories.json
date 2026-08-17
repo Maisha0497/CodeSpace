@@ -1,16 +1,26 @@
 {
-  "updated": "2026-08-17 12:26 UTC",
+  "updated": "2026-08-17 18:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "Strain flips Hall signal in altermagnetic manganese telluride, suggesting a path to practical spintronics",
-      "link": "https://phys.org/news/2026-08-strain-flips-hall-altermagnetic-manganese.html",
-      "desc": "Time-reversal symmetry is an exotic behavior found in systems whose internal physics looks different when running forward versus backward in time. For some time, physicists have searched for this behavior in systems with almost no overall magnetization. Such phases are highly prized for…",
-      "date": "Aug 16, 2026",
-      "published_utc": "2026-08-16 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/strain-flips-a-magneti.jpg"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Anomalous quantum oscillations reveal new physics in a topological insulator",
+      "link": "https://phys.org/news/2026-08-anomalous-quantum-oscillations-reveal-physics.html",
+      "desc": "A study has been published in Nature Communications that identifies an unusual regime of quantum oscillations in a three-dimensional topological insulator. The results show that, when subjected to temperatures near absolute zero and extreme magnetic fields, electrons in the material zirconium…",
+      "date": "Aug 17, 2026",
+      "published_utc": "2026-08-17 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/anomalous-quantum-osci.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Graphene device measures fractional electric charges carried by some of quantum physics' strangest objects",
+      "link": "https://phys.org/news/2026-08-graphene-device-fractional-electric-quantum.html",
+      "desc": "An electron is supposed to be indivisible. It carries one fundamental unit of electric charge, and every electron is exactly the same. But under extreme conditions, large numbers of electrons act together and give rise to new quantum objects called quasiparticles. These act as if they carry only a…",
+      "date": "Aug 17, 2026",
+      "published_utc": "2026-08-17 17:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-gr-1.jpg"
     },
     {
       "topic": "Physics",
@@ -35,12 +45,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Active particles could make stable glasses stronger without catastrophic brittle failure",
-      "link": "https://phys.org/news/2026-08-particles-stable-glasses-stronger-catastrophic.html",
-      "desc": "The strongest glasses have an Achilles' heel that causes them to fail catastrophically when pushed past their limit. They do not bend or stretch, as all damage concentrates into a single plane and the material fails in an instant. This brittleness has long capped the usefulness of high-stability…",
-      "date": "Aug 16, 2026",
-      "published_utc": "2026-08-16 13:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tuning-brittle-failure.jpg"
+      "title": "Physicists predict a new form of quantum matter that holds itself together",
+      "link": "https://phys.org/news/2026-08-physicists-quantum.html",
+      "desc": "Researchers at Monash University have predicted a new type of quantum matter that challenges decades of thinking about how ultracold particles behave. The paper, \"Quantum droplets in a resonant Bose-Fermi mixture,\" is published in Physical Review Letters.",
+      "date": "Aug 17, 2026",
+      "published_utc": "2026-08-17 18:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/monash-physicists-unco.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New X-ray imaging technique could double scanning efficiency while revealing hidden detail",
+      "link": "https://phys.org/news/2026-08-ray-imaging-technique-scanning-efficiency.html",
+      "desc": "Researchers at Monash University have developed a new X-ray imaging technique that can image two overlapping samples at the same time, potentially doubling scanning efficiency while opening new possibilities for industrial inspection and scientific research.",
+      "date": "Aug 17, 2026",
+      "published_utc": "2026-08-17 17:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-x-ray-imaging-tech.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Theory of Fluids Enters the 21st Century",
+      "link": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
+      "desc": "From the 1800s to the early 2000s, physicists used the same theory to understand the behavior of fluids. Now, using a modern insight, they have redefined fluids from the bottom up. The post Theory of Fluids Enters the 21st Century first appeared on Quanta Magazine",
+      "date": "Aug 17, 2026",
+      "published_utc": "2026-08-17 15:11 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Slow-mo-paint-cr-DepositPhotos_Alamy-Default.webp"
     },
     {
       "topic": "Geoscience",
