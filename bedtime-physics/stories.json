@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-17 06:27 UTC",
+  "updated": "2026-08-17 12:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Centuries-old physics test could help detect millicharged particles",
-      "link": "https://phys.org/news/2026-08-centuries-physics-millicharged-particles.html",
-      "desc": "Theoretical physicists have long predicted the existence of millicharged particles (mCPs), hypothetical particles that carry a very small electric charge. These particles are expected to interact very weakly with ordinary matter and electromagnetic fields; hence, they would be difficult to detect…",
-      "date": "Aug 16, 2026",
-      "published_utc": "2026-08-16 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-centuries-old-physic.jpg"
-    },
     {
       "topic": "Quantum",
       "source": "Phys.org Quantum",
@@ -33,6 +23,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-small-squeeze-reveal.jpg"
     },
     {
+      "topic": "Cool Math",
+      "source": "ScienceDaily Math",
+      "title": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064801.htm",
+      "desc": "Scientists have discovered that tiny, sharply curved wrinkles in graphene can dramatically alter its electrical behavior, creating surprisingly strong charge separation. The finding suggests future electronics could be tuned by reshaping materials at the atomic scale instead of changing what…",
+      "date": "Aug 17, 2026",
+      "published_utc": "2026-08-17 02:28 UTC",
+      "image": ""
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Active particles could make stable glasses stronger without catastrophic brittle failure",
@@ -43,14 +43,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tuning-brittle-failure.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
-      "desc": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-shaped junction of the gluons connecting them. The finding challenges a…",
-      "date": "Aug 16, 2026",
-      "published_utc": "2026-08-16 09:55 UTC",
-      "image": ""
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Scientists Define a New Category of Heat Wave: “Snow Eaters”",
+      "link": "https://eos.org/articles/scientists-define-a-new-category-of-heat-wave-snow-eaters",
+      "desc": "Unseasonably warm weather that rapidly melts snowpack is becoming more widespread in the U.S. West and happening earlier in the year.",
+      "date": "Aug 17, 2026",
+      "published_utc": "2026-08-17 12:07 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/utah-snowy-mountains-1024x576.jpg"
     },
     {
       "topic": "Earth Observation",
