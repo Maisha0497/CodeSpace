@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 18:25 UTC",
+  "updated": "2026-08-17 00:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,6 +21,16 @@
       "date": "Aug 16, 2026",
       "published_utc": "2026-08-16 16:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/strain-flips-a-magneti.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A small squeeze reveals new clues about an unusual kind of magnet",
+      "link": "https://phys.org/news/2026-08-small-reveals-clues-unusual-kind.html",
+      "desc": "Researchers at Rice University have found that gently squeezing a crystal of iron sulfide can change two of its unusual properties at the same time: its tiny magnetic signal and the way electricity moves through it. The result gives scientists a clearer picture of how a newly recognized class of…",
+      "date": "Aug 16, 2026",
+      "published_utc": "2026-08-16 18:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-small-squeeze-reveal.jpg"
     },
     {
       "topic": "Physics",
