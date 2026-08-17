@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 00:27 UTC",
+  "updated": "2026-08-17 06:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -51,6 +51,16 @@
       "date": "Aug 16, 2026",
       "published_utc": "2026-08-16 09:55 UTC",
       "image": ""
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Chasing Fire Clouds in Utah",
+      "link": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
+      "desc": "NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky—towering, smoke-infused pyrocumulonimbus. The post Chasing Fire Clouds in Utah appeared first on NASA Science .",
+      "date": "Aug 17, 2026",
+      "published_utc": "2026-08-17 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/chasing-fire-clouds-in-utah/utahpyrocb_amo_20260802.jpg"
     }
   ]
 }
