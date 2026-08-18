@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 12:26 UTC",
+  "updated": "2026-08-18 18:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,22 +25,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Anomalous quantum oscillations reveal new physics in a topological insulator",
-      "link": "https://phys.org/news/2026-08-anomalous-quantum-oscillations-reveal-physics.html",
-      "desc": "A study has been published in Nature Communications that identifies an unusual regime of quantum oscillations in a three-dimensional topological insulator. The results show that, when subjected to temperatures near absolute zero and extreme magnetic fields, electrons in the material zirconium…",
-      "date": "Aug 17, 2026",
-      "published_utc": "2026-08-17 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/anomalous-quantum-osci.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Graphene device measures fractional electric charges carried by some of quantum physics' strangest objects",
-      "link": "https://phys.org/news/2026-08-graphene-device-fractional-electric-quantum.html",
-      "desc": "An electron is supposed to be indivisible. It carries one fundamental unit of electric charge, and every electron is exactly the same. But under extreme conditions, large numbers of electrons act together and give rise to new quantum objects called quasiparticles. These act as if they carry only a…",
-      "date": "Aug 17, 2026",
-      "published_utc": "2026-08-17 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-gr-1.jpg"
+      "title": "Unusual superconductivity could emerge in valley-imbalanced rhombohedral graphene",
+      "link": "https://phys.org/news/2026-08-unusual-superconductivity-emerge-valley-imbalanced.html",
+      "desc": "Superconductors are materials in which electrical current flows with a resistance of zero, typically below specific temperatures. In conventional superconductors, this state of matter emerges when two electrons bind together at low temperatures, forming so-called Cooper pairs.",
+      "date": "Aug 18, 2026",
+      "published_utc": "2026-08-18 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/valley-imbalanced-rhom.jpg"
     },
     {
       "topic": "Physics",
@@ -75,6 +65,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Long-range magnetic interactions govern how a ferrimagnet approaches its phase transition",
+      "link": "https://phys.org/news/2026-08-range-magnetic-interactions-ferrimagnet-approaches.html",
+      "desc": "Close to a phase transition, very different materials can follow the same mathematical rules. The concept of universality, which groups seemingly distinct systems based on their common properties, was developed to describe this phenomenon.",
+      "date": "Aug 18, 2026",
+      "published_utc": "2026-08-18 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-range-magnetic-fo.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Time-gating technique sees through deep tissue, dense fog, and other obstacles",
       "link": "https://phys.org/news/2026-08-gating-technique-deep-tissue-dense.html",
       "desc": "From helping doctors detect cancer to guiding self-driving cars through traffic, many modern imaging systems rely on near-infrared light, producing a crisp picture when visible light would scatter and yield a blurry picture. But near-infrared systems struggle when light passes through materials…",
@@ -83,14 +83,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-imaging-technique-2.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physicists predict a new form of quantum matter that holds itself together",
-      "link": "https://phys.org/news/2026-08-physicists-quantum.html",
-      "desc": "Researchers at Monash University have predicted a new type of quantum matter that challenges decades of thinking about how ultracold particles behave. The paper, \"Quantum droplets in a resonant Bose-Fermi mixture,\" is published in Physical Review Letters.",
-      "date": "Aug 17, 2026",
-      "published_utc": "2026-08-17 18:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/monash-physicists-unco.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
+      "desc": "Einstein’s abandoned cosmological constant made a spectacular comeback when astronomers discovered that the universe’s expansion is accelerating. It now sits at the heart of our best cosmological model—a model that works extraordinarily well, yet may still be wrong.",
+      "date": "Aug 18, 2026",
+      "published_utc": "2026-08-18 05:58 UTC",
+      "image": ""
     }
   ]
 }
