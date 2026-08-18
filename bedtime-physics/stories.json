@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-17 18:26 UTC",
+  "updated": "2026-08-18 00:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum light engine links atom-photon thermodynamics to classical physics",
+      "link": "https://phys.org/news/2026-08-quantum-links-atom-photon-thermodynamics.html",
+      "desc": "What is heat, and what is useful work if a machine consists only of an atom and light particles? In modern quantum technologies, this kind of question connects thermodynamics with quantum physics. Researchers at the University of Basel, Switzerland, have developed a theoretical approach that can…",
+      "date": "Aug 17, 2026",
+      "published_utc": "2026-08-17 21:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-engines-in-the-q.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,12 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A small squeeze reveals new clues about an unusual kind of magnet",
-      "link": "https://phys.org/news/2026-08-small-reveals-clues-unusual-kind.html",
-      "desc": "Researchers at Rice University have found that gently squeezing a crystal of iron sulfide can change two of its unusual properties at the same time: its tiny magnetic signal and the way electricity moves through it. The result gives scientists a clearer picture of how a newly recognized class of…",
-      "date": "Aug 16, 2026",
-      "published_utc": "2026-08-16 18:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-small-squeeze-reveal.jpg"
+      "title": "Three photons at once beat the standard photon test",
+      "link": "https://phys.org/news/2026-08-photons-standard-photon.html",
+      "desc": "Physicists at the University of Twente have improved the standard test for the quality of individual particles of light. By letting three photons interfere at the same time instead of two, they draw more information from every measurement. Their experiment outperforms even a perfect, noise-free run…",
+      "date": "Aug 17, 2026",
+      "published_utc": "2026-08-17 20:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/photon.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Gluons may play a central role in baryon number conservation—and matter's stability",
+      "link": "https://phys.org/news/2026-08-gluons-play-central-role-baryon.html",
+      "desc": "New results from the STAR detector at the Relativistic Heavy Ion Collider (RHIC) suggest that gluons, the glue-like particles that hold quarks together inside protons, play a central role in the conservation of baryon number—an essential part of a particle's quantum identity.",
+      "date": "Aug 17, 2026",
+      "published_utc": "2026-08-17 18:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gluons-may-play-centra.jpg"
     },
     {
       "topic": "Cool Math",
@@ -41,6 +61,16 @@
       "date": "Aug 17, 2026",
       "published_utc": "2026-08-17 02:28 UTC",
       "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Time-gating technique sees through deep tissue, dense fog, and other obstacles",
+      "link": "https://phys.org/news/2026-08-gating-technique-deep-tissue-dense.html",
+      "desc": "From helping doctors detect cancer to guiding self-driving cars through traffic, many modern imaging systems rely on near-infrared light, producing a crisp picture when visible light would scatter and yield a blurry picture. But near-infrared systems struggle when light passes through materials…",
+      "date": "Aug 17, 2026",
+      "published_utc": "2026-08-17 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-imaging-technique-2.jpg"
     },
     {
       "topic": "Physics",
@@ -61,36 +91,6 @@
       "date": "Aug 17, 2026",
       "published_utc": "2026-08-17 17:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-x-ray-imaging-tech.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Theory of Fluids Enters the 21st Century",
-      "link": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
-      "desc": "From the 1800s to the early 2000s, physicists used the same theory to understand the behavior of fluids. Now, using a modern insight, they have redefined fluids from the bottom up. The post Theory of Fluids Enters the 21st Century first appeared on Quanta Magazine",
-      "date": "Aug 17, 2026",
-      "published_utc": "2026-08-17 15:11 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Slow-mo-paint-cr-DepositPhotos_Alamy-Default.webp"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Scientists Define a New Category of Heat Wave: “Snow Eaters”",
-      "link": "https://eos.org/articles/scientists-define-a-new-category-of-heat-wave-snow-eaters",
-      "desc": "Unseasonably warm weather that rapidly melts snowpack is becoming more widespread in the U.S. West and happening earlier in the year.",
-      "date": "Aug 17, 2026",
-      "published_utc": "2026-08-17 12:07 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/utah-snowy-mountains-1024x576.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Chasing Fire Clouds in Utah",
-      "link": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
-      "desc": "NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky—towering, smoke-infused pyrocumulonimbus. The post Chasing Fire Clouds in Utah appeared first on NASA Science .",
-      "date": "Aug 17, 2026",
-      "published_utc": "2026-08-17 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/chasing-fire-clouds-in-utah/utahpyrocb_amo_20260802.jpg"
     }
   ]
 }
