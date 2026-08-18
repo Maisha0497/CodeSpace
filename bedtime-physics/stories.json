@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-18 06:27 UTC",
+  "updated": "2026-08-18 12:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A new approach to building noise-resistant quantum sensors",
+      "link": "https://phys.org/news/2026-08-approach-noise-resistant-quantum-sensors.html",
+      "desc": "Quantum sensors, devices that collect measurements by exploiting quantum-mechanical phenomena, could potentially detect extremely weak magnetic, gravitational and electromagnetic signals with greater sensitivity than classical sensors. Some quantum sensors leverage entanglement, a phenomenon that…",
+      "date": "Aug 18, 2026",
+      "published_utc": "2026-08-18 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-to-buil-1.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -81,16 +91,6 @@
       "date": "Aug 17, 2026",
       "published_utc": "2026-08-17 18:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/monash-physicists-unco.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
-      "desc": "Einstein’s abandoned cosmological constant made a spectacular comeback when astronomers discovered that the universe’s expansion is accelerating. It now sits at the heart of our best cosmological model—a model that works extraordinarily well, yet may still be wrong.",
-      "date": "Aug 18, 2026",
-      "published_utc": "2026-08-18 05:58 UTC",
-      "image": ""
     }
   ]
 }
