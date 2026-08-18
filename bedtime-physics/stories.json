@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 00:27 UTC",
+  "updated": "2026-08-18 06:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -53,13 +53,13 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gluons-may-play-centra.jpg"
     },
     {
-      "topic": "Cool Math",
-      "source": "ScienceDaily Math",
-      "title": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064801.htm",
-      "desc": "Scientists have discovered that tiny, sharply curved wrinkles in graphene can dramatically alter its electrical behavior, creating surprisingly strong charge separation. The finding suggests future electronics could be tuned by reshaping materials at the atomic scale instead of changing what…",
-      "date": "Aug 17, 2026",
-      "published_utc": "2026-08-17 02:28 UTC",
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists may have finally proved that “empty” space isn’t really empty",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+      "desc": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could offer the first direct evidence of vacuum birefringence and open a new window…",
+      "date": "Aug 18, 2026",
+      "published_utc": "2026-08-18 06:08 UTC",
       "image": ""
     },
     {
@@ -83,14 +83,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/monash-physicists-unco.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New X-ray imaging technique could double scanning efficiency while revealing hidden detail",
-      "link": "https://phys.org/news/2026-08-ray-imaging-technique-scanning-efficiency.html",
-      "desc": "Researchers at Monash University have developed a new X-ray imaging technique that can image two overlapping samples at the same time, potentially doubling scanning efficiency while opening new possibilities for industrial inspection and scientific research.",
-      "date": "Aug 17, 2026",
-      "published_utc": "2026-08-17 17:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-x-ray-imaging-tech.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
+      "desc": "Einstein’s abandoned cosmological constant made a spectacular comeback when astronomers discovered that the universe’s expansion is accelerating. It now sits at the heart of our best cosmological model—a model that works extraordinarily well, yet may still be wrong.",
+      "date": "Aug 18, 2026",
+      "published_utc": "2026-08-18 05:58 UTC",
+      "image": ""
     }
   ]
 }
