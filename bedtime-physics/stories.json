@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 18:26 UTC",
+  "updated": "2026-08-19 00:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,42 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum light engine links atom-photon thermodynamics to classical physics",
-      "link": "https://phys.org/news/2026-08-quantum-links-atom-photon-thermodynamics.html",
-      "desc": "What is heat, and what is useful work if a machine consists only of an atom and light particles? In modern quantum technologies, this kind of question connects thermodynamics with quantum physics. Researchers at the University of Basel, Switzerland, have developed a theoretical approach that can…",
-      "date": "Aug 17, 2026",
-      "published_utc": "2026-08-17 21:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-engines-in-the-q.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Unusual superconductivity could emerge in valley-imbalanced rhombohedral graphene",
       "link": "https://phys.org/news/2026-08-unusual-superconductivity-emerge-valley-imbalanced.html",
       "desc": "Superconductors are materials in which electrical current flows with a resistance of zero, typically below specific temperatures. In conventional superconductors, this state of matter emerges when two electrons bind together at low temperatures, forming so-called Cooper pairs.",
       "date": "Aug 18, 2026",
       "published_utc": "2026-08-18 13:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/valley-imbalanced-rhom.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Three photons at once beat the standard photon test",
-      "link": "https://phys.org/news/2026-08-photons-standard-photon.html",
-      "desc": "Physicists at the University of Twente have improved the standard test for the quality of individual particles of light. By letting three photons interfere at the same time instead of two, they draw more information from every measurement. Their experiment outperforms even a perfect, noise-free run…",
-      "date": "Aug 17, 2026",
-      "published_utc": "2026-08-17 20:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/photon.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Gluons may play a central role in baryon number conservation—and matter's stability",
-      "link": "https://phys.org/news/2026-08-gluons-play-central-role-baryon.html",
-      "desc": "New results from the STAR detector at the Relativistic Heavy Ion Collider (RHIC) suggest that gluons, the glue-like particles that hold quarks together inside protons, play a central role in the conservation of baryon number—an essential part of a particle's quantum identity.",
-      "date": "Aug 17, 2026",
-      "published_utc": "2026-08-17 18:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gluons-may-play-centra.jpg"
     },
     {
       "topic": "Quantum",
@@ -75,12 +45,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Time-gating technique sees through deep tissue, dense fog, and other obstacles",
-      "link": "https://phys.org/news/2026-08-gating-technique-deep-tissue-dense.html",
-      "desc": "From helping doctors detect cancer to guiding self-driving cars through traffic, many modern imaging systems rely on near-infrared light, producing a crisp picture when visible light would scatter and yield a blurry picture. But near-infrared systems struggle when light passes through materials…",
-      "date": "Aug 17, 2026",
-      "published_utc": "2026-08-17 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-imaging-technique-2.jpg"
+      "title": "Physicists entangle quantum memories across a record-breaking 420 km",
+      "link": "https://phys.org/news/2026-08-physicists-entangle-quantum-memories-km.html",
+      "desc": "Optical fibers are already the backbone of global communication systems. Recently, however, physicists have started to explore how their functionality could be boosted further by conveying information via entangled quantum particles—potentially enabling instantaneous exchanges of information across…",
+      "date": "Aug 18, 2026",
+      "published_utc": "2026-08-18 19:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-entangle-qu.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New photonic crystal method improves single-photon sources for quantum networks",
+      "link": "https://phys.org/news/2026-08-photonic-crystal-method-photon-sources.html",
+      "desc": "Quantum communication promises many advantages over today's standard technologies, including absolutely secure transmission of large amounts of data. However, it requires single photons—and generating them is very difficult. Researchers at the Technical University of Munich (TUM) and the Munich…",
+      "date": "Aug 18, 2026",
+      "published_utc": "2026-08-18 22:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tum-develops-single-ph.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Curved surfaces reshape active materials, localizing vibrations near defects",
+      "link": "https://phys.org/news/2026-08-surfaces-reshape-materials-localizing-vibrations.html",
+      "desc": "Many materials, both living and engineered, are powered from within. Scientists have thoroughly investigated how such 'active' materials operate, but so far, mostly in circumstances where the curvature of the environment does not play a role. In research published in Physical Review Letters this…",
+      "date": "Aug 18, 2026",
+      "published_utc": "2026-08-18 21:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/curved-surfaces-reshap.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "The global race to make a practical quantum computer just took a big leap forward",
+      "link": "https://phys.org/news/2026-08-global-quantum-big.html",
+      "desc": "In the global race to build bigger and better quantum computers, researchers have taken a step forward. A new machine called Helios is radically different from other quantum computers.",
+      "date": "Aug 18, 2026",
+      "published_utc": "2026-08-18 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/quantum-1.jpg"
     },
     {
       "topic": "Quantum",
