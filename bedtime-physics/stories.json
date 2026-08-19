@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-19 06:26 UTC",
+  "updated": "2026-08-19 12:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "A new approach to building noise-resistant quantum sensors",
-      "link": "https://phys.org/news/2026-08-approach-noise-resistant-quantum-sensors.html",
-      "desc": "Quantum sensors, devices that collect measurements by exploiting quantum-mechanical phenomena, could potentially detect extremely weak magnetic, gravitational and electromagnetic signals with greater sensitivity than classical sensors. Some quantum sensors leverage entanglement, a phenomenon that…",
-      "date": "Aug 18, 2026",
-      "published_utc": "2026-08-18 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-to-buil-1.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -91,6 +81,16 @@
       "date": "Aug 18, 2026",
       "published_utc": "2026-08-18 20:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sound-evaluation-of-st.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Wildfires, drought and extreme heat, 2026",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026",
+      "desc": "Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space. This page is updated on a regular basis with a selection of ESA’s most recent news-related images showing how the effects of climate change are impacting our world.",
+      "date": "Aug 18, 2026",
+      "published_utc": "2026-08-18 13:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/fires_near_vancouver_canada/27421423-1-eng-GB/Fires_near_Vancouver_Canada_card_full.jpg"
     }
   ]
 }
