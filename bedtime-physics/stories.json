@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19 00:27 UTC",
+  "updated": "2026-08-19 06:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -23,14 +23,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/valley-imbalanced-rhom.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists may have finally proved that “empty” space isn’t really empty",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
-      "desc": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could offer the first direct evidence of vacuum birefringence and open a new window…",
-      "date": "Aug 18, 2026",
-      "published_utc": "2026-08-18 06:08 UTC",
-      "image": ""
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Laser stability method advances precision control of electrons with light",
+      "link": "https://phys.org/news/2026-08-laser-stability-method-advances-precision.html",
+      "desc": "Researchers at the University of Oldenburg's Institute of Physics are working on techniques for precision control of electric fields of light, which allow the dynamics of individual electrons to be manipulated in experiments. Now a team from the Attosecond Microscopy research group, led by Dr. Jan…",
+      "date": "Aug 19, 2026",
+      "published_utc": "2026-08-19 02:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-stability-method.jpg"
     },
     {
       "topic": "Physics",
@@ -83,14 +83,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/quantum-1.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
-      "desc": "Einstein’s abandoned cosmological constant made a spectacular comeback when astronomers discovered that the universe’s expansion is accelerating. It now sits at the heart of our best cosmological model—a model that works extraordinarily well, yet may still be wrong.",
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Sound-based traps reveal how fragile biomolecular droplets move, merge and change stiffness",
+      "link": "https://phys.org/news/2026-08-based-reveal-fragile-biomolecular-droplets.html",
+      "desc": "Being able to measure something plays a vital role in our ability to understand many phenomena. But measuring can often affect what we are trying to measure. This is particularly the case when measuring substances that are very small, soft or fragile. In a recent study published in PRX Life, a…",
       "date": "Aug 18, 2026",
-      "published_utc": "2026-08-18 05:58 UTC",
-      "image": ""
+      "published_utc": "2026-08-18 20:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sound-evaluation-of-st.jpg"
     }
   ]
 }
