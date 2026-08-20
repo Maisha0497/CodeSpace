@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-20 12:27 UTC",
+  "updated": "2026-08-20 18:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Connecting the power of the stars to geometry",
-      "link": "https://phys.org/news/2026-08-power-stars-geometry.html",
-      "desc": "In the world of fusion energy, scientists and engineers study the fourth state of matter known as plasma in an effort to design and build a new type of power plant. Relying on the heat produced by two small atoms smashing together, a network of such facilities would help create a novel source of…",
-      "date": "Aug 19, 2026",
-      "published_utc": "2026-08-19 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/connecting-the-power-o-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Search in strange quark sector reveals new particle possibilities",
-      "link": "https://phys.org/news/2026-08-strange-quark-sector-reveals-particle.html",
-      "desc": "Despite science's best efforts to classify the vast menagerie of subatomic particles discovered over the past few decades, some exotic varieties defy explanation. Now, nuclear physicists at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility have found evidence of two…",
-      "date": "Aug 19, 2026",
-      "published_utc": "2026-08-19 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/search-in-strange-quar.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -65,32 +45,52 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Turning a quantum battery's environmental sensitivity into an advantage",
-      "link": "https://phys.org/news/2026-08-quantum-battery-environmental-sensitivity-advantage.html",
-      "desc": "Quantum batteries, devices that store energy by exploiting quantum mechanical phenomena, could, in principle, be charged faster and more efficiently than classical ones. Despite their potential, connecting these batteries to chargers is known to create quantum correlations that can trap some energy…",
-      "date": "Aug 19, 2026",
-      "published_utc": "2026-08-19 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/turning-a-quantum-batt.jpg"
+      "title": "Newton's momentum principles could help design safer offshore facilities in extreme waves",
+      "link": "https://phys.org/news/2026-08-newton-momentum-principles-safer-offshore.html",
+      "desc": "Researchers have developed a novel model to accurately and efficiently predict the impact of \"green water\"—water washing onto the deck of an offshore facility during extreme wave conditions.",
+      "date": "Aug 20, 2026",
+      "published_utc": "2026-08-20 17:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-modeling-enables-s-1.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Neutron capture experiment sheds light on ancient stardust",
-      "link": "https://phys.org/news/2026-08-neutron-capture-ancient-stardust.html",
-      "desc": "Niobium-94, an isotope of niobium with 41 protons and 53 neutrons, is a critical crossroads in the complex nuclear processes that forge heavy elements under the intense pressures and temperatures of dying stars. In an article published in Physical Review Letters, the n_TOF Collaboration reports the…",
-      "date": "Aug 19, 2026",
-      "published_utc": "2026-08-19 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neutron-capture-experi.jpg"
+      "title": "Illuminating the limits of the international unit of light, the candela",
+      "link": "https://phys.org/news/2026-08-illuminating-limits-international-candela.html",
+      "desc": "The candela, the international unit of light in use for almost a century, forms the basis of photometry. According to a new study, measurements derived from it systematically misjudge the brightness of colored light sources and depart markedly from human perception.",
+      "date": "Aug 20, 2026",
+      "published_utc": "2026-08-20 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-the-brightne.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum simulators gain quantitative error bars in 51-ion test",
-      "link": "https://phys.org/news/2026-08-quantum-simulators-gain-quantitative-error.html",
-      "desc": "In the coming years, increasingly larger and more powerful quantum systems are expected to tackle problems that are difficult or impossible to solve using conventional computers. However, the more powerful quantum simulations become, the more difficult it is to independently verify their results.…",
+      "title": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments",
+      "link": "https://phys.org/news/2026-08-big-bowling-pin-nuclei-universe.html",
+      "desc": "What happened in the first moments of the universe—before the building blocks of life and the world we know today came into existence? Physicists at the CERN research facility in Switzerland are trying to answer this question by recreating some of the extreme conditions that prevailed in the…",
+      "date": "Aug 20, 2026",
+      "published_utc": "2026-08-20 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-a-l.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A little bit more than magic: The secret to quantum computing may lie in negativity",
+      "link": "https://phys.org/news/2026-08-bit-magic-secret-quantum-negativity.html",
+      "desc": "Quantum computers hold great promise for applications from drug discovery to cybersecurity. Yet figuring out what would give quantum computers their edge over everyday \"classical\" computers is a subtle problem. A new theoretical study led by researchers at the Cavendish Laboratory shows that…",
       "date": "Aug 19, 2026",
-      "published_utc": "2026-08-19 13:45 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-simulators-get.jpg"
+      "published_utc": "2026-08-19 20:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-little-bit-more-than-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Soft vibrations reveal warning signs before granular crystals yield",
+      "link": "https://phys.org/news/2026-08-soft-vibrations-reveal-granular-crystals.html",
+      "desc": "Sand, powders, and other collections of visible-sized grains are found throughout daily life, from food and pharmaceuticals to soils and industrial materials. When grains of similar size are arranged regularly, they can form a strong crystal-like solid. Yet what happens inside such an ordered…",
+      "date": "Aug 19, 2026",
+      "published_utc": "2026-08-19 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/warning-signs-before-a.jpg"
     }
   ]
 }
