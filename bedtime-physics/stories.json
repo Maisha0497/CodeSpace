@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20 00:27 UTC",
+  "updated": "2026-08-20 06:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,22 +25,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Laser stability method advances precision control of electrons with light",
-      "link": "https://phys.org/news/2026-08-laser-stability-method-advances-precision.html",
-      "desc": "Researchers at the University of Oldenburg's Institute of Physics are working on techniques for precision control of electric fields of light, which allow the dynamics of individual electrons to be manipulated in experiments. Now a team from the Attosecond Microscopy research group, led by Dr. Jan…",
-      "date": "Aug 19, 2026",
-      "published_utc": "2026-08-19 02:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-stability-method.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "3D-printed ceramic waveguide lasers could surpass the power of glass fiber lasers by 10 times",
       "link": "https://phys.org/news/2026-08-3d-ceramic-waveguide-lasers-surpass.html",
       "desc": "At the bottom of the ocean, optical fibers transmit telecommunications and internet data around the world. Waveguides make that feat possible by channeling and amplifying the light—and therefore the data within—over enormous distances.",
       "date": "Aug 19, 2026",
       "published_utc": "2026-08-19 22:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-printed-ceramic-wav.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
+      "desc": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The discovery could help explain how exotic properties such as superconductivity and…",
+      "date": "Aug 20, 2026",
+      "published_utc": "2026-08-20 01:32 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
