@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20 06:27 UTC",
+  "updated": "2026-08-20 12:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -55,6 +55,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Dark energy and quantum gravity may be deeply intertwined",
+      "link": "https://phys.org/news/2026-08-dark-energy-quantum-gravity-deeply.html",
+      "desc": "For close to a century, physicists have pursued a way to unite gravity with quantum mechanics. Known as quantum gravity, this goal has remained frustratingly out of reach so far. Similarly elusive is the force of dark energy, which is believed to be driving the universe's accelerating expansion.",
+      "date": "Aug 20, 2026",
+      "published_utc": "2026-08-20 11:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-gravity.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Turning a quantum battery's environmental sensitivity into an advantage",
       "link": "https://phys.org/news/2026-08-quantum-battery-environmental-sensitivity-advantage.html",
       "desc": "Quantum batteries, devices that store energy by exploiting quantum mechanical phenomena, could, in principle, be charged faster and more efficiently than classical ones. Despite their potential, connecting these batteries to chargers is known to create quantum correlations that can trap some energy…",
@@ -81,16 +91,6 @@
       "date": "Aug 19, 2026",
       "published_utc": "2026-08-19 13:45 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-simulators-get.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
-      "link": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
-      "desc": "No one yet knows which technology will power the quantum computers of the future, but the race to create them has already produced some of science’s most intricate machinery. The post Building a Quantum Computer, One Fragile Qubit at a Time first appeared on Quanta Magazine",
-      "date": "Aug 19, 2026",
-      "published_utc": "2026-08-19 14:16 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2056/08/IBMs-quantum-computer-cr-Graham-Carlow-Default.webp"
     }
   ]
 }
