@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19 18:26 UTC",
+  "updated": "2026-08-20 00:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,12 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Physicists entangle quantum memories across a record-breaking 420 km",
-      "link": "https://phys.org/news/2026-08-physicists-entangle-quantum-memories-km.html",
-      "desc": "Optical fibers are already the backbone of global communication systems. Recently, however, physicists have started to explore how their functionality could be boosted further by conveying information via entangled quantum particles—potentially enabling instantaneous exchanges of information across…",
-      "date": "Aug 18, 2026",
-      "published_utc": "2026-08-18 19:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-entangle-qu.jpg"
+      "title": "3D-printed ceramic waveguide lasers could surpass the power of glass fiber lasers by 10 times",
+      "link": "https://phys.org/news/2026-08-3d-ceramic-waveguide-lasers-surpass.html",
+      "desc": "At the bottom of the ocean, optical fibers transmit telecommunications and internet data around the world. Waveguides make that feat possible by channeling and amplifying the light—and therefore the data within—over enormous distances.",
+      "date": "Aug 19, 2026",
+      "published_utc": "2026-08-19 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-printed-ceramic-wav.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Universal pattern revealed in quantum matter",
+      "link": "https://phys.org/news/2026-08-universal-pattern-revealed-quantum.html",
+      "desc": "When different materials transition from one phase to another, such as water coming to a boil or a magnet losing its ability to attract metals, something remarkable can happen: They begin to behave identically, following the same mathematical rules. \"Physicists call this trait universality—the…",
+      "date": "Aug 19, 2026",
+      "published_utc": "2026-08-19 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/universal-pattern-reve-1.jpg"
     },
     {
       "topic": "Physics",
@@ -51,16 +61,6 @@
       "date": "Aug 19, 2026",
       "published_utc": "2026-08-19 14:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/turning-a-quantum-batt.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New photonic crystal method improves single-photon sources for quantum networks",
-      "link": "https://phys.org/news/2026-08-photonic-crystal-method-photon-sources.html",
-      "desc": "Quantum communication promises many advantages over today's standard technologies, including absolutely secure transmission of large amounts of data. However, it requires single photons—and generating them is very difficult. Researchers at the Technical University of Munich (TUM) and the Munich…",
-      "date": "Aug 18, 2026",
-      "published_utc": "2026-08-18 22:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tum-develops-single-ph.jpg"
     },
     {
       "topic": "Physics",
