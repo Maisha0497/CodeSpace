@@ -1,16 +1,26 @@
 {
-  "updated": "2026-08-20 18:26 UTC",
+  "updated": "2026-08-21 00:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "3D-printed ceramic waveguide lasers could surpass the power of glass fiber lasers by 10 times",
-      "link": "https://phys.org/news/2026-08-3d-ceramic-waveguide-lasers-surpass.html",
-      "desc": "At the bottom of the ocean, optical fibers transmit telecommunications and internet data around the world. Waveguides make that feat possible by channeling and amplifying the light—and therefore the data within—over enormous distances.",
-      "date": "Aug 19, 2026",
-      "published_utc": "2026-08-19 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-printed-ceramic-wav.jpg"
+      "title": "Intense light bent out of shape—ultrafast lenses made from gas",
+      "link": "https://phys.org/news/2026-08-intense-bent-ultrafast-lenses-gas.html",
+      "desc": "Researchers from the MPIK in Heidelberg used an atomic gas as a time-dependent lens to shape and spectrally manipulate intense high-frequency laser pulses. This gas-based optical element could pave the way toward better XUV- and X-ray pulse control for applications such as chemical reaction…",
+      "date": "Aug 20, 2026",
+      "published_utc": "2026-08-20 21:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/intense-light-bent-out.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Magnetically levitated quantum bit could address design flaws",
+      "link": "https://phys.org/news/2026-08-magnetically-levitated-quantum-bit-flaws.html",
+      "desc": "Researchers at the FAMU-FSU College of Engineering and the National High Magnetic Field Laboratory, headquartered at Florida State University, have designed a new quantum computing architecture that uses magnetic levitation to smooth over design flaws in the intricate components necessary to run a…",
+      "date": "Aug 20, 2026",
+      "published_utc": "2026-08-20 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/famu-fsu-college-of-en.jpg"
     },
     {
       "topic": "Quantum",
@@ -25,22 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Universal pattern revealed in quantum matter",
-      "link": "https://phys.org/news/2026-08-universal-pattern-revealed-quantum.html",
-      "desc": "When different materials transition from one phase to another, such as water coming to a boil or a magnet losing its ability to attract metals, something remarkable can happen: They begin to behave identically, following the same mathematical rules. \"Physicists call this trait universality—the…",
-      "date": "Aug 19, 2026",
-      "published_utc": "2026-08-19 21:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/universal-pattern-reve-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Dark energy and quantum gravity may be deeply intertwined",
       "link": "https://phys.org/news/2026-08-dark-energy-quantum-gravity-deeply.html",
       "desc": "For close to a century, physicists have pursued a way to unite gravity with quantum mechanics. Known as quantum gravity, this goal has remained frustratingly out of reach so far. Similarly elusive is the force of dark energy, which is believed to be driving the universe's accelerating expansion.",
       "date": "Aug 20, 2026",
       "published_utc": "2026-08-20 11:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-gravity.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New measurements explain how silicon and diamond achieve extreme reversible stretching",
+      "link": "https://phys.org/news/2026-08-silicon-diamond-extreme-reversible.html",
+      "desc": "A research team led by Yang Lu from the Department of Mechanical Engineering at the Faculty of Engineering, The University of Hong Kong (HKU), has uncovered the microscopic physical nature of ultralarge elasticity in covalent semiconductors such as silicon and diamond. The discovery provides…",
+      "date": "Aug 20, 2026",
+      "published_utc": "2026-08-20 20:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hku-engineering-team-u-2.jpg"
     },
     {
       "topic": "Physics",
@@ -75,22 +85,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A little bit more than magic: The secret to quantum computing may lie in negativity",
-      "link": "https://phys.org/news/2026-08-bit-magic-secret-quantum-negativity.html",
-      "desc": "Quantum computers hold great promise for applications from drug discovery to cybersecurity. Yet figuring out what would give quantum computers their edge over everyday \"classical\" computers is a subtle problem. A new theoretical study led by researchers at the Cavendish Laboratory shows that…",
-      "date": "Aug 19, 2026",
-      "published_utc": "2026-08-19 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-little-bit-more-than-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Soft vibrations reveal warning signs before granular crystals yield",
-      "link": "https://phys.org/news/2026-08-soft-vibrations-reveal-granular-crystals.html",
-      "desc": "Sand, powders, and other collections of visible-sized grains are found throughout daily life, from food and pharmaceuticals to soils and industrial materials. When grains of similar size are arranged regularly, they can form a strong crystal-like solid. Yet what happens inside such an ordered…",
-      "date": "Aug 19, 2026",
-      "published_utc": "2026-08-19 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/warning-signs-before-a.jpg"
+      "title": "AI boosts sensitivity to double-Higgs signatures occurring about once per trillion collisions",
+      "link": "https://phys.org/news/2026-08-ai-boosts-sensitivity-higgs-signatures.html",
+      "desc": "Is the universe as stable as we think it is? That's one of the big questions that particle physicists worldwide are preparing to answer with the Large Hadron Collider, or LHC—the world's most powerful particle accelerator—when its upgrade is completed in about four years. In the meantime,…",
+      "date": "Aug 20, 2026",
+      "published_utc": "2026-08-20 21:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-to-help-set-record.jpg"
     }
   ]
 }
