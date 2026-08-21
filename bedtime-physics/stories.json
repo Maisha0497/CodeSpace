@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 00:27 UTC",
+  "updated": "2026-08-21 06:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,16 +21,6 @@
       "date": "Aug 20, 2026",
       "published_utc": "2026-08-20 21:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/famu-fsu-college-of-en.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
-      "desc": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The discovery could help explain how exotic properties such as superconductivity and…",
-      "date": "Aug 20, 2026",
-      "published_utc": "2026-08-20 01:32 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
@@ -91,6 +81,16 @@
       "date": "Aug 20, 2026",
       "published_utc": "2026-08-20 21:10 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-to-help-set-record.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Are We Thinking Correctly About AI Intelligence?",
+      "link": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+      "desc": "Computer scientist Melanie Mitchell discusses why artificial intelligence doesn’t “think” or “reason” like humans, and how we can create better methods for measuring machine cognition. The post Are We Thinking Correctly About AI Intelligence? first appeared on Quanta Magazine",
+      "date": "Aug 20, 2026",
+      "published_utc": "2026-08-20 14:04 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Default.webp"
     }
   ]
 }
