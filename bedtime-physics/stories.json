@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-21 12:27 UTC",
+  "updated": "2026-08-21 18:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "'Rainbow-on-a-chip' could help unlock 6G networks and precision timing for quantum technologies",
+      "link": "https://phys.org/news/2026-08-rainbow-chip-6g-networks-precision.html",
+      "desc": "Loughborough University physicists and an international team have demonstrated that a grain-of-rice-sized microchip can be used to produce a spectrum of precisely spaced frequencies of light, which is then converted into multiple high-frequency electromagnetic signals known as millimeter waves.",
+      "date": "Aug 21, 2026",
+      "published_utc": "2026-08-21 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rainbow-on-a-chip-brea.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,6 +35,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "LHC collisions reveal oxygen and neon's shifting nuclear geometry",
+      "link": "https://phys.org/news/2026-08-lhc-collisions-reveal-oxygen-neon.html",
+      "desc": "Many people are aware that the Large Hadron Collider (LHC) at CERN smashes tiny subatomic particles together at nearly the speed of light to test foundational laws of physics and discover new fundamental particles, but some experiments also help scientists better visualize the actual structure of…",
+      "date": "Aug 21, 2026",
+      "published_utc": "2026-08-21 17:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/largehadronc.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "New measurements explain how silicon and diamond achieve extreme reversible stretching",
       "link": "https://phys.org/news/2026-08-silicon-diamond-extreme-reversible.html",
       "desc": "A research team led by Yang Lu from the Department of Mechanical Engineering at the Faculty of Engineering, The University of Hong Kong (HKU), has uncovered the microscopic physical nature of ultralarge elasticity in covalent semiconductors such as silicon and diamond. The discovery provides…",
@@ -33,34 +53,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hku-engineering-team-u-2.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Newton's momentum principles could help design safer offshore facilities in extreme waves",
-      "link": "https://phys.org/news/2026-08-newton-momentum-principles-safer-offshore.html",
-      "desc": "Researchers have developed a novel model to accurately and efficiently predict the impact of \"green water\"—water washing onto the deck of an offshore facility during extreme wave conditions.",
-      "date": "Aug 20, 2026",
-      "published_utc": "2026-08-20 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-modeling-enables-s-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Illuminating the limits of the international unit of light, the candela",
-      "link": "https://phys.org/news/2026-08-illuminating-limits-international-candela.html",
-      "desc": "The candela, the international unit of light in use for almost a century, forms the basis of photometry. According to a new study, measurements derived from it systematically misjudge the brightness of colored light sources and depart markedly from human perception.",
-      "date": "Aug 20, 2026",
-      "published_utc": "2026-08-20 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-the-brightne.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments",
-      "link": "https://phys.org/news/2026-08-big-bowling-pin-nuclei-universe.html",
-      "desc": "What happened in the first moments of the universe—before the building blocks of life and the world we know today came into existence? Physicists at the CERN research facility in Switzerland are trying to answer this question by recreating some of the extreme conditions that prevailed in the…",
-      "date": "Aug 20, 2026",
-      "published_utc": "2026-08-20 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-a-l.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "A strange new quantum droplet can hold itself together",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820202846.htm",
+      "desc": "Two very different types of quantum particles may be able to form stable droplets that hold themselves together, challenging decades of conventional thinking. The prediction could soon be tested experimentally and may reveal an unexpectedly rich world of new quantum phases.",
+      "date": "Aug 21, 2026",
+      "published_utc": "2026-08-21 04:54 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
@@ -75,12 +75,12 @@
     {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
-      "title": "Are We Thinking Correctly About AI Intelligence?",
-      "link": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
-      "desc": "Computer scientist Melanie Mitchell discusses why artificial intelligence doesn’t “think” or “reason” like humans, and how we can create better methods for measuring machine cognition. The post Are We Thinking Correctly About AI Intelligence? first appeared on Quanta Magazine",
-      "date": "Aug 20, 2026",
-      "published_utc": "2026-08-20 14:04 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Default.webp"
+      "title": "‘Huge Breakthrough’ in the Math of Imbalance",
+      "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+      "desc": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
+      "date": "Aug 21, 2026",
+      "published_utc": "2026-08-21 14:53 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Vector-tugofwar-cr-Ada-Zejun-Shen-Default.webp"
     },
     {
       "topic": "Physics",
