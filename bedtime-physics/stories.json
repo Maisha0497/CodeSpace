@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 18:26 UTC",
+  "updated": "2026-08-22 00:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,22 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Intense light bent out of shape—ultrafast lenses made from gas",
-      "link": "https://phys.org/news/2026-08-intense-bent-ultrafast-lenses-gas.html",
-      "desc": "Researchers from the MPIK in Heidelberg used an atomic gas as a time-dependent lens to shape and spectrally manipulate intense high-frequency laser pulses. This gas-based optical element could pave the way toward better XUV- and X-ray pulse control for applications such as chemical reaction…",
-      "date": "Aug 20, 2026",
-      "published_utc": "2026-08-20 21:50 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/intense-light-bent-out.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Magnetically levitated quantum bit could address design flaws",
-      "link": "https://phys.org/news/2026-08-magnetically-levitated-quantum-bit-flaws.html",
-      "desc": "Researchers at the FAMU-FSU College of Engineering and the National High Magnetic Field Laboratory, headquartered at Florida State University, have designed a new quantum computing architecture that uses magnetic levitation to smooth over design flaws in the intricate components necessary to run a…",
-      "date": "Aug 20, 2026",
-      "published_utc": "2026-08-20 21:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/famu-fsu-college-of-en.jpg"
+      "title": "Realistic solid-state model brings fractons in quantum spin liquids closer to detection",
+      "link": "https://phys.org/news/2026-08-realistic-solid-state-fractons-quantum.html",
+      "desc": "Quasiparticles arise from the complex interaction of many particles in solids; for example, we describe lattice vibrations in crystals as phonons. Fractons are exotic quasiparticles that occur at the vertices of magnetic domain walls between different spin orders. What makes them special is that…",
+      "date": "Aug 21, 2026",
+      "published_utc": "2026-08-21 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-important-step-towa.jpg"
     },
     {
       "topic": "Physics",
@@ -45,12 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New measurements explain how silicon and diamond achieve extreme reversible stretching",
-      "link": "https://phys.org/news/2026-08-silicon-diamond-extreme-reversible.html",
-      "desc": "A research team led by Yang Lu from the Department of Mechanical Engineering at the Faculty of Engineering, The University of Hong Kong (HKU), has uncovered the microscopic physical nature of ultralarge elasticity in covalent semiconductors such as silicon and diamond. The discovery provides…",
-      "date": "Aug 20, 2026",
-      "published_utc": "2026-08-20 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hku-engineering-team-u-2.jpg"
+      "title": "Laser-cut aluminum foil could replace costly terahertz polarizers",
+      "link": "https://phys.org/news/2026-08-laser-aluminum-foil-terahertz-polarizers.html",
+      "desc": "When physicists at the ARC Centre for Transformative Meta-Optical Systems (TMOS) needed a key component for their terahertz experiments, they ran into a frustrating problem—they needed tiny optical devices, known as wire-grid polarizers, but these cost thousands of dollars each.",
+      "date": "Aug 21, 2026",
+      "published_utc": "2026-08-21 20:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kitchen-foil-unlocks-t.jpg"
     },
     {
       "topic": "Quantum",
@@ -61,16 +51,6 @@
       "date": "Aug 21, 2026",
       "published_utc": "2026-08-21 04:54 UTC",
       "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "AI boosts sensitivity to double-Higgs signatures occurring about once per trillion collisions",
-      "link": "https://phys.org/news/2026-08-ai-boosts-sensitivity-higgs-signatures.html",
-      "desc": "Is the universe as stable as we think it is? That's one of the big questions that particle physicists worldwide are preparing to answer with the Large Hadron Collider, or LHC—the world's most powerful particle accelerator—when its upgrade is completed in about four years. In the meantime,…",
-      "date": "Aug 20, 2026",
-      "published_utc": "2026-08-20 21:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-to-help-set-record.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -91,6 +71,16 @@
       "date": "Aug 21, 2026",
       "published_utc": "2026-08-21 01:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kict-gives-a-century-o.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Europe’s Scorching Summer",
+      "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
+      "desc": "A series of heat waves in 2026 is breaking records and taking a toll in Europe. The post Europe&#8217;s Scorching Summer appeared first on NASA Science .",
+      "date": "Aug 21, 2026",
+      "published_utc": "2026-08-21 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/europe's-scorching-summer/europeheatwaves_gmao_20260819_th.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint"
     }
   ]
 }
