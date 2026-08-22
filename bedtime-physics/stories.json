@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22 00:27 UTC",
+  "updated": "2026-08-22 06:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -43,16 +43,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kitchen-foil-unlocks-t.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "A strange new quantum droplet can hold itself together",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202846.htm",
-      "desc": "Two very different types of quantum particles may be able to form stable droplets that hold themselves together, challenging decades of conventional thinking. The prediction could soon be tested experimentally and may reveal an unexpectedly rich world of new quantum phases.",
-      "date": "Aug 21, 2026",
-      "published_utc": "2026-08-21 04:54 UTC",
-      "image": ""
-    },
-    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
       "title": "‘Huge Breakthrough’ in the Math of Imbalance",
@@ -61,26 +51,6 @@
       "date": "Aug 21, 2026",
       "published_utc": "2026-08-21 14:53 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Vector-tugofwar-cr-Ada-Zejun-Shen-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Century-old physics idea explains why cubic fluid equations work",
-      "link": "https://phys.org/news/2026-08-century-physics-idea-cubic-fluid.html",
-      "desc": "The Korea Institute of Civil Engineering and Building Technology (KICT) has developed a new cubic equation of state (EOS) that provides a physical justification for a mathematical structure that the chemical and petroleum industries have relied on for more than half a century without a…",
-      "date": "Aug 21, 2026",
-      "published_utc": "2026-08-21 01:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kict-gives-a-century-o.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Europe’s Scorching Summer",
-      "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
-      "desc": "A series of heat waves in 2026 is breaking records and taking a toll in Europe. The post Europe&#8217;s Scorching Summer appeared first on NASA Science .",
-      "date": "Aug 21, 2026",
-      "published_utc": "2026-08-21 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/europe's-scorching-summer/europeheatwaves_gmao_20260819_th.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint"
     }
   ]
 }
