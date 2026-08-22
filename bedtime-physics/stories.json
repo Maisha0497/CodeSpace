@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-22 12:26 UTC",
+  "updated": "2026-08-22 18:25 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "'Rainbow-on-a-chip' could help unlock 6G networks and precision timing for quantum technologies",
-      "link": "https://phys.org/news/2026-08-rainbow-chip-6g-networks-precision.html",
-      "desc": "Loughborough University physicists and an international team have demonstrated that a grain-of-rice-sized microchip can be used to produce a spectrum of precisely spaced frequencies of light, which is then converted into multiple high-frequency electromagnetic signals known as millimeter waves.",
-      "date": "Aug 21, 2026",
-      "published_utc": "2026-08-21 14:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rainbow-on-a-chip-brea.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,32 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "LHC collisions reveal oxygen and neon's shifting nuclear geometry",
-      "link": "https://phys.org/news/2026-08-lhc-collisions-reveal-oxygen-neon.html",
-      "desc": "Many people are aware that the Large Hadron Collider (LHC) at CERN smashes tiny subatomic particles together at nearly the speed of light to test foundational laws of physics and discover new fundamental particles, but some experiments also help scientists better visualize the actual structure of…",
-      "date": "Aug 21, 2026",
-      "published_utc": "2026-08-21 17:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/largehadronc.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Laser-cut aluminum foil could replace costly terahertz polarizers",
       "link": "https://phys.org/news/2026-08-laser-aluminum-foil-terahertz-polarizers.html",
       "desc": "When physicists at the ARC Centre for Transformative Meta-Optical Systems (TMOS) needed a key component for their terahertz experiments, they ran into a frustrating problem—they needed tiny optical devices, known as wire-grid polarizers, but these cost thousands of dollars each.",
       "date": "Aug 21, 2026",
       "published_utc": "2026-08-21 20:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kitchen-foil-unlocks-t.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "‘Huge Breakthrough’ in the Math of Imbalance",
-      "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
-      "desc": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
-      "date": "Aug 21, 2026",
-      "published_utc": "2026-08-21 14:53 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Vector-tugofwar-cr-Ada-Zejun-Shen-Default.webp"
     }
   ]
 }
