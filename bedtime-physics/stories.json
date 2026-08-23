@@ -1,26 +1,5 @@
 {
-  "updated": "2026-08-22 18:25 UTC",
+  "updated": "2026-08-23 00:27 UTC",
   "fresh_window_hours": 24,
-  "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Realistic solid-state model brings fractons in quantum spin liquids closer to detection",
-      "link": "https://phys.org/news/2026-08-realistic-solid-state-fractons-quantum.html",
-      "desc": "Quasiparticles arise from the complex interaction of many particles in solids; for example, we describe lattice vibrations in crystals as phonons. Fractons are exotic quasiparticles that occur at the vertices of magnetic domain walls between different spin orders. What makes them special is that…",
-      "date": "Aug 21, 2026",
-      "published_utc": "2026-08-21 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-important-step-towa.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Laser-cut aluminum foil could replace costly terahertz polarizers",
-      "link": "https://phys.org/news/2026-08-laser-aluminum-foil-terahertz-polarizers.html",
-      "desc": "When physicists at the ARC Centre for Transformative Meta-Optical Systems (TMOS) needed a key component for their terahertz experiments, they ran into a frustrating problem—they needed tiny optical devices, known as wire-grid polarizers, but these cost thousands of dollars each.",
-      "date": "Aug 21, 2026",
-      "published_utc": "2026-08-21 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kitchen-foil-unlocks-t.jpg"
-    }
-  ]
+  "stories": []
 }
