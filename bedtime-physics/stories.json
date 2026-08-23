@@ -1,5 +1,36 @@
 {
-  "updated": "2026-08-23 12:26 UTC",
+  "updated": "2026-08-23 18:25 UTC",
   "fresh_window_hours": 24,
-  "stories": []
+  "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "The superconducting gap of an ultrathin nickelate defies expectations",
+      "link": "https://phys.org/news/2026-08-superconducting-gap-ultrathin-nickelate-defies.html",
+      "desc": "Superconductors are materials that carry electrical current with zero resistance below a specific critical temperature. In conventional superconductors, the transition to superconductivity generally occurs at very low temperatures.",
+      "date": "Aug 23, 2026",
+      "published_utc": "2026-08-23 14:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-superconducting-ga.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
+      "desc": "Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light. The collisions produced quark-gluon plasma, the ultra-hot matter believed to have filled the cosmos shortly after the Big Bang. Even more…",
+      "date": "Aug 23, 2026",
+      "published_utc": "2026-08-23 13:08 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum computer microscope is set to significantly improve electron microscopy",
+      "link": "https://phys.org/news/2026-08-quantum-microscope-significantly-electron-microscopy.html",
+      "desc": "Electron microscopes are used wherever particularly small details need to be imaged. But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If all you do is count electrons, any additional quantum information they carry…",
+      "date": "Aug 23, 2026",
+      "published_utc": "2026-08-23 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-quantum-computer-m.jpg"
+    }
+  ]
 }
