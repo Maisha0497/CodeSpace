@@ -1,36 +1,66 @@
 {
-  "updated": "2026-08-24 12:27 UTC",
+  "updated": "2026-08-24 18:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "The superconducting gap of an ultrathin nickelate defies expectations",
-      "link": "https://phys.org/news/2026-08-superconducting-gap-ultrathin-nickelate-defies.html",
-      "desc": "Superconductors are materials that carry electrical current with zero resistance below a specific critical temperature. In conventional superconductors, the transition to superconductivity generally occurs at very low temperatures.",
-      "date": "Aug 23, 2026",
-      "published_utc": "2026-08-23 14:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-superconducting-ga.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
-      "desc": "Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light. The collisions produced quark-gluon plasma, the ultra-hot matter believed to have filled the cosmos shortly after the Big Bang. Even more…",
-      "date": "Aug 23, 2026",
-      "published_utc": "2026-08-23 13:08 UTC",
-      "image": ""
+      "title": "New free-space optical link adds a wireless component to the nation's longest quantum network",
+      "link": "https://phys.org/news/2026-08-free-space-optical-link-wireless.html",
+      "desc": "There's a new lighthouse on Long Island. But instead of shining light to guide ships through waterways, this one transmits and receives particles of light that carry quantum information. Perched atop a seven-story building at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory, the…",
+      "date": "Aug 24, 2026",
+      "published_utc": "2026-08-24 13:43 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-free-space-optical.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum computer microscope is set to significantly improve electron microscopy",
-      "link": "https://phys.org/news/2026-08-quantum-microscope-significantly-electron-microscopy.html",
-      "desc": "Electron microscopes are used wherever particularly small details need to be imaged. But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If all you do is count electrons, any additional quantum information they carry…",
-      "date": "Aug 23, 2026",
-      "published_utc": "2026-08-23 13:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-quantum-computer-m.jpg"
+      "title": "Corners in focus: Metasurface enables motion tracking without digital image processing",
+      "link": "https://phys.org/news/2026-08-corners-focus-metasurface-enables-motion.html",
+      "desc": "A research team at City University of Hong Kong (CityUHK) has developed a new optical corner-detection imaging method that uses azimuthal Hilbert transform metasurfaces and is designed to work as a universal framework. The study marks an important advance in high-speed, low-power optical…",
+      "date": "Aug 24, 2026",
+      "published_utc": "2026-08-24 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/corners-in-focus-metas.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "One step closer to the ideal glass—simulations reveal hidden order at absolute zero",
+      "link": "https://phys.org/news/2026-08-closer-ideal-glass-simulations-reveal.html",
+      "desc": "In the physical sense, glass is not limited to familiar window glass; it forms whenever a liquid is cooled so quickly that it cannot crystallize. As a result, glass has an amorphous structure—that is, its \"building blocks\" are not arranged regularly as in crystals. At the same time, however, glass…",
+      "date": "Aug 24, 2026",
+      "published_utc": "2026-08-24 17:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-step-closer-to-the.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "A New Framework for How the Brain Compresses Our Noisy World",
+      "link": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/",
+      "desc": "An updated view of categorization reflects the modern understanding that the nervous system is more of a prediction engine than a filing cabinet. The post A New Framework for How the Brain Compresses Our Noisy World first appeared on Quanta Magazine",
+      "date": "Aug 24, 2026",
+      "published_utc": "2026-08-24 14:00 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Predictive-Categorization-cr-Zara-Picken-Default.webp"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "MAIA Air Sensor at Work in Addis Ababa",
+      "link": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
+      "desc": "Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s air quality. MAIA’s air sensors provide a detailed look at particulate matter that is 2.5 micrometers or less in diameter, also…",
+      "date": "Aug 24, 2026",
+      "published_utc": "2026-08-24 17:27 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26698/PIA26698.jpg?w=4128&amp;h=1908&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
+      "link": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/",
+      "desc": "Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured…",
+      "date": "Aug 24, 2026",
+      "published_utc": "2026-08-24 17:21 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26694/PIA26694.png?w=2317&amp;h=1896&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "topic": "Remote Sensing",
@@ -41,16 +71,6 @@
       "date": "Aug 24, 2026",
       "published_utc": "2026-08-24 08:14 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/mtg-i2_fairing_jettison/27422286-1-eng-GB/MTG-I2_fairing_jettison_card_full.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "What Lake Bonneville Left Behind",
-      "link": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
-      "desc": "The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation. The post What Lake Bonneville Left Behind appeared first on NASA Science .",
-      "date": "Aug 24, 2026",
-      "published_utc": "2026-08-24 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604.jpg?w=2322&amp;h=1940&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
