@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24 00:27 UTC",
+  "updated": "2026-08-24 06:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,6 +31,16 @@
       "date": "Aug 23, 2026",
       "published_utc": "2026-08-23 13:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-quantum-computer-m.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "What Lake Bonneville Left Behind",
+      "link": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
+      "desc": "The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation. The post What Lake Bonneville Left Behind appeared first on NASA Science .",
+      "date": "Aug 24, 2026",
+      "published_utc": "2026-08-24 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604.jpg?w=2322&amp;h=1940&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
