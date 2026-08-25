@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 12:27 UTC",
+  "updated": "2026-08-25 18:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,22 +15,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New free-space optical link adds a wireless component to the nation's longest quantum network",
-      "link": "https://phys.org/news/2026-08-free-space-optical-link-wireless.html",
-      "desc": "There's a new lighthouse on Long Island. But instead of shining light to guide ships through waterways, this one transmits and receives particles of light that carry quantum information. Perched atop a seven-story building at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory, the…",
-      "date": "Aug 24, 2026",
-      "published_utc": "2026-08-24 13:43 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-free-space-optical.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Deuterium enables chip waveguides to generate broadband light from infrared pulses",
       "link": "https://phys.org/news/2026-08-deuterium-enables-chip-waveguides-generate.html",
       "desc": "A research team from Singapore, led by Associate Professor Dawn Tan of the Singapore University of Technology and Design (SUTD) and Dr. Luo Xianshu, head of the Silicon Photonics Department at the A*STAR Institute of Microelectronics (A*STAR IME), has developed a low-loss silicon nitride waveguide…",
       "date": "Aug 24, 2026",
       "published_utc": "2026-08-24 21:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sutd-and-astar-ime-res.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Chemical physicists quantitatively model electron interactions in real quantum materials",
+      "link": "https://phys.org/news/2026-08-chemical-physicists-quantitatively-electron-interactions.html",
+      "desc": "A team of scientists from Caltech and Yale University has shown for the first time how to accurately quantify an important quantum phenomenon in metals, called the Kondo effect, for specific real materials. Unlike previous approaches, which for decades have relied on simplified models to…",
+      "date": "Aug 25, 2026",
+      "published_utc": "2026-08-25 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemical-physicists-qu.jpg"
     },
     {
       "topic": "Physics",
@@ -55,22 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Exact calculations sharpen view of atomic nuclei",
+      "link": "https://phys.org/news/2026-08-exact-sharpen-view-atomic-nuclei.html",
+      "desc": "Every high-energy nuclear collision leaves behind a trail of clues about the structure of atomic nuclei. Deciphering those clues, however, depends on the accuracy of the underlying theory. Physicists at Osaka Metropolitan University have now performed a full calculation within Glauber theory, a…",
+      "date": "Aug 25, 2026",
+      "published_utc": "2026-08-25 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exact-calculations-sha.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Vacuum-fluctuation-enhanced superconductivity demonstrated for the first time",
       "link": "https://phys.org/news/2026-08-vacuum-fluctuation-superconductivity.html",
       "desc": "In a study published in Nature on Aug. 19, a research team has enhanced superconductivity through vacuum fluctuations for the first time. The achievement marks a significant advance in controlling quantum states of matter.",
       "date": "Aug 24, 2026",
       "published_utc": "2026-08-24 20:50 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/2-superconduct.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Corners in focus: Metasurface enables motion tracking without digital image processing",
-      "link": "https://phys.org/news/2026-08-corners-focus-metasurface-enables-motion.html",
-      "desc": "A research team at City University of Hong Kong (CityUHK) has developed a new optical corner-detection imaging method that uses azimuthal Hilbert transform metasurfaces and is designed to work as a universal framework. The study marks an important advance in high-speed, low-power optical…",
-      "date": "Aug 24, 2026",
-      "published_utc": "2026-08-24 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/corners-in-focus-metas.jpg"
     },
     {
       "topic": "Physics",
@@ -83,14 +83,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-shows-how-fus.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "One step closer to the ideal glass—simulations reveal hidden order at absolute zero",
-      "link": "https://phys.org/news/2026-08-closer-ideal-glass-simulations-reveal.html",
-      "desc": "In the physical sense, glass is not limited to familiar window glass; it forms whenever a liquid is cooled so quickly that it cannot crystallize. As a result, glass has an amorphous structure—that is, its \"building blocks\" are not arranged regularly as in crystals. At the same time, however, glass…",
-      "date": "Aug 24, 2026",
-      "published_utc": "2026-08-24 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-step-closer-to-the.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Newton’s 300-year-old law just passed its biggest test yet",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823015019.htm",
+      "desc": "A massive test of gravity across the cosmos found that it behaves almost exactly as Newton and Einstein predicted, even across galaxy clusters hundreds of millions of light-years apart. The result weakens some modified-gravity explanations and strengthens the case that dark matter is behind the…",
+      "date": "Aug 25, 2026",
+      "published_utc": "2026-08-25 01:49 UTC",
+      "image": ""
     }
   ]
 }
