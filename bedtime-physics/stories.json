@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 06:27 UTC",
+  "updated": "2026-08-25 12:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,6 +31,16 @@
       "date": "Aug 24, 2026",
       "published_utc": "2026-08-24 21:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sutd-and-astar-ime-res.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Bright ideas accelerate the hunt for quantum emitters",
+      "link": "https://phys.org/news/2026-08-bright-ideas-quantum-emitters.html",
+      "desc": "The search for materials that can power future quantum technologies is accelerating, but identifying the most promising candidates remains painfully slow. Evaluating whether a material can efficiently emit quantum light requires computationally intensive simulations, making it difficult to screen…",
+      "date": "Aug 25, 2026",
+      "published_utc": "2026-08-25 09:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bright-ideas-accelerat.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Aug 24, 2026",
       "published_utc": "2026-08-24 17:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-step-closer-to-the.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "A New Framework for How the Brain Compresses Our Noisy World",
-      "link": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/",
-      "desc": "An updated view of categorization reflects the modern understanding that the nervous system is more of a prediction engine than a filing cabinet. The post A New Framework for How the Brain Compresses Our Noisy World first appeared on Quanta Magazine",
-      "date": "Aug 24, 2026",
-      "published_utc": "2026-08-24 14:00 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Predictive-Categorization-cr-Zara-Picken-Default.webp"
     }
   ]
 }
