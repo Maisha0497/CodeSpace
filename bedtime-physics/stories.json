@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-26 06:27 UTC",
+  "updated": "2026-08-26 12:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Hyperdoped silicon photodiode advances short-wave infrared detection at room temperature",
+      "link": "https://phys.org/news/2026-08-hyperdoped-silicon-photodiode-advances-short.html",
+      "desc": "Detecting short-wave infrared (SWIR) light, a region of the electromagnetic spectrum just beyond the light visible to the human eye, could be advantageous for many real-world applications. For instance, it could enable more advanced systems for capturing images at night, as well as sophisticated…",
+      "date": "Aug 26, 2026",
+      "published_utc": "2026-08-26 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hyperdoped-silicon-pho.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,12 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Bright ideas accelerate the hunt for quantum emitters",
-      "link": "https://phys.org/news/2026-08-bright-ideas-quantum-emitters.html",
-      "desc": "The search for materials that can power future quantum technologies is accelerating, but identifying the most promising candidates remains painfully slow. Evaluating whether a material can efficiently emit quantum light requires computationally intensive simulations, making it difficult to screen…",
-      "date": "Aug 25, 2026",
-      "published_utc": "2026-08-25 09:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bright-ideas-accelerat.jpg"
+      "title": "New quantum computing method broadens spectroscopy of hard-to-model matter",
+      "link": "https://phys.org/news/2026-08-quantum-method-broadens-spectroscopy-hard.html",
+      "desc": "Scientists could have a new way to explore the hidden behavior of matter, thanks to research involving Queen Mary University of London that uses a quantum computer to carry out a new form of computational spectroscopy.",
+      "date": "Aug 26, 2026",
+      "published_utc": "2026-08-26 11:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-quantum-computing.jpg"
     },
     {
       "topic": "Physics",
@@ -73,14 +83,14 @@
       "image": "https://eos.org/wp-content/uploads/2026/08/ambulance-boston-1024x576.jpg"
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "A Changing World for Emperor Penguins",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
-      "desc": "Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past. The post A Changing World for Emperor Penguins appeared first on NASA Science .",
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Long-Term Datasets are Essential to Understanding Coastal Change",
+      "link": "https://eos.org/editor-highlights/long-term-datasets-are-essential-to-understanding-coastal-change",
+      "desc": "A multi-decadal field dataset combined with reduced-complexity modeling approach highlights the importance of shoreline change in controlling alongshore variability of dune evolution.",
       "date": "Aug 26, 2026",
-      "published_utc": "2026-08-26 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/antarcticapenguins_tm4_19891224.jpg"
+      "published_utc": "2026-08-26 12:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/jgrf70158-fig-0001-m-1024x576.png"
     }
   ]
 }
