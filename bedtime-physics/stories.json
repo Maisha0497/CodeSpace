@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26 12:27 UTC",
+  "updated": "2026-08-26 18:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,22 +15,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "One molecule, one photon: Entanglement makes an imperceptible recoil measurable",
+      "link": "https://phys.org/news/2026-08-molecule-photon-entanglement-imperceptible-recoil.html",
+      "desc": "For decades, light has been used to understand the molecular structures of matter. A sample is irradiated with light, and measurements determine the wavelengths at which it is absorbed. Since each molecule absorbs light at very specific wavelengths that depend on its structure, the resulting…",
+      "date": "Aug 26, 2026",
+      "published_utc": "2026-08-26 15:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-molecule-one-photo.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Observing the vibrations of neighboring atoms with an atomic-scale double slit",
+      "link": "https://phys.org/news/2026-08-vibrations-neighboring-atoms-atomic-scale.html",
+      "desc": "Efficiently controlling heat generation has become a major challenge as the semiconductors used in smartphones, computers and similar devices have become higher-performing and more miniaturized. The way heat is transmitted is determined by the vibration of the atoms that constitute a material, but…",
+      "date": "Aug 26, 2026",
+      "published_utc": "2026-08-26 18:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/observing-the-vibratio.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "High magnetic fields revive superconductivity in nickelates",
+      "link": "https://phys.org/news/2026-08-high-magnetic-fields-revive-superconductivity.html",
+      "desc": "Scientists from the National University of Singapore (NUS), in collaboration with Los Alamos National Laboratory in the United States, have uncovered that a class of nickel-based materials known as samarium (Sm)-based infinite-layer nickelates can regain their superconducting ability under strong…",
+      "date": "Aug 26, 2026",
+      "published_utc": "2026-08-26 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-magnetic-fields-r.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Simulations reveal asymmetric diffusion of magnetic skyrmions through an off-center gate",
       "link": "https://phys.org/news/2026-08-simulations-reveal-asymmetric-diffusion-magnetic.html",
       "desc": "Diffusion is a fundamental natural phenomenon that can be observed across a wide range of length and time scales. It plays a key role in many fields, including physics, biology and economics. In particular, asymmetric or directional diffusion of particle systems has attracted growing interest for…",
       "date": "Aug 25, 2026",
       "published_utc": "2026-08-25 19:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/simulations-reveal-asy.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Chemical physicists quantitatively model electron interactions in real quantum materials",
-      "link": "https://phys.org/news/2026-08-chemical-physicists-quantitatively-electron-interactions.html",
-      "desc": "A team of scientists from Caltech and Yale University has shown for the first time how to accurately quantify an important quantum phenomenon in metals, called the Kondo effect, for specific real materials. Unlike previous approaches, which for decades have relied on simplified models to…",
-      "date": "Aug 25, 2026",
-      "published_utc": "2026-08-25 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemical-physicists-qu.jpg"
     },
     {
       "topic": "Physics",
@@ -55,16 +75,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Exact calculations sharpen view of atomic nuclei",
-      "link": "https://phys.org/news/2026-08-exact-sharpen-view-atomic-nuclei.html",
-      "desc": "Every high-energy nuclear collision leaves behind a trail of clues about the structure of atomic nuclei. Deciphering those clues, however, depends on the accuracy of the underlying theory. Physicists at Osaka Metropolitan University have now performed a full calculation within Glauber theory, a…",
-      "date": "Aug 25, 2026",
-      "published_utc": "2026-08-25 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exact-calculations-sha.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Sound waves do double duty, carrying and protecting quantum information",
       "link": "https://phys.org/news/2026-08-duty-quantum.html",
       "desc": "Researchers at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have demonstrated a promising new way to protect fragile quantum information using nothing but mechanical vibrations—essentially extremely small sound waves. The breakthrough, which comes from the lab of…",
@@ -73,24 +83,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/qubits-dressed-for-suc.jpg"
     },
     {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Extreme Heat and Extreme Cold Drive an Increase in Fatal Overdoses",
-      "link": "https://eos.org/articles/extreme-heat-and-extreme-cold-drive-an-increase-in-fatal-overdoses",
-      "desc": "As our planet’s temperatures become more volatile, communities may see an uptick in overdose deaths.",
-      "date": "Aug 25, 2026",
-      "published_utc": "2026-08-25 13:18 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/ambulance-boston-1024x576.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Long-Term Datasets are Essential to Understanding Coastal Change",
-      "link": "https://eos.org/editor-highlights/long-term-datasets-are-essential-to-understanding-coastal-change",
-      "desc": "A multi-decadal field dataset combined with reduced-complexity modeling approach highlights the importance of shoreline change in controlling alongshore variability of dune evolution.",
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "In Hilbert Space, All Things Are Quantumly Possible",
+      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "desc": "To explore quantum phenomena, we must leave the familiar world and enter the abstract realm of Hilbert space. The post In Hilbert Space, All Things Are Quantumly Possible first appeared on Quanta Magazine",
       "date": "Aug 26, 2026",
-      "published_utc": "2026-08-26 12:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/jgrf70158-fig-0001-m-1024x576.png"
+      "published_utc": "2026-08-26 14:30 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/HilbertSpace-cr-Tommy-Parket-Default.webp"
     }
   ]
 }
