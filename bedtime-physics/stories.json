@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27 15:56 UTC",
+  "updated": "2026-08-27 21:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Aug 27, 2026",
       "published_utc": "2026-08-27 08:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-gases-exhibit-cr.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Observing the vibrations of neighboring atoms with an atomic-scale double slit",
-      "link": "https://phys.org/news/2026-08-vibrations-neighboring-atoms-atomic-scale.html",
-      "desc": "Efficiently controlling heat generation has become a major challenge as the semiconductors used in smartphones, computers and similar devices have become higher-performing and more miniaturized. The way heat is transmitted is determined by the vibration of the atoms that constitute a material, but…",
-      "date": "Aug 26, 2026",
-      "published_utc": "2026-08-26 18:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/observing-the-vibratio.jpg"
     },
     {
       "topic": "Physics",
@@ -65,6 +55,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Oxygen collisions reveal how quark–gluon matter approaches equilibrium",
+      "link": "https://phys.org/news/2026-08-oxygen-collisions-reveal-quarkgluon-approaches.html",
+      "desc": "High-energy nuclear collisions recreate extreme conditions similar to those in the early universe, producing quark–gluon plasma (QGP), a hot state of matter in which quarks and gluons are no longer confined inside protons and neutrons. While large systems such as lead–lead collisions can produce…",
+      "date": "Aug 27, 2026",
+      "published_utc": "2026-08-27 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oxygen-collisions-reve.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Deep underground, SuperCDMS begins hunting light dark matter with 24 cryogenic crystals",
       "link": "https://phys.org/news/2026-08-deep-underground-supercdms-dark-cryogenic.html",
       "desc": "In the hunt for one of nature's most elusive substances—dark matter, which makes up 85% of all matter in the universe—scientists are going to extremes. Deep underground and chilled to near absolute zero, the Super Cryogenic Dark Matter Search (SuperCDMS) SNOLAB—one of the world's most sensitive…",
@@ -85,12 +85,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Ramped fields create more robust entanglement between trapped-ion qubits",
-      "link": "https://phys.org/news/2026-08-ramped-fields-robust-entanglement-ion.html",
-      "desc": "While quantum computing could be the future, it is currently plagued by finicky hardware. To make the technology practical, researchers must demonstrate that it consistently and continuously works and performs at scale. In a new study, published in Physical Review Letters, researchers at Lawrence…",
-      "date": "Aug 26, 2026",
-      "published_utc": "2026-08-26 22:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-more-robust-way-to-c.jpg"
+      "title": "Fast but error-prone AI assists in solving a decades-old fluid mechanics problem in five weeks",
+      "link": "https://phys.org/news/2026-08-fast-error-prone-ai-decades.html",
+      "desc": "An AI assistant helped University of Colorado Boulder researchers solve a mathematical problem that had challenged their lab for a year and a half, though it made subtle errors along the way. The breakthrough could improve how scientists study nanoparticles—tiny particles about 1,000 times thinner…",
+      "date": "Aug 27, 2026",
+      "published_utc": "2026-08-27 20:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fast-but-error-prone-a-1.jpg"
     }
   ]
 }
