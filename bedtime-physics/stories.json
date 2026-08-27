@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27 02:00 UTC",
+  "updated": "2026-08-27 09:23 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,6 +21,16 @@
       "date": "Aug 26, 2026",
       "published_utc": "2026-08-26 15:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-molecule-one-photo.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Light particles reveal critical scaling in a two-dimensional photon gas",
+      "link": "https://phys.org/news/2026-08-particles-reveal-critical-scaling-dimensional.html",
+      "desc": "A team of researchers from the University of Bonn, Heidelberg University and the National Autonomous University of Mexico has studied the critical behavior of light particles (photons) close to a phase transition. This critical scaling behavior, which sees thermodynamic quantities grow extremely…",
+      "date": "Aug 27, 2026",
+      "published_utc": "2026-08-27 08:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-gases-exhibit-cr.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Aug 26, 2026",
       "published_utc": "2026-08-26 16:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrasonic-beam-extend.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Long-Term Datasets are Essential to Understanding Coastal Change",
-      "link": "https://eos.org/editor-highlights/long-term-datasets-are-essential-to-understanding-coastal-change",
-      "desc": "A multi-decadal field dataset combined with reduced-complexity modeling approach highlights the importance of shoreline change in controlling alongshore variability of dune evolution.",
-      "date": "Aug 26, 2026",
-      "published_utc": "2026-08-26 12:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/jgrf70158-fig-0001-m-1024x576.png"
     }
   ]
 }
