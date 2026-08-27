@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-27 09:23 UTC",
+  "updated": "2026-08-27 15:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Hyperdoped silicon photodiode advances short-wave infrared detection at room temperature",
-      "link": "https://phys.org/news/2026-08-hyperdoped-silicon-photodiode-advances-short.html",
-      "desc": "Detecting short-wave infrared (SWIR) light, a region of the electromagnetic spectrum just beyond the light visible to the human eye, could be advantageous for many real-world applications. For instance, it could enable more advanced systems for capturing images at night, as well as sophisticated…",
-      "date": "Aug 26, 2026",
-      "published_utc": "2026-08-26 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hyperdoped-silicon-pho.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "One molecule, one photon: Entanglement makes an imperceptible recoil measurable",
-      "link": "https://phys.org/news/2026-08-molecule-photon-entanglement-imperceptible-recoil.html",
-      "desc": "For decades, light has been used to understand the molecular structures of matter. A sample is irradiated with light, and measurements determine the wavelengths at which it is absorbed. Since each molecule absorbs light at very specific wavelengths that depend on its structure, the resulting…",
-      "date": "Aug 26, 2026",
-      "published_utc": "2026-08-26 15:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-molecule-one-photo.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -45,32 +25,62 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "High magnetic fields revive superconductivity in nickelates",
-      "link": "https://phys.org/news/2026-08-high-magnetic-fields-revive-superconductivity.html",
-      "desc": "Scientists from the National University of Singapore (NUS), in collaboration with Los Alamos National Laboratory in the United States, have uncovered that a class of nickel-based materials known as samarium (Sm)-based infinite-layer nickelates can regain their superconducting ability under strong…",
-      "date": "Aug 26, 2026",
-      "published_utc": "2026-08-26 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-magnetic-fields-r.jpg"
+      "title": "Going beyond simple models of neural networks: Extended mean-field theory offers a better approach",
+      "link": "https://phys.org/news/2026-08-simple-neural-networks-field-theory.html",
+      "desc": "Physics is most readily applied to relatively simple systems: a pendulum, two electrons colliding or the structure of the solar system. But when systems become complicated—when many particles interact with one another, in condensed matter systems such as gases and fluids or in the cosmology of the…",
+      "date": "Aug 27, 2026",
+      "published_utc": "2026-08-27 11:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/going-beyond-simple-mo.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists may have finally caught “empty” space changing light",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055445.htm",
+      "desc": "A magnetar with an astonishingly powerful magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago. Its light shows signs that supposedly empty space is altering how the light travels, potentially providing the first evidence of vacuum birefringence.",
+      "date": "Aug 27, 2026",
+      "published_utc": "2026-08-27 03:52 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New quantum computing method broadens spectroscopy of hard-to-model matter",
-      "link": "https://phys.org/news/2026-08-quantum-method-broadens-spectroscopy-hard.html",
-      "desc": "Scientists could have a new way to explore the hidden behavior of matter, thanks to research involving Queen Mary University of London that uses a quantum computer to carry out a new form of computational spectroscopy.",
-      "date": "Aug 26, 2026",
-      "published_utc": "2026-08-26 11:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-quantum-computing.jpg"
+      "title": "First observation of optical Magnus effect could sharpen quantum computer control",
+      "link": "https://phys.org/news/2026-08-optical-magnus-effect-sharpen-quantum.html",
+      "desc": "Table tennis professionals are true masters at redirecting fast-moving projectiles. Putting a targeted spin on a serve can make the little white ball fly straight toward the edge of the table but then, at the last moment, take a sharp curve into the left corner. The physical phenomenon behind this…",
+      "date": "Aug 27, 2026",
+      "published_utc": "2026-08-27 15:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-surprising-twist-in.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "In Hilbert Space, All Things Are Quantumly Possible",
-      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "desc": "To explore quantum phenomena, we must leave the familiar world and enter the abstract realm of Hilbert space. The post In Hilbert Space, All Things Are Quantumly Possible first appeared on Quanta Magazine",
-      "date": "Aug 26, 2026",
-      "published_utc": "2026-08-26 14:30 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/HilbertSpace-cr-Tommy-Parket-Default.webp"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
+      "desc": "Today’s mysterious gravitational-wave background may preserve clues about how the Universe’s first supermassive black holes formed. Descendants of hypothetical Dark Stars could be responsible for a major portion of the signal, offering a surprising new way to investigate cosmic dawn and dark matter.",
+      "date": "Aug 27, 2026",
+      "published_utc": "2026-08-27 10:26 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Deep underground, SuperCDMS begins hunting light dark matter with 24 cryogenic crystals",
+      "link": "https://phys.org/news/2026-08-deep-underground-supercdms-dark-cryogenic.html",
+      "desc": "In the hunt for one of nature's most elusive substances—dark matter, which makes up 85% of all matter in the universe—scientists are going to extremes. Deep underground and chilled to near absolute zero, the Super Cryogenic Dark Matter Search (SuperCDMS) SNOLAB—one of the world's most sensitive…",
+      "date": "Aug 27, 2026",
+      "published_utc": "2026-08-27 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-hunt-for-da-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Geomimicry offers a new framework for engineering sustainable materials",
+      "link": "https://phys.org/news/2026-08-geomimicry-framework-sustainable-materials.html",
+      "desc": "When engineers look to nature for inspiration, they often turn to living systems. The flight of birds has influenced aircraft design, gecko feet inspired new adhesives and lotus leaves led to the development of self-cleaning surfaces.",
+      "date": "Aug 27, 2026",
+      "published_utc": "2026-08-27 12:27 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/geomimicry-offers-a-ne.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Aug 26, 2026",
       "published_utc": "2026-08-26 22:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-more-robust-way-to-c.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Narrow ultrasonic beam enables stable 3D levitation six times farther than before",
-      "link": "https://phys.org/news/2026-08-narrow-ultrasonic-enables-stable-3d.html",
-      "desc": "Scientists have developed a new acoustic levitation technique using an ultrasonic beam capable of levitating and moving small objects in midair over distances of up to 40 cm (16 inches), six times farther than previously achieved using conventional methods. The study, carried out by a research team…",
-      "date": "Aug 26, 2026",
-      "published_utc": "2026-08-26 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrasonic-beam-extend.jpg"
     }
   ]
 }
