@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26 18:56 UTC",
+  "updated": "2026-08-27 02:00 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -45,42 +45,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Simulations reveal asymmetric diffusion of magnetic skyrmions through an off-center gate",
-      "link": "https://phys.org/news/2026-08-simulations-reveal-asymmetric-diffusion-magnetic.html",
-      "desc": "Diffusion is a fundamental natural phenomenon that can be observed across a wide range of length and time scales. It plays a key role in many fields, including physics, biology and economics. In particular, asymmetric or directional diffusion of particle systems has attracted growing interest for…",
-      "date": "Aug 25, 2026",
-      "published_utc": "2026-08-25 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/simulations-reveal-asy.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "New quantum computing method broadens spectroscopy of hard-to-model matter",
       "link": "https://phys.org/news/2026-08-quantum-method-broadens-spectroscopy-hard.html",
       "desc": "Scientists could have a new way to explore the hidden behavior of matter, thanks to research involving Queen Mary University of London that uses a quantum computer to carry out a new form of computational spectroscopy.",
       "date": "Aug 26, 2026",
       "published_utc": "2026-08-26 11:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-quantum-computing.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Using plutonium to probe the universe: Magneto‑ν experiment advances dark matter and neutrino research",
-      "link": "https://phys.org/news/2026-08-plutonium-probe-universe-magneto-advances.html",
-      "desc": "Astronomers can't see dark matter directly, but they know it's there: Its gravity shapes galaxies and the large-scale structure of the cosmos. In an effort to uncover the composition of this hidden mass, a team at Lawrence Livermore National Laboratory (LLNL) is pursuing evidence of particles that…",
-      "date": "Aug 25, 2026",
-      "published_utc": "2026-08-25 19:13 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-plutonium-to-pro.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Sound waves do double duty, carrying and protecting quantum information",
-      "link": "https://phys.org/news/2026-08-duty-quantum.html",
-      "desc": "Researchers at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have demonstrated a promising new way to protect fragile quantum information using nothing but mechanical vibrations—essentially extremely small sound waves. The breakthrough, which comes from the lab of…",
-      "date": "Aug 25, 2026",
-      "published_utc": "2026-08-25 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/qubits-dressed-for-suc.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -91,6 +61,36 @@
       "date": "Aug 26, 2026",
       "published_utc": "2026-08-26 14:30 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/HilbertSpace-cr-Tommy-Parket-Default.webp"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Ramped fields create more robust entanglement between trapped-ion qubits",
+      "link": "https://phys.org/news/2026-08-ramped-fields-robust-entanglement-ion.html",
+      "desc": "While quantum computing could be the future, it is currently plagued by finicky hardware. To make the technology practical, researchers must demonstrate that it consistently and continuously works and performs at scale. In a new study, published in Physical Review Letters, researchers at Lawrence…",
+      "date": "Aug 26, 2026",
+      "published_utc": "2026-08-26 22:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-more-robust-way-to-c.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Narrow ultrasonic beam enables stable 3D levitation six times farther than before",
+      "link": "https://phys.org/news/2026-08-narrow-ultrasonic-enables-stable-3d.html",
+      "desc": "Scientists have developed a new acoustic levitation technique using an ultrasonic beam capable of levitating and moving small objects in midair over distances of up to 40 cm (16 inches), six times farther than previously achieved using conventional methods. The study, carried out by a research team…",
+      "date": "Aug 26, 2026",
+      "published_utc": "2026-08-26 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrasonic-beam-extend.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Long-Term Datasets are Essential to Understanding Coastal Change",
+      "link": "https://eos.org/editor-highlights/long-term-datasets-are-essential-to-understanding-coastal-change",
+      "desc": "A multi-decadal field dataset combined with reduced-complexity modeling approach highlights the importance of shoreline change in controlling alongshore variability of dune evolution.",
+      "date": "Aug 26, 2026",
+      "published_utc": "2026-08-26 12:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/jgrf70158-fig-0001-m-1024x576.png"
     }
   ]
 }
