@@ -1,66 +1,26 @@
 {
-  "updated": "2026-08-28 09:25 UTC",
+  "updated": "2026-08-28 16:24 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Going beyond simple models of neural networks: Extended mean-field theory offers a better approach",
-      "link": "https://phys.org/news/2026-08-simple-neural-networks-field-theory.html",
-      "desc": "Physics is most readily applied to relatively simple systems: a pendulum, two electrons colliding or the structure of the solar system. But when systems become complicated—when many particles interact with one another, in condensed matter systems such as gases and fluids or in the cosmology of the…",
-      "date": "Aug 27, 2026",
-      "published_utc": "2026-08-27 11:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/going-beyond-simple-mo.jpg"
+      "title": "Light reveals internal motion in electron crystals and can trigger their melting",
+      "link": "https://phys.org/news/2026-08-reveals-internal-motion-electron-crystals.html",
+      "desc": "Electrons, particles that carry a negative electric charge, typically move through materials. At low densities and temperatures, however, the electrical repulsion between them can overpower their tendency to move, prompting them to arrange themselves into ordered patterns known as Wigner crystals.",
+      "date": "Aug 28, 2026",
+      "published_utc": "2026-08-28 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-light-to-probe-t.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "First observation of optical Magnus effect could sharpen quantum computer control",
-      "link": "https://phys.org/news/2026-08-optical-magnus-effect-sharpen-quantum.html",
-      "desc": "Table tennis professionals are true masters at redirecting fast-moving projectiles. Putting a targeted spin on a serve can make the little white ball fly straight toward the edge of the table but then, at the last moment, take a sharp curve into the left corner. The physical phenomenon behind this…",
-      "date": "Aug 27, 2026",
-      "published_utc": "2026-08-27 15:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-surprising-twist-in.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
-      "desc": "Today’s mysterious gravitational-wave background may preserve clues about how the Universe’s first supermassive black holes formed. Descendants of hypothetical Dark Stars could be responsible for a major portion of the signal, offering a surprising new way to investigate cosmic dawn and dark matter.",
-      "date": "Aug 27, 2026",
-      "published_utc": "2026-08-27 10:26 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Oxygen collisions reveal how quark–gluon matter approaches equilibrium",
-      "link": "https://phys.org/news/2026-08-oxygen-collisions-reveal-quarkgluon-approaches.html",
-      "desc": "High-energy nuclear collisions recreate extreme conditions similar to those in the early universe, producing quark–gluon plasma (QGP), a hot state of matter in which quarks and gluons are no longer confined inside protons and neutrons. While large systems such as lead–lead collisions can produce…",
-      "date": "Aug 27, 2026",
-      "published_utc": "2026-08-27 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oxygen-collisions-reve.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Deep underground, SuperCDMS begins hunting light dark matter with 24 cryogenic crystals",
-      "link": "https://phys.org/news/2026-08-deep-underground-supercdms-dark-cryogenic.html",
-      "desc": "In the hunt for one of nature's most elusive substances—dark matter, which makes up 85% of all matter in the universe—scientists are going to extremes. Deep underground and chilled to near absolute zero, the Super Cryogenic Dark Matter Search (SuperCDMS) SNOLAB—one of the world's most sensitive…",
-      "date": "Aug 27, 2026",
-      "published_utc": "2026-08-27 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-hunt-for-da-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Geomimicry offers a new framework for engineering sustainable materials",
-      "link": "https://phys.org/news/2026-08-geomimicry-framework-sustainable-materials.html",
-      "desc": "When engineers look to nature for inspiration, they often turn to living systems. The flight of birds has influenced aircraft design, gecko feet inspired new adhesives and lotus leaves led to the development of self-cleaning surfaces.",
-      "date": "Aug 27, 2026",
-      "published_utc": "2026-08-27 12:27 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/geomimicry-offers-a-ne.jpg"
+      "title": "Diamond clock combines two signals to cut temperature-driven drift",
+      "link": "https://phys.org/news/2026-08-diamond-clock-combines-temperature-driven.html",
+      "desc": "Despite all the advertisements for engagement rings and necklace gifts, natural diamonds are imperfect. Their carbon atoms are arranged in a cubic lattice, but they nonetheless contain several types of crystallographic defects due to impurities that occasionally replace a carbon atom. The most…",
+      "date": "Aug 28, 2026",
+      "published_utc": "2026-08-28 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/removing-the-temperatu.jpg"
     },
     {
       "topic": "Physics",
@@ -73,24 +33,34 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fast-but-error-prone-a-1.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "The physics of kiiking, Estonia's extreme sport of swinging",
-      "link": "https://phys.org/news/2026-08-physics-kiiking-estonia-extreme-sport.html",
-      "desc": "When an athlete swings upside down atop a 7-meter (23-foot) pendulum, it may seem like a feat of strength, courage or technique. A new study suggests it is something more fundamental: a striking demonstration of how intelligence emerges from the interaction of brain, body and environment.",
-      "date": "Aug 27, 2026",
-      "published_utc": "2026-08-27 16:09 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-physics-of-kiiking.jpg"
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Does Computer Science Need Computers?",
+      "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+      "desc": "The theoretical side of the field doesn’t require computing machines. But many questions would never have been posed without them. The post Does Computer Science Need Computers? first appeared on Quanta Magazine",
+      "date": "Aug 28, 2026",
+      "published_utc": "2026-08-28 13:30 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia_TheoreticalCS-crKristinaArmitage-Default.webp"
     },
     {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "How Rising Air Plumes Help Spike Moist Heat",
-      "link": "https://eos.org/research-spotlights/how-rising-air-plumes-help-spike-moist-heat",
-      "desc": "When dry air mixes with warm, moist air carried aloft by currents from the surface, it can contribute to rising wet-bulb temperatures near Earth’s surface.",
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Ariane 6 launch with MTG-I2 – highlights",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Ariane_6_launch_with_MTG-I2_highlights",
+      "desc": "Video: 00:04:28 The Meteosat Third Generation -Imager2 (MTG-I2) satellite, has been launched on board an Ariane 6 launcher from Europe’s Spaceport in French Guiana. Liftoff was on 27 August 2026 at 22:11 CEST (17:10 local time). MTG-I2 is part of the MTG constellation for Eumetsat – two are already…",
+      "date": "Aug 28, 2026",
+      "published_utc": "2026-08-28 12:20 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/ariane_6_launch_with_mtg-i2_highlights/27439862-1-eng-GB/Ariane_6_launch_with_MTG-I2_highlights_card_full.png"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "MTG-I2 completes Europe’s latest weather trio",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio",
+      "desc": "The second Meteosat Third Generation Imager satellite (MTG-I2) has been launched on board Ariane 6 , flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting over Europe and northern Africa with…",
       "date": "Aug 27, 2026",
-      "published_utc": "2026-08-27 13:25 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/midday-sun-1024x576.jpg"
+      "published_utc": "2026-08-27 20:48 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/mtg-i2_begins_its_journey/27430195-5-eng-GB/MTG-I2_begins_its_journey_card_full.jpg"
     }
   ]
 }
