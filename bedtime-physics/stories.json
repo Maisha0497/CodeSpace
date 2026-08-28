@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-28 03:23 UTC",
+  "updated": "2026-08-28 09:25 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Light particles reveal critical scaling in a two-dimensional photon gas",
-      "link": "https://phys.org/news/2026-08-particles-reveal-critical-scaling-dimensional.html",
-      "desc": "A team of researchers from the University of Bonn, Heidelberg University and the National Autonomous University of Mexico has studied the critical behavior of light particles (photons) close to a phase transition. This critical scaling behavior, which sees thermodynamic quantities grow extremely…",
-      "date": "Aug 27, 2026",
-      "published_utc": "2026-08-27 08:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-gases-exhibit-cr.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,16 +11,6 @@
       "date": "Aug 27, 2026",
       "published_utc": "2026-08-27 11:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/going-beyond-simple-mo.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists may have finally caught “empty” space changing light",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260826055445.htm",
-      "desc": "A magnetar with an astonishingly powerful magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago. Its light shows signs that supposedly empty space is altering how the light travels, potentially providing the first evidence of vacuum birefringence.",
-      "date": "Aug 27, 2026",
-      "published_utc": "2026-08-27 03:52 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
@@ -91,6 +71,26 @@
       "date": "Aug 27, 2026",
       "published_utc": "2026-08-27 20:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fast-but-error-prone-a-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "The physics of kiiking, Estonia's extreme sport of swinging",
+      "link": "https://phys.org/news/2026-08-physics-kiiking-estonia-extreme-sport.html",
+      "desc": "When an athlete swings upside down atop a 7-meter (23-foot) pendulum, it may seem like a feat of strength, courage or technique. A new study suggests it is something more fundamental: a striking demonstration of how intelligence emerges from the interaction of brain, body and environment.",
+      "date": "Aug 27, 2026",
+      "published_utc": "2026-08-27 16:09 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-physics-of-kiiking.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "How Rising Air Plumes Help Spike Moist Heat",
+      "link": "https://eos.org/research-spotlights/how-rising-air-plumes-help-spike-moist-heat",
+      "desc": "When dry air mixes with warm, moist air carried aloft by currents from the surface, it can contribute to rising wet-bulb temperatures near Earth’s surface.",
+      "date": "Aug 27, 2026",
+      "published_utc": "2026-08-27 13:25 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/midday-sun-1024x576.jpg"
     }
   ]
 }
