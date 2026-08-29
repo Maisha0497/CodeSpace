@@ -1,36 +1,16 @@
 {
-  "updated": "2026-08-29 12:30 UTC",
+  "updated": "2026-08-29 18:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Light reveals internal motion in electron crystals and can trigger their melting",
-      "link": "https://phys.org/news/2026-08-reveals-internal-motion-electron-crystals.html",
-      "desc": "Electrons, particles that carry a negative electric charge, typically move through materials. At low densities and temperatures, however, the electrical repulsion between them can overpower their tendency to move, prompting them to arrange themselves into ordered patterns known as Wigner crystals.",
-      "date": "Aug 28, 2026",
-      "published_utc": "2026-08-28 13:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-light-to-probe-t.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Diamond clock combines two signals to cut temperature-driven drift",
-      "link": "https://phys.org/news/2026-08-diamond-clock-combines-temperature-driven.html",
-      "desc": "Despite all the advertisements for engagement rings and necklace gifts, natural diamonds are imperfect. Their carbon atoms are arranged in a cubic lattice, but they nonetheless contain several types of crystallographic defects due to impurities that occasionally replace a carbon atom. The most…",
-      "date": "Aug 28, 2026",
-      "published_utc": "2026-08-28 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/removing-the-temperatu.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Does Computer Science Need Computers?",
-      "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
-      "desc": "The theoretical side of the field doesn’t require computing machines. But many questions would never have been posed without them. The post Does Computer Science Need Computers? first appeared on Quanta Magazine",
-      "date": "Aug 28, 2026",
-      "published_utc": "2026-08-28 13:30 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia_TheoreticalCS-crKristinaArmitage-Default.webp"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "The universe is still speeding up, but nobody knows why",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
+      "desc": "A major new analysis challenges recent claims that the universe's expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while leaving scientists with the enduring mystery of what this strange cosmic force…",
+      "date": "Aug 29, 2026",
+      "published_utc": "2026-08-29 11:41 UTC",
+      "image": ""
     }
   ]
 }
