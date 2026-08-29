@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29 00:51 UTC",
+  "updated": "2026-08-29 06:34 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -41,16 +41,6 @@
       "date": "Aug 28, 2026",
       "published_utc": "2026-08-28 12:20 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/ariane_6_launch_with_mtg-i2_highlights/27439862-1-eng-GB/Ariane_6_launch_with_MTG-I2_highlights_card_full.png"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "The Forested Floodplains of Congaree National Park",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/",
-      "desc": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain. The post The Forested Floodplains of Congaree National Park appeared first on NASA Science .",
-      "date": "Aug 28, 2026",
-      "published_utc": "2026-08-28 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-forested-floodplains-of-congaree-national-park/congareenp_oli2_20250818.jpg?w=1914&amp;h=1063&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
