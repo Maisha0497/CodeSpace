@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29 06:34 UTC",
+  "updated": "2026-08-29 12:30 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,16 +31,6 @@
       "date": "Aug 28, 2026",
       "published_utc": "2026-08-28 13:30 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia_TheoreticalCS-crKristinaArmitage-Default.webp"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Ariane 6 launch with MTG-I2 – highlights",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Ariane_6_launch_with_MTG-I2_highlights",
-      "desc": "Video: 00:04:28 The Meteosat Third Generation -Imager2 (MTG-I2) satellite, has been launched on board an Ariane 6 launcher from Europe’s Spaceport in French Guiana. Liftoff was on 27 August 2026 at 22:11 CEST (17:10 local time). MTG-I2 is part of the MTG constellation for Eumetsat – two are already…",
-      "date": "Aug 28, 2026",
-      "published_utc": "2026-08-28 12:20 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/ariane_6_launch_with_mtg-i2_highlights/27439862-1-eng-GB/Ariane_6_launch_with_MTG-I2_highlights_card_full.png"
     }
   ]
 }
