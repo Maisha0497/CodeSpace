@@ -1,16 +1,5 @@
 {
-  "updated": "2026-08-30 06:35 UTC",
+  "updated": "2026-08-30 12:31 UTC",
   "fresh_window_hours": 24,
-  "stories": [
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "The universe is still speeding up, but nobody knows why",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
-      "desc": "A major new analysis challenges recent claims that the universe's expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while leaving scientists with the enduring mystery of what this strange cosmic force…",
-      "date": "Aug 29, 2026",
-      "published_utc": "2026-08-29 11:41 UTC",
-      "image": ""
-    }
-  ]
+  "stories": []
 }
