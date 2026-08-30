@@ -1,5 +1,66 @@
 {
-  "updated": "2026-08-30 12:31 UTC",
+  "updated": "2026-08-30 18:26 UTC",
   "fresh_window_hours": 24,
-  "stories": []
+  "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Hollow-core fiber platform could help different quantum technologies connect",
+      "link": "https://phys.org/news/2026-08-hollow-core-fiber-platform-quantum.html",
+      "desc": "Quantum technologies promise secure communication networks, powerful forms of computing and new sensing tools. One of the major challenges, however, is that different quantum systems often operate at different wavelengths of light. Quantum memories, trapped ions and other quantum devices may work…",
+      "date": "Aug 30, 2026",
+      "published_utc": "2026-08-30 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-translator-for-quant.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "This strange “spacetime crystal” can suddenly become a black hole",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
+      "desc": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick involving infinitely many dimensions, potentially giving researchers a new tool…",
+      "date": "Aug 30, 2026",
+      "published_utc": "2026-08-30 15:05 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "NASA Deep Space Network’s New Goldstone Antenna Goes Online",
+      "link": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "desc": "Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. A 34-meter (114-foot) multifrequency beam-waveguide antenna, DSS-23 will boost the DSN’s capacity and enhance NASA’s deep space…",
+      "date": "Aug 30, 2026",
+      "published_utc": "2026-08-30 14:53 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26778/PIA26778.jpg?w=2200&amp;h=1649&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Some signs of quantum gravity may be an illusion",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828005226.htm",
+      "desc": "Quantum mechanics and Einstein’s theory of gravity explain almost everything we see in nature, yet physicists still do not know how to unite them. A new theoretical framework suggests that some experiments that appear to show gravity behaving quantum mechanically may have a much more ordinary…",
+      "date": "Aug 30, 2026",
+      "published_utc": "2026-08-30 02:58 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex",
+      "link": "https://science.nasa.gov/photojournal/panorama-showcasing-the-34-meter-antennas-of-the-dsns-goldstone-complex/",
+      "desc": "Description Five antennas soak in the summer sun at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. The recently completed Deep Space Station 23, a 34-meter (114-foot) beam-waveguide antenna, can be seen to the right of the frame in the foreground. The other…",
+      "date": "Aug 30, 2026",
+      "published_utc": "2026-08-30 14:47 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26777/PIA26777.jpg?w=2200&amp;h=981&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
+      "topic": "AI",
+      "source": "ScienceDaily AI",
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "desc": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was…",
+      "date": "Aug 30, 2026",
+      "published_utc": "2026-08-30 14:08 UTC",
+      "image": ""
+    }
+  ]
 }
