@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31 06:48 UTC",
+  "updated": "2026-08-31 12:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Aug 30, 2026",
       "published_utc": "2026-08-30 13:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-translator-for-quant.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physicists finally put Feynman's path integral to the test",
+      "link": "https://phys.org/news/2026-08-physicists-feynman-path.html",
+      "desc": "For nearly 80 years, physicists have relied on a thought experiment created by Richard Feynman to predict how quantum particles behave. For the first time, researchers in China have tested this trick directly in the lab.",
+      "date": "Aug 31, 2026",
+      "published_utc": "2026-08-31 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-finally-put.jpg"
     },
     {
       "topic": "Quantum",
@@ -51,6 +61,16 @@
       "date": "Aug 30, 2026",
       "published_utc": "2026-08-30 14:08 UTC",
       "image": ""
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Decoding Rocks to Reveal What the Critical Zone Hides",
+      "link": "https://eos.org/editors-vox/decoding-rocks-to-reveal-what-the-critical-zone-hides",
+      "desc": "Rock physics models translate geophysical measurements into volumetric rock and fluid properties to quantify weathering trends, water storage, and architecture within Earth's critical zone.",
+      "date": "Aug 31, 2026",
+      "published_utc": "2026-08-31 12:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/Rock-Physics-Featured-Image-Final-1024x576.png"
     }
   ]
 }
