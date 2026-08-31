@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31 01:04 UTC",
+  "updated": "2026-08-31 06:48 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,16 +31,6 @@
       "date": "Aug 30, 2026",
       "published_utc": "2026-08-30 14:53 UTC",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26778/PIA26778.jpg?w=2200&amp;h=1649&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Some signs of quantum gravity may be an illusion",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828005226.htm",
-      "desc": "Quantum mechanics and Einstein’s theory of gravity explain almost everything we see in nature, yet physicists still do not know how to unite them. A new theoretical framework suggests that some experiments that appear to show gravity behaving quantum mechanically may have a much more ordinary…",
-      "date": "Aug 30, 2026",
-      "published_utc": "2026-08-30 02:58 UTC",
-      "image": ""
     },
     {
       "topic": "Earth Observation",
