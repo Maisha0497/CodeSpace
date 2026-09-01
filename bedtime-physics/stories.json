@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01 01:10 UTC",
+  "updated": "2026-09-01 06:41 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -75,12 +75,12 @@
     {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
-      "title": "Pasterze Hangs on as Austria’s Largest Glacier",
-      "link": "https://science.nasa.gov/earth/earth-observatory/pasterze-hangs-on-as-austrias-largest-glacier/",
-      "desc": "One narrowing icefall remains the linchpin for the Alpine glacier—and it may not be long for this world. The post Pasterze Hangs on as Austria’s Largest Glacier appeared first on NASA Science .",
-      "date": "Aug 31, 2026",
-      "published_utc": "2026-08-31 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pasterze-hangs-on-as-austria’s-largest-glacier/pasterzeglacier_oli2_20260815_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint"
+      "title": "Ice Island Survives Run-In With Joe Island",
+      "link": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
+      "desc": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way. The post Ice Island Survives Run-In With Joe Island appeared first on NASA Science .",
+      "date": "Sep 01, 2026",
+      "published_utc": "2026-09-01 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824.jpg"
     }
   ]
 }
