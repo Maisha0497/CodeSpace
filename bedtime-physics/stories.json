@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01 06:41 UTC",
+  "updated": "2026-09-01 12:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,16 +21,6 @@
       "date": "Aug 31, 2026",
       "published_utc": "2026-08-31 13:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cmu-physicists-take-ha.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physicists finally put Feynman's path integral to the test",
-      "link": "https://phys.org/news/2026-08-physicists-feynman-path.html",
-      "desc": "For nearly 80 years, physicists have relied on a thought experiment created by Richard Feynman to predict how quantum particles behave. For the first time, researchers in China have tested this trick directly in the lab.",
-      "date": "Aug 31, 2026",
-      "published_utc": "2026-08-31 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-finally-put.jpg"
     },
     {
       "topic": "AI",
@@ -63,16 +53,6 @@
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Percolation-cr-DVDP-Default.webp"
     },
     {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Decoding Rocks to Reveal What the Critical Zone Hides",
-      "link": "https://eos.org/editors-vox/decoding-rocks-to-reveal-what-the-critical-zone-hides",
-      "desc": "Rock physics models translate geophysical measurements into volumetric rock and fluid properties to quantify weathering trends, water storage, and architecture within Earth's critical zone.",
-      "date": "Aug 31, 2026",
-      "published_utc": "2026-08-31 12:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/Rock-Physics-Featured-Image-Final-1024x576.png"
-    },
-    {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
       "title": "Ice Island Survives Run-In With Joe Island",
@@ -81,6 +61,16 @@
       "date": "Sep 01, 2026",
       "published_utc": "2026-09-01 04:00 UTC",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Communities Affected by Climate Change Need More Than Data",
+      "link": "https://eos.org/research-spotlights/communities-affected-by-climate-change-need-more-than-data",
+      "desc": "Researchers and residents in Puerto Rico collaborated on how NASA Earth Observations data can address environmental justice challenges and strengthen community resilience.",
+      "date": "Aug 31, 2026",
+      "published_utc": "2026-08-31 13:07 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/08/la-margarita-puerto-rico-1024x576.jpg"
     }
   ]
 }
