@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-01 18:31 UTC",
+  "updated": "2026-09-02 00:59 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "First measurement of low-energy solar neutrinos scattering off electrons",
+      "link": "https://phys.org/news/2026-09-energy-solar-neutrinos-electrons.html",
+      "desc": "Every second, tens of billions of neutrinos produced by nuclear fusion in the sun pass through every square centimeter of Earth—and through our bodies—almost without interacting. Although they are among the most abundant particles emitted by the sun, their extremely weak interactions make detecting…",
+      "date": "Sep 01, 2026",
+      "published_utc": "2026-09-01 18:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-measurement-of-l.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -15,32 +25,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Organic crystal reveals how Joule heating stabilizes resistive switching",
-      "link": "https://phys.org/news/2026-08-crystal-reveals-joule-stabilizes-resistive.html",
-      "desc": "Metal-insulator transitions (MITs), in which a material changes from a metallic state with low resistivity to an insulating state because of a change in an external parameter, such as temperature, pressure or an electric field, are a central topic in fundamental physics research.",
-      "date": "Aug 31, 2026",
-      "published_utc": "2026-08-31 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/thermal-self-organizat.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Ultrafast snapshots reveal the first moments on the way from light to electricity",
       "link": "https://phys.org/news/2026-09-ultrafast-snapshots-reveal-moments-electricity.html",
       "desc": "Physicists at the University of Graz (Austria), in collaboration with colleagues from Marburg University and Forschungszentrum Jülich (Germany), have achieved a scientific breakthrough. For the first time, the generation of electrical energy from light has been filmed and described theoretically.",
       "date": "Sep 01, 2026",
       "published_utc": "2026-09-01 15:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrifying-discoveri-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Faint far-infrared radiation drives a correlated insulator-to-metal transition in magic-angle graphene",
-      "link": "https://phys.org/news/2026-08-faint-infrared-insulator-metal-transition.html",
-      "desc": "One of the central ideas in modern physics is the phase transition—a sudden transformation of the state of a material. We encounter phase transitions throughout everyday life: water freezes into ice, wax melts in the warmth of a flame, and water vapor condenses into droplets on a cold window. In…",
-      "date": "Aug 31, 2026",
-      "published_utc": "2026-08-31 22:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/faint-far-infrared-rad.jpg"
     },
     {
       "topic": "Physics",
