@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02 12:37 UTC",
+  "updated": "2026-09-02 18:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -23,26 +23,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/temperature-a-new-knob.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Ten-channel photonic interface links neutral-atom qubits in parallel",
-      "link": "https://phys.org/news/2026-09-ten-channel-photonic-interface-links.html",
-      "desc": "A research group in Japan has demonstrated a world-record 10-channel multiplexed quantum photonic interface based on an integrated waveguide array, a key technology for optically interconnecting multiple quantum computers. The study is published in the journal Optica.",
-      "date": "Sep 01, 2026",
-      "published_utc": "2026-09-01 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-multiplexed-quantum.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Ultrafast snapshots reveal the first moments on the way from light to electricity",
-      "link": "https://phys.org/news/2026-09-ultrafast-snapshots-reveal-moments-electricity.html",
-      "desc": "Physicists at the University of Graz (Austria), in collaboration with colleagues from Marburg University and Forschungszentrum Jülich (Germany), have achieved a scientific breakthrough. For the first time, the generation of electrical energy from light has been filmed and described theoretically.",
-      "date": "Sep 01, 2026",
-      "published_utc": "2026-09-01 15:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrifying-discoveri-1.jpg"
-    },
-    {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
       "title": "A search for one exotic particle uncovered two strange new structures",
@@ -51,6 +31,26 @@
       "date": "Sep 02, 2026",
       "published_utc": "2026-09-02 05:28 UTC",
       "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Sorry, this neutrino laser won't work, physicists say",
+      "link": "https://phys.org/news/2026-09-neutrino-laser-wont-physicists.html",
+      "desc": "Neutrinos are pervasive yet intangible particles that permeate the universe, streaming through whole planets, stars and our bodies by the trillions each second. The elementary particles are often described as \"ghostly\" for their near-zero mass and elusive nature, as they have very little…",
+      "date": "Sep 02, 2026",
+      "published_utc": "2026-09-02 17:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-shows-a-n.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "Phys.org Quantum",
+      "title": "Physicists test the weak equivalence principle in an orbiting space station",
+      "link": "https://phys.org/news/2026-09-physicists-weak-equivalence-principle-orbiting.html",
+      "desc": "The weak equivalence principle (WEP) is central to Einstein's general relativity. It posits that gravity must accelerate everything equally, regardless of what it is made from. For the first time, a team led by Ming-Sheng Zhan at the Wuhan Institute of Physics and Mathematics has tested the…",
+      "date": "Sep 02, 2026",
+      "published_utc": "2026-09-02 13:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-test-the-we.jpg"
     },
     {
       "topic": "Physics",
@@ -65,32 +65,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Experiment sees surprising result in search for dark matter",
-      "link": "https://phys.org/news/2026-09-result-dark.html",
-      "desc": "For the better part of a century, people have been trying to understand dark matter. This invisible substance makes up roughly 85% of the mass in the universe but has never been directly detected. Determining exactly what it is remains one of the biggest questions about our world.",
-      "date": "Sep 01, 2026",
-      "published_utc": "2026-09-01 16:11 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lz-sees-surprising-res.jpg"
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "link": "https://phys.org/news/2026-09-scientists-einstein-gravity-quantum-world.html",
+      "desc": "An international team including Nobel Prize-winning physicist Professor Sir Roger Penrose has observed a long-predicted effect of gravity on a falling quantum object for the first time. The result shows that a fundamental principle at the heart of Einstein's theory of gravity remains consistent…",
+      "date": "Sep 02, 2026",
+      "published_utc": "2026-09-02 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-observe-ein-1.jpg"
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Meet FLEX",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Meet_FLEX",
-      "desc": "Video: 00:01:00 Using cutting-edge technology, ESA’s FLEX mission is designed to reveal new insights into how plants function by measuring the faint fluorescence they emit when they capture light during photosynthesis. Although invisible to the human eye, this signal changes with environmental…",
-      "date": "Sep 01, 2026",
-      "published_utc": "2026-09-01 13:30 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/meet_flex/27445151-1-eng-GB/Meet_FLEX_card_full.png"
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Drought Intensifies Across Puerto Rico",
+      "link": "https://science.nasa.gov/earth/earth-observatory/drought-intensifies-across-puerto-rico/",
+      "desc": "Rainfall deficits and high temperatures have created unusually dry conditions and have spurred water shortages on much of the tropical archipelago. The post Drought Intensifies Across Puerto Rico appeared first on NASA Science .",
+      "date": "Sep 02, 2026",
+      "published_utc": "2026-09-02 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/drought-intensifies-across-puerto-rico/puertorico_usdm_20260825.jpg?w=2160&amp;h=1440&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "topic": "Geoscience",
       "source": "Eos",
-      "title": "Antimicrobial Resistance Is Killing Millions. Climate Change Is Making It Worse.",
-      "link": "https://eos.org/features/antimicrobial-resistance-is-killing-millions-climate-change-is-making-it-worse",
-      "desc": "A growing body of evidence indicates that factors such as rising temperatures and extreme weather are contributing to what some researchers have called “the slow pandemic.”",
-      "date": "Sep 01, 2026",
-      "published_utc": "2026-09-01 12:39 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/08/antibiotic-cultures-1024x576.jpg"
+      "title": "User-Friendly Interface for Trace Element Open-System Melting Model",
+      "link": "https://eos.org/editor-highlights/user-friendly-interface-for-trace-element-open-system-melting-model",
+      "desc": "A 2001 model predicts trace element distributions in melts and residues of open-system mantle melting and melt migration. New software lets anyone apply this model despite its complex equations.",
+      "date": "Sep 02, 2026",
+      "published_utc": "2026-09-02 12:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/09/ggge70184-fig-0001-m-1024x576.png"
     }
   ]
 }
