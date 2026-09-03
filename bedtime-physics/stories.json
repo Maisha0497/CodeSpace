@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 12:37 UTC",
+  "updated": "2026-09-03 18:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,12 +15,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Quantum-optical spin glass could improve how AI remembers and learns",
+      "link": "https://phys.org/news/2026-09-quantum-optical-glass-ai.html",
+      "desc": "A new study has demonstrated that it is possible to make a network of atoms and photons that could improve how artificial intelligence stores and recalls memories. This network, called a quantum-optical spin glass, works as an associative memory, a form of AI that enables the recall of full…",
+      "date": "Sep 03, 2026",
+      "published_utc": "2026-09-03 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physics-advance-could.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Making superconductors thinner can change how they accommodate magnetic fields",
       "link": "https://phys.org/news/2026-08-superconductors-thinner-accommodate-magnetic-fields.html",
       "desc": "What happens when a superconductor becomes so thin that electrons can no longer behave as if they were moving through an ordinary three-dimensional piece of metal? This question has been at the center of my recent work on quantum confinement in metallic films. Over the past few years, I have been…",
       "date": "Sep 02, 2026",
       "published_utc": "2026-09-02 21:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-superconductors.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum control algorithm looks to explain how birds migrate",
+      "link": "https://phys.org/news/2026-09-quantum-algorithm-birds-migrate.html",
+      "desc": "The hidden world of quantum mechanics exists at scales many orders of magnitude smaller than living organisms, yet scientists have long theorized that quantum effects play an important role in biology. Birds' ability to sense magnetic fields during migration is one of the best-known mysteries in…",
+      "date": "Sep 03, 2026",
+      "published_utc": "2026-09-03 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/bird-migrating.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "BESIII sets world's most stringent direct limit on Lambda hyperon electric dipole moment",
+      "link": "https://phys.org/news/2026-09-besiii-world-stringent-limit-lambda.html",
+      "desc": "The BESIII Collaboration, led by the Institute of High Energy Physics of the Chinese Academy of Sciences, has achieved the world's most precise measurement of the electric dipole moment (EDM) of the Lambda (Λ) hyperon using quantum-entangled Λ–anti-Λ pairs produced in J/ψ decays. The result…",
+      "date": "Sep 03, 2026",
+      "published_utc": "2026-09-03 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/besiii-achieves-worlds.jpg"
     },
     {
       "topic": "Physics",
@@ -33,54 +63,34 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pacman-ai-framework-fo.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Sorry, this neutrino laser won't work, physicists say",
-      "link": "https://phys.org/news/2026-09-neutrino-laser-wont-physicists.html",
-      "desc": "Neutrinos are pervasive yet intangible particles that permeate the universe, streaming through whole planets, stars and our bodies by the trillions each second. The elementary particles are often described as \"ghostly\" for their near-zero mass and elusive nature, as they have very little…",
-      "date": "Sep 02, 2026",
-      "published_utc": "2026-09-02 17:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-shows-a-n.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "Physicists test the weak equivalence principle in an orbiting space station",
-      "link": "https://phys.org/news/2026-09-physicists-weak-equivalence-principle-orbiting.html",
-      "desc": "The weak equivalence principle (WEP) is central to Einstein's general relativity. It posits that gravity must accelerate everything equally, regardless of what it is made from. For the first time, a team led by Ming-Sheng Zhan at the Wuhan Institute of Physics and Mathematics has tested the…",
-      "date": "Sep 02, 2026",
-      "published_utc": "2026-09-02 13:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-test-the-we.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Scientists observe Einstein's gravity in the quantum world",
-      "link": "https://phys.org/news/2026-09-scientists-einstein-gravity-quantum-world.html",
-      "desc": "An international team including Nobel Prize-winning physicist Professor Sir Roger Penrose has observed a long-predicted effect of gravity on a falling quantum object for the first time. The result shows that a fundamental principle at the heart of Einstein's theory of gravity remains consistent…",
-      "date": "Sep 02, 2026",
-      "published_utc": "2026-09-02 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-observe-ein-1.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Unveiling Atmospheric Circulation on Mars with Magnetic Field Data",
-      "link": "https://eos.org/editor-highlights/unveiling-atmospheric-circulation-on-mars-with-magnetic-field-data",
-      "desc": "Not only can the magnetometer on NASA’s MAVEN satellite track magnetic fields on Mars; it can also track atmospheric circulation – using machine learning.",
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "In an Age of AI, a Physicist Seeks What Endures",
+      "link": "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
+      "desc": "Sarah Demers, chair of the physics department at Yale University, sees the potential for large language models to both help and harm her field. The post In an Age of AI, a Physicist Seeks What Endures first appeared on Quanta Magazine",
       "date": "Sep 03, 2026",
-      "published_utc": "2026-09-03 12:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/MAVEN-Final-1024x576.png"
+      "published_utc": "2026-09-03 13:35 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demer-cr-Karen-Dias-Default.webp"
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "FLEX and Sentinel-3C sealed within Vega-C fairing",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_sealed_within_Vega-C_fairing",
-      "desc": "At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final stages. FLEX and Copernicus Sentinel-3C have now been enclosed within the protective fairing of their Vega-C rocket, bringing the two satellites one step…",
-      "date": "Sep 02, 2026",
-      "published_utc": "2026-09-02 16:08 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_being_sealed_from_view/27447417-4-eng-GB/FLEX_and_Sentinel-3C_being_sealed_from_view_card_full.jpg"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Dual-purpose qubit design could speed operations while cutting quantum errors",
+      "link": "https://phys.org/news/2026-09-dual-purpose-qubit-quantum-errors.html",
+      "desc": "Researchers from MIT have designed a new qubit architecture that enables qubits to interact with each other much more quickly while remaining very stable. This advance could someday help scientists build practical quantum computers that can run long, complex algorithms with high accuracy.",
+      "date": "Sep 03, 2026",
+      "published_utc": "2026-09-03 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/quantum-computer-2.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Heat has a memory—and a new theoretical framework can track it",
+      "link": "https://phys.org/news/2026-09-memory-theoretical-framework-track.html",
+      "desc": "Heat, it turns out, has a memory. A cooling cup of coffee may not seem particularly thoughtful. At the scale of a kitchen, heat appears to follow a straightforward rule: it moves from warmer places to cooler ones. Leave the cup unattended long enough, and the disappointing result offers convincing…",
+      "date": "Sep 03, 2026",
+      "published_utc": "2026-09-03 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/cup-of-coffee-1.jpg"
     }
   ]
 }
