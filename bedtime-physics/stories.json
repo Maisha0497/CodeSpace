@@ -1,16 +1,26 @@
 {
-  "updated": "2026-09-02 18:31 UTC",
+  "updated": "2026-09-03 01:01 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "First measurement of low-energy solar neutrinos scattering off electrons",
-      "link": "https://phys.org/news/2026-09-energy-solar-neutrinos-electrons.html",
-      "desc": "Every second, tens of billions of neutrinos produced by nuclear fusion in the sun pass through every square centimeter of Earth—and through our bodies—almost without interacting. Although they are among the most abundant particles emitted by the sun, their extremely weak interactions make detecting…",
-      "date": "Sep 01, 2026",
-      "published_utc": "2026-09-01 18:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-measurement-of-l.jpg"
+      "title": "Trapped light generates nanoscale magnetization",
+      "link": "https://phys.org/news/2026-09-generates-nanoscale-magnetization.html",
+      "desc": "Using an engineered metasurface that traps light, Cornell researchers have demonstrated a new way to generate strong static magnetic fields without using external magnets or magnetic materials—an approach that could advance spintronics, quantum and photonic computing, and data storage.",
+      "date": "Sep 02, 2026",
+      "published_utc": "2026-09-02 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-light-3.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Making superconductors thinner can change how they accommodate magnetic fields",
+      "link": "https://phys.org/news/2026-08-superconductors-thinner-accommodate-magnetic-fields.html",
+      "desc": "What happens when a superconductor becomes so thin that electrons can no longer behave as if they were moving through an ordinary three-dimensional piece of metal? This question has been at the center of my recent work on quantum confinement in metallic films. Over the past few years, I have been…",
+      "date": "Sep 02, 2026",
+      "published_utc": "2026-09-02 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-superconductors.jpg"
     },
     {
       "topic": "Physics",
@@ -21,6 +31,16 @@
       "date": "Sep 02, 2026",
       "published_utc": "2026-09-02 11:49 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/temperature-a-new-knob.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "PACMAN AI framework for controlling fusion systems safely makes key decisions in milliseconds",
+      "link": "https://phys.org/news/2026-09-pacman-ai-framework-fusion-safely.html",
+      "desc": "Inside some fusion energy systems, particles hotter than the core of the sun can become unruly in a few thousandths of a second, far faster than any human operator can react. A new software framework developed by researchers at the U.S. Department of Energy's (DOE) Princeton Plasma Physics…",
+      "date": "Sep 02, 2026",
+      "published_utc": "2026-09-02 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pacman-ai-framework-fo.jpg"
     },
     {
       "topic": "Quantum",
@@ -71,26 +91,6 @@
       "date": "Sep 02, 2026",
       "published_utc": "2026-09-02 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-observe-ein-1.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Drought Intensifies Across Puerto Rico",
-      "link": "https://science.nasa.gov/earth/earth-observatory/drought-intensifies-across-puerto-rico/",
-      "desc": "Rainfall deficits and high temperatures have created unusually dry conditions and have spurred water shortages on much of the tropical archipelago. The post Drought Intensifies Across Puerto Rico appeared first on NASA Science .",
-      "date": "Sep 02, 2026",
-      "published_utc": "2026-09-02 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/drought-intensifies-across-puerto-rico/puertorico_usdm_20260825.jpg?w=2160&amp;h=1440&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "User-Friendly Interface for Trace Element Open-System Melting Model",
-      "link": "https://eos.org/editor-highlights/user-friendly-interface-for-trace-element-open-system-melting-model",
-      "desc": "A 2001 model predicts trace element distributions in melts and residues of open-system mantle melting and melt migration. New software lets anyone apply this model despite its complex equations.",
-      "date": "Sep 02, 2026",
-      "published_utc": "2026-09-02 12:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/ggge70184-fig-0001-m-1024x576.png"
     }
   ]
 }
