@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 01:01 UTC",
+  "updated": "2026-09-03 06:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -43,16 +43,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pacman-ai-framework-fo.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "A search for one exotic particle uncovered two strange new structures",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260831015147.htm",
-      "desc": "A search for one mysterious particle unexpectedly revealed evidence for two different structures that may belong to the bizarre family of exotic subatomic particles known as XYZ states. The findings could help physicists uncover new ways that quarks and gluons combine to create matter.",
-      "date": "Sep 02, 2026",
-      "published_utc": "2026-09-02 05:28 UTC",
-      "image": ""
-    },
-    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Sorry, this neutrino laser won't work, physicists say",
@@ -91,6 +81,16 @@
       "date": "Sep 02, 2026",
       "published_utc": "2026-09-02 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-observe-ein-1.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "User-Friendly Interface for Trace Element Open-System Melting Model",
+      "link": "https://eos.org/editor-highlights/user-friendly-interface-for-trace-element-open-system-melting-model",
+      "desc": "A 2001 model predicts trace element distributions in melts and residues of open-system mantle melting and melt migration. New software lets anyone apply this model despite its complex equations.",
+      "date": "Sep 02, 2026",
+      "published_utc": "2026-09-02 12:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/09/ggge70184-fig-0001-m-1024x576.png"
     }
   ]
 }
