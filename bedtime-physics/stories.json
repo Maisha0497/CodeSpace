@@ -1,96 +1,46 @@
 {
-  "updated": "2026-09-04 12:36 UTC",
+  "updated": "2026-09-04 18:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum-optical spin glass could improve how AI remembers and learns",
-      "link": "https://phys.org/news/2026-09-quantum-optical-glass-ai.html",
-      "desc": "A new study has demonstrated that it is possible to make a network of atoms and photons that could improve how artificial intelligence stores and recalls memories. This network, called a quantum-optical spin glass, works as an associative memory, a form of AI that enables the recall of full…",
-      "date": "Sep 03, 2026",
-      "published_utc": "2026-09-03 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physics-advance-could.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum control algorithm looks to explain how birds migrate",
-      "link": "https://phys.org/news/2026-09-quantum-algorithm-birds-migrate.html",
-      "desc": "The hidden world of quantum mechanics exists at scales many orders of magnitude smaller than living organisms, yet scientists have long theorized that quantum effects play an important role in biology. Birds' ability to sense magnetic fields during migration is one of the best-known mysteries in…",
-      "date": "Sep 03, 2026",
-      "published_utc": "2026-09-03 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/bird-migrating.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "BESIII sets world's most stringent direct limit on Lambda hyperon electric dipole moment",
-      "link": "https://phys.org/news/2026-09-besiii-world-stringent-limit-lambda.html",
-      "desc": "The BESIII Collaboration, led by the Institute of High Energy Physics of the Chinese Academy of Sciences, has achieved the world's most precise measurement of the electric dipole moment (EDM) of the Lambda (Λ) hyperon using quantum-entangled Λ–anti-Λ pairs produced in J/ψ decays. The result…",
-      "date": "Sep 03, 2026",
-      "published_utc": "2026-09-03 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/besiii-achieves-worlds.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "In an Age of AI, a Physicist Seeks What Endures",
-      "link": "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
-      "desc": "Sarah Demers, chair of the physics department at Yale University, sees the potential for large language models to both help and harm her field. The post In an Age of AI, a Physicist Seeks What Endures first appeared on Quanta Magazine",
-      "date": "Sep 03, 2026",
-      "published_utc": "2026-09-03 13:35 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demer-cr-Karen-Dias-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Dual-purpose qubit design could speed operations while cutting quantum errors",
-      "link": "https://phys.org/news/2026-09-dual-purpose-qubit-quantum-errors.html",
-      "desc": "Researchers from MIT have designed a new qubit architecture that enables qubits to interact with each other much more quickly while remaining very stable. This advance could someday help scientists build practical quantum computers that can run long, complex algorithms with high accuracy.",
-      "date": "Sep 03, 2026",
-      "published_utc": "2026-09-03 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/quantum-computer-2.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Heat has a memory—and a new theoretical framework can track it",
-      "link": "https://phys.org/news/2026-09-memory-theoretical-framework-track.html",
-      "desc": "Heat, it turns out, has a memory. A cooling cup of coffee may not seem particularly thoughtful. At the scale of a kitchen, heat appears to follow a straightforward rule: it moves from warmer places to cooler ones. Leave the cup unattended long enough, and the disappointing result offers convincing…",
-      "date": "Sep 03, 2026",
-      "published_utc": "2026-09-03 14:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/cup-of-coffee-1.jpg"
+      "title": "Ultrafast electrons and lasers reveal unexpectedly strong radiation signals in common semiconductors",
+      "link": "https://phys.org/news/2026-09-ultrafast-electrons-lasers-reveal-unexpectedly.html",
+      "desc": "Detecting radiation is key to technologies ranging from particle accelerators and scientific instruments to medical imaging and security screening. But current detectors must often make trade-offs, providing signals that are strong but slow or fast but weak. The trade-off between signal strength…",
+      "date": "Sep 04, 2026",
+      "published_utc": "2026-09-04 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-electrons-an.jpg"
     },
     {
       "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "AI suggests new physics experiments that could outperform human-designed setups",
-      "link": "https://phys.org/news/2026-09-ai-physics-outperform-human-setups.html",
-      "desc": "Research means asking questions of the universe. For centuries, clever minds have advanced science by devising ingenious experiments designed so their results reveal something about the laws of nature as clearly and unambiguously as possible.",
-      "date": "Sep 03, 2026",
-      "published_utc": "2026-09-03 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/artificial-intelligenc-23.jpg"
+      "source": "ScienceDaily Quantum",
+      "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
+      "desc": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious…",
+      "date": "Sep 04, 2026",
+      "published_utc": "2026-09-04 06:46 UTC",
+      "image": ""
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
-      "link": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
-      "desc": "In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place? The post Live from ICM 2026: What Is Math For in the Age of AI? first…",
-      "date": "Sep 03, 2026",
-      "published_utc": "2026-09-03 13:41 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Default-NO-LOGO.jpg"
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Media briefing ahead of FLEX and Sentinel-3C launch",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch",
+      "desc": "Video: 00:47:00 On 4 September 2026, media representatives joined an online briefing ahead of the launch of ESA’s FLEX and the Copernicus Sentinel-3C satellites. The two satellites are scheduled to launch together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana on 15 September at…",
+      "date": "Sep 04, 2026",
+      "published_utc": "2026-09-04 14:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/media_briefing_ahead_of_flex_and_sentinel-3c_launch/27445744-3-eng-GB/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch_card_full.png"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Surf's up: How the seafloor shapes breaking waves",
-      "link": "https://phys.org/news/2026-09-surf-seafloor.html",
-      "desc": "A new study led by surfing scientists at the Scripps Institution of Oceanography at UC San Diego revealed the physical relationships underlying a pattern familiar to generations of surfers.",
-      "date": "Sep 03, 2026",
-      "published_utc": "2026-09-03 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surfs-up-how-the-seafl.jpg"
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "How Sentinel-3 tracks climate change",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change",
+      "desc": "Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over the past decade. The launch of the mission’s third…",
+      "date": "Sep 04, 2026",
+      "published_utc": "2026-09-04 08:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/smoke_plume_from_greek_wildfires_seen_by_sentinel-3/27404001-1-eng-GB/Smoke_plume_from_Greek_wildfires_seen_by_Sentinel-3_card_full.jpg"
     }
   ]
 }
