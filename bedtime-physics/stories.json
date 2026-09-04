@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-03 18:31 UTC",
+  "updated": "2026-09-04 00:57 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Trapped light generates nanoscale magnetization",
-      "link": "https://phys.org/news/2026-09-generates-nanoscale-magnetization.html",
-      "desc": "Using an engineered metasurface that traps light, Cornell researchers have demonstrated a new way to generate strong static magnetic fields without using external magnets or magnetic materials—an approach that could advance spintronics, quantum and photonic computing, and data storage.",
-      "date": "Sep 02, 2026",
-      "published_utc": "2026-09-02 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-light-3.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,16 +11,6 @@
       "date": "Sep 03, 2026",
       "published_utc": "2026-09-03 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physics-advance-could.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Making superconductors thinner can change how they accommodate magnetic fields",
-      "link": "https://phys.org/news/2026-08-superconductors-thinner-accommodate-magnetic-fields.html",
-      "desc": "What happens when a superconductor becomes so thin that electrons can no longer behave as if they were moving through an ordinary three-dimensional piece of metal? This question has been at the center of my recent work on quantum confinement in metallic films. Over the past few years, I have been…",
-      "date": "Sep 02, 2026",
-      "published_utc": "2026-09-02 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-superconductors.jpg"
     },
     {
       "topic": "Physics",
@@ -51,16 +31,6 @@
       "date": "Sep 03, 2026",
       "published_utc": "2026-09-03 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/besiii-achieves-worlds.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "PACMAN AI framework for controlling fusion systems safely makes key decisions in milliseconds",
-      "link": "https://phys.org/news/2026-09-pacman-ai-framework-fusion-safely.html",
-      "desc": "Inside some fusion energy systems, particles hotter than the core of the sun can become unruly in a few thousandths of a second, far faster than any human operator can react. A new software framework developed by researchers at the U.S. Department of Energy's (DOE) Princeton Plasma Physics…",
-      "date": "Sep 02, 2026",
-      "published_utc": "2026-09-02 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pacman-ai-framework-fo.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -91,6 +61,36 @@
       "date": "Sep 03, 2026",
       "published_utc": "2026-09-03 14:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/cup-of-coffee-1.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "Phys.org Quantum",
+      "title": "AI suggests new physics experiments that could outperform human-designed setups",
+      "link": "https://phys.org/news/2026-09-ai-physics-outperform-human-setups.html",
+      "desc": "Research means asking questions of the universe. For centuries, clever minds have advanced science by devising ingenious experiments designed so their results reveal something about the laws of nature as clearly and unambiguously as possible.",
+      "date": "Sep 03, 2026",
+      "published_utc": "2026-09-03 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/artificial-intelligenc-23.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
+      "link": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
+      "desc": "In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place? The post Live from ICM 2026: What Is Math For in the Age of AI? first…",
+      "date": "Sep 03, 2026",
+      "published_utc": "2026-09-03 13:41 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Default-NO-LOGO.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Surf's up: How the seafloor shapes breaking waves",
+      "link": "https://phys.org/news/2026-09-surf-seafloor.html",
+      "desc": "A new study led by surfing scientists at the Scripps Institution of Oceanography at UC San Diego revealed the physical relationships underlying a pattern familiar to generations of surfers.",
+      "date": "Sep 03, 2026",
+      "published_utc": "2026-09-03 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surfs-up-how-the-seafl.jpg"
     }
   ]
 }
