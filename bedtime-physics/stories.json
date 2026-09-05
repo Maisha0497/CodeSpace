@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 18:27 UTC",
+  "updated": "2026-09-05 00:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -13,6 +13,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-electrons-an.jpg"
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Embedded platinum channels bring nanoscale spin-based thermoelectric conversion to bulk materials",
+      "link": "https://phys.org/news/2026-09-embedded-platinum-channels-nanoscale-based.html",
+      "desc": "A joint research team from NIMS and the University of Tokyo has developed a new composite in which three-dimensional nano-interfaces are distributed throughout the material by coating the surfaces of magnetic-insulator powders with a metal and sintering them. Using this structure, the team…",
+      "date": "Sep 04, 2026",
+      "published_utc": "2026-09-04 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnetic-material-with.jpg"
+    },
+    {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
       "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
@@ -20,6 +30,36 @@
       "desc": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious…",
       "date": "Sep 04, 2026",
       "published_utc": "2026-09-04 06:46 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Magic-angle graphene provides evidence for unconventional superconductivity",
+      "link": "https://phys.org/news/2026-09-magic-angle-graphene-evidence-unconventional.html",
+      "desc": "Researchers have completely suppressed superconductivity in magic-angle graphene by screening interactions between electrons, helping resolve a long-running debate about the origin of the phenomenon.",
+      "date": "Sep 04, 2026",
+      "published_utc": "2026-09-04 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/graphene-study-provide.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A new type of LED light could bring significant efficiency gains",
+      "link": "https://phys.org/news/2026-09-significant-efficiency-gains.html",
+      "desc": "Researchers at Lund University have developed a new type of light-emitting diode based on thin, branched nanowires that could offer significantly higher efficiency and lower production costs than current technology. By controlling where in the structure the light is generated, the researchers have…",
+      "date": "Sep 04, 2026",
+      "published_utc": "2026-09-04 22:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-type-of-led-ligh.jpg"
+    },
+    {
+      "topic": "Cool Math",
+      "source": "ScienceDaily Math",
+      "title": "Harvard scientists turn knitting into shape-shifting smart fabric",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901070543.htm",
+      "desc": "Harvard researchers have transformed ordinary knitting into a platform for creating fabrics that can snap between different shapes and perform useful functions. Using elastic yarns and industrial knitting techniques, the team engineered thick textiles that naturally curve and lock into multiple…",
+      "date": "Sep 04, 2026",
+      "published_utc": "2026-09-04 21:43 UTC",
       "image": ""
     },
     {
