@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-05 12:31 UTC",
+  "updated": "2026-09-05 18:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Ultrafast electrons and lasers reveal unexpectedly strong radiation signals in common semiconductors",
-      "link": "https://phys.org/news/2026-09-ultrafast-electrons-lasers-reveal-unexpectedly.html",
-      "desc": "Detecting radiation is key to technologies ranging from particle accelerators and scientific instruments to medical imaging and security screening. But current detectors must often make trade-offs, providing signals that are strong but slow or fast but weak. The trade-off between signal strength…",
-      "date": "Sep 04, 2026",
-      "published_utc": "2026-09-04 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-electrons-an.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -71,16 +61,6 @@
       "date": "Sep 04, 2026",
       "published_utc": "2026-09-04 21:43 UTC",
       "image": ""
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Media briefing ahead of FLEX and Sentinel-3C launch",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch",
-      "desc": "Video: 00:47:00 On 4 September 2026, media representatives joined an online briefing ahead of the launch of ESA’s FLEX and the Copernicus Sentinel-3C satellites. The two satellites are scheduled to launch together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana on 15 September at…",
-      "date": "Sep 04, 2026",
-      "published_utc": "2026-09-04 14:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/media_briefing_ahead_of_flex_and_sentinel-3c_launch/27445744-3-eng-GB/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch_card_full.png"
     }
   ]
 }
