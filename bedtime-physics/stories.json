@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 00:56 UTC",
+  "updated": "2026-09-05 06:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,6 +21,16 @@
       "date": "Sep 04, 2026",
       "published_utc": "2026-09-04 19:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnetic-material-with.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Quantum oscillations defy expectations in this exotic material",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
+      "desc": "Scientists have uncovered an unusual form of electron behavior in zirconium pentatelluride, a quantum material that can act as both an insulator and a conductor. Under temperatures near absolute zero and magnetic fields reaching 60 tesla, electrons produced quantum oscillations that continued even…",
+      "date": "Sep 05, 2026",
+      "published_utc": "2026-09-05 04:18 UTC",
+      "image": ""
     },
     {
       "topic": "Quantum",
