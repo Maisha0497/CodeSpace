@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 06:35 UTC",
+  "updated": "2026-09-05 12:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -33,14 +33,14 @@
       "image": ""
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
-      "desc": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious…",
-      "date": "Sep 04, 2026",
-      "published_utc": "2026-09-04 06:46 UTC",
-      "image": ""
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Levitated magnet opens new frontier in search for ultraheavy dark matter",
+      "link": "https://phys.org/news/2026-09-levitated-magnet-frontier-ultraheavy-dark.html",
+      "desc": "Rice University researchers have used a magnetically levitated particle to search for ultraheavy dark matter, extending the hunt for some of the heaviest possible forms of the invisible matter thought to hold galaxies together. Led by Christopher Tunnell, associate professor of physics and…",
+      "date": "Sep 05, 2026",
+      "published_utc": "2026-09-05 10:15 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/levitated-magnet-opens.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +81,6 @@
       "date": "Sep 04, 2026",
       "published_utc": "2026-09-04 14:00 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/media_briefing_ahead_of_flex_and_sentinel-3c_launch/27445744-3-eng-GB/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch_card_full.png"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "How Sentinel-3 tracks climate change",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change",
-      "desc": "Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over the past decade. The launch of the mission’s third…",
-      "date": "Sep 04, 2026",
-      "published_utc": "2026-09-04 08:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/smoke_plume_from_greek_wildfires_seen_by_sentinel-3/27404001-1-eng-GB/Smoke_plume_from_Greek_wildfires_seen_by_Sentinel-3_card_full.jpg"
     }
   ]
 }
