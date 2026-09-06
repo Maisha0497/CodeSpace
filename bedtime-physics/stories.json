@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06 06:35 UTC",
+  "updated": "2026-09-06 12:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Sep 06, 2026",
       "published_utc": "2026-09-06 00:58 UTC",
       "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Levitated magnet opens new frontier in search for ultraheavy dark matter",
-      "link": "https://phys.org/news/2026-09-levitated-magnet-frontier-ultraheavy-dark.html",
-      "desc": "Rice University researchers have used a magnetically levitated particle to search for ultraheavy dark matter, extending the hunt for some of the heaviest possible forms of the invisible matter thought to hold galaxies together. Led by Christopher Tunnell, associate professor of physics and…",
-      "date": "Sep 05, 2026",
-      "published_utc": "2026-09-05 10:15 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/levitated-magnet-opens.jpg"
     }
   ]
 }
