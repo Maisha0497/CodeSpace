@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 12:36 UTC",
+  "updated": "2026-09-07 18:29 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,56 @@
       "date": "Sep 07, 2026",
       "published_utc": "2026-09-07 11:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-uncovers-three-q.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Reversible electric control unlocks persistent chiral phonon states",
+      "link": "https://phys.org/news/2026-09-reversible-electric-persistent-chiral-phonon.html",
+      "desc": "Atoms in a material are rarely still. They jiggle back and forth in collective lattice vibrations known as phonons. Their motion can also carry a rotational element: In 2023, scientists at PSI experimentally proved the existence of chiral phonons, which exhibit handedness depending on which way…",
+      "date": "Sep 07, 2026",
+      "published_utc": "2026-09-07 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chiral-phonons-have-a.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Entangled particles revive a 35-year-old test of the Standard Model",
+      "link": "https://phys.org/news/2026-09-entangled-particles-revive-year-standard.html",
+      "desc": "Physicists at the BESIII Collaboration have breathed new life into a decades-old test of one of the Standard Model's most important ideas, using a technique that had gone almost untouched by experimenters for 35 years.",
+      "date": "Sep 07, 2026",
+      "published_utc": "2026-09-07 17:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/entangled-particles-re.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Tiny polymer particles keep water jets stable for longer",
+      "link": "https://phys.org/news/2026-09-tiny-polymer-particles-jets-stable.html",
+      "desc": "Tiny, soft polymer particles—known as microgels—can help to stabilize extremely thin liquid jets. How this works is the finding of a study led by researchers at TU Darmstadt, which has been published in Nature Communications. The findings could be of interest for the development of needle-free…",
+      "date": "Sep 07, 2026",
+      "published_utc": "2026-09-07 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-particles-keep-wa.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Dark plasma regions reveal overlooked source of reactive atomic oxygen",
+      "link": "https://phys.org/news/2026-09-dark-plasma-regions-reveal-overlooked.html",
+      "desc": "Scientists from Tokyo Metropolitan University have found a way to make plasma more effective for its wide-ranging uses, from antimicrobial applications to surface conditioning in the semiconductor industry. They mapped the production of atomic oxygen, a key ingredient of oxygen plasma, while a high…",
+      "date": "Sep 07, 2026",
+      "published_utc": "2026-09-07 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/boosting-the-power-of.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "FLEX and Sentinel-3C being hoisted into the launch tower",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/08/FLEX_and_Sentinel-3C_being_hoisted_into_the_launch_tower",
+      "desc": "Image: FLEX and Sentinel-3C being hoisted into the launch tower",
+      "date": "Sep 07, 2026",
+      "published_utc": "2026-09-07 16:23 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/flex_and_sentinel-3c_being_hoisted_into_the_launch_tower/27456590-1-eng-GB/FLEX_and_Sentinel-3C_being_hoisted_into_the_launch_tower_card_full.jpg"
     },
     {
       "topic": "Earth Observation",
