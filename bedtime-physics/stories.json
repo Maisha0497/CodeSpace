@@ -1,5 +1,16 @@
 {
-  "updated": "2026-09-07 01:03 UTC",
+  "updated": "2026-09-07 06:49 UTC",
   "fresh_window_hours": 24,
-  "stories": []
+  "stories": [
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "A Bright Spot at Mount Michael",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
+      "desc": "With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic. The post A Bright Spot at Mount Michael appeared first on NASA Science .",
+      "date": "Sep 07, 2026",
+      "published_utc": "2026-09-07 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bright-spot-at-mount-michael/mountmichael_oli_20260824.jpg?w=1100&amp;h=917&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    }
+  ]
 }
