@@ -1,16 +1,5 @@
 {
-  "updated": "2026-09-06 18:25 UTC",
+  "updated": "2026-09-07 01:03 UTC",
   "fresh_window_hours": 24,
-  "stories": [
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "A mysterious signal around Earth could be dark matter",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
-      "desc": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralight axions and uncovered several intriguing dark photon signals that still need to be explained.",
-      "date": "Sep 06, 2026",
-      "published_utc": "2026-09-06 00:58 UTC",
-      "image": ""
-    }
-  ]
+  "stories": []
 }
