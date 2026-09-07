@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-07 06:49 UTC",
+  "updated": "2026-09-07 12:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Three quantum phases in chromium-based material hint at a spin-triplet superconductor",
+      "link": "https://phys.org/news/2026-09-quantum-phases-chromium-based-material.html",
+      "desc": "Superconductors are materials that conduct electricity without electrical resistance when cooled below a specific critical temperature. These materials have proved promising for the development of various technologies, including medical imaging instruments, particle accelerators, ultrasensitive…",
+      "date": "Sep 07, 2026",
+      "published_utc": "2026-09-07 11:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-uncovers-three-q.jpg"
+    },
     {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
