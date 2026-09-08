@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08 00:59 UTC",
+  "updated": "2026-09-08 06:39 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -53,6 +53,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/boosting-the-power-of.jpg"
     },
     {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "The Otherworldly Geology of Vasquez Rocks",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/",
+      "desc": "Layers of sedimentary rock that jut from the Soledad Basin at surprising angles have long enthralled television and film producers, including the team behind Star Trek. The post The Otherworldly Geology of Vasquez Rocks appeared first on NASA Science .",
+      "date": "Sep 08, 2026",
+      "published_utc": "2026-09-08 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-otherworldly-geology-of-vasquez-rocks/vasquezrockswide_oli_20260728.jpg"
+    },
+    {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
       "title": "FLEX and Sentinel-3C being hoisted into the launch tower",
@@ -61,16 +71,6 @@
       "date": "Sep 07, 2026",
       "published_utc": "2026-09-07 16:23 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/flex_and_sentinel-3c_being_hoisted_into_the_launch_tower/27456590-1-eng-GB/FLEX_and_Sentinel-3C_being_hoisted_into_the_launch_tower_card_full.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "A Bright Spot at Mount Michael",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
-      "desc": "With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic. The post A Bright Spot at Mount Michael appeared first on NASA Science .",
-      "date": "Sep 07, 2026",
-      "published_utc": "2026-09-07 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bright-spot-at-mount-michael/mountmichael_oli_20260824.jpg?w=1100&amp;h=917&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
