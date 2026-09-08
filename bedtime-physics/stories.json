@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-08 06:39 UTC",
+  "updated": "2026-09-08 12:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Three quantum phases in chromium-based material hint at a spin-triplet superconductor",
-      "link": "https://phys.org/news/2026-09-quantum-phases-chromium-based-material.html",
-      "desc": "Superconductors are materials that conduct electricity without electrical resistance when cooled below a specific critical temperature. These materials have proved promising for the development of various technologies, including medical imaging instruments, particle accelerators, ultrasensitive…",
-      "date": "Sep 07, 2026",
-      "published_utc": "2026-09-07 11:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-uncovers-three-q.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -53,6 +43,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/boosting-the-power-of.jpg"
     },
     {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Anak Krakatau eruption by Sentinel-3",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3",
+      "desc": "Image: Copernicus Sentinel-3 captured a plume from the eruption of Anak Krakatau on Saturday, 5 September.",
+      "date": "Sep 08, 2026",
+      "published_utc": "2026-09-08 08:45 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_card_full.jpg"
+    },
+    {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
       "title": "The Otherworldly Geology of Vasquez Rocks",
@@ -61,16 +61,6 @@
       "date": "Sep 08, 2026",
       "published_utc": "2026-09-08 04:01 UTC",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-otherworldly-geology-of-vasquez-rocks/vasquezrockswide_oli_20260728.jpg"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "FLEX and Sentinel-3C being hoisted into the launch tower",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/08/FLEX_and_Sentinel-3C_being_hoisted_into_the_launch_tower",
-      "desc": "Image: FLEX and Sentinel-3C being hoisted into the launch tower",
-      "date": "Sep 07, 2026",
-      "published_utc": "2026-09-07 16:23 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/flex_and_sentinel-3c_being_hoisted_into_the_launch_tower/27456590-1-eng-GB/FLEX_and_Sentinel-3C_being_hoisted_into_the_launch_tower_card_full.jpg"
     }
   ]
 }
