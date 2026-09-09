@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09 00:59 UTC",
+  "updated": "2026-09-09 06:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -71,6 +71,16 @@
       "date": "Sep 08, 2026",
       "published_utc": "2026-09-08 12:49 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/09/pseudo-nitzschia-diatoms-1024x576.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Anak Krakatau Rumbles Again",
+      "link": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/",
+      "desc": "A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality. The post Anak Krakatau Rumbles Again appeared first on NASA Science .",
+      "date": "Sep 09, 2026",
+      "published_utc": "2026-09-09 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/anak-krakatau-rumbles-again/krakatau_oli_20260905.jpg?w=2160&amp;h=1650&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "topic": "Remote Sensing",
