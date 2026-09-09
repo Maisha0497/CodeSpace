@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09 06:40 UTC",
+  "updated": "2026-09-09 12:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -23,16 +23,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-photon-that-challeng.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
-      "desc": "Physicists have directly observed a long-predicted quantum effect of gravity, putting one of Einstein’s foundational ideas to a striking new test. Using ultracold atoms, researchers split an atom’s quantum wave so that one part was held in place while the other fell freely under gravity, then…",
-      "date": "Sep 08, 2026",
-      "published_utc": "2026-09-08 12:09 UTC",
-      "image": ""
-    },
-    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "A new game demonstrates quantum advantage with provable classical limits",
@@ -51,16 +41,6 @@
       "date": "Sep 08, 2026",
       "published_utc": "2026-09-08 14:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/quantum-computing.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems",
-      "link": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
-      "desc": "Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes “blow up.” But the massive result is not without controversy. The post AI Has Solved One of Math’s $1 Million Millennium Prize Problems first appeared on Quanta Magazine",
-      "date": "Sep 08, 2026",
-      "published_utc": "2026-09-08 08:43 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/AI-Navier-Stokes-Lede-cr-iStock-Default.jpg"
     },
     {
       "topic": "Geoscience",
@@ -85,12 +65,12 @@
     {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
-      "title": "Anak Krakatau eruption by Sentinel-3",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3",
-      "desc": "Image: Copernicus Sentinel-3 captured a plume from the eruption of Anak Krakatau on Saturday, 5 September.",
-      "date": "Sep 08, 2026",
-      "published_utc": "2026-09-08 08:45 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_card_full.jpg"
+      "title": "Watch: FLEX and Sentinel-3C launch on Vega-C",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Watch_FLEX_and_Sentinel-3C_launch_on_Vega-C",
+      "desc": "The European Space Agency’s FLEX satellite and the Copernicus Sentinel-3C satellite are scheduled to launch together aboard a Vega-C rocket on 15 September at 03:21 CEST (14 September at 22:21 local time). Watch the VV30 launch live from Europe’s Spaceport in French Guiana, with coverage starting…",
+      "date": "Sep 09, 2026",
+      "published_utc": "2026-09-09 09:56 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_fairing_opens_to_reveal_sentinel-3c_and_flex/27460042-1-eng-GB/Vega-C_fairing_opens_to_reveal_Sentinel-3C_and_FLEX_card_full.jpg"
     }
   ]
 }
