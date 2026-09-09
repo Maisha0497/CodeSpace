@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-08 18:30 UTC",
+  "updated": "2026-09-09 00:59 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Helium-3 lifts new quantum computing concept with faster tunneling rates",
+      "link": "https://phys.org/news/2026-09-helium-quantum-concept-faster-tunneling.html",
+      "desc": "Helium—the lightest atom that can be laser-cooled and controlled—powers a new design for high-powered, stable quantum computers.",
+      "date": "Sep 08, 2026",
+      "published_utc": "2026-09-08 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/helium-lifts-new-quant.jpg"
+    },
     {
       "topic": "Quantum",
       "source": "Phys.org Quantum",
@@ -41,6 +51,16 @@
       "date": "Sep 08, 2026",
       "published_utc": "2026-09-08 14:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/quantum-computing.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems",
+      "link": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+      "desc": "Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes “blow up.” But the massive result is not without controversy. The post AI Has Solved One of Math’s $1 Million Millennium Prize Problems first appeared on Quanta Magazine",
+      "date": "Sep 08, 2026",
+      "published_utc": "2026-09-08 08:43 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/AI-Navier-Stokes-Lede-cr-iStock-Default.jpg"
     },
     {
       "topic": "Geoscience",
