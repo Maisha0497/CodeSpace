@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-09 12:36 UTC",
+  "updated": "2026-09-09 18:30 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physics-aware benchmark reveals why similar materials AI models can predict thermal conductivity differently",
+      "link": "https://phys.org/news/2026-09-physics-aware-benchmark-reveals-similar.html",
+      "desc": "Material properties such as sound insulation, resistance to extreme heat and thermal expansion originate from how the zillions of microscopic building blocks (nuclei and electrons) interact at equilibrium and respond to perturbations. Atoms are typically about one ten-billionth of a meter across,…",
+      "date": "Sep 09, 2026",
+      "published_utc": "2026-09-09 15:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-for-materials-needs.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Layer-based design offers new route to topological magnets",
+      "link": "https://phys.org/news/2026-09-layer-based-route-topological-magnets.html",
+      "desc": "Topological quantum materials combine unusual electronic states with properties such as magnetism or superconductivity, offering possibilities for future electronics and quantum technologies. Researchers at Tohoku University have now shown that changing the number of layers in a crystal can provide…",
+      "date": "Sep 09, 2026",
+      "published_utc": "2026-09-09 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-route-for-designin.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -13,44 +33,34 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/helium-lifts-new-quant.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "A photon that challenges Einstein: According to current physics, it should never have reached Earth",
-      "link": "https://phys.org/news/2026-09-photon-einstein-current-physics-earth.html",
-      "desc": "How did a photon survive a journey of more than 2 billion light-years when, according to known physics, it should have been absorbed long before reaching Earth? This is the question at the heart of a new study by Giorgio Galanti (INAF) and Marco Roncadelli (INFN), accepted for publication in…",
-      "date": "Sep 08, 2026",
-      "published_utc": "2026-09-08 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-photon-that-challeng.jpg"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Could quantum protocols make electronic voting more secure?",
+      "link": "https://phys.org/news/2026-09-quantum-protocols-electronic-voting.html",
+      "desc": "Electronic voting, the use of electronic systems to cast, record or count votes, could potentially simplify the process of electing new political leaders or other representatives. While some countries have already started using internet-connected devices or electronic voting machines at polling…",
+      "date": "Sep 09, 2026",
+      "published_utc": "2026-09-09 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-quantum-protocol.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "What Is Math’s Mysterious Langlands Program Really About?",
+      "link": "https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/",
+      "desc": "Hidden correspondences hint at a deeper structure to the mathematical universe. Our columnist unpacks one of those connections and asks mathematicians what they might mean. The post What Is Math’s Mysterious Langlands Program Really About? first appeared on Quanta Magazine",
+      "date": "Sep 09, 2026",
+      "published_utc": "2026-09-09 14:44 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Qualia-Langlands-cr.Samuel-Velasco-Default.webp"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A new game demonstrates quantum advantage with provable classical limits",
-      "link": "https://phys.org/news/2026-09-game-quantum-advantage-provable-classical.html",
-      "desc": "For decades, physicists have worked to prove the strange predictions of quantum mechanics with real experiments. As quantum computers have grown more powerful, researchers have devised increasingly sophisticated ways to test whether these machines are truly harnessing quantum effects—but every…",
-      "date": "Sep 08, 2026",
-      "published_utc": "2026-09-08 14:50 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-make-a-gam.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Superfluid qubit could help scale up quantum computers",
-      "link": "https://phys.org/news/2026-09-superfluid-qubit-scale-quantum.html",
-      "desc": "Superfluid helium could offer a new way to tackle one of the biggest challenges in scaling up quantum computers, say researchers from the University of Surrey. The research team has introduced a conceptual design for a new type of qubit that could be much less vulnerable to errors.",
-      "date": "Sep 08, 2026",
-      "published_utc": "2026-09-08 14:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/quantum-computing.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Wastewater Can Take Harmful Algal Blooms from Bad to Worse",
-      "link": "https://eos.org/articles/wastewater-can-take-harmful-algal-blooms-from-bad-to-worse",
-      "desc": "By modeling toxic diatoms and coastal processes, scientists have discovered the degree to which nutrients from Southern California’s densely populated coast affect these blooms.",
-      "date": "Sep 08, 2026",
-      "published_utc": "2026-09-08 12:49 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/pseudo-nitzschia-diatoms-1024x576.jpg"
+      "title": "Tiny 2D cracks creep through materials before triggering sudden fracture, experiments reveal",
+      "link": "https://phys.org/news/2026-09-tiny-2d-materials-triggering-sudden.html",
+      "desc": "We have all seen something suddenly break: a phone screen cracks, a plastic object snaps or a piece of glass shatters. To our eyes, the failure seems to happen all at once. But what if the most important part of the break happens long before the final snap?",
+      "date": "Sep 09, 2026",
+      "published_utc": "2026-09-09 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-cracks-form-and-gr.jpg"
     },
     {
       "topic": "Earth Observation",
