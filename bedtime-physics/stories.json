@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 12:36 UTC",
+  "updated": "2026-09-10 18:28 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,22 +15,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Physics-aware benchmark reveals why similar materials AI models can predict thermal conductivity differently",
-      "link": "https://phys.org/news/2026-09-physics-aware-benchmark-reveals-similar.html",
-      "desc": "Material properties such as sound insulation, resistance to extreme heat and thermal expansion originate from how the zillions of microscopic building blocks (nuclei and electrons) interact at equilibrium and respond to perturbations. Atoms are typically about one ten-billionth of a meter across,…",
-      "date": "Sep 09, 2026",
-      "published_utc": "2026-09-09 15:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-for-materials-needs.jpg"
+      "title": "Spinons may help electrons pair along stripes in some superconductors",
+      "link": "https://phys.org/news/2026-09-spinons-electrons-pair-stripes-superconductors.html",
+      "desc": "Superconductors are materials that carry electricity with zero resistance below specific temperatures. Many of these materials become superconducting at very low temperatures, yet some enter superconducting phases at higher temperatures.",
+      "date": "Sep 10, 2026",
+      "published_utc": "2026-09-10 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spinons-may-help-elect.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Layer-based design offers new route to topological magnets",
-      "link": "https://phys.org/news/2026-09-layer-based-route-topological-magnets.html",
-      "desc": "Topological quantum materials combine unusual electronic states with properties such as magnetism or superconductivity, offering possibilities for future electronics and quantum technologies. Researchers at Tohoku University have now shown that changing the number of layers in a crystal can provide…",
-      "date": "Sep 09, 2026",
-      "published_utc": "2026-09-09 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-route-for-designin.jpg"
+      "title": "New pulse-train method aims to improve precision in quantum control",
+      "link": "https://phys.org/news/2026-09-pulse-method-aims-precision-quantum.html",
+      "desc": "Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses.",
+      "date": "Sep 10, 2026",
+      "published_utc": "2026-09-10 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stevens-researchers-ta.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Bringing hidden optical imperfections to light",
+      "link": "https://phys.org/news/2026-09-hidden-optical-imperfections.html",
+      "desc": "Tiny manufacturing imperfections in optical components normally go unnoticed. Yet they can alter light in surprisingly significant ways. An international research team led by TU Darmstadt has shown that such imperfections can affect not only polarization—the direction in which light oscillates—but…",
+      "date": "Sep 10, 2026",
+      "published_utc": "2026-09-10 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bringing-hidden-optica.jpg"
     },
     {
       "topic": "Physics",
@@ -45,32 +55,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Could quantum protocols make electronic voting more secure?",
-      "link": "https://phys.org/news/2026-09-quantum-protocols-electronic-voting.html",
-      "desc": "Electronic voting, the use of electronic systems to cast, record or count votes, could potentially simplify the process of electing new political leaders or other representatives. While some countries have already started using internet-connected devices or electronic voting machines at polling…",
-      "date": "Sep 09, 2026",
-      "published_utc": "2026-09-09 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-quantum-protocol.jpg"
+      "title": "1,000 times faster operations bring reliable quantum computing a step closer",
+      "link": "https://phys.org/news/2026-09-faster-reliable-quantum-closer.html",
+      "desc": "So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quantum operation takes, the greater the risk of computational errors.",
+      "date": "Sep 10, 2026",
+      "published_utc": "2026-09-10 17:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/1000-times-faster-oper.jpg"
     },
     {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
-      "title": "What Is Math’s Mysterious Langlands Program Really About?",
-      "link": "https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/",
-      "desc": "Hidden correspondences hint at a deeper structure to the mathematical universe. Our columnist unpacks one of those connections and asks mathematicians what they might mean. The post What Is Math’s Mysterious Langlands Program Really About? first appeared on Quanta Magazine",
-      "date": "Sep 09, 2026",
-      "published_utc": "2026-09-09 14:44 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Qualia-Langlands-cr.Samuel-Velasco-Default.webp"
+      "title": "The Four-Color Theorem Gets a Rare New Proof",
+      "link": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
+      "desc": "By revisiting the famous problem — which was controversially solved in the 1970s with the help of computers — mathematicians have gained important new insights into the nature of graphs. The post The Four-Color Theorem Gets a Rare New Proof first appeared on Quanta Magazine",
+      "date": "Sep 10, 2026",
+      "published_utc": "2026-09-10 14:27 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/4C-Theorem-cr-Vico-Santos-Default.webp"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Tiny 2D cracks creep through materials before triggering sudden fracture, experiments reveal",
-      "link": "https://phys.org/news/2026-09-tiny-2d-materials-triggering-sudden.html",
-      "desc": "We have all seen something suddenly break: a phone screen cracks, a plastic object snaps or a piece of glass shatters. To our eyes, the failure seems to happen all at once. But what if the most important part of the break happens long before the final snap?",
-      "date": "Sep 09, 2026",
-      "published_utc": "2026-09-09 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-cracks-form-and-gr.jpg"
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Ten quirky facts about plant fluorescence",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX/Ten_quirky_facts_about_plant_fluorescence",
+      "desc": "If you had to describe a plant, the first thing you might start with is its colour – and the first colour that usually comes to mind, is green. And indeed, by and large, plants appear green to our eyes because they contain chlorophyll, which absorbs blue and red light much more strongly than green…",
+      "date": "Sep 10, 2026",
+      "published_utc": "2026-09-10 12:45 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/detecting_plant_stress_from_space/27432809-1-eng-GB/Detecting_plant_stress_from_space_card_full.jpg"
     },
     {
       "topic": "Earth Observation",
