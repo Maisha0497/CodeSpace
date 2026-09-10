@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 00:57 UTC",
+  "updated": "2026-09-10 06:39 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -73,16 +73,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-cracks-form-and-gr.jpg"
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Anak Krakatau Rumbles Again",
-      "link": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/",
-      "desc": "A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality. The post Anak Krakatau Rumbles Again appeared first on NASA Science .",
-      "date": "Sep 09, 2026",
-      "published_utc": "2026-09-09 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/anak-krakatau-rumbles-again/krakatau_oli_20260905.jpg?w=2160&amp;h=1650&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
       "title": "Watch: FLEX and Sentinel-3C launch on Vega-C",
@@ -91,6 +81,16 @@
       "date": "Sep 09, 2026",
       "published_utc": "2026-09-09 09:56 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_fairing_opens_to_reveal_sentinel-3c_and_flex/27460042-1-eng-GB/Vega-C_fairing_opens_to_reveal_Sentinel-3C_and_FLEX_card_full.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Dust Storm Sweeps Over Mali",
+      "link": "https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/",
+      "desc": "At a time of year when dust storm activity winds down, a plume of dust blanketed parts of the West African nation and its neighbors. The post Dust Storm Sweeps Over Mali appeared first on NASA Science .",
+      "date": "Sep 10, 2026",
+      "published_utc": "2026-09-10 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/dust-storm-sweeps-over-mali/malidust_tmo_20260905.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
