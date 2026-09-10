@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 06:39 UTC",
+  "updated": "2026-09-10 12:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -71,16 +71,6 @@
       "date": "Sep 09, 2026",
       "published_utc": "2026-09-09 16:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-cracks-form-and-gr.jpg"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Watch: FLEX and Sentinel-3C launch on Vega-C",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Watch_FLEX_and_Sentinel-3C_launch_on_Vega-C",
-      "desc": "The European Space Agency’s FLEX satellite and the Copernicus Sentinel-3C satellite are scheduled to launch together aboard a Vega-C rocket on 15 September at 03:21 CEST (14 September at 22:21 local time). Watch the VV30 launch live from Europe’s Spaceport in French Guiana, with coverage starting…",
-      "date": "Sep 09, 2026",
-      "published_utc": "2026-09-09 09:56 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_fairing_opens_to_reveal_sentinel-3c_and_flex/27460042-1-eng-GB/Vega-C_fairing_opens_to_reveal_Sentinel-3C_and_FLEX_card_full.jpg"
     },
     {
       "topic": "Earth Observation",
