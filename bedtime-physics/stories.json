@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-10 18:28 UTC",
+  "updated": "2026-09-11 00:57 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "3D magnetic-field control reveals new way to tune spin textures",
-      "link": "https://phys.org/news/2026-09-3d-magnetic-field-reveals-tune.html",
-      "desc": "(Fe0.63Ni0.3Pd0.07)3P, or FNPP, is a magnetic material that exhibits complex magnetic structures even at room temperature. This makes the material of interest for spintronics, a field that could enable data processing with significantly lower energy consumption. One potential application is novel…",
-      "date": "Sep 09, 2026",
-      "published_utc": "2026-09-09 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-magnetic-field-expe.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,6 +11,16 @@
       "date": "Sep 10, 2026",
       "published_utc": "2026-09-10 14:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spinons-may-help-elect.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Ultra-cold quantum sensors cut X-ray uncertainty, improving nuclear material assessments",
+      "link": "https://phys.org/news/2026-09-ultra-cold-quantum-sensors-ray.html",
+      "desc": "To monitor the amount and type of nuclear material at power plants and weapons facilities, scientists look for a special signal—the unique pattern of gamma rays emitted by specific radioactive elements. However, some of these elements also emit X-rays in the same energy range as the gamma-ray…",
+      "date": "Sep 10, 2026",
+      "published_utc": "2026-09-10 23:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-array-of-sensors-ap.jpg"
     },
     {
       "topic": "Physics",
@@ -35,22 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Tightly guided atoms could enable low-power quantum navigation when GPS fails",
+      "link": "https://phys.org/news/2026-09-tightly-atoms-enable-power-quantum.html",
+      "desc": "Within tiny halos of light clinging to a vanishingly thin wisp of optical fiber, scientist Jongmin Lee guides atoms like marbles through a narrow pipe. Rock the fiber and the atoms shift side by side; they just don't fall off. But don't be deceived by the seemingly delicate nature of his…",
+      "date": "Sep 10, 2026",
+      "published_utc": "2026-09-10 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/jongmin-lee-adjusts-a.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Bringing hidden optical imperfections to light",
       "link": "https://phys.org/news/2026-09-hidden-optical-imperfections.html",
       "desc": "Tiny manufacturing imperfections in optical components normally go unnoticed. Yet they can alter light in surprisingly significant ways. An international research team led by TU Darmstadt has shown that such imperfections can affect not only polarization—the direction in which light oscillates—but…",
       "date": "Sep 10, 2026",
       "published_utc": "2026-09-10 17:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bringing-hidden-optica.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Unconventional quantum materials could dramatically boost the search for dark matter",
-      "link": "https://phys.org/news/2026-09-unconventional-quantum-materials-boost-dark.html",
-      "desc": "For decades, physicists have searched for dark matter, the invisible substance thought to make up roughly 85% of all matter in the universe. Although its gravitational influence shapes galaxies and the large-scale structure of the cosmos, dark matter has never been directly detected. Now, an…",
-      "date": "Sep 09, 2026",
-      "published_utc": "2026-09-09 23:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-quantum-materials.jpg"
     },
     {
       "topic": "Physics",
