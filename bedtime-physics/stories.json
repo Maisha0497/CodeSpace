@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11 06:39 UTC",
+  "updated": "2026-09-11 12:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -83,14 +83,14 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/detecting_plant_stress_from_space/27432809-1-eng-GB/Detecting_plant_stress_from_space_card_full.jpg"
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Monterrey Amid Mountains",
-      "link": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
-      "desc": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental. The post Monterrey Amid Mountains appeared first on NASA Science .",
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
+      "link": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
+      "desc": "On 15 September, two spacecraft will leave Earth together aboard the same launcher from Europe’s spaceport in Kourou: FLEX, ESA’s photosynthesis mission, and Sentinel-3C, Copernicus’ newest satellite monitoring Earth’s oceans, land, ice and atmosphere. At ESA’s European Space Operations Centre…",
       "date": "Sep 11, 2026",
-      "published_utc": "2026-09-11 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/monterrey-amid-mountains/ISS075-E-70481.jpg?w=2160&amp;h=1440&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "published_utc": "2026-09-11 08:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/teams_at_esoc_during_esa_s_flex_and_copernicus_sentinel-3c_launch_and_early_orbit_leop_simulations/27464737-3-eng-GB/Teams_at_ESOC_during_ESA_s_FLEX_and_Copernicus_Sentinel-3C_launch_and_early_orbit_LEOP_simulations_card_full.png"
     }
   ]
 }
