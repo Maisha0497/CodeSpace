@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-11 12:36 UTC",
+  "updated": "2026-09-11 18:29 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Spinons may help electrons pair along stripes in some superconductors",
-      "link": "https://phys.org/news/2026-09-spinons-electrons-pair-stripes-superconductors.html",
-      "desc": "Superconductors are materials that carry electricity with zero resistance below specific temperatures. Many of these materials become superconducting at very low temperatures, yet some enter superconducting phases at higher temperatures.",
-      "date": "Sep 10, 2026",
-      "published_utc": "2026-09-10 14:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spinons-may-help-elect.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,16 +11,6 @@
       "date": "Sep 10, 2026",
       "published_utc": "2026-09-10 23:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-array-of-sensors-ap.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New pulse-train method aims to improve precision in quantum control",
-      "link": "https://phys.org/news/2026-09-pulse-method-aims-precision-quantum.html",
-      "desc": "Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses.",
-      "date": "Sep 10, 2026",
-      "published_utc": "2026-09-10 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stevens-researchers-ta.jpg"
     },
     {
       "topic": "Physics",
@@ -45,42 +25,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Bringing hidden optical imperfections to light",
-      "link": "https://phys.org/news/2026-09-hidden-optical-imperfections.html",
-      "desc": "Tiny manufacturing imperfections in optical components normally go unnoticed. Yet they can alter light in surprisingly significant ways. An international research team led by TU Darmstadt has shown that such imperfections can affect not only polarization—the direction in which light oscillates—but…",
-      "date": "Sep 10, 2026",
-      "published_utc": "2026-09-10 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bringing-hidden-optica.jpg"
+      "title": "AI extracts interpretable constitutive laws directly from solid-mechanics data",
+      "link": "https://phys.org/news/2026-09-ai-constitutive-laws-solid-mechanics.html",
+      "desc": "Researchers at the Eastern Institute of Technology (EIT), Ningbo, have developed a graph-based approach that directly extracts concise, accurate constitutive equations from solid-material experimental data. The study, published in Science Advances, describes a method for discovering constitutive…",
+      "date": "Sep 11, 2026",
+      "published_utc": "2026-09-11 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-discovers-interpret.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "1,000 times faster operations bring reliable quantum computing a step closer",
-      "link": "https://phys.org/news/2026-09-faster-reliable-quantum-closer.html",
-      "desc": "So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quantum operation takes, the greater the risk of computational errors.",
-      "date": "Sep 10, 2026",
-      "published_utc": "2026-09-10 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/1000-times-faster-oper.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Physicists just found a tiny glitch in time itself",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
+      "desc": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
+      "date": "Sep 11, 2026",
+      "published_utc": "2026-09-11 05:18 UTC",
+      "image": ""
     },
     {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
-      "title": "The Four-Color Theorem Gets a Rare New Proof",
-      "link": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
-      "desc": "By revisiting the famous problem — which was controversially solved in the 1970s with the help of computers — mathematicians have gained important new insights into the nature of graphs. The post The Four-Color Theorem Gets a Rare New Proof first appeared on Quanta Magazine",
-      "date": "Sep 10, 2026",
-      "published_utc": "2026-09-10 14:27 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/4C-Theorem-cr-Vico-Santos-Default.webp"
+      "title": "Why Do These Fossil Shells Flip Their Spirals Every Few Millennia?",
+      "link": "https://www.quantamagazine.org/why-do-these-fossil-shells-flip-their-spirals-every-few-millennia-20260911/",
+      "desc": "The mystery of the flipping foraminifera may conceal a rarely observed evolutionary process playing out across the planet. The post Why Do These Fossil Shells Flip Their Spirals Every Few Millennia? first appeared on Quanta Magazine",
+      "date": "Sep 11, 2026",
+      "published_utc": "2026-09-11 14:14 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/FlippingForams-cr-Ada-Zejun-Shen-Default.webp"
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Ten quirky facts about plant fluorescence",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX/Ten_quirky_facts_about_plant_fluorescence",
-      "desc": "If you had to describe a plant, the first thing you might start with is its colour – and the first colour that usually comes to mind, is green. And indeed, by and large, plants appear green to our eyes because they contain chlorophyll, which absorbs blue and red light much more strongly than green…",
-      "date": "Sep 10, 2026",
-      "published_utc": "2026-09-10 12:45 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/detecting_plant_stress_from_space/27432809-1-eng-GB/Detecting_plant_stress_from_space_card_full.jpg"
+      "topic": "AI",
+      "source": "ScienceDaily AI",
+      "title": "Scientists just made quantum computer operations 1,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+      "desc": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+      "date": "Sep 11, 2026",
+      "published_utc": "2026-09-11 11:52 UTC",
+      "image": ""
     },
     {
       "topic": "Remote Sensing",
@@ -91,6 +71,16 @@
       "date": "Sep 11, 2026",
       "published_utc": "2026-09-11 08:00 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/teams_at_esoc_during_esa_s_flex_and_copernicus_sentinel-3c_launch_and_early_orbit_leop_simulations/27464737-3-eng-GB/Teams_at_ESOC_during_ESA_s_FLEX_and_Copernicus_Sentinel-3C_launch_and_early_orbit_LEOP_simulations_card_full.png"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Monterrey Amid Mountains",
+      "link": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
+      "desc": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental. The post Monterrey Amid Mountains appeared first on NASA Science .",
+      "date": "Sep 11, 2026",
+      "published_utc": "2026-09-11 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/monterrey-amid-mountains/ISS075-E-70481.jpg?w=2160&amp;h=1440&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
