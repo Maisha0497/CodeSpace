@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-12 12:31 UTC",
+  "updated": "2026-09-12 18:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "AI extracts interpretable constitutive laws directly from solid-mechanics data",
-      "link": "https://phys.org/news/2026-09-ai-constitutive-laws-solid-mechanics.html",
-      "desc": "Researchers at the Eastern Institute of Technology (EIT), Ningbo, have developed a graph-based approach that directly extracts concise, accurate constitutive equations from solid-material experimental data. The study, published in Science Advances, describes a method for discovering constitutive…",
-      "date": "Sep 11, 2026",
-      "published_utc": "2026-09-11 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-discovers-interpret.jpg"
+      "title": "Physicists turn classical light into a quantum machine for information processing",
+      "link": "https://phys.org/news/2026-09-physicists-classical-quantum-machine.html",
+      "desc": "Quantum computers promise to tackle problems that are extraordinarily difficult for today's computers. But there is a major obstacle: quantum systems are notoriously fragile. Noise, loss and even tiny disturbances can destroy the delicate behavior that gives them their power. Building systems with…",
+      "date": "Sep 12, 2026",
+      "published_utc": "2026-09-12 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-turn-light.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Why Do These Fossil Shells Flip Their Spirals Every Few Millennia?",
-      "link": "https://www.quantamagazine.org/why-do-these-fossil-shells-flip-their-spirals-every-few-millennia-20260911/",
-      "desc": "The mystery of the flipping foraminifera may conceal a rarely observed evolutionary process playing out across the planet. The post Why Do These Fossil Shells Flip Their Spirals Every Few Millennia? first appeared on Quanta Magazine",
-      "date": "Sep 11, 2026",
-      "published_utc": "2026-09-11 14:14 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/FlippingForams-cr-Ada-Zejun-Shen-Default.webp"
+      "topic": "Cool Math",
+      "source": "ScienceDaily Math",
+      "title": "Researchers find a Wordle strategy that wins 99% of the time",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm",
+      "desc": "Researchers at Binghamton University have developed a mathematical strategy that can solve Wordle with a 99% success rate. Instead of simply guessing words packed with common letters or choosing the most likely answer, the method uses Shannon entropy, a measure from information theory, to identify…",
+      "date": "Sep 12, 2026",
+      "published_utc": "2026-09-12 13:35 UTC",
+      "image": ""
     },
     {
       "topic": "Geoscience",
