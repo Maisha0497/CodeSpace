@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-11 18:29 UTC",
+  "updated": "2026-09-12 00:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Ultra-cold quantum sensors cut X-ray uncertainty, improving nuclear material assessments",
-      "link": "https://phys.org/news/2026-09-ultra-cold-quantum-sensors-ray.html",
-      "desc": "To monitor the amount and type of nuclear material at power plants and weapons facilities, scientists look for a special signal—the unique pattern of gamma rays emitted by specific radioactive elements. However, some of these elements also emit X-rays in the same energy range as the gamma-ray…",
-      "date": "Sep 10, 2026",
-      "published_utc": "2026-09-10 23:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-array-of-sensors-ap.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Tightly guided atoms could enable low-power quantum navigation when GPS fails",
-      "link": "https://phys.org/news/2026-09-tightly-atoms-enable-power-quantum.html",
-      "desc": "Within tiny halos of light clinging to a vanishingly thin wisp of optical fiber, scientist Jongmin Lee guides atoms like marbles through a narrow pipe. Rock the fiber and the atoms shift side by side; they just don't fall off. But don't be deceived by the seemingly delicate nature of his…",
-      "date": "Sep 10, 2026",
-      "published_utc": "2026-09-10 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/jongmin-lee-adjusts-a.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -53,6 +33,16 @@
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/FlippingForams-cr-Ada-Zejun-Shen-Default.webp"
     },
     {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Waves Play a Key Role for Lateral Stirring and Mixing of Ocean Tracers",
+      "link": "https://eos.org/editor-highlights/waves-play-a-key-role-for-lateral-stirring-and-mixing-of-ocean-tracers",
+      "desc": "Numerical models and theoretical considerations deliver new insights on how waves affect the movement of tracers in wave-rich environments.",
+      "date": "Sep 11, 2026",
+      "published_utc": "2026-09-11 19:19 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/09/silas-baisch-ceITO2rlDgc-unsplash-1024x576.png"
+    },
+    {
       "topic": "AI",
       "source": "ScienceDaily AI",
       "title": "Scientists just made quantum computer operations 1,000 times faster",
@@ -71,16 +61,6 @@
       "date": "Sep 11, 2026",
       "published_utc": "2026-09-11 08:00 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/teams_at_esoc_during_esa_s_flex_and_copernicus_sentinel-3c_launch_and_early_orbit_leop_simulations/27464737-3-eng-GB/Teams_at_ESOC_during_ESA_s_FLEX_and_Copernicus_Sentinel-3C_launch_and_early_orbit_LEOP_simulations_card_full.png"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Monterrey Amid Mountains",
-      "link": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
-      "desc": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental. The post Monterrey Amid Mountains appeared first on NASA Science .",
-      "date": "Sep 11, 2026",
-      "published_utc": "2026-09-11 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/monterrey-amid-mountains/ISS075-E-70481.jpg?w=2160&amp;h=1440&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
