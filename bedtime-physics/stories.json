@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12 00:56 UTC",
+  "updated": "2026-09-12 06:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Sep 11, 2026",
       "published_utc": "2026-09-11 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-discovers-interpret.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Physicists just found a tiny glitch in time itself",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
-      "desc": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
-      "date": "Sep 11, 2026",
-      "published_utc": "2026-09-11 05:18 UTC",
-      "image": ""
     },
     {
       "topic": "Math/Physics",
