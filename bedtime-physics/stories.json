@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-12 18:26 UTC",
+  "updated": "2026-09-13 01:04 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Unified framework shows thermoelectric performance depends on more than the material itself",
+      "link": "https://phys.org/news/2026-09-framework-thermoelectric-material.html",
+      "desc": "Thermoelectric materials can directly convert heat into electricity, making them promising for recovering waste heat from factories, vehicles and other sources. They can also transport heat when an electric current is applied through a phenomenon known as the Peltier effect. These properties have…",
+      "date": "Sep 12, 2026",
+      "published_utc": "2026-09-12 19:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/saitama-university-res-3.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,16 +31,6 @@
       "date": "Sep 12, 2026",
       "published_utc": "2026-09-12 13:35 UTC",
       "image": ""
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Waves Play a Key Role for Lateral Stirring and Mixing of Ocean Tracers",
-      "link": "https://eos.org/editor-highlights/waves-play-a-key-role-for-lateral-stirring-and-mixing-of-ocean-tracers",
-      "desc": "Numerical models and theoretical considerations deliver new insights on how waves affect the movement of tracers in wave-rich environments.",
-      "date": "Sep 11, 2026",
-      "published_utc": "2026-09-11 19:19 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/silas-baisch-ceITO2rlDgc-unsplash-1024x576.png"
     }
   ]
 }
