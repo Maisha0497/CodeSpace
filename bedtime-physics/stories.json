@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14 01:04 UTC",
+  "updated": "2026-09-14 06:50 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Sep 13, 2026",
       "published_utc": "2026-09-13 12:03 UTC",
       "image": ""
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "An Early Look at Fall Color in Canada",
+      "link": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
+      "desc": "Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut. The post An Early Look at Fall Color in Canada appeared first on NASA Science .",
+      "date": "Sep 14, 2026",
+      "published_utc": "2026-09-14 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-early-look-at-fall-color-in-canada/northerncanada_oli2_20260727.jpg"
     }
   ]
 }
