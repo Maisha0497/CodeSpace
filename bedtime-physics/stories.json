@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-14 12:37 UTC",
+  "updated": "2026-09-14 18:29 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Speedy electrons for brilliant laser light: Research paves the way for compact, inexpensive free-electron lasers",
+      "link": "https://phys.org/news/2026-09-speedy-electrons-brilliant-laser-paves.html",
+      "desc": "Extremely short, intense light flashes are in high demand to investigate atoms, molecules and new materials. Free-electron lasers (FELs) produce these flashes. But around the world, beam time available at large-scale user facilities is in short supply, and waiting times are long.",
+      "date": "Sep 14, 2026",
+      "published_utc": "2026-09-14 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/speedy-electrons-for-b.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Getting photons into shape for reliable quantum communication",
+      "link": "https://phys.org/news/2026-09-photons-reliable-quantum-communication.html",
+      "desc": "The vast majority of modern quantum technologies—from quantum cryptography to the quantum internet to the quantum computer—rely on one essential element: the transmission of photons. Two qubits (two atoms, for example) exchange information: One qubit emits a photon, and the other qubit absorbs it.",
+      "date": "Sep 14, 2026",
+      "published_utc": "2026-09-14 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/getting-photons-into-s.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Ultracold cesium atoms reveal Bethe strings predicted nearly a century ago",
+      "link": "https://phys.org/news/2026-09-ultracold-cesium-atoms-reveal-bethe.html",
+      "desc": "In 1931, physicist Hans Bethe predicted that, in certain one-dimensional quantum systems, particles can bind together to form multi-particle states known as Bethe strings. Unlike ordinary molecules, which are held together by chemical bonds, Bethe strings arise purely from interactions between…",
+      "date": "Sep 14, 2026",
+      "published_utc": "2026-09-14 12:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bethe-strings-observed-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physicists help uncover 'spooky' quantum effect in the Large Hadron Collider",
+      "link": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html",
+      "desc": "Physicists at the University of Oxford have helped confirm that one of the strangest phenomena in physics—quantum entanglement—occurs even among some of the heaviest and most fleeting particles ever created. The discovery, made using the world's most powerful particle collider at CERN, has been…",
+      "date": "Sep 14, 2026",
+      "published_utc": "2026-09-14 14:12 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oxford-physicists-help.jpg"
+    },
     {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
@@ -13,6 +53,16 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/esa_s_flex_mission_reveals_the_secret_glow_of_plants/27465436-1-eng-GB/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants_card_full.png"
     },
     {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’",
+      "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "desc": "The James Webb Space Telescope spots mysterious “little red dots” everywhere. A bold new theory suggests they’re suns dozens of times larger than our entire solar system. The post Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’ first appeared on Quanta…",
+      "date": "Sep 14, 2026",
+      "published_utc": "2026-09-14 15:20 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Black-Hole-Star-cr-Mark-Belan-Default-1.webp"
+    },
+    {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
       "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
@@ -21,6 +71,26 @@
       "date": "Sep 14, 2026",
       "published_utc": "2026-09-14 07:20 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "EPA Will Remove Carbon Dioxide Limits on Power Plants",
+      "link": "https://eos.org/research-and-developments/epa-will-remove-carbon-dioxide-limits-on-power-plants",
+      "desc": "Today, the Environmental Protection Agency will announce the repeal of federal limits on power plant carbon dioxide emissions, finalizing a proposed rule that the agency has been considering since last spring. The repeal means that coal-, oil-, and gas-powered electricity plants in the United…",
+      "date": "Sep 14, 2026",
+      "published_utc": "2026-09-14 16:09 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/09/lee-zeldin-youtube-1024x576.png"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "How the 2024 Solar Superstorm Drained Earth’s Radiation Belt",
+      "link": "https://eos.org/research-spotlights/how-the-2024-solar-superstorm-drained-earths-radiation-belt",
+      "desc": "Researchers dig into storm processes linked to dramatic electron loss from the outer Van Allen belt.",
+      "date": "Sep 14, 2026",
+      "published_utc": "2026-09-14 12:52 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/09/aurora-new-zealand-1024x576.jpg"
     }
   ]
 }
