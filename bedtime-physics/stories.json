@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-14 06:50 UTC",
+  "updated": "2026-09-14 12:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists are building a microscope powered by a quantum computer",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
-      "desc": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from each electron. The approach could reveal faint details with fewer electrons, helping protect fragile samples that conventional microscopy can damage.",
-      "date": "Sep 13, 2026",
-      "published_utc": "2026-09-13 12:03 UTC",
-      "image": ""
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "ESA’s FLEX mission reveals the secret glow of plants",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants",
+      "desc": "Video: 00:06:30 Plants may look still and silent, but every leaf is constantly responding to its environment. As plants photosynthesise, they emit an incredibly faint glow called fluorescence. Invisible to our eyes, this signal can reveal how plants are using sunlight and how they respond to heat,…",
+      "date": "Sep 14, 2026",
+      "published_utc": "2026-09-14 08:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/esa_s_flex_mission_reveals_the_secret_glow_of_plants/27465436-1-eng-GB/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants_card_full.png"
     },
     {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "An Early Look at Fall Color in Canada",
-      "link": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
-      "desc": "Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut. The post An Early Look at Fall Color in Canada appeared first on NASA Science .",
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C",
+      "desc": "Two Earth observation satellites – ESA’s Fluorescence Explorer (FLEX) satellite, and the third satellite for the Copernicus Sentinel-3 mission – are encapsulated inside the nose cone of a Vega-C launcher and are awaiting liftoff at Europe’s Spaceport in French Guiana.",
       "date": "Sep 14, 2026",
-      "published_utc": "2026-09-14 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-early-look-at-fall-color-in-canada/northerncanada_oli2_20260727.jpg"
+      "published_utc": "2026-09-14 07:20 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg"
     }
   ]
 }
