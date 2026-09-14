@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-13 18:27 UTC",
+  "updated": "2026-09-14 01:04 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Unified framework shows thermoelectric performance depends on more than the material itself",
-      "link": "https://phys.org/news/2026-09-framework-thermoelectric-material.html",
-      "desc": "Thermoelectric materials can directly convert heat into electricity, making them promising for recovering waste heat from factories, vehicles and other sources. They can also transport heat when an electric current is applied through a phenomenon known as the Peltier effect. These properties have…",
-      "date": "Sep 12, 2026",
-      "published_utc": "2026-09-12 19:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/saitama-university-res-3.jpg"
-    },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
