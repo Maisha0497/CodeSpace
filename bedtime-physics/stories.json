@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15 01:00 UTC",
+  "updated": "2026-09-15 06:41 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -75,22 +75,22 @@
     {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
+      "title": "FLEX and Sentinel-3C launched",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched",
+      "desc": "The European Space Agency’s FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes.",
+      "date": "Sep 15, 2026",
+      "published_utc": "2026-09-15 03:25 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_takes_flex_and_sentinel-3c_into_orbit/27517898-2-eng-GB/Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit_card_full.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
       "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
       "link": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C",
       "desc": "Two Earth observation satellites – ESA’s Fluorescence Explorer (FLEX) satellite, and the third satellite for the Copernicus Sentinel-3 mission – are encapsulated inside the nose cone of a Vega-C launcher and are awaiting liftoff at Europe’s Spaceport in French Guiana.",
       "date": "Sep 14, 2026",
       "published_utc": "2026-09-14 07:20 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "EPA Will Remove Carbon Dioxide Limits on Power Plants",
-      "link": "https://eos.org/research-and-developments/epa-will-remove-carbon-dioxide-limits-on-power-plants",
-      "desc": "Today, the Environmental Protection Agency will announce the repeal of federal limits on power plant carbon dioxide emissions, finalizing a proposed rule that the agency has been considering since last spring. The repeal means that coal-, oil-, and gas-powered electricity plants in the United…",
-      "date": "Sep 14, 2026",
-      "published_utc": "2026-09-14 16:09 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/lee-zeldin-youtube-1024x576.png"
     }
   ]
 }
