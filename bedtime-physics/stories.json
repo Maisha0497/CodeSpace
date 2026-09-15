@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14 18:29 UTC",
+  "updated": "2026-09-15 01:00 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -43,6 +43,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oxford-physicists-help.jpg"
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "From atomic vibrations to laboratory mechanics: Bridging 20 orders of magnitude in time",
+      "link": "https://phys.org/news/2026-09-atomic-vibrations-laboratory-mechanics-bridging.html",
+      "desc": "How can we predict the way a real material, such as a polymer, responds mechanically over timescales ranging from the ultrafast motion of atoms to the slow deformations measured in a laboratory? This is a deceptively difficult problem.",
+      "date": "Sep 14, 2026",
+      "published_utc": "2026-09-14 22:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-atomic-vibrations.jpg"
+    },
+    {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
       "title": "ESA’s FLEX mission reveals the secret glow of plants",
@@ -81,16 +91,6 @@
       "date": "Sep 14, 2026",
       "published_utc": "2026-09-14 16:09 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/09/lee-zeldin-youtube-1024x576.png"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "How the 2024 Solar Superstorm Drained Earth’s Radiation Belt",
-      "link": "https://eos.org/research-spotlights/how-the-2024-solar-superstorm-drained-earths-radiation-belt",
-      "desc": "Researchers dig into storm processes linked to dramatic electron loss from the outer Van Allen belt.",
-      "date": "Sep 14, 2026",
-      "published_utc": "2026-09-14 12:52 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/aurora-new-zealand-1024x576.jpg"
     }
   ]
 }
