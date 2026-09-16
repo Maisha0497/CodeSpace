@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16 12:36 UTC",
+  "updated": "2026-09-16 18:32 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,6 +25,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Dual findings reveal how to control coherence in plasmonic nanolasers",
+      "link": "https://phys.org/news/2026-09-dual-reveal-coherence-plasmonic-nanolasers.html",
+      "desc": "Researchers at the University of Eastern Finland have uncovered two complementary mechanisms that govern coherence in miniaturized lasers composed of metallic nanoparticle arrays incorporated into an optical gain material, also known as plasmonic lattice lasers.",
+      "date": "Sep 16, 2026",
+      "published_utc": "2026-09-16 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-dual-disc.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "New simulations link unusual particle diffusion to yielding in soft jammed matter",
       "link": "https://phys.org/news/2026-09-simulations-link-unusual-particle-diffusion.html",
       "desc": "Soft materials such as colloidal suspensions, emulsions, foams and gels often display complex and unusual behaviors compared with ordinary solids or liquids. From a mechanical point of view, for instance, they can resist deformation like solids, but they can also start to flow like liquids when a…",
@@ -33,24 +43,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-jammed-matter-sta.jpg"
     },
     {
-      "topic": "Cool Math",
-      "source": "ScienceDaily Math",
-      "title": "The shape behind the Einstein problem just revealed strange new physics",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
-      "desc": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
-      "date": "Sep 15, 2026",
-      "published_utc": "2026-09-15 13:14 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "Novel particle beam could challenge Einstein's theory of gravity",
-      "link": "https://phys.org/news/2026-09-particle-einstein-theory-gravity.html",
-      "desc": "Does gravity act equally on all particles in the universe, or are there differences between ordinary and exotic matter? Physics professor Anna Soter and her team at ETH Zurich and the Paul Scherrer Institute (PSI) in Villigen are investigating this question. \"We have taken an important step toward…",
-      "date": "Sep 15, 2026",
-      "published_utc": "2026-09-15 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-particle-beam-co.jpg"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Heating mica to 200°C reveals friction independent of sliding speed",
+      "link": "https://phys.org/news/2026-09-mica-200c-reveals-friction-independent.html",
+      "desc": "Through joint research with the U.S. Geological Survey and the University of Tokyo, NIMS for the first time experimentally demonstrated friction completely independent of sliding velocity—an ideal that had never been realized—by heating mica, a layered oxide also used as a lubricant material, to…",
+      "date": "Sep 16, 2026",
+      "published_utc": "2026-09-16 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/observation-of-behavio.jpg"
     },
     {
       "topic": "Physics",
@@ -63,6 +63,26 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wie-sich-bewegte-atome.jpg"
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "How some cyclists paradoxically start 'from rest' with a non-zero velocity",
+      "link": "https://phys.org/news/2026-09-cyclists-paradoxically-rest-velocity.html",
+      "desc": "Some track cyclists appear to break the rules of physics, but a new study, published in the journal Royal Society Open Science, has created a model explaining the illusion. The results suggest that a quick succession of well-timed moves can help cyclists get a head start without actually breaking…",
+      "date": "Sep 16, 2026",
+      "published_utc": "2026-09-16 15:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-some-cyclists-para.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.",
+      "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+      "desc": "Comb jellies are helping answer fundamental questions in biology, from how the earliest nervous systems evolved to how bioluminescence works. The post Ctenophores Aren’t Just Beautiful. They’re Biological Wonders. first appeared on Quanta Magazine",
+      "date": "Sep 16, 2026",
+      "published_utc": "2026-09-16 15:56 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2042/09/ImageGallery_CombJellies-crAlexanderSemenov_AquatilisExpedition-Default.webp"
+    },
+    {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
       "title": "Faster-flowing glaciers fuel decades of polar ice loss",
@@ -71,26 +91,6 @@
       "date": "Sep 16, 2026",
       "published_utc": "2026-09-16 09:00 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/thwaits_glacier_antarctica/27521504-1-eng-GB/Thwaits_Glacier_Antarctica_card_full.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Purple Haze Aurora",
-      "link": "https://science.nasa.gov/earth/earth-observatory/purple-haze-aurora/",
-      "desc": "'Scuse me while some charged particles kiss the sky. The post Purple Haze Aurora appeared first on NASA Science .",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/purple-haze-aurora/ISS075-E-88592.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "We’ve Lost 11 Trillion Metric Tons of Ice Since the 1980s",
-      "link": "https://eos.org/research-and-developments/weve-lost-11-trillion-metric-tons-of-ice-since-the-1980s",
-      "desc": "Researchers have calculated that Greenland and Antarctica have lost 11 trillion metric tons of ice since the 1970s, which has led to a global rise in sea level of more than 3 centimeters.",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 10:53 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/greenland_meltponds_oli2_20250702_lrg-resize-1024x576.jpg"
     }
   ]
 }
