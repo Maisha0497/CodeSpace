@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-15 18:28 UTC",
+  "updated": "2026-09-16 00:59 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Magnets could help quantum computers talk to each other, says researcher",
+      "link": "https://phys.org/news/2026-09-magnets-quantum.html",
+      "desc": "Xufeng Zhang is using magnets to make computers more power efficient at the quantum level. The Northeastern professor of electrical and computer engineering recently published two papers highlighting small-scale magnetic systems he and his team developed that could help make computers much more…",
+      "date": "Sep 15, 2026",
+      "published_utc": "2026-09-15 20:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnets-could-help-qua.jpg"
+    },
     {
       "topic": "Cool Math",
       "source": "ScienceDaily Math",
@@ -13,16 +23,6 @@
       "image": ""
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "From atomic vibrations to laboratory mechanics: Bridging 20 orders of magnitude in time",
-      "link": "https://phys.org/news/2026-09-atomic-vibrations-laboratory-mechanics-bridging.html",
-      "desc": "How can we predict the way a real material, such as a polymer, responds mechanically over timescales ranging from the ultrafast motion of atoms to the slow deformations measured in a laboratory? This is a deceptively difficult problem.",
-      "date": "Sep 14, 2026",
-      "published_utc": "2026-09-14 22:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-atomic-vibrations.jpg"
-    },
-    {
       "topic": "Quantum",
       "source": "Phys.org Quantum",
       "title": "Novel particle beam could challenge Einstein's theory of gravity",
@@ -31,6 +31,16 @@
       "date": "Sep 15, 2026",
       "published_utc": "2026-09-15 13:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-particle-beam-co.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Disordered atoms steer shared light pulses by matching motion and timing",
+      "link": "https://phys.org/news/2026-09-disordered-atoms-pulses-motion.html",
+      "desc": "A research team at the Institute of Applied Physics at TU Darmstadt has shown for the first time that atoms that are completely disordered and in constant motion can nevertheless emit jointly directed light preferentially in one direction—even though neither the atoms nor their environment exhibit…",
+      "date": "Sep 15, 2026",
+      "published_utc": "2026-09-15 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wie-sich-bewegte-atome.jpg"
     },
     {
       "topic": "Remote Sensing",
@@ -47,7 +57,7 @@
       "source": "ESA Observing Earth",
       "title": "Relive the launch of FLEX and Sentinel-3C",
       "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Relive_the_launch_of_FLEX_and_Sentinel-3C",
-      "desc": "Video: 00:00:00 Watch the full replay of the launch of ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite. Both were launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation…",
+      "desc": "Video: 03:37:00 Watch the full replay of the launch of ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite. Both were launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation…",
       "date": "Sep 15, 2026",
       "published_utc": "2026-09-15 05:00 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/relive_the_launch_of_flex_and_sentinel-3c/27517955-7-eng-GB/Relive_the_launch_of_FLEX_and_Sentinel-3C_card_full.jpg"
