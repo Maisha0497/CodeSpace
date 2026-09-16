@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16 06:41 UTC",
+  "updated": "2026-09-16 12:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,6 +21,16 @@
       "date": "Sep 15, 2026",
       "published_utc": "2026-09-15 20:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnets-could-help-qua.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New simulations link unusual particle diffusion to yielding in soft jammed matter",
+      "link": "https://phys.org/news/2026-09-simulations-link-unusual-particle-diffusion.html",
+      "desc": "Soft materials such as colloidal suspensions, emulsions, foams and gels often display complex and unusual behaviors compared with ordinary solids or liquids. From a mechanical point of view, for instance, they can resist deformation like solids, but they can also start to flow like liquids when a…",
+      "date": "Sep 16, 2026",
+      "published_utc": "2026-09-16 09:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-jammed-matter-sta.jpg"
     },
     {
       "topic": "Cool Math",
@@ -55,12 +65,12 @@
     {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
-      "title": "FLEX and Sentinel-3C launch highlights",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights",
-      "desc": "Video: 00:03:22 ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes. Flight VV30 lifted off on 15…",
-      "date": "Sep 15, 2026",
-      "published_utc": "2026-09-15 07:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/flex_and_sentinel-3c_launch_highlights/27518045-5-eng-GB/FLEX_and_Sentinel-3C_launch_highlights_card_full.png"
+      "title": "Faster-flowing glaciers fuel decades of polar ice loss",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Faster-flowing_glaciers_fuel_decades_of_polar_ice_loss",
+      "desc": "The longest satellite data record of ice-sheet change ever assembled has revealed that Greenland and Antarctica have lost a staggering 11 trillion tonnes of ice since the 1970s, driving global sea level up by more than three centimetres. However, the new findings also highlight that the story is…",
+      "date": "Sep 16, 2026",
+      "published_utc": "2026-09-16 09:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/thwaits_glacier_antarctica/27521504-1-eng-GB/Thwaits_Glacier_Antarctica_card_full.jpg"
     },
     {
       "topic": "Earth Observation",
@@ -71,6 +81,16 @@
       "date": "Sep 16, 2026",
       "published_utc": "2026-09-16 04:01 UTC",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/purple-haze-aurora/ISS075-E-88592.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "We’ve Lost 11 Trillion Metric Tons of Ice Since the 1980s",
+      "link": "https://eos.org/research-and-developments/weve-lost-11-trillion-metric-tons-of-ice-since-the-1980s",
+      "desc": "Researchers have calculated that Greenland and Antarctica have lost 11 trillion metric tons of ice since the 1970s, which has led to a global rise in sea level of more than 3 centimeters.",
+      "date": "Sep 16, 2026",
+      "published_utc": "2026-09-16 10:53 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/09/greenland_meltponds_oli2_20250702_lrg-resize-1024x576.jpg"
     }
   ]
 }
