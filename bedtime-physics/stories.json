@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-17 12:36 UTC",
+  "updated": "2026-09-17 18:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Diamond quantum sensors can detect heart magnetism at room temperature without skin contact",
+      "link": "https://phys.org/news/2026-09-diamond-quantum-sensors-heart-magnetism.html",
+      "desc": "Physicists at Johannes Gutenberg University Mainz (JGU) have developed a technology that uses quantum sensors to measure biomagnetic signals, such as heart activity. Researchers from the DIAQNOS (DIAmond-based Quantum Sensing for NeurOSurgery) flagship project, coordinated by Dr. Arne Wickenbrock…",
+      "date": "Sep 17, 2026",
+      "published_utc": "2026-09-17 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diamond-magnetometers.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -15,22 +25,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Dual findings reveal how to control coherence in plasmonic nanolasers",
-      "link": "https://phys.org/news/2026-09-dual-reveal-coherence-plasmonic-nanolasers.html",
-      "desc": "Researchers at the University of Eastern Finland have uncovered two complementary mechanisms that govern coherence in miniaturized lasers composed of metallic nanoparticle arrays incorporated into an optical gain material, also known as plasmonic lattice lasers.",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-dual-disc.jpg"
+      "title": "Robotic lab sets up and runs optics experiments on demand",
+      "link": "https://phys.org/news/2026-09-robotic-lab-optics-demand.html",
+      "desc": "Every new generation of phone display, television screen and solar panel is the result of precision optics experiments, which use lasers and other light sources to measure the optical properties of candidate materials. These experiments can take months to run, requiring scientists to meticulously…",
+      "date": "Sep 17, 2026",
+      "published_utc": "2026-09-17 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/robotic-lab-sets-up-an.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "A $100 detector can see invisible particles raining down from space",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260917003725.htm",
+      "desc": "A pocket-sized, roughly $100 detector can reveal the invisible stream of cosmic particles constantly passing through Earth and even through our bodies. What began as a student physics project is now being used in major experiments, balloon missions, and potentially future spacecraft.",
+      "date": "Sep 17, 2026",
+      "published_utc": "2026-09-17 13:54 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Where Does the Quantum World End and Ours Begin?",
+      "link": "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
+      "desc": "Jonathan Halliwell explains how quantum decoherence is key to understanding how we transition from a world with a wave-like nature of matter and energy to the classical macroscopic world that we’re used to. The post Where Does the Quantum World End and Ours Begin? first appeared on Quanta Magazine",
+      "date": "Sep 17, 2026",
+      "published_utc": "2026-09-17 15:09 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E8-cr-Chanelle-Nibbelink-Default-NO-LOGO.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Heating mica to 200°C reveals friction independent of sliding speed",
-      "link": "https://phys.org/news/2026-09-mica-200c-reveals-friction-independent.html",
-      "desc": "Through joint research with the U.S. Geological Survey and the University of Tokyo, NIMS for the first time experimentally demonstrated friction completely independent of sliding velocity—an ideal that had never been realized—by heating mica, a layered oxide also used as a lubricant material, to…",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/observation-of-behavio.jpg"
+      "title": "New benchmark puts quantum computers to the test and reveals their limitations",
+      "link": "https://phys.org/news/2026-09-benchmark-quantum-reveals-limitations.html",
+      "desc": "Quantum computers are no longer theoretical concepts. Today, they are being developed to tackle a range of complex problems, including exploring financial risk, modeling complex molecules and optimizing massive logistics networks. However, until now, there has been no way to benchmark the…",
+      "date": "Sep 17, 2026",
+      "published_utc": "2026-09-17 17:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-benchmark-puts-qua-3.jpg"
     },
     {
       "topic": "Physics",
@@ -45,52 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Sliding droplets point to charging mechanism beyond mobile ions",
-      "link": "https://phys.org/news/2026-09-droplets-mechanism-mobile-ions.html",
-      "desc": "Whether on a windowpane at home or during the industrial cleaning of computer chips: droplets sliding over solid surfaces become electrically charged. Yet the physical mechanism behind this charging remains a subject of debate. This charging is usually attributed to the exchange of charged…",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 18:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drops-of-various-liqui.jpg"
+      "title": "Is dark matter 'natural?' Physicist puts the question to the test",
+      "link": "https://phys.org/news/2026-09-dark-natural-physicist.html",
+      "desc": "Dark matter is one of the oldest open problems in physics. It makes up most of the matter in the universe and shapes how galaxies form and move, yet no one has ever directly detected it. Physicists have proposed dozens of candidates to explain it: exotic new particles, black holes formed moments…",
+      "date": "Sep 17, 2026",
+      "published_utc": "2026-09-17 14:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/is-dark-matter-natural.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "How some cyclists paradoxically start 'from rest' with a non-zero velocity",
-      "link": "https://phys.org/news/2026-09-cyclists-paradoxically-rest-velocity.html",
-      "desc": "Some track cyclists appear to break the rules of physics, but a new study, published in the journal Royal Society Open Science, has created a model explaining the illusion. The results suggest that a quick succession of well-timed moves can help cyclists get a head start without actually breaking…",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 15:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-some-cyclists-para.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Roll waves emerge as uniform water flow destabilizes on steep slopes, equations show",
-      "link": "https://phys.org/news/2026-09-emerge-uniform-destabilizes-steep-slopes.html",
-      "desc": "When it rains, traveling waves appear on steep asphalt pavement, slowly making their way down the slope. Because these so-called \"roll waves\" propagate without deforming and are typically characterized by abrupt discontinuities, they play an important role in hydraulic engineering. Understanding…",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rain-on-pavement.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.",
-      "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
-      "desc": "Comb jellies are helping answer fundamental questions in biology, from how the earliest nervous systems evolved to how bioluminescence works. The post Ctenophores Aren’t Just Beautiful. They’re Biological Wonders. first appeared on Quanta Magazine",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 15:56 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2042/09/ImageGallery_CombJellies-crAlexanderSemenov_AquatilisExpedition-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Mobile trap transports 92 antiprotons by road and stores them for over a month in world first",
-      "link": "https://phys.org/news/2026-09-mobile-antiprotons-road-month-world.html",
-      "desc": "In March 2026, scientists succeeded in transporting antiprotons by road for the first time in a purpose-built trap loaded on a truck. The BASE collaboration, which realized this experiment at the European Organization for Nuclear Research (CERN) in Geneva under the lead of Professor Dr Stefan Ulmer…",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 22:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/successful-storage-of.jpg"
+      "title": "Real-time quantum jump in sound observed for first time",
+      "link": "https://phys.org/news/2026-09-real-quantum.html",
+      "desc": "A Stanford team has documented the first direct observation of quantum jumps of sound in a mechanical resonator, completing an arc of scientific exploration that started more than 100 years ago.",
+      "date": "Sep 17, 2026",
+      "published_utc": "2026-09-17 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/1-quantummecha.jpg"
     }
   ]
 }
