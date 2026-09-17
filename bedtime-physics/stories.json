@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16 18:32 UTC",
+  "updated": "2026-09-17 00:59 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,12 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Magnets could help quantum computers talk to each other, says researcher",
-      "link": "https://phys.org/news/2026-09-magnets-quantum.html",
-      "desc": "Xufeng Zhang is using magnets to make computers more power efficient at the quantum level. The Northeastern professor of electrical and computer engineering recently published two papers highlighting small-scale magnetic systems he and his team developed that could help make computers much more…",
-      "date": "Sep 15, 2026",
-      "published_utc": "2026-09-15 20:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnets-could-help-qua.jpg"
+      "title": "Hot electrons reveal electronic collisions may raise resistance in twisted graphene",
+      "link": "https://phys.org/news/2026-09-hot-electrons-reveal-electronic-collisions.html",
+      "desc": "When a material heats up, its electrical resistance often rises. The harder question is what, exactly, is getting in the way. The electrons carrying the current may be scattered by vibrations of the material's atomic lattice, known as phonons. They may also collide with one another. Frustratingly,…",
+      "date": "Sep 16, 2026",
+      "published_utc": "2026-09-16 23:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hot-electrons-cold-lat.jpg"
     },
     {
       "topic": "Physics",
@@ -55,12 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Disordered atoms steer shared light pulses by matching motion and timing",
-      "link": "https://phys.org/news/2026-09-disordered-atoms-pulses-motion.html",
-      "desc": "A research team at the Institute of Applied Physics at TU Darmstadt has shown for the first time that atoms that are completely disordered and in constant motion can nevertheless emit jointly directed light preferentially in one direction—even though neither the atoms nor their environment exhibit…",
-      "date": "Sep 15, 2026",
-      "published_utc": "2026-09-15 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wie-sich-bewegte-atome.jpg"
+      "title": "Circular Rydberg atoms set three records, staying stable for 11 milliseconds",
+      "link": "https://phys.org/news/2026-09-circular-rydberg-atoms-staying-stable.html",
+      "desc": "Rydberg atoms are considered promising building blocks for quantum computers and their precursors, quantum simulators. Researchers at the 5th Institute of Physics of the University of Stuttgart have achieved record values for the lifetime, size, and storage time of circular Rydberg atoms, a special…",
+      "date": "Sep 16, 2026",
+      "published_utc": "2026-09-16 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-world-records-in-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Sliding droplets point to charging mechanism beyond mobile ions",
+      "link": "https://phys.org/news/2026-09-droplets-mechanism-mobile-ions.html",
+      "desc": "Whether on a windowpane at home or during the industrial cleaning of computer chips: droplets sliding over solid surfaces become electrically charged. Yet the physical mechanism behind this charging remains a subject of debate. This charging is usually attributed to the exchange of charged…",
+      "date": "Sep 16, 2026",
+      "published_utc": "2026-09-16 18:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drops-of-various-liqui.jpg"
     },
     {
       "topic": "Physics",
@@ -73,24 +83,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-some-cyclists-para.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.",
-      "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
-      "desc": "Comb jellies are helping answer fundamental questions in biology, from how the earliest nervous systems evolved to how bioluminescence works. The post Ctenophores Aren’t Just Beautiful. They’re Biological Wonders. first appeared on Quanta Magazine",
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Roll waves emerge as uniform water flow destabilizes on steep slopes, equations show",
+      "link": "https://phys.org/news/2026-09-emerge-uniform-destabilizes-steep-slopes.html",
+      "desc": "When it rains, traveling waves appear on steep asphalt pavement, slowly making their way down the slope. Because these so-called \"roll waves\" propagate without deforming and are typically characterized by abrupt discontinuities, they play an important role in hydraulic engineering. Understanding…",
       "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 15:56 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2042/09/ImageGallery_CombJellies-crAlexanderSemenov_AquatilisExpedition-Default.webp"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Faster-flowing glaciers fuel decades of polar ice loss",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Faster-flowing_glaciers_fuel_decades_of_polar_ice_loss",
-      "desc": "The longest satellite data record of ice-sheet change ever assembled has revealed that Greenland and Antarctica have lost a staggering 11 trillion tonnes of ice since the 1970s, driving global sea level up by more than three centimetres. However, the new findings also highlight that the story is…",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 09:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/thwaits_glacier_antarctica/27521504-1-eng-GB/Thwaits_Glacier_Antarctica_card_full.jpg"
+      "published_utc": "2026-09-16 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rain-on-pavement.jpg"
     }
   ]
 }
