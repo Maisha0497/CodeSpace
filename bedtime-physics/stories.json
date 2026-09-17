@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-17 00:59 UTC",
+  "updated": "2026-09-17 06:41 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Study explores new photonics advance: Topology imprinting in nonlinear metasurfaces",
-      "link": "https://phys.org/news/2026-09-explores-photonics-advance-topology-imprinting.html",
-      "desc": "Light is traditionally described by properties such as wavelength, amplitude, phase and polarization. Advances in optics have shown that light can also be shaped into complex spatial patterns known as structured light, enabling new ways to carry information and interact with matter for applications…",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 01:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-explores-new-pho.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -91,6 +81,16 @@
       "date": "Sep 16, 2026",
       "published_utc": "2026-09-16 21:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rain-on-pavement.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.",
+      "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+      "desc": "Comb jellies are helping answer fundamental questions in biology, from how the earliest nervous systems evolved to how bioluminescence works. The post Ctenophores Aren’t Just Beautiful. They’re Biological Wonders. first appeared on Quanta Magazine",
+      "date": "Sep 16, 2026",
+      "published_utc": "2026-09-16 15:56 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2042/09/ImageGallery_CombJellies-crAlexanderSemenov_AquatilisExpedition-Default.webp"
     }
   ]
 }
