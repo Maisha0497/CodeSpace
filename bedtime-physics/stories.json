@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-17 18:31 UTC",
+  "updated": "2026-09-18 00:58 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A new bridge for quantum networks: Physicists convert microwaves to light using 2D magnets",
+      "link": "https://phys.org/news/2026-09-bridge-quantum-networks-physicists-microwaves.html",
+      "desc": "Physicists at The City College of New York have demonstrated a new way to transfer microwave signals onto light using magnetic waves inside a layered semiconductor. The work establishes a materials platform for building interfaces that could one day link quantum computers through optical networks.…",
+      "date": "Sep 17, 2026",
+      "published_utc": "2026-09-17 20:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-bridge-for-quant-2.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -15,12 +25,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Hot electrons reveal electronic collisions may raise resistance in twisted graphene",
-      "link": "https://phys.org/news/2026-09-hot-electrons-reveal-electronic-collisions.html",
-      "desc": "When a material heats up, its electrical resistance often rises. The harder question is what, exactly, is getting in the way. The electrons carrying the current may be scattered by vibrations of the material's atomic lattice, known as phonons. They may also collide with one another. Frustratingly,…",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 23:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hot-electrons-cold-lat.jpg"
+      "title": "Disorder is key to tuning a high-temperature superconductor",
+      "link": "https://phys.org/news/2026-09-disorder-key-tuning-high-temperature.html",
+      "desc": "Cornell physicists have discovered that minimizing disorder, not varying electron count, is the key factor for controlling superconductivity in the unique material iron selenide (FeSe), a new insight for understanding high-temperature superconductors.",
+      "date": "Sep 17, 2026",
+      "published_utc": "2026-09-17 20:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/person-working-to-adju.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "What kills Schrödinger's cat? Underground experiment rules out gravity model for quantum decoherence",
+      "link": "https://phys.org/news/2026-09-schrdinger-cat-underground-gravity-quantum.html",
+      "desc": "Somewhere between the microscopic realm of elementary particles and the macroscopic world of human beings, something strange happens: The rules of quantum physics, which work so exquisitely for tiny atoms, seem to lose their grip as objects grow larger. Pondering where and how this shift from…",
+      "date": "Sep 17, 2026",
+      "published_utc": "2026-09-17 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-kills-schrdingers.jpg"
     },
     {
       "topic": "Physics",
@@ -55,42 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New benchmark puts quantum computers to the test and reveals their limitations",
-      "link": "https://phys.org/news/2026-09-benchmark-quantum-reveals-limitations.html",
-      "desc": "Quantum computers are no longer theoretical concepts. Today, they are being developed to tackle a range of complex problems, including exploring financial risk, modeling complex molecules and optimizing massive logistics networks. However, until now, there has been no way to benchmark the…",
+      "title": "Close-up images show defects locking electrons into stable Wigner solids",
+      "link": "https://phys.org/news/2026-09-images-defects-electrons-stable-wigner.html",
+      "desc": "A team of researchers led by the U.S. Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) developed an approach that enabled them to directly observe how electrons interact with defects in advanced semiconductor devices in unprecedented detail. The team's methodology…",
       "date": "Sep 17, 2026",
-      "published_utc": "2026-09-17 17:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-benchmark-puts-qua-3.jpg"
+      "published_utc": "2026-09-17 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/close-up-images-show-d.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Circular Rydberg atoms set three records, staying stable for 11 milliseconds",
-      "link": "https://phys.org/news/2026-09-circular-rydberg-atoms-staying-stable.html",
-      "desc": "Rydberg atoms are considered promising building blocks for quantum computers and their precursors, quantum simulators. Researchers at the 5th Institute of Physics of the University of Stuttgart have achieved record values for the lifetime, size, and storage time of circular Rydberg atoms, a special…",
-      "date": "Sep 16, 2026",
-      "published_utc": "2026-09-16 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-world-records-in-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Is dark matter 'natural?' Physicist puts the question to the test",
-      "link": "https://phys.org/news/2026-09-dark-natural-physicist.html",
-      "desc": "Dark matter is one of the oldest open problems in physics. It makes up most of the matter in the universe and shapes how galaxies form and move, yet no one has ever directly detected it. Physicists have proposed dozens of candidates to explain it: exotic new particles, black holes formed moments…",
+      "title": "Chemists overturn 40-year assumption about a key class of superconductors",
+      "link": "https://phys.org/news/2026-09-chemists-overturn-year-assumption-key.html",
+      "desc": "Scientists at Warwick have shown that a material treated for 40 years as a uniform, textbook superconductor is in fact a patchwork of different crystal structures throughout its bulk, using an advanced 3D imaging technique to see deep inside the crystal for the first time.",
       "date": "Sep 17, 2026",
-      "published_utc": "2026-09-17 14:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/is-dark-matter-natural.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Real-time quantum jump in sound observed for first time",
-      "link": "https://phys.org/news/2026-09-real-quantum.html",
-      "desc": "A Stanford team has documented the first direct observation of quantum jumps of sound in a mechanical resonator, completing an arc of scientific exploration that started more than 100 years ago.",
-      "date": "Sep 17, 2026",
-      "published_utc": "2026-09-17 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/1-quantummecha.jpg"
+      "published_utc": "2026-09-17 23:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemists-overturn-40-y.jpg"
     }
   ]
 }
