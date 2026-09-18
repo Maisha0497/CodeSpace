@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18 12:35 UTC",
+  "updated": "2026-09-18 18:29 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Sep 17, 2026",
       "published_utc": "2026-09-17 20:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-bridge-for-quant-2.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Diamond quantum sensors can detect heart magnetism at room temperature without skin contact",
-      "link": "https://phys.org/news/2026-09-diamond-quantum-sensors-heart-magnetism.html",
-      "desc": "Physicists at Johannes Gutenberg University Mainz (JGU) have developed a technology that uses quantum sensors to measure biomagnetic signals, such as heart activity. Researchers from the DIAQNOS (DIAmond-based Quantum Sensing for NeurOSurgery) flagship project, coordinated by Dr. Arne Wickenbrock…",
-      "date": "Sep 17, 2026",
-      "published_utc": "2026-09-17 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diamond-magnetometers.jpg"
     },
     {
       "topic": "Physics",
@@ -45,32 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Robotic lab sets up and runs optics experiments on demand",
-      "link": "https://phys.org/news/2026-09-robotic-lab-optics-demand.html",
-      "desc": "Every new generation of phone display, television screen and solar panel is the result of precision optics experiments, which use lasers and other light sources to measure the optical properties of candidate materials. These experiments can take months to run, requiring scientists to meticulously…",
-      "date": "Sep 17, 2026",
-      "published_utc": "2026-09-17 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/robotic-lab-sets-up-an.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "A $100 detector can see invisible particles raining down from space",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003725.htm",
-      "desc": "A pocket-sized, roughly $100 detector can reveal the invisible stream of cosmic particles constantly passing through Earth and even through our bodies. What began as a student physics project is now being used in major experiments, balloon missions, and potentially future spacecraft.",
-      "date": "Sep 17, 2026",
-      "published_utc": "2026-09-17 13:54 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Where Does the Quantum World End and Ours Begin?",
-      "link": "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
-      "desc": "Jonathan Halliwell explains how quantum decoherence is key to understanding how we transition from a world with a wave-like nature of matter and energy to the classical macroscopic world that we’re used to. The post Where Does the Quantum World End and Ours Begin? first appeared on Quanta Magazine",
-      "date": "Sep 17, 2026",
-      "published_utc": "2026-09-17 15:09 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E8-cr-Chanelle-Nibbelink-Default-NO-LOGO.jpg"
+      "title": "Stacked 2D materials reveal room-temperature multiferroicity and voltage-controlled magnetism",
+      "link": "https://phys.org/news/2026-09-stacked-2d-materials-reveal-room.html",
+      "desc": "Multiferroics are materials that simultaneously exhibit two or more ferroic orders—stable arrangements of physical properties that can be switched using an external stimulus. These materials could be highly advantageous for the development of various technologies, including non-volatile, low-power…",
+      "date": "Sep 18, 2026",
+      "published_utc": "2026-09-18 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stacked-2d-materials-r.jpg"
     },
     {
       "topic": "Physics",
@@ -83,6 +53,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/close-up-images-show-d.jpg"
     },
     {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists are about to test Einstein’s gravity with exotic matter",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
+      "desc": "Scientists have found a new way to create a controlled beam of muonium, an exotic atom containing a heavier cousin of the electron. The advance could allow researchers to test for the first time whether gravity acts on second-generation particles exactly as Einstein’s theory predicts. Any…",
+      "date": "Sep 18, 2026",
+      "published_utc": "2026-09-18 11:07 UTC",
+      "image": ""
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Chemists overturn 40-year assumption about a key class of superconductors",
@@ -91,6 +71,26 @@
       "date": "Sep 17, 2026",
       "published_utc": "2026-09-17 23:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemists-overturn-40-y.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "An extremely stable quantum gas offers a new lens on strongly interacting systems",
+      "link": "https://phys.org/news/2026-09-extremely-stable-quantum-gas-lens.html",
+      "desc": "Molecular gases are a new form of artificial quantum matter. However, when these molecules collide, they are often lost extremely rapidly. Researchers from Radboud University and Columbia University have been able to suppress this collisional loss, paving the way for strongly interacting quantum…",
+      "date": "Sep 18, 2026",
+      "published_utc": "2026-09-18 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-ex.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physicists extend the search for quantum black holes at the LHC",
+      "link": "https://phys.org/news/2026-09-physicists-quantum-black-holes-lhc.html",
+      "desc": "Physicists at UC Santa Barbara have extended the search for evidence of microscopic black holes produced at the Large Hadron Collider (LHC) at the European Organization for Nuclear Research (CERN). The formation of these tiny, fleeting objects at the LHC represents one way theorists have sought to…",
+      "date": "Sep 18, 2026",
+      "published_utc": "2026-09-18 18:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-extend-the-1.jpg"
     }
   ]
 }
