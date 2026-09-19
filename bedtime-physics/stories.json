@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19 06:36 UTC",
+  "updated": "2026-09-19 12:32 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Sep 18, 2026",
       "published_utc": "2026-09-18 13:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stacked-2d-materials-r.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists are about to test Einstein’s gravity with exotic matter",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
-      "desc": "Scientists have found a new way to create a controlled beam of muonium, an exotic atom containing a heavier cousin of the electron. The advance could allow researchers to test for the first time whether gravity acts on second-generation particles exactly as Einstein’s theory predicts. Any…",
-      "date": "Sep 18, 2026",
-      "published_utc": "2026-09-18 11:07 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
@@ -71,16 +61,6 @@
       "date": "Sep 18, 2026",
       "published_utc": "2026-09-18 13:05 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/09/tropical-forest-emissions-borobudur-java-1024x576.jpg"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Earth from Space: Laguna Colorada",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
-      "desc": "Image: This Copernicus Sentinel-2 image, acquired on 25 August 2026, shows an area of the Andean Altiplano in southern Bolivia near the border with Chile.",
-      "date": "Sep 18, 2026",
-      "published_utc": "2026-09-18 08:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earth_from_space_laguna_colorada/27528365-1-eng-GB/Earth_from_Space_Laguna_Colorada_card_full.jpg"
     }
   ]
 }
