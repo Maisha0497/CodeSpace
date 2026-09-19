@@ -1,37 +1,7 @@
 {
-  "updated": "2026-09-18 18:29 UTC",
+  "updated": "2026-09-19 00:57 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "A new bridge for quantum networks: Physicists convert microwaves to light using 2D magnets",
-      "link": "https://phys.org/news/2026-09-bridge-quantum-networks-physicists-microwaves.html",
-      "desc": "Physicists at The City College of New York have demonstrated a new way to transfer microwave signals onto light using magnetic waves inside a layered semiconductor. The work establishes a materials platform for building interfaces that could one day link quantum computers through optical networks.…",
-      "date": "Sep 17, 2026",
-      "published_utc": "2026-09-17 20:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-bridge-for-quant-2.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Disorder is key to tuning a high-temperature superconductor",
-      "link": "https://phys.org/news/2026-09-disorder-key-tuning-high-temperature.html",
-      "desc": "Cornell physicists have discovered that minimizing disorder, not varying electron count, is the key factor for controlling superconductivity in the unique material iron selenide (FeSe), a new insight for understanding high-temperature superconductors.",
-      "date": "Sep 17, 2026",
-      "published_utc": "2026-09-17 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/person-working-to-adju.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "What kills Schrödinger's cat? Underground experiment rules out gravity model for quantum decoherence",
-      "link": "https://phys.org/news/2026-09-schrdinger-cat-underground-gravity-quantum.html",
-      "desc": "Somewhere between the microscopic realm of elementary particles and the macroscopic world of human beings, something strange happens: The rules of quantum physics, which work so exquisitely for tiny atoms, seem to lose their grip as objects grow larger. Pondering where and how this shift from…",
-      "date": "Sep 17, 2026",
-      "published_utc": "2026-09-17 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-kills-schrdingers.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -43,16 +13,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stacked-2d-materials-r.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Close-up images show defects locking electrons into stable Wigner solids",
-      "link": "https://phys.org/news/2026-09-images-defects-electrons-stable-wigner.html",
-      "desc": "A team of researchers led by the U.S. Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) developed an approach that enabled them to directly observe how electrons interact with defects in advanced semiconductor devices in unprecedented detail. The team's methodology…",
-      "date": "Sep 17, 2026",
-      "published_utc": "2026-09-17 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/close-up-images-show-d.jpg"
-    },
-    {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
       "title": "Scientists are about to test Einstein’s gravity with exotic matter",
@@ -61,16 +21,6 @@
       "date": "Sep 18, 2026",
       "published_utc": "2026-09-18 11:07 UTC",
       "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Chemists overturn 40-year assumption about a key class of superconductors",
-      "link": "https://phys.org/news/2026-09-chemists-overturn-year-assumption-key.html",
-      "desc": "Scientists at Warwick have shown that a material treated for 40 years as a uniform, textbook superconductor is in fact a patchwork of different crystal structures throughout its bulk, using an advanced 3D imaging technique to see deep inside the crystal for the first time.",
-      "date": "Sep 17, 2026",
-      "published_utc": "2026-09-17 23:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemists-overturn-40-y.jpg"
     },
     {
       "topic": "Physics",
@@ -91,6 +41,56 @@
       "date": "Sep 18, 2026",
       "published_utc": "2026-09-18 18:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-extend-the-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Laser experiments recreate solar flare physics and reveal consistent magnetic reconnection rates",
+      "link": "https://phys.org/news/2026-09-laser-recreate-solar-flare-physics.html",
+      "desc": "Magnetic reconnection is a process that occurs when the magnetic fields of a conductive plasma quickly rearrange and release massive amounts of stored magnetic energy. It is widely thought to be the underlying mechanism behind cosmic events such as solar flares and substorms in Earth's…",
+      "date": "Sep 18, 2026",
+      "published_utc": "2026-09-18 17:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/solar-flare-1.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+      "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+      "desc": "The proof of a decades-old conjecture has given researchers a new way to understand complex networks. The post Mathematicians Build Long-Awaited Graph Sandwich first appeared on Quanta Magazine",
+      "date": "Sep 18, 2026",
+      "published_utc": "2026-09-18 13:55 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/GraphSandwiches-crKristinaArmitage-Default.webp"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Lake Powell Drops to Record-Low Levels",
+      "link": "https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/",
+      "desc": "Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U.S. West. The post Lake Powell Drops to Record-Low Levels appeared first on NASA Science .",
+      "date": "Sep 18, 2026",
+      "published_utc": "2026-09-18 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20170901.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Chemical Conversations Between Forests and the Sky Affect Air Quality, Clouds, and More",
+      "link": "https://eos.org/features/chemical-conversations-between-forests-and-the-sky-affect-air-quality-clouds-and-more",
+      "desc": "Trees release invisible gases that can create clouds, trap heat, and worsen pollution. Scientists are busy trying to unravel forests’ complex atmospheric contributions in a changing climate.",
+      "date": "Sep 18, 2026",
+      "published_utc": "2026-09-18 13:05 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/09/tropical-forest-emissions-borobudur-java-1024x576.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space: Laguna Colorada",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
+      "desc": "Image: This Copernicus Sentinel-2 image, acquired on 25 August 2026, shows an area of the Andean Altiplano in southern Bolivia near the border with Chile.",
+      "date": "Sep 18, 2026",
+      "published_utc": "2026-09-18 08:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earth_from_space_laguna_colorada/27528365-1-eng-GB/Earth_from_Space_Laguna_Colorada_card_full.jpg"
     }
   ]
 }
