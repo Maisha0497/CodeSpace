@@ -1,5 +1,16 @@
 {
-  "updated": "2026-09-19 18:26 UTC",
+  "updated": "2026-09-20 01:04 UTC",
   "fresh_window_hours": 24,
-  "stories": []
+  "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Two-color light steers electrons through graphene's transient topological state",
+      "link": "https://phys.org/news/2026-09-electrons-graphene-transient-topological-state.html",
+      "desc": "The electronic properties of materials are typically determined by their structure under normal, undisturbed conditions, when they are in a state known as equilibrium. Intense light beams, however, can temporarily reshape a material's electronic band structure (i.e., the range of energy states…",
+      "date": "Sep 19, 2026",
+      "published_utc": "2026-09-19 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-light-to-steer-e.jpg"
+    }
+  ]
 }
