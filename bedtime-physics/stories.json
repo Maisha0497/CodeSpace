@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 12:32 UTC",
+  "updated": "2026-09-20 18:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,26 @@
       "date": "Sep 19, 2026",
       "published_utc": "2026-09-19 19:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-light-to-steer-e.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
+      "desc": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is tiny, but for one of nature’s most fundamental constants, it is large enough to…",
+      "date": "Sep 20, 2026",
+      "published_utc": "2026-09-20 10:30 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Einstein’s “spooky action” just survived one of physics’ most extreme tests",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
+      "desc": "Physicists have detected strong evidence that heavy, fleeting Z bosons can become quantum entangled during Higgs boson decays at CERN’s Large Hadron Collider. The result shows that Einstein’s “spooky action at a distance” survives even under some of the most extreme conditions ever created in a…",
+      "date": "Sep 20, 2026",
+      "published_utc": "2026-09-20 05:16 UTC",
+      "image": ""
     }
   ]
 }
