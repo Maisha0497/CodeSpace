@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 06:36 UTC",
+  "updated": "2026-09-20 12:32 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Sep 19, 2026",
       "published_utc": "2026-09-19 19:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-light-to-steer-e.jpg"
-    },
-    {
-      "topic": "Cool Math",
-      "source": "ScienceDaily Math",
-      "title": "Scientists find that “perfect” systems may be surprisingly fragile",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
-      "desc": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or “disorder,” can make networks such as power grids, ecosystems, neurons, and materials more stable. Even random differences sometimes improved stability…",
-      "date": "Sep 19, 2026",
-      "published_utc": "2026-09-19 11:26 UTC",
-      "image": ""
     }
   ]
 }
