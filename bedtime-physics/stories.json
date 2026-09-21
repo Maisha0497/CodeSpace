@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-21 06:51 UTC",
+  "updated": "2026-09-21 12:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
-      "desc": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is tiny, but for one of nature’s most fundamental constants, it is large enough to…",
-      "date": "Sep 20, 2026",
-      "published_utc": "2026-09-20 10:30 UTC",
-      "image": ""
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Photonic Legos of functional 3D thin-films unlock high-performance heterogeneous photonic integration",
+      "link": "https://phys.org/news/2026-09-photonic-legos-functional-3d-thin.html",
+      "desc": "Photonic integrated circuits route information with optical signals instead of relying only on electrical currents. Silicon (Si) and silicon nitride (SiNx) are excellent photonic platforms for waveguides, but they cannot efficiently perform the ever-increasing tasks required for fully integrated…",
+      "date": "Sep 21, 2026",
+      "published_utc": "2026-09-21 10:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/photonic-legos-of-func.jpg"
     },
     {
       "topic": "Physics",
@@ -21,6 +21,16 @@
       "date": "Sep 20, 2026",
       "published_utc": "2026-09-20 21:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-liquids-get-stuck.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "What kills Schrödinger’s cat? Gravity may not be the answer",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222350.htm",
+      "desc": "Physicists have put a decades-old idea about why the strange rules of quantum mechanics disappear in our everyday world to one of its toughest experimental tests yet. Deep beneath Italy’s Gran Sasso mountain, researchers searched for an extremely faint radiation signal predicted by a theory…",
+      "date": "Sep 21, 2026",
+      "published_utc": "2026-09-21 09:24 UTC",
+      "image": ""
     },
     {
       "topic": "Earth Observation",
