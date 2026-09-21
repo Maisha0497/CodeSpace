@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21 12:35 UTC",
+  "updated": "2026-09-21 18:30 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,26 @@
       "date": "Sep 21, 2026",
       "published_utc": "2026-09-21 10:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/photonic-legos-of-func.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Nuclear-spin swap extends room-temperature entanglement lifetime up to 240-fold",
+      "link": "https://phys.org/news/2026-09-nuclear-swap-room-temperature-entanglement.html",
+      "desc": "Researchers in China have extended the lifetime of entanglement in a room-temperature, solid-state system by up to a factor of 240. Led by Shuo Ren and Rui-Jian Liang at the University of Science and Technology of China in Hefei, the team transferred entangled states from the electron spins of…",
+      "date": "Sep 21, 2026",
+      "published_utc": "2026-09-21 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-swap-protects.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "X-ray light is like guitar music, with frequencies sliding continuously between harmonics",
+      "link": "https://phys.org/news/2026-09-ray-guitar-music-frequencies-harmonics.html",
+      "desc": "Ultrashort laser pulses can be used to generate X-rays. Normally, however, only certain specific frequencies are produced. A team from TU Wien and the University of California San Diego has developed a method that makes it possible to tune the frequency continuously.",
+      "date": "Sep 21, 2026",
+      "published_utc": "2026-09-21 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/x-ray-light-is-like-gu.jpg"
     },
     {
       "topic": "Physics",
@@ -31,6 +51,36 @@
       "date": "Sep 21, 2026",
       "published_utc": "2026-09-21 09:24 UTC",
       "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Scientists teleport quantum states across 100 parallel optical channels",
+      "link": "https://phys.org/news/2026-09-scientists-teleport-quantum-states-parallel.html",
+      "desc": "Quantum communication networks consist of several connected nodes that exchange information encoded in quantum states. These networks could potentially enable more secure communications between quantum devices in different locations.",
+      "date": "Sep 21, 2026",
+      "published_utc": "2026-09-21 15:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-teleport-qu-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum communication protocol enables three users to establish a shared secure key",
+      "link": "https://phys.org/news/2026-09-quantum-communication-protocol-enables-users.html",
+      "desc": "Quantum key distribution allows two users to establish secret keys whose security is grounded in the laws of quantum mechanics. Extending this capability to multiple users is an essential step toward quantum networks that support secure communication among many participants. Quantum cryptographic…",
+      "date": "Sep 21, 2026",
+      "published_utc": "2026-09-21 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-communication.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution",
+      "link": "https://www.quantamagazine.org/how-virus-like-jumping-genes-became-our-partners-in-evolution-20260921/",
+      "desc": "Half of our genome is made of transposons — snips of DNA that can move and copy themselves. But they’re more than parasites or genetic junk. The post How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution first appeared on Quanta Magazine",
+      "date": "Sep 21, 2026",
+      "published_utc": "2026-09-21 14:12 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/OurViralGenome-crSamuelVelasco-Default.webp"
     },
     {
       "topic": "Earth Observation",
