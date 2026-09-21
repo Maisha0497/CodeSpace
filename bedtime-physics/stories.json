@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21 01:03 UTC",
+  "updated": "2026-09-21 06:51 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -23,14 +23,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-liquids-get-stuck.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Einstein’s “spooky action” just survived one of physics’ most extreme tests",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
-      "desc": "Physicists have detected strong evidence that heavy, fleeting Z bosons can become quantum entangled during Higgs boson decays at CERN’s Large Hadron Collider. The result shows that Einstein’s “spooky action at a distance” survives even under some of the most extreme conditions ever created in a…",
-      "date": "Sep 20, 2026",
-      "published_utc": "2026-09-20 05:16 UTC",
-      "image": ""
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Arctic Melt Season Length Levels Off",
+      "link": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
+      "desc": "While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010. The post Arctic Melt Season Length Levels Off appeared first on NASA Science .",
+      "date": "Sep 21, 2026",
+      "published_utc": "2026-09-21 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-melt-season-length-levels-off/arcticmelttrend_20002009.jpg"
     }
   ]
 }
