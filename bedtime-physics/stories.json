@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-20 18:27 UTC",
+  "updated": "2026-09-21 01:03 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Two-color light steers electrons through graphene's transient topological state",
-      "link": "https://phys.org/news/2026-09-electrons-graphene-transient-topological-state.html",
-      "desc": "The electronic properties of materials are typically determined by their structure under normal, undisturbed conditions, when they are in a state known as equilibrium. Intense light beams, however, can temporarily reshape a material's electronic band structure (i.e., the range of energy states…",
-      "date": "Sep 19, 2026",
-      "published_utc": "2026-09-19 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-light-to-steer-e.jpg"
-    },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
@@ -21,6 +11,16 @@
       "date": "Sep 20, 2026",
       "published_utc": "2026-09-20 10:30 UTC",
       "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Cooling liquids reveal self-limiting particle clusters behind glass transition",
+      "link": "https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html",
+      "desc": "Before diving into the mystery of glass, theoretical physicist Corentin Laudicina takes us back to high school physics for a moment. Although he has spent years studying exactly what happens in a material during the glass transition, he also understands that his research is not the easiest thing to…",
+      "date": "Sep 20, 2026",
+      "published_utc": "2026-09-20 21:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-liquids-get-stuck.jpg"
     },
     {
       "topic": "Quantum",
