@@ -1,56 +1,46 @@
 {
-  "updated": "2026-09-22 12:36 UTC",
+  "updated": "2026-09-22 18:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Nuclear-spin swap extends room-temperature entanglement lifetime up to 240-fold",
-      "link": "https://phys.org/news/2026-09-nuclear-swap-room-temperature-entanglement.html",
-      "desc": "Researchers in China have extended the lifetime of entanglement in a room-temperature, solid-state system by up to a factor of 240. Led by Shuo Ren and Rui-Jian Liang at the University of Science and Technology of China in Hefei, the team transferred entangled states from the electron spins of…",
-      "date": "Sep 21, 2026",
-      "published_utc": "2026-09-21 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-swap-protects.jpg"
+      "title": "Electrical control method tunes magnetic properties for next-generation spintronic memory",
+      "link": "https://phys.org/news/2026-09-electrical-method-tunes-magnetic-properties.html",
+      "desc": "A research team led by Professor Jung-Il Hong of the Department of Physics and Chemistry at DGIST has successfully used current pulses to alter the spin configuration within a ferrimagnetic material, lowering its \"compensation temperature\"—the temperature at which opposing magnetizations cancel…",
+      "date": "Sep 22, 2026",
+      "published_utc": "2026-09-22 17:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/same-material-just-a-f.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "For the first time, scientists watch sound jump between quantum states",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
+      "desc": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation…",
+      "date": "Sep 22, 2026",
+      "published_utc": "2026-09-22 13:17 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "X-ray light is like guitar music, with frequencies sliding continuously between harmonics",
-      "link": "https://phys.org/news/2026-09-ray-guitar-music-frequencies-harmonics.html",
-      "desc": "Ultrashort laser pulses can be used to generate X-rays. Normally, however, only certain specific frequencies are produced. A team from TU Wien and the University of California San Diego has developed a method that makes it possible to tune the frequency continuously.",
-      "date": "Sep 21, 2026",
-      "published_utc": "2026-09-21 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/x-ray-light-is-like-gu.jpg"
+      "title": "Quantum protocol securely verifies a device's position using stations 2 km apart",
+      "link": "https://phys.org/news/2026-09-quantum-protocol-device-position-stations.html",
+      "desc": "Reliably verifying the location of a device connected to the internet or other networks is important for various real-world applications. For instance, it could be valuable for authorizing financial transactions, securing communications and controlling who can access specific databases or services.",
+      "date": "Sep 22, 2026",
+      "published_utc": "2026-09-22 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-protocol-secur.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Scientists teleport quantum states across 100 parallel optical channels",
-      "link": "https://phys.org/news/2026-09-scientists-teleport-quantum-states-parallel.html",
-      "desc": "Quantum communication networks consist of several connected nodes that exchange information encoded in quantum states. These networks could potentially enable more secure communications between quantum devices in different locations.",
-      "date": "Sep 21, 2026",
-      "published_utc": "2026-09-21 15:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-teleport-qu-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum communication protocol enables three users to establish a shared secure key",
-      "link": "https://phys.org/news/2026-09-quantum-communication-protocol-enables-users.html",
-      "desc": "Quantum key distribution allows two users to establish secret keys whose security is grounded in the laws of quantum mechanics. Extending this capability to multiple users is an essential step toward quantum networks that support secure communication among many participants. Quantum cryptographic…",
-      "date": "Sep 21, 2026",
-      "published_utc": "2026-09-21 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-communication.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution",
-      "link": "https://www.quantamagazine.org/how-virus-like-jumping-genes-became-our-partners-in-evolution-20260921/",
-      "desc": "Half of our genome is made of transposons — snips of DNA that can move and copy themselves. But they’re more than parasites or genetic junk. The post How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution first appeared on Quanta Magazine",
-      "date": "Sep 21, 2026",
-      "published_utc": "2026-09-21 14:12 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/OurViralGenome-crSamuelVelasco-Default.webp"
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Presumed Role of Chorus Waves Out of Tune with New Data",
+      "link": "https://eos.org/research-spotlights/presumed-role-of-chorus-waves-out-of-tune-with-new-data",
+      "desc": "Distinctive plasma ripples are thought to play a big role in electron loss from Earth’s radiation belts, but a new study suggests a more limited influence.",
+      "date": "Sep 22, 2026",
+      "published_utc": "2026-09-22 12:40 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/09/themis-satellites-illustration-1024x576.png"
     },
     {
       "topic": "Earth Observation",
@@ -61,16 +51,6 @@
       "date": "Sep 22, 2026",
       "published_utc": "2026-09-22 04:01 UTC",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-epic-view-of-the-seasons/equinox_epic_20240922.jpg?w=2460&amp;h=2190&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Perseverance’s View of ‘Turquoise Bay’",
-      "link": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
-      "desc": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of interest in the “Margin Unit.” The 818 images used to create the natural-color panorama were captured between Oct. 5 and Oct. 16, 2023, the 933rd to 944th…",
-      "date": "Sep 21, 2026",
-      "published_utc": "2026-09-21 19:17 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26815/PIA26815.jpg?w=11750&amp;h=2448&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
