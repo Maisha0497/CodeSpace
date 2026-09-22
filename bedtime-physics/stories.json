@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21 18:30 UTC",
+  "updated": "2026-09-22 00:58 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,16 +31,6 @@
       "date": "Sep 21, 2026",
       "published_utc": "2026-09-21 13:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/x-ray-light-is-like-gu.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Cooling liquids reveal self-limiting particle clusters behind glass transition",
-      "link": "https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html",
-      "desc": "Before diving into the mystery of glass, theoretical physicist Corentin Laudicina takes us back to high school physics for a moment. Although he has spent years studying exactly what happens in a material during the glass transition, he also understands that his research is not the easiest thing to…",
-      "date": "Sep 20, 2026",
-      "published_utc": "2026-09-20 21:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-liquids-get-stuck.jpg"
     },
     {
       "topic": "Quantum",
@@ -91,6 +81,16 @@
       "date": "Sep 21, 2026",
       "published_utc": "2026-09-21 04:00 UTC",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-melt-season-length-levels-off/arcticmelttrend_20002009.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Perseverance’s View of ‘Turquoise Bay’",
+      "link": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
+      "desc": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of interest in the “Margin Unit.” The 818 images used to create the natural-color panorama were captured between Oct. 5 and Oct. 16, 2023, the 933rd to 944th…",
+      "date": "Sep 21, 2026",
+      "published_utc": "2026-09-21 19:17 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26815/PIA26815.jpg?w=11750&amp;h=2448&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
