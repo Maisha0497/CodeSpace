@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23 06:41 UTC",
+  "updated": "2026-09-23 12:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,6 +21,16 @@
       "date": "Sep 22, 2026",
       "published_utc": "2026-09-22 20:10 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-beam-swims-upstr.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Pigeons' proposed inner-ear compass runs into a noise problem",
+      "link": "https://phys.org/news/2026-09-pigeons-ear-compass-noise-problem.html",
+      "desc": "A pigeon turning its head might seem an unlikely electricity generator. Yet one proposed explanation for the bird's magnetic sense depends on exactly that: Turning through Earth's magnetic field would produce tiny electrical signals inside its ears. However, a theoretical study suggests that this…",
+      "date": "Sep 23, 2026",
+      "published_utc": "2026-09-23 10:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/pigeon.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Sep 22, 2026",
       "published_utc": "2026-09-22 21:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-swarming-bacteria.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum protocol securely verifies a device's position using stations 2 km apart",
-      "link": "https://phys.org/news/2026-09-quantum-protocol-device-position-stations.html",
-      "desc": "Reliably verifying the location of a device connected to the internet or other networks is important for various real-world applications. For instance, it could be valuable for authorizing financial transactions, securing communications and controlling who can access specific databases or services.",
-      "date": "Sep 22, 2026",
-      "published_utc": "2026-09-22 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-protocol-secur.jpg"
     }
   ]
 }
