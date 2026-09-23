@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23 00:57 UTC",
+  "updated": "2026-09-23 06:41 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -63,6 +63,16 @@
       "image": ""
     },
     {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "The LHC just ruled out another hiding place for quantum black holes",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
+      "desc": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be hiding. These hypothetical black holes could form if extra spatial dimensions make…",
+      "date": "Sep 23, 2026",
+      "published_utc": "2026-09-23 03:32 UTC",
+      "image": ""
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "From swarming bacteria to tissue cells, living matter defies classic physical models of motion",
@@ -81,16 +91,6 @@
       "date": "Sep 22, 2026",
       "published_utc": "2026-09-22 13:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-protocol-secur.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Presumed Role of Chorus Waves Out of Tune with New Data",
-      "link": "https://eos.org/research-spotlights/presumed-role-of-chorus-waves-out-of-tune-with-new-data",
-      "desc": "Distinctive plasma ripples are thought to play a big role in electron loss from Earth’s radiation belts, but a new study suggests a more limited influence.",
-      "date": "Sep 22, 2026",
-      "published_utc": "2026-09-22 12:40 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/themis-satellites-illustration-1024x576.png"
     }
   ]
 }
