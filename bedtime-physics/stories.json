@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-23 12:36 UTC",
+  "updated": "2026-09-23 18:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Electrical control method tunes magnetic properties for next-generation spintronic memory",
-      "link": "https://phys.org/news/2026-09-electrical-method-tunes-magnetic-properties.html",
-      "desc": "A research team led by Professor Jung-Il Hong of the Department of Physics and Chemistry at DGIST has successfully used current pulses to alter the spin configuration within a ferrimagnetic material, lowering its \"compensation temperature\"—the temperature at which opposing magnetizations cancel…",
-      "date": "Sep 22, 2026",
-      "published_utc": "2026-09-22 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/same-material-just-a-f.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -45,6 +35,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Quantum device simulates matter popping into existence",
+      "link": "https://phys.org/news/2026-09-quantum-device-simulates.html",
+      "desc": "A research team led by faculty at the Duke Quantum Center (DQC) has observed string-breaking dynamics related to particle-antiparticle formation on a quantum simulator, among the first such observations in quantum physics.",
+      "date": "Sep 23, 2026",
+      "published_utc": "2026-09-23 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-device-simulat-2.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "The secret to a perfect crystal may be a precisely calibrated extra turn",
       "link": "https://phys.org/news/2026-09-secret-crystal-precisely-calibrated-extra.html",
       "desc": "Creating a perfect crystal sounds straightforward: Arrange identical building blocks into a repeating, orderly structure. At the microscopic scale, though, even subtle biases in how particles interact can push them in preferred directions, making it harder to form uniform crystalline materials.",
@@ -65,16 +65,6 @@
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
-      "title": "For the first time, scientists watch sound jump between quantum states",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
-      "desc": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation…",
-      "date": "Sep 22, 2026",
-      "published_utc": "2026-09-22 13:17 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
       "title": "The LHC just ruled out another hiding place for quantum black holes",
       "link": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
       "desc": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be hiding. These hypothetical black holes could form if extra spatial dimensions make…",
@@ -83,14 +73,24 @@
       "image": ""
     },
     {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
+      "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "desc": "Scientists have a history of trying — and failing — to link biology and quantum mechanics. The real connection between them may be in the math. The post Biology Might Not Be Quantum, but Its Math Is Quantumlike first appeared on Quanta Magazine",
+      "date": "Sep 23, 2026",
+      "published_utc": "2026-09-23 14:16 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Quantum-like-complex-systems-cr.Xavi-Bou-Default.webp"
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "From swarming bacteria to tissue cells, living matter defies classic physical models of motion",
-      "link": "https://phys.org/news/2026-09-swarming-bacteria-tissue-cells-defies.html",
-      "desc": "A new study led by researchers from Ben-Gurion University of the Negev (BGU) reveals that living matter violates previously known physical principles of symmetry when cellular flows form and break down collective patterns. The research, published in Nature Physics, challenges conventional…",
-      "date": "Sep 22, 2026",
-      "published_utc": "2026-09-22 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-swarming-bacteria.jpg"
+      "title": "Could negative mass exist and be observed?",
+      "link": "https://phys.org/news/2026-09-negative-mass.html",
+      "desc": "Unlike electric charge, as far as we know all mass is positive, and positive masses attract one another. Could negative mass exist, and if so, what would be the ramifications?",
+      "date": "Sep 23, 2026",
+      "published_utc": "2026-09-23 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-negative-mass-ex.jpg"
     }
   ]
 }
