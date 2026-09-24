@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-23 18:31 UTC",
+  "updated": "2026-09-24 00:58 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Light beam 'swims' upstream through a quantum fluid by violating Newton's third law",
-      "link": "https://phys.org/news/2026-09-upstream-quantum-fluid-violating-newton.html",
-      "desc": "Just as a leaf drifts along with a stream, objects in other moving fluids normally drift along with the flow. That is, unless they exert energy to move against it. Although it may be less intuitive, light waves or photons work similarly. To move against a stream of light, an object or particle,…",
-      "date": "Sep 22, 2026",
-      "published_utc": "2026-09-22 20:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-beam-swims-upstr.jpg"
+      "title": "Graphene measurements reveal energy-loss and quantum-coherence exponents diverge under gate control",
+      "link": "https://phys.org/news/2026-09-graphene-reveal-energy-loss-quantum.html",
+      "desc": "Scientists have shown that the two exponents (inelastic scattering exponent and dephasing exponent) commonly used to describe electron scattering in graphene do not necessarily follow the same behavior. Using gated epitaxial graphene, a multi-institutional team of researchers independently…",
+      "date": "Sep 23, 2026",
+      "published_utc": "2026-09-23 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/distinction-between-in.jpg"
     },
     {
       "topic": "Physics",
@@ -25,12 +25,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "RHIC data reveal intriguing dip in momentum fluctuations in high-density nuclear matter",
-      "link": "https://phys.org/news/2026-09-rhic-reveal-intriguing-dip-momentum.html",
-      "desc": "Scientists using the STAR detector to study particle collisions at the Relativistic Heavy Ion Collider (RHIC) have found an intriguing dip in their data in a relatively unexplored region of the nuclear phase diagram—a map of how nuclear matter behaves under various conditions of temperature and…",
-      "date": "Sep 22, 2026",
-      "published_utc": "2026-09-22 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/star-detector.jpg"
+      "title": "Scientists build world's most accurate atomic clock",
+      "link": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
+      "desc": "Take a second and turn it into trillions of moments. Measure each one. That's how precisely an atomic clock at Singapore's Centre for Quantum Technologies (CQT) keeps time—and with record-setting accuracy, according to results published in Nature on Sept. 23.",
+      "date": "Sep 23, 2026",
+      "published_utc": "2026-09-23 20:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/singapore-scientists-b.jpg"
     },
     {
       "topic": "Physics",
@@ -41,26 +41,6 @@
       "date": "Sep 23, 2026",
       "published_utc": "2026-09-23 13:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-device-simulat-2.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "The secret to a perfect crystal may be a precisely calibrated extra turn",
-      "link": "https://phys.org/news/2026-09-secret-crystal-precisely-calibrated-extra.html",
-      "desc": "Creating a perfect crystal sounds straightforward: Arrange identical building blocks into a repeating, orderly structure. At the microscopic scale, though, even subtle biases in how particles interact can push them in preferred directions, making it harder to form uniform crystalline materials.",
-      "date": "Sep 22, 2026",
-      "published_utc": "2026-09-22 23:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/crystals-up-close.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physicists crack the math connecting ultraslow quantum magnetism to ultrafast black-hole physics",
-      "link": "https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html",
-      "desc": "A team led by University at Buffalo physicists has found a mathematical solution that shows how a frustrated quantum magnet can transition from ultraslow behavior to ultrafast, highly entangled behavior resembling that of a black hole.",
-      "date": "Sep 22, 2026",
-      "published_utc": "2026-09-22 22:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-crack-the-m.jpg"
     },
     {
       "topic": "Quantum",
@@ -91,6 +71,26 @@
       "date": "Sep 23, 2026",
       "published_utc": "2026-09-23 13:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-negative-mass-ex.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Central surface density of dark matter agrees with the prediction of a new theory of gravity",
+      "link": "https://phys.org/news/2026-09-central-surface-density-dark-theory.html",
+      "desc": "A researcher from Sejong University has used a new theory of gravity proposed by Erik Verlinde to predict the observed central surface density of dark matter. The study was published in Physics of the Dark Universe on Sept. 20.",
+      "date": "Sep 23, 2026",
+      "published_utc": "2026-09-23 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gravity.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Making Sense of Shallow-Water Waves with Advanced Statistics",
+      "link": "https://eos.org/research-spotlights/making-sense-of-shallow-water-waves-with-advanced-statistics",
+      "desc": "Low-frequency infragravity waves shape shorelines, but exactly how they contribute is mysterious. A technique from Bayesian probability theory might change that.",
+      "date": "Sep 23, 2026",
+      "published_utc": "2026-09-23 13:25 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/09/lifeguard-tower-1024x576.jpg"
     }
   ]
 }
