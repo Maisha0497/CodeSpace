@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24 00:58 UTC",
+  "updated": "2026-09-24 06:41 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -43,16 +43,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-device-simulat-2.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "The LHC just ruled out another hiding place for quantum black holes",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
-      "desc": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be hiding. These hypothetical black holes could form if extra spatial dimensions make…",
-      "date": "Sep 23, 2026",
-      "published_utc": "2026-09-23 03:32 UTC",
-      "image": ""
-    },
-    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
       "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
@@ -91,6 +81,16 @@
       "date": "Sep 23, 2026",
       "published_utc": "2026-09-23 13:25 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/09/lifeguard-tower-1024x576.jpg"
+    },
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Cloudy Cloak Over the Northwest",
+      "link": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/",
+      "desc": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall. The post Cloudy Cloak Over the Northwest appeared first on NASA Science .",
+      "date": "Sep 24, 2026",
+      "published_utc": "2026-09-24 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919.jpg?w=1770&amp;h=1935&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
