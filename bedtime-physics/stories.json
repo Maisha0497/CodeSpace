@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24 12:38 UTC",
+  "updated": "2026-09-24 18:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,6 +15,26 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "New catalogs map the quantum possibilities of atomically thin materials",
+      "link": "https://phys.org/news/2026-09-quantum-possibilities-atomically-thin-materials.html",
+      "desc": "Twistronics has become a new alchemy of materials. By choosing atomically thin layers, stacking them and changing their relative angle, researchers can create electronic behavior absent from the original ingredients. Twisted graphene and transition metal dichalcogenides have already yielded…",
+      "date": "Sep 24, 2026",
+      "published_utc": "2026-09-24 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-catalogs-map-the-q.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Whirlpool in a water tank reveals long-predicted wave turbulence",
+      "link": "https://phys.org/news/2026-09-whirlpool-tank-reveals-turbulence.html",
+      "desc": "When water drains from a bathtub, a whirlpool often forms above the drain, and its narrow core can start to wobble and twist. For almost 150 years, physicists have predicted that these wobbles can become turbulent, passing energy from large ripples down to ever smaller ones. Until now, however,…",
+      "date": "Sep 24, 2026",
+      "published_utc": "2026-09-24 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/whirlpool-in-a-water-t.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Scientists build world's most accurate atomic clock",
       "link": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
       "desc": "Take a second and turn it into trillions of moments. Measure each one. That's how precisely an atomic clock at Singapore's Centre for Quantum Technologies (CQT) keeps time—and with record-setting accuracy, according to results published in Nature on Sept. 23.",
@@ -25,52 +45,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum device simulates matter popping into existence",
-      "link": "https://phys.org/news/2026-09-quantum-device-simulates.html",
-      "desc": "A research team led by faculty at the Duke Quantum Center (DQC) has observed string-breaking dynamics related to particle-antiparticle formation on a quantum simulator, among the first such observations in quantum physics.",
-      "date": "Sep 23, 2026",
-      "published_utc": "2026-09-23 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-device-simulat-2.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
-      "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-      "desc": "Scientists have a history of trying — and failing — to link biology and quantum mechanics. The real connection between them may be in the math. The post Biology Might Not Be Quantum, but Its Math Is Quantumlike first appeared on Quanta Magazine",
-      "date": "Sep 23, 2026",
-      "published_utc": "2026-09-23 14:16 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Quantum-like-complex-systems-cr.Xavi-Bou-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Could negative mass exist and be observed?",
-      "link": "https://phys.org/news/2026-09-negative-mass.html",
-      "desc": "Unlike electric charge, as far as we know all mass is positive, and positive masses attract one another. Could negative mass exist, and if so, what would be the ramifications?",
-      "date": "Sep 23, 2026",
-      "published_utc": "2026-09-23 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-negative-mass-ex.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Central surface density of dark matter agrees with the prediction of a new theory of gravity",
       "link": "https://phys.org/news/2026-09-central-surface-density-dark-theory.html",
       "desc": "A researcher from Sejong University has used a new theory of gravity proposed by Erik Verlinde to predict the observed central surface density of dark matter. The study was published in Physics of the Dark Universe on Sept. 20.",
       "date": "Sep 23, 2026",
       "published_utc": "2026-09-23 21:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gravity.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Making Sense of Shallow-Water Waves with Advanced Statistics",
-      "link": "https://eos.org/research-spotlights/making-sense-of-shallow-water-waves-with-advanced-statistics",
-      "desc": "Low-frequency infragravity waves shape shorelines, but exactly how they contribute is mysterious. A technique from Bayesian probability theory might change that.",
-      "date": "Sep 23, 2026",
-      "published_utc": "2026-09-23 13:25 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/lifeguard-tower-1024x576.jpg"
     },
     {
       "topic": "Earth Observation",
