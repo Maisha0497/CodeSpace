@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25 12:37 UTC",
+  "updated": "2026-09-25 18:29 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,6 +15,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Rare quantum state reveals particles with quarter-electron charge",
+      "link": "https://phys.org/news/2026-09-rare-quantum-state-reveals-particles.html",
+      "desc": "An electron's charge is normally fixed, like a coin you can't break into pieces. But if electrons are cooled close to absolute zero and trapped in a two-dimensional layer under a powerful magnetic field, they organize into a collective state of \"quasiparticles\" that seem to hold only a fraction of…",
+      "date": "Sep 25, 2026",
+      "published_utc": "2026-09-25 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/quantum-computer.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Vertical quantum sensor could reveal nanoscale magnetic patterns in quantum materials",
       "link": "https://phys.org/news/2026-09-vertical-quantum-sensor-reveal-nanoscale.html",
       "desc": "Quantum materials do things ordinary materials cannot. They carry current without any loss, or conduct only along their outer edge while the inside insulates. Future quantum computers and quantum sensors will run on materials like these. To improve them, researchers need to see exactly where…",
@@ -25,12 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New catalogs map the quantum possibilities of atomically thin materials",
-      "link": "https://phys.org/news/2026-09-quantum-possibilities-atomically-thin-materials.html",
-      "desc": "Twistronics has become a new alchemy of materials. By choosing atomically thin layers, stacking them and changing their relative angle, researchers can create electronic behavior absent from the original ingredients. Twisted graphene and transition metal dichalcogenides have already yielded…",
-      "date": "Sep 24, 2026",
-      "published_utc": "2026-09-24 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-catalogs-map-the-q.jpg"
+      "title": "Discovery confirms rare, switchable electrical property in widely used electronics material",
+      "link": "https://phys.org/news/2026-09-discovery-rare-switchable-electrical-property.html",
+      "desc": "A Husker research team's latest research could open the door to broader use of a class of materials whose electrical properties may someday power next-generation electronics, high-density energy storage, improved computer memory and new strategies for cooling.",
+      "date": "Sep 25, 2026",
+      "published_utc": "2026-09-25 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/husker-researchers-mak.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Spin rephasing helps quantum memories store single-photon states longer for future networks",
+      "link": "https://phys.org/news/2026-09-rephasing-quantum-memories-photon-states.html",
+      "desc": "We are continuously sending information to each other, transmitting zeros and ones through a giant network of connected computers and devices. Scientists are now trying to extend this familiar concept of the internet to the quantum realm, looking for an efficient way to exchange quantum rather than…",
+      "date": "Sep 25, 2026",
+      "published_utc": "2026-09-25 17:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-spin-rephased-quantu-3.jpg"
     },
     {
       "topic": "Physics",
@@ -43,14 +63,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/picosecond-pulses-push.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Whirlpool in a water tank reveals long-predicted wave turbulence",
-      "link": "https://phys.org/news/2026-09-whirlpool-tank-reveals-turbulence.html",
-      "desc": "When water drains from a bathtub, a whirlpool often forms above the drain, and its narrow core can start to wobble and twist. For almost 150 years, physicists have predicted that these wobbles can become turbulent, passing energy from large ripples down to ever smaller ones. Until now, however,…",
-      "date": "Sep 24, 2026",
-      "published_utc": "2026-09-24 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/whirlpool-in-a-water-t.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "CERN has begun disconnecting the Large Hadron Collider",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm",
+      "desc": "CERN has started replacing some of the Large Hadron Collider’s most important magnets as part of its High-Luminosity upgrade. The new superconducting magnets will produce fields about 40% stronger, allowing particle beams to be squeezed more tightly before they collide. That should create far more…",
+      "date": "Sep 25, 2026",
+      "published_utc": "2026-09-25 13:01 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
@@ -71,26 +91,6 @@
       "date": "Sep 25, 2026",
       "published_utc": "2026-09-25 04:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cosmic-lockdown-how-th.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Random access quantum memory lets one processor select among seven storage cells",
-      "link": "https://phys.org/news/2026-09-random-access-quantum-memory-processor.html",
-      "desc": "Classical computers can temporarily store the information required to perform specific tasks in a short-term memory component known as RAM (random access memory). This component allows computer processors to retrieve information from a chosen location without searching through all stored data.",
-      "date": "Sep 25, 2026",
-      "published_utc": "2026-09-25 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-develop-a-r.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physicists define new material blueprint for next-generation microchip encryption",
-      "link": "https://phys.org/news/2026-09-physicists-material-blueprint-generation-microchip.html",
-      "desc": "Behind every secure online transaction or encrypted message lies a string of completely unpredictable numbers. A team of physicists has now proposed a theoretical way around a long-standing roadblock, opening the door to next-generation security chips that protect everyday data without slowing…",
-      "date": "Sep 24, 2026",
-      "published_utc": "2026-09-24 19:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-define-new.jpg"
     }
   ]
 }
