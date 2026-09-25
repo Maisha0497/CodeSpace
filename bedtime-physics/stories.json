@@ -1,16 +1,26 @@
 {
-  "updated": "2026-09-24 18:31 UTC",
+  "updated": "2026-09-25 00:59 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Graphene measurements reveal energy-loss and quantum-coherence exponents diverge under gate control",
-      "link": "https://phys.org/news/2026-09-graphene-reveal-energy-loss-quantum.html",
-      "desc": "Scientists have shown that the two exponents (inelastic scattering exponent and dephasing exponent) commonly used to describe electron scattering in graphene do not necessarily follow the same behavior. Using gated epitaxial graphene, a multi-institutional team of researchers independently…",
-      "date": "Sep 23, 2026",
-      "published_utc": "2026-09-23 21:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/distinction-between-in.jpg"
+      "title": "One-atom-high rails steer superconducting vortices, with temperature and magnetic field tuning their guidance",
+      "link": "https://phys.org/news/2026-09-atom-high-rails-superconducting-vortices.html",
+      "desc": "Researchers at the Research Center for Materials Nanoarchitectonics (MANA), a center within Japan's National Institute for Materials Science (NIMS), discovered that atomic-scale steps can guide superconducting vortices in an ultrathin superconductor.",
+      "date": "Sep 24, 2026",
+      "published_utc": "2026-09-24 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mana-reveals-atomic-sc.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Vertical quantum sensor could reveal nanoscale magnetic patterns in quantum materials",
+      "link": "https://phys.org/news/2026-09-vertical-quantum-sensor-reveal-nanoscale.html",
+      "desc": "Quantum materials do things ordinary materials cannot. They carry current without any loss, or conduct only along their outer edge while the inside insulates. Future quantum computers and quantum sensors will run on materials like these. To improve them, researchers need to see exactly where…",
+      "date": "Sep 24, 2026",
+      "published_utc": "2026-09-24 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/superconducting-quantu.jpg"
     },
     {
       "topic": "Physics",
@@ -25,6 +35,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Picosecond pulses push superconductors beyond their critical-current limit",
+      "link": "https://phys.org/news/2026-09-picosecond-pulses-superconductors-critical-current.html",
+      "desc": "Superconductors can carry electrical current without resistance, but only up to a maximum value known as the critical current. The critical current is a crucial figure of merit for applications, and materials science has long been focused on increasing this limit. Researchers at the Max Planck…",
+      "date": "Sep 24, 2026",
+      "published_utc": "2026-09-24 20:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/picosecond-pulses-push.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Whirlpool in a water tank reveals long-predicted wave turbulence",
       "link": "https://phys.org/news/2026-09-whirlpool-tank-reveals-turbulence.html",
       "desc": "When water drains from a bathtub, a whirlpool often forms above the drain, and its narrow core can start to wobble and twist. For almost 150 years, physicists have predicted that these wobbles can become turbulent, passing energy from large ripples down to ever smaller ones. Until now, however,…",
@@ -35,22 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Scientists build world's most accurate atomic clock",
-      "link": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
-      "desc": "Take a second and turn it into trillions of moments. Measure each one. That's how precisely an atomic clock at Singapore's Centre for Quantum Technologies (CQT) keeps time—and with record-setting accuracy, according to results published in Nature on Sept. 23.",
-      "date": "Sep 23, 2026",
-      "published_utc": "2026-09-23 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/singapore-scientists-b.jpg"
+      "title": "Higher-dimensional black holes hide an exact symmetry in their ringing, and string-inspired gravity breaks it",
+      "link": "https://phys.org/news/2026-09-higher-dimensional-black-holes-exact.html",
+      "desc": "Strike a bell, and it rings with a pitch and a fading that tell you about the bell: its size, its shape, the metal it is made of. Black holes ring too. When two merge, the newborn black hole shivers and sheds gravitational waves in a brief, dying chord, and since 2015, gravitational-wave detectors…",
+      "date": "Sep 24, 2026",
+      "published_utc": "2026-09-24 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/higher-dimensional-bla.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Central surface density of dark matter agrees with the prediction of a new theory of gravity",
-      "link": "https://phys.org/news/2026-09-central-surface-density-dark-theory.html",
-      "desc": "A researcher from Sejong University has used a new theory of gravity proposed by Erik Verlinde to predict the observed central surface density of dark matter. The study was published in Physics of the Dark Universe on Sept. 20.",
-      "date": "Sep 23, 2026",
-      "published_utc": "2026-09-23 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gravity.jpg"
+      "title": "Physicists define new material blueprint for next-generation microchip encryption",
+      "link": "https://phys.org/news/2026-09-physicists-material-blueprint-generation-microchip.html",
+      "desc": "Behind every secure online transaction or encrypted message lies a string of completely unpredictable numbers. A team of physicists has now proposed a theoretical way around a long-standing roadblock, opening the door to next-generation security chips that protect everyday data without slowing…",
+      "date": "Sep 24, 2026",
+      "published_utc": "2026-09-24 19:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-define-new.jpg"
     },
     {
       "topic": "Earth Observation",
