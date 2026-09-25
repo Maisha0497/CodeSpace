@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25 06:42 UTC",
+  "updated": "2026-09-25 12:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -75,22 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Random access quantum memory lets one processor select among seven storage cells",
+      "link": "https://phys.org/news/2026-09-random-access-quantum-memory-processor.html",
+      "desc": "Classical computers can temporarily store the information required to perform specific tasks in a short-term memory component known as RAM (random access memory). This component allows computer processors to retrieve information from a chosen location without searching through all stored data.",
+      "date": "Sep 25, 2026",
+      "published_utc": "2026-09-25 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-develop-a-r.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Physicists define new material blueprint for next-generation microchip encryption",
       "link": "https://phys.org/news/2026-09-physicists-material-blueprint-generation-microchip.html",
       "desc": "Behind every secure online transaction or encrypted message lies a string of completely unpredictable numbers. A team of physicists has now proposed a theoretical way around a long-standing roadblock, opening the door to next-generation security chips that protect everyday data without slowing…",
       "date": "Sep 24, 2026",
       "published_utc": "2026-09-24 19:10 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-define-new.jpg"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Explosive Intensification for Hurricane Polo",
-      "link": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
-      "desc": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen. The post Explosive Intensification for Hurricane Polo appeared first on NASA Science .",
-      "date": "Sep 25, 2026",
-      "published_utc": "2026-09-25 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923.jpg"
     }
   ]
 }
