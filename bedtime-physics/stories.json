@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25 00:59 UTC",
+  "updated": "2026-09-25 06:42 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -65,6 +65,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Cosmic lockdown: How the environment can isolate quantum fields",
+      "link": "https://phys.org/news/2026-09-cosmic-lockdown-environment-isolate-quantum.html",
+      "desc": "A simplified cosmological model suggests that decoherence can suppress quantum tunneling, effectively locking fields into the vacuum state they have reached.",
+      "date": "Sep 25, 2026",
+      "published_utc": "2026-09-25 04:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cosmic-lockdown-how-th.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Physicists define new material blueprint for next-generation microchip encryption",
       "link": "https://phys.org/news/2026-09-physicists-material-blueprint-generation-microchip.html",
       "desc": "Behind every secure online transaction or encrypted message lies a string of completely unpredictable numbers. A team of physicists has now proposed a theoretical way around a long-standing roadblock, opening the door to next-generation security chips that protect everyday data without slowing…",
@@ -75,12 +85,12 @@
     {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
-      "title": "Cloudy Cloak Over the Northwest",
-      "link": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/",
-      "desc": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall. The post Cloudy Cloak Over the Northwest appeared first on NASA Science .",
-      "date": "Sep 24, 2026",
-      "published_utc": "2026-09-24 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919.jpg?w=1770&amp;h=1935&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "title": "Explosive Intensification for Hurricane Polo",
+      "link": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
+      "desc": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen. The post Explosive Intensification for Hurricane Polo appeared first on NASA Science .",
+      "date": "Sep 25, 2026",
+      "published_utc": "2026-09-25 04:01 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923.jpg"
     }
   ]
 }
