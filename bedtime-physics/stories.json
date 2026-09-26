@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26 06:38 UTC",
+  "updated": "2026-09-26 12:33 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -51,16 +51,6 @@
       "date": "Sep 25, 2026",
       "published_utc": "2026-09-25 13:01 UTC",
       "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Random access quantum memory lets one processor select among seven storage cells",
-      "link": "https://phys.org/news/2026-09-random-access-quantum-memory-processor.html",
-      "desc": "Classical computers can temporarily store the information required to perform specific tasks in a short-term memory component known as RAM (random access memory). This component allows computer processors to retrieve information from a chosen location without searching through all stored data.",
-      "date": "Sep 25, 2026",
-      "published_utc": "2026-09-25 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-develop-a-r.jpg"
     },
     {
       "topic": "Math/Physics",
