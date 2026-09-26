@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26 00:58 UTC",
+  "updated": "2026-09-26 06:38 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -55,16 +55,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Cosmic lockdown: How the environment can isolate quantum fields",
-      "link": "https://phys.org/news/2026-09-cosmic-lockdown-environment-isolate-quantum.html",
-      "desc": "A simplified cosmological model suggests that decoherence can suppress quantum tunneling, effectively locking fields into the vacuum state they have reached.",
-      "date": "Sep 25, 2026",
-      "published_utc": "2026-09-25 04:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cosmic-lockdown-how-th.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Random access quantum memory lets one processor select among seven storage cells",
       "link": "https://phys.org/news/2026-09-random-access-quantum-memory-processor.html",
       "desc": "Classical computers can temporarily store the information required to perform specific tasks in a short-term memory component known as RAM (random access memory). This component allows computer processors to retrieve information from a chosen location without searching through all stored data.",
@@ -81,16 +71,6 @@
       "date": "Sep 25, 2026",
       "published_utc": "2026-09-25 14:40 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Qualia-Holography-cr.Ada-Zejun-Shen-Default.webp"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Explosive Intensification for Hurricane Polo",
-      "link": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
-      "desc": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen. The post Explosive Intensification for Hurricane Polo appeared first on NASA Science .",
-      "date": "Sep 25, 2026",
-      "published_utc": "2026-09-25 04:01 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923.jpg"
     }
   ]
 }
