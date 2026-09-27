@@ -1,16 +1,5 @@
 {
-  "updated": "2026-09-27 12:35 UTC",
+  "updated": "2026-09-27 18:29 UTC",
   "fresh_window_hours": 24,
-  "stories": [
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Quantum computer simulates matter “popping into existence”",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
-      "desc": "Scientists recreated a particle-forming process linked to the extreme physics of the early universe using a 13-ion quantum simulator. The breakthrough suggests quantum computers could eventually help researchers investigate how matter formed and evolved after the Big Bang.",
-      "date": "Sep 26, 2026",
-      "published_utc": "2026-09-26 13:47 UTC",
-      "image": ""
-    }
-  ]
+  "stories": []
 }
