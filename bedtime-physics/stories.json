@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-26 18:29 UTC",
+  "updated": "2026-09-27 01:08 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Ultrathin materials could make quantum light circuits programmable",
-      "link": "https://phys.org/news/2026-09-ultrathin-materials-quantum-circuits-programmable.html",
-      "desc": "Quantum photonics could be a pivotal part of future quantum technology if the right materials can be created, a new review paper has found.",
-      "date": "Sep 25, 2026",
-      "published_utc": "2026-09-25 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-photonics-material.jpg"
-    },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
