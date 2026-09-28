@@ -1,5 +1,16 @@
 {
-  "updated": "2026-09-28 01:07 UTC",
+  "updated": "2026-09-28 06:55 UTC",
   "fresh_window_hours": 24,
-  "stories": []
+  "stories": [
+    {
+      "topic": "Earth Observation",
+      "source": "NASA Earth Observatory",
+      "title": "Uncovering the Valleys Hidden Below Greenland’s Ice",
+      "link": "https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/",
+      "desc": "A new map of the terrain beneath the Greenland Ice Sheet links hundreds of valleys that previous maps missed or left fragmented. The post Uncovering the Valleys Hidden Below Greenland’s Ice appeared first on NASA Science .",
+      "date": "Sep 28, 2026",
+      "published_utc": "2026-09-28 04:00 UTC",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/uncovering-the-valleys-hidden-below-greenland’s-ice/greenlandvalleynet_ifpa_2026.jpg?w=1440&amp;h=1847&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    }
+  ]
 }
