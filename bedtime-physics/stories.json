@@ -1,7 +1,57 @@
 {
-  "updated": "2026-09-28 12:42 UTC",
+  "updated": "2026-09-28 18:33 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New model explains why glass becomes less transparent to terahertz light",
+      "link": "https://phys.org/news/2026-09-glass-transparent-terahertz.html",
+      "desc": "Electromagnetic waves in the gigahertz (GHz) range, such as those used in mobile communications, can readily pass through many types of glass. However, transmission decreases significantly at terahertz frequencies above a characteristic threshold.",
+      "date": "Sep 28, 2026",
+      "published_utc": "2026-09-28 17:47 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glass-window.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Magnetic order survives weak quantum fluctuations in gapless magnets",
+      "link": "https://phys.org/news/2026-09-magnetic-survives-weak-quantum-fluctuations.html",
+      "desc": "In a new study published in Physical Review Letters, researchers have shown that magnetic order can survive weak quantum fluctuations in disordered magnets that lack an energy gap. The work establishes robust ferromagnetism in the two-dimensional random-bond quantum Ising model, confirming a…",
+      "date": "Sep 28, 2026",
+      "published_utc": "2026-09-28 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnetic-order-survive.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Mapping one atom's interaction with light uncovers an unbounded network of quantum states",
+      "link": "https://phys.org/news/2026-09-atom-interaction-uncovers-unbounded-network.html",
+      "desc": "A new graph-theoretic framework provides a unified description of atom-light interactions across regimes ranging from weak to deep-strong coupling.",
+      "date": "Sep 28, 2026",
+      "published_utc": "2026-09-28 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/vast-hidden-network-di.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "DarkSide detector puts 'nuclear' dark matter to the test",
+      "link": "https://phys.org/news/2026-09-darkside-detector-nuclear-dark.html",
+      "desc": "Researchers at the DarkSide collaboration have unveiled results from a seven-year experiment that tested whether dark matter particles could exist as composites of smaller, elementary particles. While the search turned up no direct evidence of this \"ultraheavy nuclear\" dark matter, results from the…",
+      "date": "Sep 28, 2026",
+      "published_utc": "2026-09-28 16:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/detection-experiment-t.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Laser temporarily reprograms ultrathin optical device without electrodes",
+      "link": "https://phys.org/news/2026-09-laser-temporarily-reprograms-ultrathin-optical.html",
+      "desc": "A tiny device that can be reprogrammed using a laser could lead to adaptable devices for computing, imaging and telecommunications. Most devices are built to perform a particular job. If you want them to do something different, you generally need to replace a component, rewire the system or…",
+      "date": "Sep 28, 2026",
+      "published_utc": "2026-09-28 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-light-to-reprogr.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -11,6 +61,16 @@
       "date": "Sep 28, 2026",
       "published_utc": "2026-09-28 09:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/waves-find-order-in-th.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture",
+      "link": "https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928/",
+      "desc": "After a long hiatus, the problem, which was likely inspired by juggling, has finally been resolved by a group of young mathematicians. The post Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture first appeared on Quanta Magazine",
+      "date": "Sep 28, 2026",
+      "published_utc": "2026-09-28 14:35 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/GrahamConjecture-crIrenePerez-Default.webp"
     },
     {
       "topic": "Geoscience",
