@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-28 06:55 UTC",
+  "updated": "2026-09-28 12:42 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Waves find order in the chaos of an oddly shaped cavity",
+      "link": "https://phys.org/news/2026-09-chaos-oddly-cavity.html",
+      "desc": "When light or sound bounces around inside an oddly shaped room, its reflections can quickly become difficult to predict. But new research led by scientists at the Advanced Science Research Center at the CUNY Graduate Center (CUNY ASRC) shows that waves can behave very differently when they travel…",
+      "date": "Sep 28, 2026",
+      "published_utc": "2026-09-28 09:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/waves-find-order-in-th.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Reducing Uncertainty in Groundwater Models Using Airborne Geophysics",
+      "link": "https://eos.org/editor-highlights/reducing-uncertainty-in-groundwater-models-using-airborne-geophysics",
+      "desc": "Scientists present a probabilistic framework for exploiting airborne geophysical data for groundwater model parameterization and apply it to the Scott River aquifer system in Northern California.",
+      "date": "Sep 28, 2026",
+      "published_utc": "2026-09-28 12:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/09/wrcr71106-fig-0002-m-1-1024x576.png"
+    },
     {
       "topic": "Earth Observation",
       "source": "NASA Earth Observatory",
