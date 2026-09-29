@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-28 18:33 UTC",
+  "updated": "2026-09-29 01:04 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Experimental evidence of altermagnetism in a layered material opens a promising path toward future spintronics",
+      "link": "https://phys.org/news/2026-09-experimental-evidence-altermagnetism-layered-material.html",
+      "desc": "To build the ultrafast computers of the future, scientists are looking beyond the electrical charge of electrons to another property: their spin. While conventional hardware relies on the movement of charge to process data, tapping into this intrinsic quantum property could enable researchers to…",
+      "date": "Sep 28, 2026",
+      "published_utc": "2026-09-28 22:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/university-of-central-1.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -45,6 +55,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "How to balance quantum batteries' high power with stable energy delivery",
+      "link": "https://phys.org/news/2026-09-quantum-batteries-high-power-stable.html",
+      "desc": "Quantum batteries are an emerging area of research, with progress coming from theoretical studies and proof-of-principle experiments in small quantum systems. Unlike conventional chemical batteries used in everyday life, they use quantum systems to store and transfer energy. Researchers are…",
+      "date": "Sep 28, 2026",
+      "published_utc": "2026-09-28 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-balance-quantum.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Laser temporarily reprograms ultrathin optical device without electrodes",
       "link": "https://phys.org/news/2026-09-laser-temporarily-reprograms-ultrathin-optical.html",
       "desc": "A tiny device that can be reprogrammed using a laser could lead to adaptable devices for computing, imaging and telecommunications. Most devices are built to perform a particular job. If you want them to do something different, you generally need to replace a component, rewire the system or…",
@@ -71,26 +91,6 @@
       "date": "Sep 28, 2026",
       "published_utc": "2026-09-28 14:35 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/GrahamConjecture-crIrenePerez-Default.webp"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Reducing Uncertainty in Groundwater Models Using Airborne Geophysics",
-      "link": "https://eos.org/editor-highlights/reducing-uncertainty-in-groundwater-models-using-airborne-geophysics",
-      "desc": "Scientists present a probabilistic framework for exploiting airborne geophysical data for groundwater model parameterization and apply it to the Scott River aquifer system in Northern California.",
-      "date": "Sep 28, 2026",
-      "published_utc": "2026-09-28 12:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/wrcr71106-fig-0002-m-1-1024x576.png"
-    },
-    {
-      "topic": "Earth Observation",
-      "source": "NASA Earth Observatory",
-      "title": "Uncovering the Valleys Hidden Below Greenland’s Ice",
-      "link": "https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/",
-      "desc": "A new map of the terrain beneath the Greenland Ice Sheet links hundreds of valleys that previous maps missed or left fragmented. The post Uncovering the Valleys Hidden Below Greenland’s Ice appeared first on NASA Science .",
-      "date": "Sep 28, 2026",
-      "published_utc": "2026-09-28 04:00 UTC",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/uncovering-the-valleys-hidden-below-greenland’s-ice/greenlandvalleynet_ifpa_2026.jpg?w=1440&amp;h=1847&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     }
   ]
 }
