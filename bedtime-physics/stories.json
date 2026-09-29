@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29 06:44 UTC",
+  "updated": "2026-09-29 12:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -73,14 +73,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-light-to-reprogr.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Waves find order in the chaos of an oddly shaped cavity",
-      "link": "https://phys.org/news/2026-09-chaos-oddly-cavity.html",
-      "desc": "When light or sound bounces around inside an oddly shaped room, its reflections can quickly become difficult to predict. But new research led by scientists at the Advanced Science Research Center at the CUNY Graduate Center (CUNY ASRC) shows that waves can behave very differently when they travel…",
-      "date": "Sep 28, 2026",
-      "published_utc": "2026-09-28 09:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/waves-find-order-in-th.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
+      "desc": "CosmoCube will use the far side of the Moon as a shield from Earth’s radio noise to search for a faint signal from the universe before the first stars existed. The suitcase-sized satellite could reveal how the cosmic dark ages ended and how dark matter helped build the first galaxies.",
+      "date": "Sep 29, 2026",
+      "published_utc": "2026-09-29 03:45 UTC",
+      "image": ""
     },
     {
       "topic": "Math/Physics",
