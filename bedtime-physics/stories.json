@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30 06:44 UTC",
+  "updated": "2026-09-30 12:43 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,6 +31,16 @@
       "date": "Sep 29, 2026",
       "published_utc": "2026-09-29 15:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/creating-a-new-superco.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "After 20 years, jet diffusion wakes detected in quark-gluon plasmas",
+      "link": "https://phys.org/news/2026-09-years-jet-diffusion-quark-gluon.html",
+      "desc": "Boats passing over smooth water form a pair of diffusion wakes behind them veering off at a certain angle. Turbulence occurs along the line directly behind the boat, but the two diffusion waves are at a theoretical angle of 19.5° from the same line, for deep, ideally smooth water.",
+      "date": "Sep 30, 2026",
+      "published_utc": "2026-09-30 11:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/after-20-years-jet-dif.jpg"
     },
     {
       "topic": "Physics",
