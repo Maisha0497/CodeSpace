@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30 18:32 UTC",
+  "updated": "2026-10-01 01:13 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -71,26 +71,6 @@
       "date": "Sep 30, 2026",
       "published_utc": "2026-09-30 14:52 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Thought-Geometry-cr.Mark-Belan-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New device measures curved mirrors' absolute shape to within 2 nanometers without touching them",
-      "link": "https://phys.org/news/2026-09-device-mirrors-absolute-nanometers.html",
-      "desc": "Researchers at AIST have developed a device that measures the absolute surface profile of curved optical elements with high precision without touching them.",
-      "date": "Sep 29, 2026",
-      "published_utc": "2026-09-29 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/device-developed-to-me.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Revisiting a Young Isaac Newton",
-      "link": "https://phys.org/news/2026-09-revisiting-young-isaac-newton.html",
-      "desc": "Isaac Newton is typically portrayed as a solitary scientist with intense focus who was obsessed with power and deeply egotistical. But a new book by Caltech historians Jed Buchwald and Mordechai Feingold takes a deeper look at Newton's life in the two decades leading up to the 1687 publication of…",
-      "date": "Sep 29, 2026",
-      "published_utc": "2026-09-29 23:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/revisiting-a-young-isa.jpg"
     }
   ]
 }
