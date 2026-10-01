@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01 06:45 UTC",
+  "updated": "2026-10-01 12:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,22 +25,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "After 20 years, jet diffusion wakes detected in quark-gluon plasmas",
-      "link": "https://phys.org/news/2026-09-years-jet-diffusion-quark-gluon.html",
-      "desc": "Boats passing over smooth water form a pair of diffusion wakes behind them veering off at a certain angle. Turbulence occurs along the line directly behind the boat, but the two diffusion waves are at a theoretical angle of 19.5° from the same line, for deep, ideally smooth water.",
-      "date": "Sep 30, 2026",
-      "published_utc": "2026-09-30 11:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/after-20-years-jet-dif.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Laser-made muons produce first images of dense objects",
       "link": "https://phys.org/news/2026-09-laser-muons-images-dense.html",
       "desc": "Muons are constantly being created as cosmic rays collide with molecules in Earth's upper atmosphere. With their ability to penetrate far into dense, solid materials, these cosmic muons are often used to image the insides of objects that are otherwise hidden from view. However, the flow of these…",
       "date": "Sep 30, 2026",
       "published_utc": "2026-09-30 13:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-made-muons-produ.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New parallel gate entangles diamond qubits 10 times faster at room temperature",
+      "link": "https://phys.org/news/2026-09-parallel-gate-entangles-diamond-qubits.html",
+      "desc": "Quantum technologies rely on qubits, units of information that can exist in combinations of the states 0 and 1 instead of being limited to one or the other like conventional bits. Qubits can become entangled, which means their states become linked in ways that cannot be explained by considering…",
+      "date": "Oct 01, 2026",
+      "published_utc": "2026-10-01 12:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-parallel-gate-enta-1.jpg"
     },
     {
       "topic": "Physics",
@@ -61,6 +61,26 @@
       "date": "Sep 30, 2026",
       "published_utc": "2026-09-30 14:52 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Thought-Geometry-cr.Mark-Belan-Default.webp"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Why do pickles glow? Researcher investigates explosive answer",
+      "link": "https://phys.org/news/2026-10-pickles-explosive.html",
+      "desc": "If you mount a pickle on two metal forks and plug it into a socket, one end will light up in a brilliant orange glow. It's a classic K–12 science demonstration, but the exact physics behind the illumination has long remained a mystery.",
+      "date": "Oct 01, 2026",
+      "published_utc": "2026-10-01 12:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-do-pickles-glow-ps.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "EarthCARE’s view of volcanic plume boosts air safety",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety",
+      "desc": "When Anak Krakatau erupted a few weeks ago, the European Space Agency’s EarthCARE satellite, orbiting above, captured vertical profiles of different constituents within the volcanic plume. Designed primarily to advance our understanding of how clouds and aerosols influence Earth’s climate, here…",
+      "date": "Oct 01, 2026",
+      "published_utc": "2026-10-01 07:30 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_card_full.jpg"
     }
   ]
 }
