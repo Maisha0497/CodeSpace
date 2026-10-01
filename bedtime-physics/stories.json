@@ -1,36 +1,26 @@
 {
-  "updated": "2026-10-01 12:40 UTC",
+  "updated": "2026-10-01 18:34 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Zinc oxide quantum dots enable faster charge detection, laying groundwork for spin qubits",
-      "link": "https://phys.org/news/2026-09-zinc-oxide-quantum-dots-enable.html",
-      "desc": "Researchers at Tohoku University, in collaboration with the National Institute for Materials Science (NIMS) and the University of Tokyo, have taken an important step toward semiconductor quantum computing using zinc oxide (ZnO).",
-      "date": "Sep 30, 2026",
-      "published_utc": "2026-09-30 17:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/advancing-quantum-comp.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
+      "desc": "Researchers have experimentally observed energy patterns that physicists have predicted for about 40 years. By arranging laser-trapped atoms into a quantum simulator, they recreated two different quantum tipping points and watched the atoms fall into the exact energy ratios predicted by theory. The…",
+      "date": "Oct 01, 2026",
+      "published_utc": "2026-10-01 03:06 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "3D light fields push electrons into quantum states previously beyond experimental reach",
-      "link": "https://phys.org/news/2026-09-3d-fields-electrons-quantum-states.html",
-      "desc": "By superimposing two ultrashort laser pulses that converge from different directions, a team of physicists at the University of Oldenburg has succeeded in generating three-dimensional light fields.",
-      "date": "Sep 30, 2026",
-      "published_utc": "2026-09-30 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-three-dimensiona.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Laser-made muons produce first images of dense objects",
-      "link": "https://phys.org/news/2026-09-laser-muons-images-dense.html",
-      "desc": "Muons are constantly being created as cosmic rays collide with molecules in Earth's upper atmosphere. With their ability to penetrate far into dense, solid materials, these cosmic muons are often used to image the insides of objects that are otherwise hidden from view. However, the flow of these…",
-      "date": "Sep 30, 2026",
-      "published_utc": "2026-09-30 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-made-muons-produ.jpg"
+      "title": "Letting light wander through milk—a surprising approach to better imaging",
+      "link": "https://phys.org/news/2026-10-approach-imaging.html",
+      "desc": "Light scattered in tissue usually ceases to be a useful source of information. But what if, instead of forcing it to travel along a single path, we allowed it to wander a little differently each time? Scientists from ICTER tested this seemingly risky idea and showed that a series of measurements…",
+      "date": "Oct 01, 2026",
+      "published_utc": "2026-10-01 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/letting-light-wander-i-1.jpg"
     },
     {
       "topic": "Physics",
@@ -45,26 +35,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Physicists identify 'octupolar' magnetism, with implications for quantum technologies",
-      "link": "https://phys.org/news/2026-09-physicists-octupolar-magnetism-implications-quantum.html",
-      "desc": "Most magnets have two poles: north and south, or positive and negative, in a familiar arrangement called a \"dipole.\" But researchers are increasingly uncovering more complex forms of magnetism.",
-      "date": "Sep 30, 2026",
-      "published_utc": "2026-09-30 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-identify-oc.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
-      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "desc": "Unexpected patterns traveling across the human brain may be reorganizing its activity in real time. The post Surprisingly Complex Waves Reveal the Brain’s Inner Workings first appeared on Quanta Magazine",
-      "date": "Sep 30, 2026",
-      "published_utc": "2026-09-30 14:52 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Thought-Geometry-cr.Mark-Belan-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Why do pickles glow? Researcher investigates explosive answer",
       "link": "https://phys.org/news/2026-10-pickles-explosive.html",
       "desc": "If you mount a pickle on two metal forks and plug it into a socket, one end will light up in a brilliant orange glow. It's a classic K–12 science demonstration, but the exact physics behind the illumination has long remained a mystery.",
@@ -73,14 +43,54 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-do-pickles-glow-ps.jpg"
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "EarthCARE’s view of volcanic plume boosts air safety",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety",
-      "desc": "When Anak Krakatau erupted a few weeks ago, the European Space Agency’s EarthCARE satellite, orbiting above, captured vertical profiles of different constituents within the volcanic plume. Designed primarily to advance our understanding of how clouds and aerosols influence Earth’s climate, here…",
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Exploring the shapes of exotic nuclei",
+      "link": "https://phys.org/news/2026-10-exploring-exotic-nuclei.html",
+      "desc": "In the conventional diagram of an atom, the center depicts a nucleus—a spherical cluster of protons and neutrons. But that sphere is a simplification: nuclei can deform into exotic shapes that appear more like a pear, football or Frisbee. Understanding why and when nuclei distort is crucial for…",
       "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 07:30 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_card_full.jpg"
+      "published_utc": "2026-10-01 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exploring-the-shapes-o-1.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "What Does the Fourth Dimension Actually Look Like?",
+      "link": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+      "desc": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine",
+      "date": "Oct 01, 2026",
+      "published_utc": "2026-10-01 13:20 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E9-cr-Chanelle-Nibbelink-Default-NO-LOGO.webp"
+    },
+    {
+      "topic": "AI",
+      "source": "ScienceDaily AI",
+      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "desc": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-generated video.",
+      "date": "Oct 01, 2026",
+      "published_utc": "2026-10-01 13:03 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Cool Math",
+      "source": "ScienceDaily Math",
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "desc": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s superconducting qubits…",
+      "date": "Oct 01, 2026",
+      "published_utc": "2026-10-01 13:17 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Wildfires Burned in Antarctica 90 Million Years Ago",
+      "link": "https://eos.org/articles/wildfires-burned-in-antarctica-90-million-years-ago",
+      "desc": "A new study finds evidence for the southernmost wildfires currently known, which may have facilitated a transition from temperate rainforest to peatland in Antarctica.",
+      "date": "Oct 01, 2026",
+      "published_utc": "2026-10-01 14:24 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/09/antarctic-artist-depiction-1024x576.png"
     }
   ]
 }
