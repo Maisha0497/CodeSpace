@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-02 12:39 UTC",
+  "updated": "2026-10-02 18:33 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A laser that stays locked without active control",
+      "link": "https://phys.org/news/2026-10-laser-stays.html",
+      "desc": "EPFL researchers have developed a chip-based laser that keeps a very stable frequency across its tested operating range, without needing active electronic control. Their research is published in the journal Nature Photonics.",
+      "date": "Oct 02, 2026",
+      "published_utc": "2026-10-02 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-laser-that-stays-loc-1.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -15,42 +25,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Letting light wander through milk—a surprising approach to better imaging",
-      "link": "https://phys.org/news/2026-10-approach-imaging.html",
-      "desc": "Light scattered in tissue usually ceases to be a useful source of information. But what if, instead of forcing it to travel along a single path, we allowed it to wander a little differently each time? Scientists from ICTER tested this seemingly risky idea and showed that a series of measurements…",
-      "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/letting-light-wander-i-1.jpg"
+      "title": "Protons ride moving waves to reach record energy with long-pulse lasers",
+      "link": "https://phys.org/news/2026-10-protons-energy-pulse-lasers.html",
+      "desc": "Imagine a proton catching a wave and surfing it to gain speed. While the imagery may seem wild, the premise of laser-driven ion acceleration has promise as an alternative to conventional accelerators. However, the ultrathin targets used to drive this increase in ion energy are vulnerable to the…",
+      "date": "Oct 02, 2026",
+      "published_utc": "2026-10-02 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protons-ride-moving-wa.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New parallel gate entangles diamond qubits 10 times faster at room temperature",
-      "link": "https://phys.org/news/2026-09-parallel-gate-entangles-diamond-qubits.html",
-      "desc": "Quantum technologies rely on qubits, units of information that can exist in combinations of the states 0 and 1 instead of being limited to one or the other like conventional bits. Qubits can become entangled, which means their states become linked in ways that cannot be explained by considering…",
-      "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 12:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-parallel-gate-enta-1.jpg"
+      "title": "Physicists who uncovered the first particle accelerator were honored with a Nobel Prize 75 years ago",
+      "link": "https://phys.org/news/2026-10-physicists-uncovered-particle-honored-nobel.html",
+      "desc": "While scientists are known for their dedication to their research, crawling on the floor to avoid electrocution for the sake of a measurement seems a little excessive. But this is what British physicist John Cockcroft and Irish physicist Ernest T.S. Walton had to do in the early 1930s while…",
+      "date": "Oct 02, 2026",
+      "published_utc": "2026-10-02 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-black-and-white-phot-1.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Why do pickles glow? Researcher investigates explosive answer",
-      "link": "https://phys.org/news/2026-10-pickles-explosive.html",
-      "desc": "If you mount a pickle on two metal forks and plug it into a socket, one end will light up in a brilliant orange glow. It's a classic K–12 science demonstration, but the exact physics behind the illumination has long remained a mystery.",
-      "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 12:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-do-pickles-glow-ps.jpg"
+      "title": "Q&A: How will quantum computers change society?",
+      "link": "https://phys.org/news/2026-10-qa-quantum-society.html",
+      "desc": "Once called a \"pipe dream,\" quantum computers are now approaching practical use. Companies and research institutes around the world are in fierce competition to develop this technology, which has the potential to rapidly perform some calculations that are extremely difficult even for conventional…",
+      "date": "Oct 02, 2026",
+      "published_utc": "2026-10-02 18:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-will-quantum-compu.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Exploring the shapes of exotic nuclei",
-      "link": "https://phys.org/news/2026-10-exploring-exotic-nuclei.html",
-      "desc": "In the conventional diagram of an atom, the center depicts a nucleus—a spherical cluster of protons and neutrons. But that sphere is a simplification: nuclei can deform into exotic shapes that appear more like a pear, football or Frisbee. Understanding why and when nuclei distort is crucial for…",
-      "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exploring-the-shapes-o-1.jpg"
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence",
+      "link": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+      "desc": "Scientists assumed that energy flows in only one direction in a turbulent system. What they didn’t know, until they looked closely at brine shrimp, was that a simple factor can reverse the flow. The post Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence first appeared on Quanta…",
+      "date": "Oct 02, 2026",
+      "published_utc": "2026-10-02 14:45 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ManipulatingTurbulence-crXinyuSi_UniversityOfPittsburgh-Default.webp"
     },
     {
       "topic": "Physics",
@@ -63,26 +73,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-funnels-let-com.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "What Does the Fourth Dimension Actually Look Like?",
-      "link": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
-      "desc": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine",
-      "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 13:20 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E9-cr-Chanelle-Nibbelink-Default-NO-LOGO.webp"
-    },
-    {
-      "topic": "AI",
-      "source": "ScienceDaily AI",
-      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
-      "desc": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-generated video.",
-      "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 13:03 UTC",
-      "image": ""
-    },
-    {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
       "title": "Earth from Space: Typhoon Surigae",
@@ -91,6 +81,16 @@
       "date": "Oct 02, 2026",
       "published_utc": "2026-10-02 09:00 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_typhoon_surigae/27547933-1-eng-GB/Earth_from_Space_Typhoon_Surigae_card_full.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Scientists Zero In on Tiny Particles to Improve Weather and Air Quality Forecasts",
+      "link": "https://eos.org/research-spotlights/scientists-zero-in-on-tiny-particles-to-improve-weather-and-air-quality-forecasts",
+      "desc": "A new method for handling satellite aerosol observations boosts simulation accuracy, with potential benefits for weather and climate forecasting.",
+      "date": "Oct 02, 2026",
+      "published_utc": "2026-10-02 13:20 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/09/aerosols-over-china-1024x576.jpg"
     }
   ]
 }
