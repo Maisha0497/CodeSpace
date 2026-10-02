@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 06:43 UTC",
+  "updated": "2026-10-02 12:39 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -83,14 +83,14 @@
       "image": ""
     },
     {
-      "topic": "Cool Math",
-      "source": "ScienceDaily Math",
-      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-      "desc": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s superconducting qubits…",
-      "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 13:17 UTC",
-      "image": ""
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space: Typhoon Surigae",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae",
+      "desc": "Image: This false-colour, polarised image from Copernicus Sentinel-1 shows us the surface of the sea beneath the clouds, as seen by the satellite’s radar instrument. The sea conditions reflect the strong winds as Typhoon Surigae passes over.",
+      "date": "Oct 02, 2026",
+      "published_utc": "2026-10-02 09:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_typhoon_surigae/27547933-1-eng-GB/Earth_from_Space_Typhoon_Surigae_card_full.jpg"
     }
   ]
 }
