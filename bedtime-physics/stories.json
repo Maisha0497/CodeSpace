@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-01 18:34 UTC",
+  "updated": "2026-10-02 01:03 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New method generates nearly indistinguishable photons for quantum communication",
+      "link": "https://phys.org/news/2026-10-method-generates-indistinguishable-photons-quantum.html",
+      "desc": "Working in close collaboration, researchers from Paderborn University, the University of Basel and Ruhr University Bochum have made a breakthrough in quantum communication. In their recently published paper in the journal Physical Review Letters, they demonstrate how special semiconductor…",
+      "date": "Oct 01, 2026",
+      "published_utc": "2026-10-01 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-communication-2.jpg"
+    },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
@@ -53,6 +63,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exploring-the-shapes-o-1.jpg"
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Hidden 'funnels' let complex systems slip between stable states",
+      "link": "https://phys.org/news/2026-09-hidden-funnels-complex-stable-states.html",
+      "desc": "Many systems in nature can settle into several different stable states, with the final state depending on their starting conditions. However, the boundaries separating these states are often far more complicated than they first appear.",
+      "date": "Oct 01, 2026",
+      "published_utc": "2026-10-01 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-funnels-let-com.jpg"
+    },
+    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
       "title": "What Does the Fourth Dimension Actually Look Like?",
@@ -71,26 +91,6 @@
       "date": "Oct 01, 2026",
       "published_utc": "2026-10-01 13:03 UTC",
       "image": ""
-    },
-    {
-      "topic": "Cool Math",
-      "source": "ScienceDaily Math",
-      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-      "desc": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s superconducting qubits…",
-      "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 13:17 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Wildfires Burned in Antarctica 90 Million Years Ago",
-      "link": "https://eos.org/articles/wildfires-burned-in-antarctica-90-million-years-ago",
-      "desc": "A new study finds evidence for the southernmost wildfires currently known, which may have facilitated a transition from temperate rainforest to peatland in Antarctica.",
-      "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 14:24 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/antarctic-artist-depiction-1024x576.png"
     }
   ]
 }
