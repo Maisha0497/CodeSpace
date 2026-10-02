@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 01:03 UTC",
+  "updated": "2026-10-02 06:43 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Oct 01, 2026",
       "published_utc": "2026-10-01 21:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-communication-2.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
-      "desc": "Researchers have experimentally observed energy patterns that physicists have predicted for about 40 years. By arranging laser-trapped atoms into a quantum simulator, they recreated two different quantum tipping points and watched the atoms fall into the exact energy ratios predicted by theory. The…",
-      "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 03:06 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
@@ -90,6 +80,16 @@
       "desc": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-generated video.",
       "date": "Oct 01, 2026",
       "published_utc": "2026-10-01 13:03 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Cool Math",
+      "source": "ScienceDaily Math",
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "desc": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s superconducting qubits…",
+      "date": "Oct 01, 2026",
+      "published_utc": "2026-10-01 13:17 UTC",
       "image": ""
     }
   ]
