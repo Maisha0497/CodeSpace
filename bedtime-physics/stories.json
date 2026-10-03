@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-02 18:33 UTC",
+  "updated": "2026-10-03 01:00 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Scientists discover first type I superconductor that breaks time-reversal symmetry",
+      "link": "https://phys.org/news/2026-10-scientists-superconductor-reversal-symmetry.html",
+      "desc": "Superconductors are materials that conduct electricity with no resistance and expel magnetic fields when cooled to ultralow temperatures. And depending on their quantum structure, they can also showcase strange properties like magnetic levitation. But now things are getting a little weirder.",
+      "date": "Oct 02, 2026",
+      "published_utc": "2026-10-02 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-a-19.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -11,16 +21,6 @@
       "date": "Oct 02, 2026",
       "published_utc": "2026-10-02 13:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-laser-that-stays-loc-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New method generates nearly indistinguishable photons for quantum communication",
-      "link": "https://phys.org/news/2026-10-method-generates-indistinguishable-photons-quantum.html",
-      "desc": "Working in close collaboration, researchers from Paderborn University, the University of Basel and Ruhr University Bochum have made a breakthrough in quantum communication. In their recently published paper in the journal Physical Review Letters, they demonstrate how special semiconductor…",
-      "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-communication-2.jpg"
     },
     {
       "topic": "Physics",
@@ -61,16 +61,6 @@
       "date": "Oct 02, 2026",
       "published_utc": "2026-10-02 14:45 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ManipulatingTurbulence-crXinyuSi_UniversityOfPittsburgh-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Hidden 'funnels' let complex systems slip between stable states",
-      "link": "https://phys.org/news/2026-09-hidden-funnels-complex-stable-states.html",
-      "desc": "Many systems in nature can settle into several different stable states, with the final state depending on their starting conditions. However, the boundaries separating these states are often far more complicated than they first appear.",
-      "date": "Oct 01, 2026",
-      "published_utc": "2026-10-01 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-funnels-let-com.jpg"
     },
     {
       "topic": "Remote Sensing",
