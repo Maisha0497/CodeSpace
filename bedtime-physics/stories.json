@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03 06:47 UTC",
+  "updated": "2026-10-03 13:57 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,12 +15,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A laser that stays locked without active control",
-      "link": "https://phys.org/news/2026-10-laser-stays.html",
-      "desc": "EPFL researchers have developed a chip-based laser that keeps a very stable frequency across its tested operating range, without needing active electronic control. Their research is published in the journal Nature Photonics.",
-      "date": "Oct 02, 2026",
-      "published_utc": "2026-10-02 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-laser-that-stays-loc-1.jpg"
+      "title": "Cooper pairs found above superconducting critical temperature in pair density waves",
+      "link": "https://phys.org/news/2026-10-cooper-pairs-superconducting-critical-temperature.html",
+      "desc": "Physicists with the University of Illinois Urbana-Champaign's Grainger College of Engineering have identified a new form of superconducting behavior. Experiments on the metal uranium ditelluride reveal that Cooper pairs, the composite electron units responsible for superconductivity, can organize…",
+      "date": "Oct 03, 2026",
+      "published_utc": "2026-10-03 11:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-cheshire-cats-grin.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists just made a superconductor stronger using “empty space”",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+      "desc": "Researchers have demonstrated that quantum fluctuations in supposedly empty space can strengthen superconductivity, raising the transition temperature of an ultrathin material by as much as 5.4%. The discovery opens the possibility of using specially engineered vacuum environments to control…",
+      "date": "Oct 03, 2026",
+      "published_utc": "2026-10-03 12:03 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
@@ -61,26 +71,6 @@
       "date": "Oct 02, 2026",
       "published_utc": "2026-10-02 14:45 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ManipulatingTurbulence-crXinyuSi_UniversityOfPittsburgh-Default.webp"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Earth from Space: Typhoon Surigae",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae",
-      "desc": "Image: This false-colour, polarised image from Copernicus Sentinel-1 shows us the surface of the sea beneath the clouds, as seen by the satellite’s radar instrument. The sea conditions reflect the strong winds as Typhoon Surigae passes over.",
-      "date": "Oct 02, 2026",
-      "published_utc": "2026-10-02 09:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_typhoon_surigae/27547933-1-eng-GB/Earth_from_Space_Typhoon_Surigae_card_full.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Scientists Zero In on Tiny Particles to Improve Weather and Air Quality Forecasts",
-      "link": "https://eos.org/research-spotlights/scientists-zero-in-on-tiny-particles-to-improve-weather-and-air-quality-forecasts",
-      "desc": "A new method for handling satellite aerosol observations boosts simulation accuracy, with potential benefits for weather and climate forecasting.",
-      "date": "Oct 02, 2026",
-      "published_utc": "2026-10-02 13:20 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/aerosols-over-china-1024x576.jpg"
     }
   ]
 }
