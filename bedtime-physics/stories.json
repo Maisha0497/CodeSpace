@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03 13:57 UTC",
+  "updated": "2026-10-03 19:01 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Oct 02, 2026",
       "published_utc": "2026-10-02 21:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-a-19.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Reading hidden topology in light, even when energy leaks away",
+      "link": "https://phys.org/news/2026-10-hidden-topology-energy-leaks.html",
+      "desc": "When I explain topology to students, I start with a knot in a rope. You can stretch it, twist it or shake it, but the knot stays until you cut the rope. Physicists have found that some materials and devices carry similar \"knots\" in how waves move through them. These are topological properties,…",
+      "date": "Oct 03, 2026",
+      "published_utc": "2026-10-03 17:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-hidden-topolog.jpg"
     },
     {
       "topic": "Physics",
@@ -35,42 +45,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Protons ride moving waves to reach record energy with long-pulse lasers",
-      "link": "https://phys.org/news/2026-10-protons-energy-pulse-lasers.html",
-      "desc": "Imagine a proton catching a wave and surfing it to gain speed. While the imagery may seem wild, the premise of laser-driven ion acceleration has promise as an alternative to conventional accelerators. However, the ultrathin targets used to drive this increase in ion energy are vulnerable to the…",
-      "date": "Oct 02, 2026",
-      "published_utc": "2026-10-02 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protons-ride-moving-wa.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physicists who uncovered the first particle accelerator were honored with a Nobel Prize 75 years ago",
-      "link": "https://phys.org/news/2026-10-physicists-uncovered-particle-honored-nobel.html",
-      "desc": "While scientists are known for their dedication to their research, crawling on the floor to avoid electrocution for the sake of a measurement seems a little excessive. But this is what British physicist John Cockcroft and Irish physicist Ernest T.S. Walton had to do in the early 1930s while…",
-      "date": "Oct 02, 2026",
-      "published_utc": "2026-10-02 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-black-and-white-phot-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Q&A: How will quantum computers change society?",
-      "link": "https://phys.org/news/2026-10-qa-quantum-society.html",
-      "desc": "Once called a \"pipe dream,\" quantum computers are now approaching practical use. Companies and research institutes around the world are in fierce competition to develop this technology, which has the potential to rapidly perform some calculations that are extremely difficult even for conventional…",
-      "date": "Oct 02, 2026",
-      "published_utc": "2026-10-02 18:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-will-quantum-compu.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence",
-      "link": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
-      "desc": "Scientists assumed that energy flows in only one direction in a turbulent system. What they didn’t know, until they looked closely at brine shrimp, was that a simple factor can reverse the flow. The post Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence first appeared on Quanta…",
-      "date": "Oct 02, 2026",
-      "published_utc": "2026-10-02 14:45 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ManipulatingTurbulence-crXinyuSi_UniversityOfPittsburgh-Default.webp"
+      "title": "Visible light does not speed up water evaporation, rigorous experiments suggest",
+      "link": "https://phys.org/news/2026-10-visible-evaporation-rigorous.html",
+      "desc": "In recent experiments involving hydrogels and water droplets, researchers have proposed that exposure to visible light could make water evaporate faster without heating it. However, direct evidence that light acts on water itself has proven elusive.",
+      "date": "Oct 03, 2026",
+      "published_utc": "2026-10-03 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/visible-light-doesnt-s.jpg"
     }
   ]
 }
