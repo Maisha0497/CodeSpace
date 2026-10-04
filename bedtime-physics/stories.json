@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-04 08:21 UTC",
+  "updated": "2026-10-04 14:12 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Giant fluctuations of focused light reveal hidden correlations in opaque materials",
+      "link": "https://phys.org/news/2026-09-giant-fluctuations-focused-reveal-hidden.html",
+      "desc": "When light travels through a strongly scattering material, such as biological tissue or other disordered opaque media, it follows many different paths and produces a seemingly random speckle pattern. Wavefront shaping makes it possible to control this complex interference and focus light through…",
+      "date": "Oct 04, 2026",
+      "published_utc": "2026-10-04 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-fluctuations-of-1.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -15,32 +25,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Cooper pairs found above superconducting critical temperature in pair density waves",
-      "link": "https://phys.org/news/2026-10-cooper-pairs-superconducting-critical-temperature.html",
-      "desc": "Physicists with the University of Illinois Urbana-Champaign's Grainger College of Engineering have identified a new form of superconducting behavior. Experiments on the metal uranium ditelluride reveal that Cooper pairs, the composite electron units responsible for superconductivity, can organize…",
-      "date": "Oct 03, 2026",
-      "published_utc": "2026-10-03 11:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-cheshire-cats-grin.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists just made a superconductor stronger using “empty space”",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
-      "desc": "Researchers have demonstrated that quantum fluctuations in supposedly empty space can strengthen superconductivity, raising the transition temperature of an ultrathin material by as much as 5.4%. The discovery opens the possibility of using specially engineered vacuum environments to control…",
-      "date": "Oct 03, 2026",
-      "published_utc": "2026-10-03 12:03 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Visible light does not speed up water evaporation, rigorous experiments suggest",
       "link": "https://phys.org/news/2026-10-visible-evaporation-rigorous.html",
       "desc": "In recent experiments involving hydrogels and water droplets, researchers have proposed that exposure to visible light could make water evaporate faster without heating it. However, direct evidence that light acts on water itself has proven elusive.",
       "date": "Oct 03, 2026",
       "published_utc": "2026-10-03 16:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/visible-light-doesnt-s.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
+      "desc": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed the formation of hydrogen in the early universe, affecting the cosmic microwave…",
+      "date": "Oct 04, 2026",
+      "published_utc": "2026-10-04 12:05 UTC",
+      "image": ""
     }
   ]
 }
