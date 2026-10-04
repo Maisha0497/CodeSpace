@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-03 19:01 UTC",
+  "updated": "2026-10-04 01:33 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Scientists discover first type I superconductor that breaks time-reversal symmetry",
-      "link": "https://phys.org/news/2026-10-scientists-superconductor-reversal-symmetry.html",
-      "desc": "Superconductors are materials that conduct electricity with no resistance and expel magnetic fields when cooled to ultralow temperatures. And depending on their quantum structure, they can also showcase strange properties like magnetic levitation. But now things are getting a little weirder.",
-      "date": "Oct 02, 2026",
-      "published_utc": "2026-10-02 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-a-19.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
