@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-05 12:41 UTC",
+  "updated": "2026-10-05 18:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Lightsaber-like plasma antenna uses laser-ionized air to transmit radio waves",
+      "link": "https://phys.org/news/2026-10-lightsaber-plasma-antenna-laser-ionized.html",
+      "desc": "Researchers have demonstrated a technique that uses a laser to produce a plasma beam antenna capable of transmitting radio waves. The article, \"Laser-Induced-Plasma-Filament Antenna Transmitting 30 MHz VHF,\" is published in the IEEE Journal of Microwaves.",
+      "date": "Oct 05, 2026",
+      "published_utc": "2026-10-05 17:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-small-electronic-dev.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -11,6 +21,16 @@
       "date": "Oct 05, 2026",
       "published_utc": "2026-10-05 12:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-rec-1.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Is AI the End of Math As We Know It?",
+      "link": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+      "desc": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.” The post Is AI the End of Math As We Know It? first appeared on Quanta Magazine",
+      "date": "Oct 05, 2026",
+      "published_utc": "2026-10-05 13:40 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Default-1.webp"
     }
   ]
 }
