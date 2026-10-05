@@ -1,26 +1,16 @@
 {
-  "updated": "2026-10-05 07:00 UTC",
+  "updated": "2026-10-05 12:41 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Giant fluctuations of focused light reveal hidden correlations in opaque materials",
-      "link": "https://phys.org/news/2026-09-giant-fluctuations-focused-reveal-hidden.html",
-      "desc": "When light travels through a strongly scattering material, such as biological tissue or other disordered opaque media, it follows many different paths and produces a seemingly random speckle pattern. Wavefront shaping makes it possible to control this complex interference and focus light through…",
-      "date": "Oct 04, 2026",
-      "published_utc": "2026-10-04 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-fluctuations-of-1.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
-      "desc": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed the formation of hydrogen in the early universe, affecting the cosmic microwave…",
-      "date": "Oct 04, 2026",
-      "published_utc": "2026-10-04 12:05 UTC",
-      "image": ""
+      "title": "Scientists uncover recurrent patterns within chaotic quantum behavior",
+      "link": "https://phys.org/news/2026-09-scientists-uncover-recurrent-patterns-chaotic.html",
+      "desc": "Many complex quantum systems rapidly lose the recognizable patterns of their initial states as their components interact. To describe patterns of regular and chaotic motion in specific systems, physicists can construct a mathematical map called an effective phase space.",
+      "date": "Oct 05, 2026",
+      "published_utc": "2026-10-05 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-rec-1.jpg"
     }
   ]
 }
