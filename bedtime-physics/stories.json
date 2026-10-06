@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06 06:44 UTC",
+  "updated": "2026-10-06 12:39 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -45,12 +45,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Scientists uncover recurrent patterns within chaotic quantum behavior",
-      "link": "https://phys.org/news/2026-09-scientists-uncover-recurrent-patterns-chaotic.html",
-      "desc": "Many complex quantum systems rapidly lose the recognizable patterns of their initial states as their components interact. To describe patterns of regular and chaotic motion in specific systems, physicists can construct a mathematical map called an effective phase space.",
-      "date": "Oct 05, 2026",
-      "published_utc": "2026-10-05 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-rec-1.jpg"
+      "title": "Francis Halzen wins Nobel Prize in physics for work on mysterious ghost particles called neutrinos",
+      "link": "https://phys.org/news/2026-10-francis-halzen-nobel-prize-physics.html",
+      "desc": "Francis Halzen won the Nobel Prize in physics on Tuesday for his efforts to demystify a rare group of neutrinos, tiny cosmic particles that scientists believe offer clues to how the universe evolved.",
+      "date": "Oct 06, 2026",
+      "published_utc": "2026-10-06 10:12 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/francis-halzen-wins-no.jpg"
     },
     {
       "topic": "Math/Physics",
