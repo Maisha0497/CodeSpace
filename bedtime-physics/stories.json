@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-06 12:39 UTC",
+  "updated": "2026-10-06 18:33 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Lightsaber-like plasma antenna uses laser-ionized air to transmit radio waves",
-      "link": "https://phys.org/news/2026-10-lightsaber-plasma-antenna-laser-ionized.html",
-      "desc": "Researchers have demonstrated a technique that uses a laser to produce a plasma beam antenna capable of transmitting radio waves. The article, \"Laser-Induced-Plasma-Filament Antenna Transmitting 30 MHz VHF,\" is published in the IEEE Journal of Microwaves.",
-      "date": "Oct 05, 2026",
-      "published_utc": "2026-10-05 17:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-small-electronic-dev.jpg"
+      "title": "Heavy fermions emerge at an atomic-layer interface, unlocking new ways to design quantum materials",
+      "link": "https://phys.org/news/2026-10-heavy-fermions-emerge-atomic-layer.html",
+      "desc": "A research team led by the University of Osaka has directly observed, for the first time, an unusual heavy-fermion state forming at the boundary between a one-atom-thick material and a metal. Such states are closely linked to exotic quantum phenomena, including unconventional superconductivity, and…",
+      "date": "Oct 06, 2026",
+      "published_utc": "2026-10-06 15:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heavy-fermions-emerge.jpg"
     },
     {
       "topic": "Physics",
@@ -33,6 +33,26 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-novel-path-to-fusion.jpg"
     },
     {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
+      "desc": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tracking individual quarks as they blasted through the plasma, researchers saw them leave behind…",
+      "date": "Oct 06, 2026",
+      "published_utc": "2026-10-06 12:04 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists finally see how nature moves energy so efficiently",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
+      "desc": "Researchers have captured key steps in a chemical reaction that helps nature transfer energy with remarkable efficiency. Ultrafast X-rays revealed how changes involving electrons and protons are closely linked to the rearrangement of surrounding water molecules. Because similar reactions drive…",
+      "date": "Oct 06, 2026",
+      "published_utc": "2026-10-06 07:49 UTC",
+      "image": ""
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Quantum systems never quite forget where they came from",
@@ -45,6 +65,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Can a passing black hole disturbance leave a trace in Hawking radiation?",
+      "link": "https://phys.org/news/2026-10-black-hole-disturbance-hawking.html",
+      "desc": "Black holes, despite their extreme nature, are described by surprisingly few basic parameters: their mass, charge and spin. Two black holes may have formed for completely different reasons and passed through very different histories, yet still end up in the same final state. John Wheeler summarized…",
+      "date": "Oct 06, 2026",
+      "published_utc": "2026-10-06 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-a-passing-black-ho.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Francis Halzen wins Nobel Prize in physics for work on mysterious ghost particles called neutrinos",
       "link": "https://phys.org/news/2026-10-francis-halzen-nobel-prize-physics.html",
       "desc": "Francis Halzen won the Nobel Prize in physics on Tuesday for his efforts to demystify a rare group of neutrinos, tiny cosmic particles that scientists believe offer clues to how the universe evolved.",
@@ -53,24 +83,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/francis-halzen-wins-no.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Is AI the End of Math As We Know It?",
-      "link": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
-      "desc": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.” The post Is AI the End of Math As We Know It? first appeared on Quanta Magazine",
-      "date": "Oct 05, 2026",
-      "published_utc": "2026-10-05 13:40 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Default-1.webp"
-    },
-    {
       "topic": "Geoscience",
       "source": "Eos",
-      "title": "New Insights into Permafrost Degradation and Subsidence",
-      "link": "https://eos.org/editor-highlights/new-insights-into-permafrost-degradation-and-subsidence",
-      "desc": "A 20-year monitoring study in the discontinuous permafrost zone of Nunavik, Canada documents changing ground thermal dynamics and associated thaw subsidence.",
-      "date": "Oct 05, 2026",
-      "published_utc": "2026-10-05 19:46 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/10/jgrf70188-fig-0009-m-1024x576.png"
+      "title": "Shooting Light Pulses Down a 3-Kilometer Borehole Could Illuminate Seismic Hazards",
+      "link": "https://eos.org/research-spotlights/shooting-light-pulses-down-a-3-kilometer-borehole-could-illuminate-seismic-hazards",
+      "desc": "Borehole distributed acoustic sensing (DAS) offers a more precise way to measure small earthquakes, if appropriate care is taken.",
+      "date": "Oct 06, 2026",
+      "published_utc": "2026-10-06 13:21 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/cape-station-1024x576.jpg"
     }
   ]
 }
