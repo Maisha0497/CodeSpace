@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05 18:35 UTC",
+  "updated": "2026-10-06 01:03 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,36 @@
       "date": "Oct 05, 2026",
       "published_utc": "2026-10-05 17:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-small-electronic-dev.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Atomic motion could help push solar cells beyond conventional limits",
+      "link": "https://phys.org/news/2026-10-atomic-motion-solar-cells-conventional.html",
+      "desc": "The bulk photovoltaic effect (BPVE), a photoelectric effect that generates photocurrent without a p–n junction, can persist even when a material's average crystal structure remains centrosymmetric, a study from Institute of Science Tokyo has found. Researchers demonstrated this in CuCrP2S6, a van…",
+      "date": "Oct 05, 2026",
+      "published_utc": "2026-10-05 20:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/atomic-motion-could-he-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A novel path to fusion ignition: Heat first, then add fuel",
+      "link": "https://phys.org/news/2026-10-path-fusion-ignition-fuel.html",
+      "desc": "For more than 70 years, fusion energy researchers have used a particular equation to judge whether a plasma would stay hot and dense enough—for long enough—to reach a point where it could sustain itself without any more external power added. While that equation marks the finish line, also known as…",
+      "date": "Oct 05, 2026",
+      "published_utc": "2026-10-05 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-novel-path-to-fusion.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum systems never quite forget where they came from",
+      "link": "https://phys.org/news/2026-10-quantum.html",
+      "desc": "Even the most chaotic quantum systems keep a permanent mark of their own past—a \"quantum birthmark\"—that never fades. Researchers from Tampere University, Harvard University and TU Dresden discovered the feature in their recent study. Their findings shed new light on the elusive relationship…",
+      "date": "Oct 05, 2026",
+      "published_utc": "2026-10-05 20:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-systems-never.jpg"
     },
     {
       "topic": "Physics",
@@ -31,6 +61,16 @@
       "date": "Oct 05, 2026",
       "published_utc": "2026-10-05 13:40 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Default-1.webp"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "New Insights into Permafrost Degradation and Subsidence",
+      "link": "https://eos.org/editor-highlights/new-insights-into-permafrost-degradation-and-subsidence",
+      "desc": "A 20-year monitoring study in the discontinuous permafrost zone of Nunavik, Canada documents changing ground thermal dynamics and associated thaw subsidence.",
+      "date": "Oct 05, 2026",
+      "published_utc": "2026-10-05 19:46 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/jgrf70188-fig-0009-m-1024x576.png"
     }
   ]
 }
