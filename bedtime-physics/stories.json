@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07 06:43 UTC",
+  "updated": "2026-10-07 12:41 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,32 +25,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Quantum computing shortcut makes particle collisions easier to simulate",
+      "link": "https://phys.org/news/2026-10-quantum-shortcut-particle-collisions-easier.html",
+      "desc": "Collisions between particles at high energies can sometimes produce new particles and shed light on interactions between the fundamental constituents of matter. Simulating these collisions and their underlying processes could yield valuable insights into how matter behaves at extremely small scales.",
+      "date": "Oct 07, 2026",
+      "published_utc": "2026-10-07 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-to-simulate.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "New chip-based frequency combs demonstrate potential for portable atomic clocks",
       "link": "https://phys.org/news/2026-10-chip-based-frequency-potential-portable.html",
       "desc": "The world would look radically different without rulers and measuring tapes that fit into a pocket. Carpenters, fashion designers and engineers rely on these trusty tools to check the size of everything from a wooden board to a fabric swatch. But physicists who work with light lack that same…",
       "date": "Oct 06, 2026",
       "published_utc": "2026-10-06 19:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-chip-based-frequen.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
-      "desc": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tracking individual quarks as they blasted through the plasma, researchers saw them leave behind…",
-      "date": "Oct 06, 2026",
-      "published_utc": "2026-10-06 12:04 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists finally see how nature moves energy so efficiently",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
-      "desc": "Researchers have captured key steps in a chemical reaction that helps nature transfer energy with remarkable efficiency. Ultrafast X-rays revealed how changes involving electrons and protons are closely linked to the rearrangement of surrounding water molecules. Because similar reactions drive…",
-      "date": "Oct 06, 2026",
-      "published_utc": "2026-10-06 07:49 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
@@ -61,16 +51,6 @@
       "date": "Oct 06, 2026",
       "published_utc": "2026-10-06 14:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-a-passing-black-ho.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Francis Halzen wins Nobel Prize in physics for work on mysterious ghost particles called neutrinos",
-      "link": "https://phys.org/news/2026-10-francis-halzen-nobel-prize-physics.html",
-      "desc": "Francis Halzen won the Nobel Prize in physics on Tuesday for his efforts to demystify a rare group of neutrinos, tiny cosmic particles that scientists believe offer clues to how the universe evolved.",
-      "date": "Oct 06, 2026",
-      "published_utc": "2026-10-06 10:12 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/francis-halzen-wins-no.jpg"
     },
     {
       "topic": "Physics",
@@ -91,6 +71,16 @@
       "date": "Oct 07, 2026",
       "published_utc": "2026-10-07 01:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nobel-physics-prize-wi.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Shooting Light Pulses Down a 3-Kilometer Borehole Could Illuminate Seismic Hazards",
+      "link": "https://eos.org/research-spotlights/shooting-light-pulses-down-a-3-kilometer-borehole-could-illuminate-seismic-hazards",
+      "desc": "Borehole distributed acoustic sensing (DAS) offers a more precise way to measure small earthquakes, if appropriate care is taken.",
+      "date": "Oct 06, 2026",
+      "published_utc": "2026-10-06 13:21 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/cape-station-1024x576.jpg"
     }
   ]
 }
