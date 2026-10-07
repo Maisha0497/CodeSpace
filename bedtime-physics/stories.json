@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-06 18:33 UTC",
+  "updated": "2026-10-07 01:06 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "X-ray technique reveals how quantum materials respond to laser pulses in real time",
+      "link": "https://phys.org/news/2026-10-ray-technique-reveals-quantum-materials.html",
+      "desc": "Creating a quantum device often begins by intentionally damaging a crystal. Scientists fire an ultrafast laser pulse into a material, knocking atoms out of place and leaving behind tiny imperfections called vacancies. Far from being flaws, these vacancies can behave as qubits—the fundamental…",
+      "date": "Oct 06, 2026",
+      "published_utc": "2026-10-06 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-develop-new-6.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -15,22 +25,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Atomic motion could help push solar cells beyond conventional limits",
-      "link": "https://phys.org/news/2026-10-atomic-motion-solar-cells-conventional.html",
-      "desc": "The bulk photovoltaic effect (BPVE), a photoelectric effect that generates photocurrent without a p–n junction, can persist even when a material's average crystal structure remains centrosymmetric, a study from Institute of Science Tokyo has found. Researchers demonstrated this in CuCrP2S6, a van…",
-      "date": "Oct 05, 2026",
-      "published_utc": "2026-10-05 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/atomic-motion-could-he-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "A novel path to fusion ignition: Heat first, then add fuel",
-      "link": "https://phys.org/news/2026-10-path-fusion-ignition-fuel.html",
-      "desc": "For more than 70 years, fusion energy researchers have used a particular equation to judge whether a plasma would stay hot and dense enough—for long enough—to reach a point where it could sustain itself without any more external power added. While that equation marks the finish line, also known as…",
-      "date": "Oct 05, 2026",
-      "published_utc": "2026-10-05 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-novel-path-to-fusion.jpg"
+      "title": "New chip-based frequency combs demonstrate potential for portable atomic clocks",
+      "link": "https://phys.org/news/2026-10-chip-based-frequency-potential-portable.html",
+      "desc": "The world would look radically different without rulers and measuring tapes that fit into a pocket. Carpenters, fashion designers and engineers rely on these trusty tools to check the size of everything from a wooden board to a fabric swatch. But physicists who work with light lack that same…",
+      "date": "Oct 06, 2026",
+      "published_utc": "2026-10-06 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-chip-based-frequen.jpg"
     },
     {
       "topic": "Quantum",
@@ -55,16 +55,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum systems never quite forget where they came from",
-      "link": "https://phys.org/news/2026-10-quantum.html",
-      "desc": "Even the most chaotic quantum systems keep a permanent mark of their own past—a \"quantum birthmark\"—that never fades. Researchers from Tampere University, Harvard University and TU Dresden discovered the feature in their recent study. Their findings shed new light on the elusive relationship…",
-      "date": "Oct 05, 2026",
-      "published_utc": "2026-10-05 20:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-systems-never.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Can a passing black hole disturbance leave a trace in Hawking radiation?",
       "link": "https://phys.org/news/2026-10-black-hole-disturbance-hawking.html",
       "desc": "Black holes, despite their extreme nature, are described by surprisingly few basic parameters: their mass, charge and spin. Two black holes may have formed for completely different reasons and passed through very different histories, yet still end up in the same final state. John Wheeler summarized…",
@@ -83,14 +73,24 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/francis-halzen-wins-no.jpg"
     },
     {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Shooting Light Pulses Down a 3-Kilometer Borehole Could Illuminate Seismic Hazards",
-      "link": "https://eos.org/research-spotlights/shooting-light-pulses-down-a-3-kilometer-borehole-could-illuminate-seismic-hazards",
-      "desc": "Borehole distributed acoustic sensing (DAS) offers a more precise way to measure small earthquakes, if appropriate care is taken.",
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "link": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+      "desc": "Four decades after the 1986 nuclear disaster, researchers at Leibniz University Hannover and the Helmholtz-Zentrum Dresden-Rossendorf (HZDR) examined six tiny, highly radioactive fragments that were released from the destroyed reactor in Ukraine in the wake of the incident. Analyses show that these…",
       "date": "Oct 06, 2026",
-      "published_utc": "2026-10-06 13:21 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/10/cape-station-1024x576.jpg"
+      "published_utc": "2026-10-06 22:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-lingering-legacy-o.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Nobel winner Halzen says years of October 'misery' finally over",
+      "link": "https://phys.org/news/2026-10-nobel-winner-halzen-years-october.html",
+      "desc": "Physicist Francis Halzen has an impressively long list of academic accolades—but every October, as the Nobel Prize rolled around, his failure to bag the biggest award of them all left him \"miserable,\" he admits.",
+      "date": "Oct 07, 2026",
+      "published_utc": "2026-10-07 01:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nobel-physics-prize-wi.jpg"
     }
   ]
 }
