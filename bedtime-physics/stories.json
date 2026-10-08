@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07 18:34 UTC",
+  "updated": "2026-10-08 01:06 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,22 +25,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "X-ray technique reveals how quantum materials respond to laser pulses in real time",
-      "link": "https://phys.org/news/2026-10-ray-technique-reveals-quantum-materials.html",
-      "desc": "Creating a quantum device often begins by intentionally damaging a crystal. Scientists fire an ultrafast laser pulse into a material, knocking atoms out of place and leaving behind tiny imperfections called vacancies. Far from being flaws, these vacancies can behave as qubits—the fundamental…",
-      "date": "Oct 06, 2026",
-      "published_utc": "2026-10-06 21:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-develop-new-6.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "One quantum material, two superconducting states: Stretching helps explain conflicting experiments",
       "link": "https://phys.org/news/2026-10-quantum-material-superconducting-states-conflicting.html",
       "desc": "Unconventional superconductors can host unusual electronic states, but understanding what drives their superconductivity becomes difficult when different forms of order coexist. The kagome metal CsV3Sb5 has become a particularly debated example.",
       "date": "Oct 07, 2026",
       "published_utc": "2026-10-07 17:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stretching-a-quantum-m.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Ultrashort laser pulses let new microscope map electron interactions across thin materials",
+      "link": "https://phys.org/news/2026-10-ultrashort-laser-pulses-microscope-electron.html",
+      "desc": "A new type of advanced microscope (wide-field coherent multidimensional microscopy) has been developed. It uses a carefully designed sequence of ultrashort light pulses to study the behavior of high-tech materials, with potential practical applications in the study of innovative materials such as…",
+      "date": "Oct 07, 2026",
+      "published_utc": "2026-10-07 21:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-microscope-develop.jpg"
     },
     {
       "topic": "Quantum",
@@ -75,22 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New chip-based frequency combs demonstrate potential for portable atomic clocks",
-      "link": "https://phys.org/news/2026-10-chip-based-frequency-potential-portable.html",
-      "desc": "The world would look radically different without rulers and measuring tapes that fit into a pocket. Carpenters, fashion designers and engineers rely on these trusty tools to check the size of everything from a wooden board to a fabric swatch. But physicists who work with light lack that same…",
-      "date": "Oct 06, 2026",
-      "published_utc": "2026-10-06 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-chip-based-frequen.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "The first stand-alone nuclear clock is ticking in Vienna",
       "link": "https://phys.org/news/2026-10-nuclear-clock-vienna.html",
       "desc": "For decades, researchers around the world have been working toward this goal—and now major advances are following in rapid succession. Vienna is now home to the world's first nuclear clock that stabilizes itself, as atomic clocks typically do. This system has been shown to remain stable for more…",
       "date": "Oct 07, 2026",
       "published_utc": "2026-10-07 15:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-first-stand-alone.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Nobel physics winner's pride at pioneering AI role",
+      "link": "https://phys.org/news/2026-10-nobel-physics-winner-pride-ai.html",
+      "desc": "Francis Halzen, winner of the Nobel Prize in physics, spoke with pride on Wednesday about his early promotion of artificial intelligence in his research on neutrinos.",
+      "date": "Oct 07, 2026",
+      "published_utc": "2026-10-07 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/francis-halzen-said-ai.jpg"
     }
   ]
 }
