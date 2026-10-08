@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08 12:41 UTC",
+  "updated": "2026-10-08 18:34 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,36 +15,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Uranium compound known since the 1960s reveals hidden spiral structure with unusual magnetic properties",
-      "link": "https://phys.org/news/2026-10-uranium-compound-1960s-reveals-hidden.html",
-      "desc": "A University of Texas at Dallas scientist and her colleagues have discovered an unusual atomic pattern in a uranium-based material that gives it a rare combination of magnetic properties, a finding that could open new pathways for designing advanced electronic and computer memory devices.",
-      "date": "Oct 07, 2026",
-      "published_utc": "2026-10-07 15:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-find-hidde.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "First observation of quantum spins shifting a centimeter-scale object in the lab",
-      "link": "https://phys.org/news/2026-10-quantum-shifting-centimeter-scale-lab.html",
-      "desc": "Modern technological breakthroughs like lasers, MRI scanners, semiconductors and quantum computers rest on the study of quantum mechanics. However, the field has predominantly focused on (sub)atomic phenomena far removed from our human senses.",
-      "date": "Oct 07, 2026",
-      "published_utc": "2026-10-07 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-observation-of-q.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "One quantum material, two superconducting states: Stretching helps explain conflicting experiments",
-      "link": "https://phys.org/news/2026-10-quantum-material-superconducting-states-conflicting.html",
-      "desc": "Unconventional superconductors can host unusual electronic states, but understanding what drives their superconductivity becomes difficult when different forms of order coexist. The kagome metal CsV3Sb5 has become a particularly debated example.",
-      "date": "Oct 07, 2026",
-      "published_utc": "2026-10-07 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stretching-a-quantum-m.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Ultrashort laser pulses let new microscope map electron interactions across thin materials",
       "link": "https://phys.org/news/2026-10-ultrashort-laser-pulses-microscope-electron.html",
       "desc": "A new type of advanced microscope (wide-field coherent multidimensional microscopy) has been developed. It uses a carefully designed sequence of ultrashort light pulses to study the behavior of high-tech materials, with potential practical applications in the study of innovative materials such as…",
@@ -53,24 +23,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-microscope-develop.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Levitating glass sphere becomes entangled with light at room temperature",
-      "link": "https://phys.org/news/2026-10-levitating-glass-sphere-entangled-room.html",
-      "desc": "Today, many physicists are actively exploring how light could be used to link objects through quantum entanglement. By fully harnessing the effect, they hope to unlock a wide array of applications, from secure communication networks spanning vast distances to sensitive new tests of the fundamental…",
-      "date": "Oct 07, 2026",
-      "published_utc": "2026-10-07 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/levitating-glass-spher-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "The first stand-alone nuclear clock is ticking in Vienna",
-      "link": "https://phys.org/news/2026-10-nuclear-clock-vienna.html",
-      "desc": "For decades, researchers around the world have been working toward this goal—and now major advances are following in rapid succession. Vienna is now home to the world's first nuclear clock that stabilizes itself, as atomic clocks typically do. This system has been shown to remain stable for more…",
-      "date": "Oct 07, 2026",
-      "published_utc": "2026-10-07 15:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-first-stand-alone.jpg"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Einstein Probe reveals a hidden phase of neutron star collisions",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261006234511.htm",
+      "desc": "Einstein Probe revealed nearly 10 minutes of soft X-ray activity following a short gamma-ray burst, exposing a phase of neutron star mergers that previous missions may have missed. The prolonged emission could have been powered by a newly formed magnetar and may provide a valuable new counterpart…",
+      "date": "Oct 08, 2026",
+      "published_utc": "2026-10-08 10:06 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
@@ -91,6 +51,36 @@
       "date": "Oct 07, 2026",
       "published_utc": "2026-10-07 20:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/topological.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "What pig hearts and a little noise can teach us about designing better soft valves",
+      "link": "https://phys.org/news/2026-10-pig-hearts-noise-soft-valves.html",
+      "desc": "Some of the best engineers and inventors are copycats. They look at how the natural world solves complex problems and use those mechanisms as the basis for innovations. But Mother Nature doesn't always give up her secrets easily.",
+      "date": "Oct 08, 2026",
+      "published_utc": "2026-10-08 11:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-pig-hearts-and-a.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Sentinel-3C returns its first views of Earth",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth",
+      "desc": "Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of its key instruments – a major milestone that confirms the satellite is working well and on the road to monitoring the health of Earth’s oceans, land, cryosphere and…",
+      "date": "Oct 08, 2026",
+      "published_utc": "2026-10-08 12:25 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/italy_and_beyond_imaged_by_sentinel-3c/27561379-1-eng-GB/Italy_and_beyond_imaged_by_Sentinel-3C_card_full.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Introducing ESA’s Earth Virtual Expert",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Introducing_ESA_s_Earth_Virtual_Expert",
+      "desc": "The European Space Agency (ESA) has released Earth Virtual Expert (EVE), a platform powered with Artificial Intelligence (AI), to make Earth observation information more accessible and easier to understand. Built on trusted scientific sources and created to answer questions, EVE brings complex…",
+      "date": "Oct 08, 2026",
+      "published_utc": "2026-10-08 07:15 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/introducing_esa_s_earth_virtual_expert/27551997-3-eng-GB/Introducing_ESA_s_Earth_Virtual_Expert_card_full.jpg"
     }
   ]
 }
