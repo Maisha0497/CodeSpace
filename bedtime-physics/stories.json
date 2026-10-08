@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-08 06:45 UTC",
+  "updated": "2026-10-08 12:41 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Electronic stripes linked to unusual vortex states in a superconductor",
+      "link": "https://phys.org/news/2026-10-electronic-stripes-linked-unusual-vortex.html",
+      "desc": "Superconductors, materials that can carry electric current with an electrical resistance of zero, have proved to be promising for the development of various technologies, including medical devices, particle accelerators and quantum computers. Studying these materials could help researchers uncover…",
+      "date": "Oct 08, 2026",
+      "published_utc": "2026-10-08 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electronic-stripes-lin.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -43,26 +53,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-microscope-develop.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Physicists just found the ‘ghost’ of superconductivity",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
-      "desc": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even more surprisingly, these patterns appear to survive after ordinary superconductivity disappears,…",
-      "date": "Oct 07, 2026",
-      "published_utc": "2026-10-07 12:34 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum computing shortcut makes particle collisions easier to simulate",
-      "link": "https://phys.org/news/2026-10-quantum-shortcut-particle-collisions-easier.html",
-      "desc": "Collisions between particles at high energies can sometimes produce new particles and shed light on interactions between the fundamental constituents of matter. Simulating these collisions and their underlying processes could yield valuable insights into how matter behaves at extremely small scales.",
-      "date": "Oct 07, 2026",
-      "published_utc": "2026-10-07 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-to-simulate.jpg"
-    },
-    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Levitating glass sphere becomes entangled with light at room temperature",
@@ -91,6 +81,16 @@
       "date": "Oct 07, 2026",
       "published_utc": "2026-10-07 22:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/francis-halzen-said-ai.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Acoustic experiments confirm topology can persist at gapless critical points",
+      "link": "https://phys.org/news/2026-10-acoustic-topology-persist-gapless-critical.html",
+      "desc": "Two studies on critical topology have recently been published in the journal Nature. These studies were led by the teams of Prof. Baile Zhang at Nanyang Technological University, Singapore, and Prof. Jianhua Jiang at the University of Science and Technology of China, respectively. Prof. Xue-Jia Yu…",
+      "date": "Oct 07, 2026",
+      "published_utc": "2026-10-07 20:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/topological.jpg"
     }
   ]
 }
