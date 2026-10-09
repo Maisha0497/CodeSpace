@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08 18:34 UTC",
+  "updated": "2026-10-09 01:08 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,12 +15,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Ultrashort laser pulses let new microscope map electron interactions across thin materials",
-      "link": "https://phys.org/news/2026-10-ultrashort-laser-pulses-microscope-electron.html",
-      "desc": "A new type of advanced microscope (wide-field coherent multidimensional microscopy) has been developed. It uses a carefully designed sequence of ultrashort light pulses to study the behavior of high-tech materials, with potential practical applications in the study of innovative materials such as…",
-      "date": "Oct 07, 2026",
-      "published_utc": "2026-10-07 21:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-microscope-develop.jpg"
+      "title": "Layered semiconductor unlocks magnetic control of light emitted by quantum condensates",
+      "link": "https://phys.org/news/2026-10-layered-semiconductor-magnetic-emitted-quantum.html",
+      "desc": "Quantum technologies are considered key technologies of the future. However, research in this field requires not only scientific expertise but sometimes also highly specialized laboratory conditions. Bose–Einstein condensates are a remarkable example, in which atoms move in lockstep, making…",
+      "date": "Oct 08, 2026",
+      "published_utc": "2026-10-08 20:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-spins-big-quantum.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Liquid-crystal-like magnetism explains puzzling properties in a rare-earth compound",
+      "link": "https://phys.org/news/2026-10-liquid-crystal-magnetism-puzzling-properties.html",
+      "desc": "In some materials, physical properties don't emerge from their individual particles, but from the collective behavior of their quantum spins. Now, researchers led by Pengcheng Dai at Rice University in the U.S. have discovered that in one compound containing the rare-earth element ytterbium, these…",
+      "date": "Oct 08, 2026",
+      "published_utc": "2026-10-08 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/liquid-crystal-like-ma-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "How researchers tell different quantum excitations apart in individual molecules",
+      "link": "https://phys.org/news/2026-10-quantum-individual-molecules.html",
+      "desc": "Molecules can be placed in a wide variety of quantum states. How can these states be distinguished in measurements when theoretical models are unreliable? Which excitation process lies behind which measurement signal?",
+      "date": "Oct 08, 2026",
+      "published_utc": "2026-10-08 20:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-researchers-who-ap.jpg"
     },
     {
       "topic": "Quantum",
@@ -35,22 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Nobel physics winner's pride at pioneering AI role",
-      "link": "https://phys.org/news/2026-10-nobel-physics-winner-pride-ai.html",
-      "desc": "Francis Halzen, winner of the Nobel Prize in physics, spoke with pride on Wednesday about his early promotion of artificial intelligence in his research on neutrinos.",
-      "date": "Oct 07, 2026",
-      "published_utc": "2026-10-07 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/francis-halzen-said-ai.jpg"
+      "title": "Nonchaotic model reveals how predictability can emerge from seemingly unpredictable dynamics",
+      "link": "https://phys.org/news/2026-10-nonchaotic-reveals-emerge-seemingly-unpredictable.html",
+      "desc": "Predicting a system's final outcome from its initial state is the ultimate goal for many physicists. In certain complex systems, however, this goal is thwarted by chaos, where even the subtlest tweaks to the initial state can lead to completely different fates, making the system almost impossible…",
+      "date": "Oct 08, 2026",
+      "published_utc": "2026-10-08 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-emergence-of-predi.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Acoustic experiments confirm topology can persist at gapless critical points",
-      "link": "https://phys.org/news/2026-10-acoustic-topology-persist-gapless-critical.html",
-      "desc": "Two studies on critical topology have recently been published in the journal Nature. These studies were led by the teams of Prof. Baile Zhang at Nanyang Technological University, Singapore, and Prof. Jianhua Jiang at the University of Science and Technology of China, respectively. Prof. Xue-Jia Yu…",
-      "date": "Oct 07, 2026",
-      "published_utc": "2026-10-07 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/topological.jpg"
+      "title": "Lensless imaging method enables long-term monitoring of living cells without staining",
+      "link": "https://phys.org/news/2026-10-lensless-imaging-method-enables-term.html",
+      "desc": "In a study led by Tampere University, researchers have developed a new lensless imaging method that produces precise quantitative data on living cells from a single image. The compact system can be placed inside a standard cell-culture incubator, allowing living cells to be monitored continuously…",
+      "date": "Oct 08, 2026",
+      "published_utc": "2026-10-08 21:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-imaging-method-ena.jpg"
     },
     {
       "topic": "Physics",
@@ -71,16 +91,6 @@
       "date": "Oct 08, 2026",
       "published_utc": "2026-10-08 12:25 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/italy_and_beyond_imaged_by_sentinel-3c/27561379-1-eng-GB/Italy_and_beyond_imaged_by_Sentinel-3C_card_full.jpg"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Introducing ESA’s Earth Virtual Expert",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Introducing_ESA_s_Earth_Virtual_Expert",
-      "desc": "The European Space Agency (ESA) has released Earth Virtual Expert (EVE), a platform powered with Artificial Intelligence (AI), to make Earth observation information more accessible and easier to understand. Built on trusted scientific sources and created to answer questions, EVE brings complex…",
-      "date": "Oct 08, 2026",
-      "published_utc": "2026-10-08 07:15 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/introducing_esa_s_earth_virtual_expert/27551997-3-eng-GB/Introducing_ESA_s_Earth_Virtual_Expert_card_full.jpg"
     }
   ]
 }
