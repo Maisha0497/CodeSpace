@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-09 06:45 UTC",
+  "updated": "2026-10-09 12:38 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Electronic stripes linked to unusual vortex states in a superconductor",
-      "link": "https://phys.org/news/2026-10-electronic-stripes-linked-unusual-vortex.html",
-      "desc": "Superconductors, materials that can carry electric current with an electrical resistance of zero, have proved to be promising for the development of various technologies, including medical devices, particle accelerators and quantum computers. Studying these materials could help researchers uncover…",
-      "date": "Oct 08, 2026",
-      "published_utc": "2026-10-08 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electronic-stripes-lin.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -35,22 +25,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Superconducting circuit links smaller photon groups into larger entangled states",
+      "link": "https://phys.org/news/2026-10-superconducting-circuit-links-smaller-photon.html",
+      "desc": "Quantum computers, computer systems that leverage the laws of quantum mechanics, store and process information using qubits (i.e., quantum bits). In many quantum computers, qubits are linked via entanglement, a quantum mechanical effect that connects particles in such a way that their shared state…",
+      "date": "Oct 09, 2026",
+      "published_utc": "2026-10-09 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-strategy-to-link-gro.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "How researchers tell different quantum excitations apart in individual molecules",
       "link": "https://phys.org/news/2026-10-quantum-individual-molecules.html",
       "desc": "Molecules can be placed in a wide variety of quantum states. How can these states be distinguished in measurements when theoretical models are unreliable? Which excitation process lies behind which measurement signal?",
       "date": "Oct 08, 2026",
       "published_utc": "2026-10-08 20:50 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-researchers-who-ap.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Einstein Probe reveals a hidden phase of neutron star collisions",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261006234511.htm",
-      "desc": "Einstein Probe revealed nearly 10 minutes of soft X-ray activity following a short gamma-ray burst, exposing a phase of neutron star mergers that previous missions may have missed. The prolonged emission could have been powered by a newly formed magnetar and may provide a valuable new counterpart…",
-      "date": "Oct 08, 2026",
-      "published_utc": "2026-10-08 10:06 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
@@ -73,24 +63,34 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-imaging-method-ena.jpg"
     },
     {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space: Namibia’s biggest salt pan",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
+      "desc": "Image: This image from Copernicus Sentinel-2, acquired on 5 April 2026, shows the Etosha National Park in northern Namibia.",
+      "date": "Oct 09, 2026",
+      "published_utc": "2026-10-09 08:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_namibia_s_biggest_salt_pan/27564541-1-eng-GB/Earth_from_Space_Namibia_s_biggest_salt_pan_card_full.jpg"
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "What pig hearts and a little noise can teach us about designing better soft valves",
-      "link": "https://phys.org/news/2026-10-pig-hearts-noise-soft-valves.html",
-      "desc": "Some of the best engineers and inventors are copycats. They look at how the natural world solves complex problems and use those mechanisms as the basis for innovations. But Mother Nature doesn't always give up her secrets easily.",
+      "title": "Gravity and light reveal how liquids turn into thin fibers",
+      "link": "https://phys.org/news/2026-10-gravity-reveal-liquids-thin-fibers.html",
+      "desc": "From spiders spinning their webs to the manufacturing of textiles, the formation of fibers from liquids plays an important role in both nature and industry. Yet accurately predicting the properties of such fibers remains a challenge. The fiber is often much thinner than the nozzle from which a…",
       "date": "Oct 08, 2026",
-      "published_utc": "2026-10-08 11:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-pig-hearts-and-a.jpg"
+      "published_utc": "2026-10-08 19:52 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gravity-and-light-reve.jpg"
     },
     {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
-      "title": "Sentinel-3C returns its first views of Earth",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth",
-      "desc": "Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of its key instruments – a major milestone that confirms the satellite is working well and on the road to monitoring the health of Earth’s oceans, land, cryosphere and…",
-      "date": "Oct 08, 2026",
-      "published_utc": "2026-10-08 12:25 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/italy_and_beyond_imaged_by_sentinel-3c/27561379-1-eng-GB/Italy_and_beyond_imaged_by_Sentinel-3C_card_full.jpg"
+      "title": "Gibraltar imaged by IRIDE Eaglet II",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Gibraltar_imaged_by_IRIDE_Eaglet_II",
+      "desc": "Image: While the final eight IRIDE Eaglet II satellites were launched a week ago, the first images from Eaglet II satellites launched earlier are being returned, including a view of Gibraltar featured here.",
+      "date": "Oct 09, 2026",
+      "published_utc": "2026-10-09 09:50 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/gibraltar_imaged_by_iride_eaglet_ii/27566517-1-eng-GB/Gibraltar_imaged_by_IRIDE_Eaglet_II_card_full.jpg"
     }
   ]
 }
