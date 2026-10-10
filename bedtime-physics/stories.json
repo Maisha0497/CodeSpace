@@ -1,37 +1,7 @@
 {
-  "updated": "2026-10-10 12:36 UTC",
+  "updated": "2026-10-10 18:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Ultrafast core-level spectroscopy reveals elusive precursors of exciton condensation in quantum materials",
-      "link": "https://phys.org/news/2026-08-ultrafast-core-spectroscopy-reveals-elusive.html",
-      "desc": "Many fascinating phases in quantum materials emerge when electrons, atoms and other microscopic components begin to act collectively. But these phases do not necessarily appear out of nowhere when a material crosses a transition temperature. Before long-range order develops, microscopic…",
-      "date": "Oct 09, 2026",
-      "published_utc": "2026-10-09 14:14 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-core-level-s-3.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Light reads electron spins inside porous crystals, opening path to quantum chemical sensors",
-      "link": "https://phys.org/news/2026-10-electron-porous-crystals-path-quantum.html",
-      "desc": "University of Glasgow researchers are part of an international collaboration that could lead to a new generation of quantum sensors. The team, which included researchers from the University of Tokyo, University of Glasgow, University of Sheffield and Kobe University, has for the first time used…",
-      "date": "Oct 09, 2026",
-      "published_utc": "2026-10-09 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-breakthrough-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum chip holds multiple photons at once, opening path to scalable memory",
-      "link": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html",
-      "desc": "For highly fragile quantum information systems, the ability to store quantum information is vital—but also challenging. Quantum information is transported in particles of light called photons, which often must be temporarily paused (or \"stored\") while other, slower quantum operations catch up. This…",
-      "date": "Oct 09, 2026",
-      "published_utc": "2026-10-09 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-give-quant.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -45,42 +15,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
+      "link": "https://phys.org/news/2026-10-stability-distinguish-quantum-phases-older.html",
+      "desc": "Most of us recognize basic phases of matter and their properties: solids maintain their shape, liquids flow freely with constant volume, and gases expand to fill their container. Quantum phases, on the other hand, are much harder to categorize, overturning traditional notions of what a phase even…",
+      "date": "Oct 10, 2026",
+      "published_utc": "2026-10-10 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/classifying-non-equili.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Three quantum-inspired cores leave opposite fingerprints on the ringing of black holes",
       "link": "https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html",
       "desc": "Every black hole hides a question at its center. Einstein's theory predicts that whatever falls in is crushed into a singularity, a point of infinite density where the theory itself breaks down. Most physicists expect quantum gravity to replace that point with something finite. But the center lies…",
       "date": "Oct 09, 2026",
       "published_utc": "2026-10-09 21:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-quantum-inspired.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
-      "link": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
-      "desc": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas. The post How Does Life Unfold? A Landscape Metaphor Comes Into Its Own. first…",
-      "date": "Oct 09, 2026",
-      "published_utc": "2026-10-09 14:03 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Waddington-cr.MarkBelan-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physics model reveals fundamental trade-off between prediction and energy efficiency in intelligent systems",
-      "link": "https://phys.org/news/2026-10-physics-reveals-fundamental-energy-efficiency.html",
-      "desc": "Artificial intelligence is increasingly becoming part of our everyday lives, from digital assistants to robots that respond to their surroundings. Each of these capabilities is based on physical computational processes that consume energy. An international research team led by Hans Briegel from the…",
-      "date": "Oct 09, 2026",
-      "published_utc": "2026-10-09 13:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-price-of-rememberi.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Reliable AI Sea Ice Forecasts Depend on Sustained Observations",
-      "link": "https://eos.org/science-updates/reliable-ai-sea-ice-forecasts-depend-on-sustained-observations",
-      "desc": "Sea ice is a fundamental regulator of Earth’s climate and an increasingly urgent forecast target itself. Can we trust the AI systems now being built to predict it?",
-      "date": "Oct 09, 2026",
-      "published_utc": "2026-10-09 13:26 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/10/sea-ice-measurement-southern-ocean-1024x576.jpg"
     }
   ]
 }
