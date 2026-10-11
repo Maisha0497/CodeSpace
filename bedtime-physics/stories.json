@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11 06:42 UTC",
+  "updated": "2026-10-11 12:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Oct 10, 2026",
       "published_utc": "2026-10-10 21:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultraviolet-laser-puls.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
-      "link": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
-      "desc": "Physicists in the Department of Physics at the University of Oxford have used a hybrid quantum computer, made up of qubits and quantum oscillators, to observe the Aharonov–Bohm effect in a quantum simulation. The effect is a quantum phenomenon in which a particle can acquire a measurable phase by…",
-      "date": "Oct 10, 2026",
-      "published_utc": "2026-10-10 10:57 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hybrid-quantum-compute.jpg"
     },
     {
       "topic": "Physics",
