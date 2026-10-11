@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-10 18:31 UTC",
+  "updated": "2026-10-11 01:11 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Ultraviolet laser pulses engineer diamond defects selectively, leaving quantum qubits intact",
+      "link": "https://phys.org/news/2026-10-ultraviolet-laser-pulses-diamond-defects.html",
+      "desc": "When we think about a diamond, we often think about a material whose value comes from its perfection. In my research, however, I am interested in something almost opposite: the tiny imperfections inside diamonds. These atomic-scale defects can give diamonds new optical and electronic properties,…",
+      "date": "Oct 10, 2026",
+      "published_utc": "2026-10-10 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultraviolet-laser-puls.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,16 +31,6 @@
       "date": "Oct 10, 2026",
       "published_utc": "2026-10-10 17:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/classifying-non-equili.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Three quantum-inspired cores leave opposite fingerprints on the ringing of black holes",
-      "link": "https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html",
-      "desc": "Every black hole hides a question at its center. Einstein's theory predicts that whatever falls in is crushed into a singularity, a point of infinite density where the theory itself breaks down. Most physicists expect quantum gravity to replace that point with something finite. But the center lies…",
-      "date": "Oct 09, 2026",
-      "published_utc": "2026-10-09 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-quantum-inspired.jpg"
     }
   ]
 }
