@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11 12:37 UTC",
+  "updated": "2026-10-11 18:32 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,12 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
-      "link": "https://phys.org/news/2026-10-stability-distinguish-quantum-phases-older.html",
-      "desc": "Most of us recognize basic phases of matter and their properties: solids maintain their shape, liquids flow freely with constant volume, and gases expand to fill their container. Quantum phases, on the other hand, are much harder to categorize, overturning traditional notions of what a phase even…",
-      "date": "Oct 10, 2026",
-      "published_utc": "2026-10-10 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/classifying-non-equili.jpg"
+      "title": "Quantum 'birthmarks' hold lasting traces of a system's past",
+      "link": "https://phys.org/news/2026-10-quantum-birthmarks.html",
+      "desc": "Some classical physical systems can explore many configurations over time until their long-term behavior no longer reveals their starting conditions. The sampling of available configurations according to the appropriate statistical distribution is a property called ergodicity.",
+      "date": "Oct 11, 2026",
+      "published_utc": "2026-10-11 18:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-birthmarks-hol.jpg"
     }
   ]
 }
