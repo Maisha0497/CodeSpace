@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-12 07:02 UTC",
+  "updated": "2026-10-12 12:58 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Hybrid quantum computers could finally get to grips with light and matter",
+      "link": "https://phys.org/news/2026-10-hybrid-quantum.html",
+      "desc": "Many of nature's most important processes depend on how particles of matter interact with light and other force-carrying particles. So far, however, it has proven difficult for conventional computers to determine how individual particles behave in these interactions.",
+      "date": "Oct 12, 2026",
+      "published_utc": "2026-10-12 10:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hybrid-quantum-compute-1.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -11,6 +21,16 @@
       "date": "Oct 11, 2026",
       "published_utc": "2026-10-11 18:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-birthmarks-hol.jpg"
+    },
+    {
+      "topic": "Cool Math",
+      "source": "ScienceDaily Math",
+      "title": "The hidden math of Alzheimer's could point to new treatments",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008102714.htm",
+      "desc": "Mathematics may hold unexpected clues to understanding Alzheimer’s disease. Scientists have developed a model showing how common metals like copper and zinc may influence the buildup of proteins associated with the disease, while also exploring possible ways to stop the process. The findings could…",
+      "date": "Oct 11, 2026",
+      "published_utc": "2026-10-11 19:24 UTC",
+      "image": ""
     }
   ]
 }
