@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-12 18:34 UTC",
+  "updated": "2026-10-13 01:09 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Magnetic sculpting transforms single-source fields into predetermined shapes with mathematical precision",
+      "link": "https://phys.org/news/2026-10-magnetic-sculpting-source-fields-predetermined.html",
+      "desc": "Magnetic fields are invisible yet essential components in technologies ranging from MRI scanners and particle accelerators to atomic clocks and future quantum computers. Each of these applications requires magnetic fields with specific shapes and properties. Today, creating such tailored magnetic…",
+      "date": "Oct 12, 2026",
+      "published_utc": "2026-10-12 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tailored-magnetic-fiel.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "From nonmagnetic to magnetic: A 2D semiconductor with electrically tunable magnetism",
+      "link": "https://phys.org/news/2026-10-nonmagnetic-magnetic-2d-semiconductor-electrically.html",
+      "desc": "Researchers from the National University of Singapore (NUS), in collaboration with scientists from institutions in Switzerland, the Czech Republic and Germany, have demonstrated a way to introduce magnetism into an otherwise nonmagnetic two-dimensional (2D) semiconductor and subsequently control…",
+      "date": "Oct 12, 2026",
+      "published_utc": "2026-10-12 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-nonmagnetic-to-ma.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -11,6 +31,16 @@
       "date": "Oct 12, 2026",
       "published_utc": "2026-10-12 10:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hybrid-quantum-compute-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Gravity and quantum information linked through a derivation of Einstein's equations",
+      "link": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html",
+      "desc": "Recent research shows that gravity and quantum information are deeply connected and that the shape of spacetime can be traced back to the way information is stored in quantum fields.",
+      "date": "Oct 12, 2026",
+      "published_utc": "2026-10-12 23:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-links-gra.jpg"
     },
     {
       "topic": "Physics",
@@ -31,16 +61,6 @@
       "date": "Oct 12, 2026",
       "published_utc": "2026-10-12 14:20 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Default.webp"
-    },
-    {
-      "topic": "Cool Math",
-      "source": "ScienceDaily Math",
-      "title": "The hidden math of Alzheimer's could point to new treatments",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008102714.htm",
-      "desc": "Mathematics may hold unexpected clues to understanding Alzheimer’s disease. Scientists have developed a model showing how common metals like copper and zinc may influence the buildup of proteins associated with the disease, while also exploring possible ways to stop the process. The findings could…",
-      "date": "Oct 11, 2026",
-      "published_utc": "2026-10-11 19:24 UTC",
-      "image": ""
     }
   ]
 }
