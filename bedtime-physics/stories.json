@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13 06:48 UTC",
+  "updated": "2026-10-13 12:43 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -23,14 +23,34 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-nonmagnetic-to-ma.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Hybrid quantum computers could finally get to grips with light and matter",
-      "link": "https://phys.org/news/2026-10-hybrid-quantum.html",
-      "desc": "Many of nature's most important processes depend on how particles of matter interact with light and other force-carrying particles. So far, however, it has proven difficult for conventional computers to determine how individual particles behave in these interactions.",
-      "date": "Oct 12, 2026",
-      "published_utc": "2026-10-12 10:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hybrid-quantum-compute-1.jpg"
+      "topic": "Cool Math",
+      "source": "ScienceDaily Math",
+      "title": "Physicists discover “astonishing” property of light that defies expectations",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
+      "desc": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left- and right-handed…",
+      "date": "Oct 13, 2026",
+      "published_utc": "2026-10-13 04:19 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+      "desc": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement through quantum…",
+      "date": "Oct 13, 2026",
+      "published_utc": "2026-10-13 09:47 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+      "desc": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a surprising connection between scattered starlight and invisible dark matter that…",
+      "date": "Oct 13, 2026",
+      "published_utc": "2026-10-13 11:27 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
