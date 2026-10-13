@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13 12:43 UTC",
+  "updated": "2026-10-13 18:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -61,26 +61,6 @@
       "date": "Oct 12, 2026",
       "published_utc": "2026-10-12 23:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-links-gra.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "One step closer to quantum computers that can correct their own mistakes",
-      "link": "https://phys.org/news/2026-10-closer-quantum.html",
-      "desc": "Researchers from Rutgers, IBM and collaborating institutions have shown that a quantum computer can check what is happening inside it and respond while it is running, repeatedly resetting parts of the system to bring chaotic behavior under control.",
-      "date": "Oct 12, 2026",
-      "published_utc": "2026-10-12 15:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-move-a-step.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Is ‘Attention’ the Essence of Intelligence?",
-      "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-      "desc": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key? The post Is ‘Attention’ the Essence of Intelligence? first appeared on Quanta Magazine",
-      "date": "Oct 12, 2026",
-      "published_utc": "2026-10-12 14:20 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Default.webp"
     }
   ]
 }
