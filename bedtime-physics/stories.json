@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 06:40 UTC",
+  "updated": "2026-10-14 12:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -63,24 +63,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-light-to-reveal.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
-      "desc": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement through quantum…",
-      "date": "Oct 13, 2026",
-      "published_utc": "2026-10-13 09:47 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
-      "desc": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a surprising connection between scattered starlight and invisible dark matter that…",
-      "date": "Oct 13, 2026",
-      "published_utc": "2026-10-13 11:27 UTC",
-      "image": ""
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum network test checks entanglement without having to trust detectors",
+      "link": "https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html",
+      "desc": "Quantum networks are systems that connect different users or devices using principles of quantum mechanics. In the future, these networks could help improve the security of communications.",
+      "date": "Oct 14, 2026",
+      "published_utc": "2026-10-14 11:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-for-che.jpg"
     },
     {
       "topic": "Physics",
@@ -91,6 +81,16 @@
       "date": "Oct 13, 2026",
       "published_utc": "2026-10-13 22:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-model-informs-ligh.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Could meditation reveal an SU(3) symmetry shared by the observer and the universe?",
+      "link": "https://phys.org/news/2026-10-meditation-reveal-su3-symmetry-universe.html",
+      "desc": "You sit down to meditate. A conversation returns, then thoughts. You bring your attention back to the breath. Sometimes, after many such returns, the effort eases. Thoughts lose their urgency, while awareness remains clear. Less occupies the mind, yet the moment still feels whole.",
+      "date": "Oct 13, 2026",
+      "published_utc": "2026-10-13 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-meditation-revea.jpg"
     }
   ]
 }
