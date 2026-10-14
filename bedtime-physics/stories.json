@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 12:37 UTC",
+  "updated": "2026-10-14 18:33 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -55,6 +55,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "From spin wave to superconducting circuit: A one-way street for quantum information",
+      "link": "https://phys.org/news/2026-10-superconducting-circuit-street-quantum.html",
+      "desc": "Quantum information systems could one day shape everyday life through faster computing, sharper sensing and more secure communication. A new result from the U.S. Department of Energy's (DOE) Argonne National Laboratory and the University of Illinois Urbana-Champaign (U. of I.) marks an important…",
+      "date": "Oct 14, 2026",
+      "published_utc": "2026-10-14 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-spin-wave-to-supe.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry",
       "link": "https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html",
       "desc": "Researchers at Friedrich Schiller University Jena and the University of Regensburg have developed a method for determining, using light, a quantum property of electrons that has hitherto been difficult to access. The focus is on what is known as Berry curvature—a quantity that describes certain…",
@@ -65,32 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum network test checks entanglement without having to trust detectors",
-      "link": "https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html",
-      "desc": "Quantum networks are systems that connect different users or devices using principles of quantum mechanics. In the future, these networks could help improve the security of communications.",
+      "title": "A tiny magnetic whirlpool could point to a new kind of ultra-efficient memory",
+      "link": "https://phys.org/news/2026-10-tiny-magnetic-whirlpool-kind-ultra.html",
+      "desc": "Every time a computer stores or erases information, it uses energy. The amount is tiny for a single operation, but those operations happen billions of times every second. For decades, scientists have wondered just how little energy a memory device could use before reaching the fundamental…",
       "date": "Oct 14, 2026",
-      "published_utc": "2026-10-14 11:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-for-che.jpg"
+      "published_utc": "2026-10-14 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-tiny-magnetic-whirlp.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Computational model guides lighting design to improve color discrimination in aging eyes",
-      "link": "https://phys.org/news/2026-10-discrimination-aging-eyes.html",
-      "desc": "Researchers have developed a new computational model that accounts for the effects of aging on our eyes' ability to discriminate color. It could help guide lighting designs that make it easier for older adults to perceive colors while preserving the expected appearance for people with typical color…",
-      "date": "Oct 13, 2026",
-      "published_utc": "2026-10-13 22:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-model-informs-ligh.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Could meditation reveal an SU(3) symmetry shared by the observer and the universe?",
-      "link": "https://phys.org/news/2026-10-meditation-reveal-su3-symmetry-universe.html",
-      "desc": "You sit down to meditate. A conversation returns, then thoughts. You bring your attention back to the breath. Sometimes, after many such returns, the effort eases. Thoughts lose their urgency, while awareness remains clear. Less occupies the mind, yet the moment still feels whole.",
-      "date": "Oct 13, 2026",
-      "published_utc": "2026-10-13 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-meditation-revea.jpg"
+      "title": "Jamming the flow to enable memory in quantum materials",
+      "link": "https://phys.org/news/2026-10-enable-memory-quantum-materials.html",
+      "desc": "Understanding and controlling phase transitions are fundamental to physics and central to many technological revolutions. There is currently strong interest in materials with coupled structural and electronic phase transitions, where controlling the transition plasticity naturally yields built-in…",
+      "date": "Oct 14, 2026",
+      "published_utc": "2026-10-14 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-memory.jpg"
     }
   ]
 }
