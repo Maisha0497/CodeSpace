@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 00:55 UTC",
+  "updated": "2026-10-14 06:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -63,16 +63,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-light-to-reveal.jpg"
     },
     {
-      "topic": "Cool Math",
-      "source": "ScienceDaily Math",
-      "title": "Physicists discover “astonishing” property of light that defies expectations",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
-      "desc": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left- and right-handed…",
-      "date": "Oct 13, 2026",
-      "published_utc": "2026-10-13 04:19 UTC",
-      "image": ""
-    },
-    {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
       "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
@@ -91,6 +81,16 @@
       "date": "Oct 13, 2026",
       "published_utc": "2026-10-13 11:27 UTC",
       "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Computational model guides lighting design to improve color discrimination in aging eyes",
+      "link": "https://phys.org/news/2026-10-discrimination-aging-eyes.html",
+      "desc": "Researchers have developed a new computational model that accounts for the effects of aging on our eyes' ability to discriminate color. It could help guide lighting designs that make it easier for older adults to perceive colors while preserving the expected appearance for people with typical color…",
+      "date": "Oct 13, 2026",
+      "published_utc": "2026-10-13 22:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-model-informs-ligh.jpg"
     }
   ]
 }
