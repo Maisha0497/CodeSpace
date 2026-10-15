@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15 06:41 UTC",
+  "updated": "2026-10-15 12:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Oct 14, 2026",
       "published_utc": "2026-10-14 16:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-spin-wave-to-supe.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum sensor could measure how Earth drags spacetime",
+      "link": "https://phys.org/news/2026-10-quantum-sensor-earth-spacetime.html",
+      "desc": "Einstein's theory of general relativity describes gravity as the bending of spacetime, a mathematical model that combines three-dimensional space and time into a single, four-dimensional continuum. The theory also predicts that a rotating object, such as Earth, slightly drags the surrounding…",
+      "date": "Oct 15, 2026",
+      "published_utc": "2026-10-15 10:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-sensor-could.jpg"
     },
     {
       "topic": "Physics",
@@ -51,16 +61,6 @@
       "date": "Oct 14, 2026",
       "published_utc": "2026-10-14 18:01 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/software.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum network test checks entanglement without having to trust detectors",
-      "link": "https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html",
-      "desc": "Quantum networks are systems that connect different users or devices using principles of quantum mechanics. In the future, these networks could help improve the security of communications.",
-      "date": "Oct 14, 2026",
-      "published_utc": "2026-10-14 11:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-for-che.jpg"
     },
     {
       "topic": "Physics",
