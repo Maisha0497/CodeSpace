@@ -1,16 +1,26 @@
 {
-  "updated": "2026-10-15 12:37 UTC",
+  "updated": "2026-10-15 18:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "From spin wave to superconducting circuit: A one-way street for quantum information",
-      "link": "https://phys.org/news/2026-10-superconducting-circuit-street-quantum.html",
-      "desc": "Quantum information systems could one day shape everyday life through faster computing, sharper sensing and more secure communication. A new result from the U.S. Department of Energy's (DOE) Argonne National Laboratory and the University of Illinois Urbana-Champaign (U. of I.) marks an important…",
-      "date": "Oct 14, 2026",
-      "published_utc": "2026-10-14 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-spin-wave-to-supe.jpg"
+      "title": "Quantum calculations reveal how spin defects lose energy",
+      "link": "https://phys.org/news/2026-10-quantum-reveal-defects-energy.html",
+      "desc": "When light hits a tiny defect embedded in a solid material like diamond or silicon carbide, it can kick the defect's electrons into an excited state. These spin defects have the potential to be used as stable, readable qubits for quantum technologies, for example, quantum sensing. But modeling the…",
+      "date": "Oct 15, 2026",
+      "published_utc": "2026-10-15 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-calculations-r.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Laser pulses bring order to a quantum material's tiny electrical regions",
+      "link": "https://phys.org/news/2026-10-laser-pulses-quantum-material-tiny.html",
+      "desc": "Physicists at Auburn University have used flashes of laser light to bring order to tiny electrically charged \"islands\" inside a crystal. The discovery helps answer a decades-old question about how the material organizes itself and shows how light could be used to control its behavior—a step toward…",
+      "date": "Oct 15, 2026",
+      "published_utc": "2026-10-15 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-pulses-bring-ord.jpg"
     },
     {
       "topic": "Physics",
@@ -35,36 +45,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A tiny magnetic whirlpool could point to a new kind of ultra-efficient memory",
-      "link": "https://phys.org/news/2026-10-tiny-magnetic-whirlpool-kind-ultra.html",
-      "desc": "Every time a computer stores or erases information, it uses energy. The amount is tiny for a single operation, but those operations happen billions of times every second. For decades, scientists have wondered just how little energy a memory device could use before reaching the fundamental…",
-      "date": "Oct 14, 2026",
-      "published_utc": "2026-10-14 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-tiny-magnetic-whirlp.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Jamming the flow to enable memory in quantum materials",
-      "link": "https://phys.org/news/2026-10-enable-memory-quantum-materials.html",
-      "desc": "Understanding and controlling phase transitions are fundamental to physics and central to many technological revolutions. There is currently strong interest in materials with coupled structural and electronic phase transitions, where controlling the transition plasticity naturally yields built-in…",
-      "date": "Oct 14, 2026",
-      "published_utc": "2026-10-14 14:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-memory.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Software advance brings complex quantum simulations to standard computers",
-      "link": "https://phys.org/news/2026-10-software-advance-complex-quantum-simulations.html",
-      "desc": "A major software advance could aid the creation of bigger, more reliable quantum computers, a study suggests. Researchers have developed an algorithm that enables off-the-shelf computers to run quantum simulations previously only possible using the world's most powerful supercomputers.",
-      "date": "Oct 14, 2026",
-      "published_utc": "2026-10-14 18:01 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/software.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "IBM executive warns of risk of quantum computing hacks",
       "link": "https://phys.org/news/2026-10-ibm-quantum-hacks.html",
       "desc": "Organizations are unprepared for the risks posed by quantum computing, IBM's Europe and Africa vice president Alessandro Curioni told AFP Wednesday, referring to the high-speed technology that could crack security encryptions and enable large-scale cyberattacks.",
@@ -73,24 +53,44 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/quantum-computer-1.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Storing memory on a chip with flowing water",
-      "link": "https://phys.org/news/2026-10-memory-chip.html",
-      "desc": "Like the folds in crumpled sheets or the footprints on recently trodden sand, certain materials mark their histories. Now, Yale researchers show that networks of flowing water and other fluids can store their own memories—similar to how a computer chip does—an innovation that could steer robots and…",
-      "date": "Oct 14, 2026",
-      "published_utc": "2026-10-14 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/storing-memory-on-a-ch.jpg"
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "How Do Fungi Keep the Planet Healthy?",
+      "link": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
+      "desc": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain. The post How Do Fungi Keep the Planet Healthy? first appeared on Quanta Magazine",
+      "date": "Oct 15, 2026",
+      "published_utc": "2026-10-15 13:40 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E10-cr-Chanelle-Nibbelink-Default-NO-LOGO.webp"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Measuring Deep-Ocean Oxygen with Microscopic Magnetic Fossils",
+      "link": "https://eos.org/research-spotlights/measuring-deep-ocean-oxygen-with-microscopic-magnetic-fossils",
+      "desc": "A global comparison of microbial magnetic minerals unlocks a new tool for glimpsing the future of oxygen in Earth’s changing oceans.",
+      "date": "Oct 15, 2026",
+      "published_utc": "2026-10-15 13:05 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/magnetic-crystals-in-bacteria-1024x576.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Robotic 'time crystal' organizes itself into a single rhythm despite random disturbances",
-      "link": "https://phys.org/news/2026-10-robotic-crystal-rhythm-random-disturbances.html",
-      "desc": "Scientists have developed a material that can grow and coordinate its own movement until the entire structure pulses in unison, paving the way for versatile robots that behave more like living systems.",
+      "title": "Rare particle decays hint at deviations from Standard Model predictions",
+      "link": "https://phys.org/news/2026-10-rare-particle-decays-hint-deviations.html",
+      "desc": "Studying rare processes is part and parcel of particle physics, providing stringent tests of the Standard Model. At the recent International Conference on High Energy Physics (ICHEP), the CMS and LHCb collaborations presented their latest research into one such process: the transformation of a…",
       "date": "Oct 14, 2026",
-      "published_utc": "2026-10-14 15:01 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chaos-to-coordination.jpg"
+      "published_utc": "2026-10-14 19:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-green-sphere-glowing.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Melting Permafrost Impacts Arctic Rivers in Vulnerable Regions",
+      "link": "https://eos.org/editor-highlights/melting-permafrost-impacts-arctic-rivers-in-vulnerable-regions",
+      "desc": "Changes in river chemistry in the northwestern North American Arctic reflect increased acid rock drainage associated with permafrost thaw, an unexpected consequence of Arctic warming.",
+      "date": "Oct 15, 2026",
+      "published_utc": "2026-10-15 16:28 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/Figure-S1e_NakC-seep-1024x576.png"
     }
   ]
 }
