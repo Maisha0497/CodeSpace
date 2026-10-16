@@ -1,26 +1,16 @@
 {
-  "updated": "2026-10-16 12:37 UTC",
+  "updated": "2026-10-16 18:30 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum calculations reveal how spin defects lose energy",
-      "link": "https://phys.org/news/2026-10-quantum-reveal-defects-energy.html",
-      "desc": "When light hits a tiny defect embedded in a solid material like diamond or silicon carbide, it can kick the defect's electrons into an excited state. These spin defects have the potential to be used as stable, readable qubits for quantum technologies, for example, quantum sensing. But modeling the…",
-      "date": "Oct 15, 2026",
-      "published_utc": "2026-10-15 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-calculations-r.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Laser pulses bring order to a quantum material's tiny electrical regions",
-      "link": "https://phys.org/news/2026-10-laser-pulses-quantum-material-tiny.html",
-      "desc": "Physicists at Auburn University have used flashes of laser light to bring order to tiny electrically charged \"islands\" inside a crystal. The discovery helps answer a decades-old question about how the material organizes itself and shows how light could be used to control its behavior—a step toward…",
-      "date": "Oct 15, 2026",
-      "published_utc": "2026-10-15 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-pulses-bring-ord.jpg"
+      "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
+      "link": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
+      "desc": "To build faster and more energy-efficient computers, researchers need to understand nanoscale magnetic materials. But looking inside these tiny magnets is surprisingly difficult: Modern microscopes only measure the magnetic field outside the material, not the magnetic pattern inside. Because many…",
+      "date": "Oct 16, 2026",
+      "published_utc": "2026-10-16 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/finding-the-magnetic-p.jpg"
     },
     {
       "topic": "Physics",
@@ -53,24 +43,24 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exploring-nuclear-prop-1.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "How Do Fungi Keep the Planet Healthy?",
-      "link": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
-      "desc": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain. The post How Do Fungi Keep the Planet Healthy? first appeared on Quanta Magazine",
-      "date": "Oct 15, 2026",
-      "published_utc": "2026-10-15 13:40 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E10-cr-Chanelle-Nibbelink-Default-NO-LOGO.webp"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Even or odd numbers: A single molecule makes all the difference in the quantum world",
+      "link": "https://phys.org/news/2026-10-odd-molecule-difference-quantum-world.html",
+      "desc": "The researchers in the Quantum Detection Microscopy group at CIC nanoGUNE, in collaboration with chemists at CiQUS of the University of Santiago de Compostela, have demonstrated that adding or removing a single molecule from a quantum chain can fundamentally change its interaction with a…",
+      "date": "Oct 16, 2026",
+      "published_utc": "2026-10-16 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/even-or-odd-numbers-a-2.jpg"
     },
     {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Measuring Deep-Ocean Oxygen with Microscopic Magnetic Fossils",
-      "link": "https://eos.org/research-spotlights/measuring-deep-ocean-oxygen-with-microscopic-magnetic-fossils",
-      "desc": "A global comparison of microbial magnetic minerals unlocks a new tool for glimpsing the future of oxygen in Earth’s changing oceans.",
-      "date": "Oct 15, 2026",
-      "published_utc": "2026-10-15 13:05 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/10/magnetic-crystals-in-bacteria-1024x576.jpg"
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+      "link": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+      "desc": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
+      "date": "Oct 16, 2026",
+      "published_utc": "2026-10-16 13:25 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Default.webp"
     },
     {
       "topic": "Remote Sensing",
@@ -81,16 +71,6 @@
       "date": "Oct 16, 2026",
       "published_utc": "2026-10-16 08:00 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_west_antarctica/27579693-1-eng-GB/Earth_from_Space_West_Antarctica_card_full.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Melting Permafrost Impacts Arctic Rivers in Vulnerable Regions",
-      "link": "https://eos.org/editor-highlights/melting-permafrost-impacts-arctic-rivers-in-vulnerable-regions",
-      "desc": "Changes in river chemistry in the northwestern North American Arctic reflect increased acid rock drainage associated with permafrost thaw, an unexpected consequence of Arctic warming.",
-      "date": "Oct 15, 2026",
-      "published_utc": "2026-10-15 16:28 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/10/Figure-S1e_NakC-seep-1024x576.png"
     }
   ]
 }
