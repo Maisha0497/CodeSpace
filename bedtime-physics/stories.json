@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15 18:31 UTC",
+  "updated": "2026-10-16 00:54 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,22 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New framework links magnetic phase boundaries to string-like defects in spin ice",
-      "link": "https://phys.org/news/2026-10-framework-links-magnetic-phase-boundaries.html",
-      "desc": "A research team led by Haruki Watanabe, a professor in the Department of Physics and the Jockey Club Institute for Advanced Study (IAS) at The Hong Kong University of Science and Technology (HKUST), in collaboration with professor Yukitoshi Motome and graduate student Sena Watanabe from the…",
-      "date": "Oct 14, 2026",
-      "published_utc": "2026-10-14 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-redraw-the-3.jpg"
+      "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
+      "link": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
+      "desc": "Silicon spin qubits are a promising platform for building scalable quantum computers as they are compatible with the semiconductor manufacturing technologies used to produce today's computer chips. However, they have an important weakness: silicon spin qubits typically lose accuracy when several…",
+      "date": "Oct 15, 2026",
+      "published_utc": "2026-10-15 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-path-toward-larger-q.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "IBM executive warns of risk of quantum computing hacks",
-      "link": "https://phys.org/news/2026-10-ibm-quantum-hacks.html",
-      "desc": "Organizations are unprepared for the risks posed by quantum computing, IBM's Europe and Africa vice president Alessandro Curioni told AFP Wednesday, referring to the high-speed technology that could crack security encryptions and enable large-scale cyberattacks.",
-      "date": "Oct 14, 2026",
-      "published_utc": "2026-10-14 18:50 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/quantum-computer-1.jpg"
+      "title": "New spectroscopy method enables direct comparisons of nuclear sizes across heavy elements",
+      "link": "https://phys.org/news/2026-10-spectroscopy-method-enables-comparisons-nuclear.html",
+      "desc": "The size of a nucleus (nuclear charge radius) is an important physical quantity that reflects the arrangement of protons and neutrons within the nucleus. Particularly in deformed nuclei, such as those of rare-earth elements, examining changes in the charge radius can deepen our understanding of…",
+      "date": "Oct 15, 2026",
+      "published_utc": "2026-10-15 23:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exploring-nuclear-prop-1.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -71,16 +71,6 @@
       "date": "Oct 15, 2026",
       "published_utc": "2026-10-15 13:05 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/10/magnetic-crystals-in-bacteria-1024x576.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Rare particle decays hint at deviations from Standard Model predictions",
-      "link": "https://phys.org/news/2026-10-rare-particle-decays-hint-deviations.html",
-      "desc": "Studying rare processes is part and parcel of particle physics, providing stringent tests of the Standard Model. At the recent International Conference on High Energy Physics (ICHEP), the CMS and LHCb collaborations presented their latest research into one such process: the transformation of a…",
-      "date": "Oct 14, 2026",
-      "published_utc": "2026-10-14 19:50 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-green-sphere-glowing.jpg"
     },
     {
       "topic": "Geoscience",
