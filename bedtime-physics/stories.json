@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16 06:40 UTC",
+  "updated": "2026-10-16 12:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,22 +25,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum sensor could measure how Earth drags spacetime",
-      "link": "https://phys.org/news/2026-10-quantum-sensor-earth-spacetime.html",
-      "desc": "Einstein's theory of general relativity describes gravity as the bending of spacetime, a mathematical model that combines three-dimensional space and time into a single, four-dimensional continuum. The theory also predicts that a rotating object, such as Earth, slightly drags the surrounding…",
-      "date": "Oct 15, 2026",
-      "published_utc": "2026-10-15 10:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-sensor-could.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
       "link": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
       "desc": "Silicon spin qubits are a promising platform for building scalable quantum computers as they are compatible with the semiconductor manufacturing technologies used to produce today's computer chips. However, they have an important weakness: silicon spin qubits typically lose accuracy when several…",
       "date": "Oct 15, 2026",
       "published_utc": "2026-10-15 21:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-path-toward-larger-q.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Solving the gallium anomaly: New calculation may explain neutrino shortfall without invoking new particles",
+      "link": "https://phys.org/news/2026-10-gallium-anomaly-neutrino-shortfall-invoking.html",
+      "desc": "Glimpses of the \"gallium anomaly\" were first seen in the mid-1990s, but it was first clearly discovered and stated in 2007 by neutrino physicist Carlo Giunti of Italy. The problem is simple to state but potentially very important: about 20% fewer electron neutrinos were seen to be captured by…",
+      "date": "Oct 16, 2026",
+      "published_utc": "2026-10-16 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-gallium-anomaly-is-1.jpg"
     },
     {
       "topic": "Physics",
@@ -71,6 +71,16 @@
       "date": "Oct 15, 2026",
       "published_utc": "2026-10-15 13:05 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/10/magnetic-crystals-in-bacteria-1024x576.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space: West Antarctica",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica",
+      "desc": "Image: This image over part of West Antarctica was captured by Copernicus Sentinel-3 on 30 September 2026.",
+      "date": "Oct 16, 2026",
+      "published_utc": "2026-10-16 08:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_west_antarctica/27579693-1-eng-GB/Earth_from_Space_West_Antarctica_card_full.jpg"
     },
     {
       "topic": "Geoscience",
