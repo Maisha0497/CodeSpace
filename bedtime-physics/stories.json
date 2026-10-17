@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-17 12:31 UTC",
+  "updated": "2026-10-17 18:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
-      "link": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
-      "desc": "To build faster and more energy-efficient computers, researchers need to understand nanoscale magnetic materials. But looking inside these tiny magnets is surprisingly difficult: Modern microscopes only measure the magnetic field outside the material, not the magnetic pattern inside. Because many…",
-      "date": "Oct 16, 2026",
-      "published_utc": "2026-10-16 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/finding-the-magnetic-p.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -55,12 +45,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Even or odd numbers: A single molecule makes all the difference in the quantum world",
-      "link": "https://phys.org/news/2026-10-odd-molecule-difference-quantum-world.html",
-      "desc": "The researchers in the Quantum Detection Microscopy group at CIC nanoGUNE, in collaboration with chemists at CiQUS of the University of Santiago de Compostela, have demonstrated that adding or removing a single molecule from a quantum chain can fundamentally change its interaction with a…",
-      "date": "Oct 16, 2026",
-      "published_utc": "2026-10-16 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/even-or-odd-numbers-a-2.jpg"
+      "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
+      "link": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
+      "desc": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive.",
+      "date": "Oct 17, 2026",
+      "published_utc": "2026-10-17 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-error-correction-t.jpg"
     },
     {
       "topic": "Physics",
@@ -71,16 +61,6 @@
       "date": "Oct 16, 2026",
       "published_utc": "2026-10-16 18:50 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/maxwells-demon-learns.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
-      "link": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-      "desc": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
-      "date": "Oct 16, 2026",
-      "published_utc": "2026-10-16 13:25 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Default.webp"
     }
   ]
 }
