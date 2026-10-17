@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17 06:36 UTC",
+  "updated": "2026-10-17 12:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -51,16 +51,6 @@
       "date": "Oct 16, 2026",
       "published_utc": "2026-10-16 19:10 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/world-record-intensity.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Solving the gallium anomaly: New calculation may explain neutrino shortfall without invoking new particles",
-      "link": "https://phys.org/news/2026-10-gallium-anomaly-neutrino-shortfall-invoking.html",
-      "desc": "Glimpses of the \"gallium anomaly\" were first seen in the mid-1990s, but it was first clearly discovered and stated in 2007 by neutrino physicist Carlo Giunti of Italy. The problem is simple to state but potentially very important: about 20% fewer electron neutrinos were seen to be captured by…",
-      "date": "Oct 16, 2026",
-      "published_utc": "2026-10-16 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-gallium-anomaly-is-1.jpg"
     },
     {
       "topic": "Physics",
