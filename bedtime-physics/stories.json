@@ -1,56 +1,46 @@
 {
-  "updated": "2026-10-19 12:39 UTC",
+  "updated": "2026-10-19 18:33 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A new way to detect stabilizing properties of optical devices",
-      "link": "https://phys.org/news/2026-10-stabilizing-properties-optical-devices.html",
-      "desc": "In optical fibers, chips and other light-guiding devices, minor defects can scatter photons and disrupt their path. A new study demonstrates a way to reveal properties which, in certain systems, help light wave behavior withstand such flaws. The method could help speed up the search for new kinds…",
-      "date": "Oct 18, 2026",
-      "published_utc": "2026-10-18 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-way-to-detect-st.jpg"
+      "title": "Scientists redetermine a key strontium frequency with 50 times better precision for quantum technologies",
+      "link": "https://phys.org/news/2026-10-scientists-redetermine-key-strontium-frequency.html",
+      "desc": "The Korea Research Institute of Standards and Science (KRISS) has remeasured a key transition frequency of the strontium (Sr) atom for the first time in 88 years, since 1938, using a photonic grating chip. It has established a new absolute frequency value with a measurement uncertainty reduced by…",
+      "date": "Oct 19, 2026",
+      "published_utc": "2026-10-19 17:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/after-88-years-kriss-r.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Physicists prove a long-suspected quantum speed limit for thermalization",
-      "link": "https://phys.org/news/2026-10-physicists-quantum-limit-thermalization.html",
-      "desc": "Whether we are waiting for a car windshield to defrost in winter or a warm drink to cool down, how long it takes for an object to settle into a stable, even temperature within its environment (thermal equilibrium) depends on numerous factors. These can include surface area, the material properties…",
-      "date": "Oct 18, 2026",
-      "published_utc": "2026-10-18 17:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-search-is-over-sci.jpg"
+      "title": "Normally forbidden emissions from graphene could expose quantum fluctuations in incoming light",
+      "link": "https://phys.org/news/2026-10-forbidden-emissions-graphene-expose-quantum.html",
+      "desc": "Voltage fluctuations, light fluctuations, temperature fluctuations—any fluctuations are troublesome and thus undesirable. They don't just cause discomfort; in engineering and medical applications, they affect the accuracy of measurements or introduce errors in controls. Even at the minute level of…",
+      "date": "Oct 19, 2026",
+      "published_utc": "2026-10-19 17:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/turning-quantum-uncert.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Hybrid diamond chip strengthens interactions between light and quantum bits",
-      "link": "https://phys.org/news/2026-10-hybrid-diamond-chip-interactions-quantum.html",
-      "desc": "Researchers have developed and demonstrated a new hybrid photonic platform that integrates quantum emitters with photonic devices, providing a way to reliably control the interaction between photons and quantum information carriers. The chip-based platform, which combines gallium phosphide (GaP)…",
-      "date": "Oct 18, 2026",
-      "published_utc": "2026-10-18 13:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/illustration-showing-g.jpg"
+      "title": "X-rays reveal surprisingly long-lived spin waves in copper oxide",
+      "link": "https://phys.org/news/2026-10-rays-reveal-copper-oxide.html",
+      "desc": "Today's computer technology, based on silicon chips, is slowly reaching its physical limits. Components cannot be miniaturized indefinitely, and clock speeds cannot be increased indefinitely. At the same time, huge AI data centers are being built in many places, and these consume an immense amount…",
+      "date": "Oct 19, 2026",
+      "published_utc": "2026-10-19 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/x-rays-show-how-quasip.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
-      "desc": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery challenges established quantum theories and hints at exotic…",
-      "date": "Oct 18, 2026",
-      "published_utc": "2026-10-18 13:37 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New monolithic ion trap opens quantum simulations to more researchers",
-      "link": "https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html",
-      "desc": "Some quantum systems are so complex that even the most powerful supercomputers struggle to simulate their behavior. One solution is quantum simulation: building a controllable quantum system in the lab and tuning it to mimic the one researchers want to understand.",
-      "date": "Oct 18, 2026",
-      "published_utc": "2026-10-18 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-monolithic-ion-tra.jpg"
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Auroral Structure Could Be Caused by Bouncing Electrons",
+      "link": "https://eos.org/research-spotlights/auroral-structure-could-be-caused-by-bouncing-electrons",
+      "desc": "High-resolution optical observations of aurorae show fluctuations and structuring that could be explained by interactions between electrons and a plasma phenomenon called Alfvén waves.",
+      "date": "Oct 19, 2026",
+      "published_utc": "2026-10-19 13:14 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/aurora-abisko-near-tornetrask-1024x576.jpg"
     },
     {
       "topic": "Remote Sensing",
@@ -61,6 +51,26 @@
       "date": "Oct 19, 2026",
       "published_utc": "2026-10-19 10:01 UTC",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/sentinel-3c_captures_hurricane_rachel/27583254-1-eng-GB/Sentinel-3C_captures_Hurricane_Rachel_card_full.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+      "link": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+      "desc": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine",
+      "date": "Oct 19, 2026",
+      "published_utc": "2026-10-19 15:40 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Default.webp"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Biosignatures Extend Robustly into the Top Kilometer of Sedimentary Basins",
+      "link": "https://eos.org/editor-highlights/biosignatures-extend-robustly-into-the-top-kilometer-of-sedimentary-basins",
+      "desc": "Through the top kilometer of sedimentary basins, biosignatures track microbial cells, permeability, and water inputs. Below that, permeability limits microbial presence despite temperatures conducive to life.",
+      "date": "Oct 19, 2026",
+      "published_utc": "2026-10-19 17:51 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/Hydrocarbons-in-the-Exshaw-Formation-Alberta-Basin-FInal-1024x576.png"
     }
   ]
 }
