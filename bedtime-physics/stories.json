@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 06:53 UTC",
+  "updated": "2026-10-19 12:39 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Oct 18, 2026",
       "published_utc": "2026-10-18 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-way-to-detect-st.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists who discovered a third form of magnetism win major physics prize",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
-      "desc": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
-      "date": "Oct 18, 2026",
-      "published_utc": "2026-10-18 09:41 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
@@ -61,6 +51,16 @@
       "date": "Oct 18, 2026",
       "published_utc": "2026-10-18 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-monolithic-ion-tra.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Sentinel-3C captures Hurricane Rachel",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Sentinel-3C_captures_Hurricane_Rachel",
+      "desc": "Image: Demonstrating that the visible channels of Sentinel-3C’s sea and land surface temperature radiometer are working as expected, on 2 October the instrument captured this image of Hurricane Rachel over the eastern Pacific Ocean, off the coast of Mexico and the Baja California Peninsula.",
+      "date": "Oct 19, 2026",
+      "published_utc": "2026-10-19 10:01 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/sentinel-3c_captures_hurricane_rachel/27583254-1-eng-GB/Sentinel-3C_captures_Hurricane_Rachel_card_full.jpg"
     }
   ]
 }
