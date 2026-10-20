@@ -1,36 +1,46 @@
 {
-  "updated": "2026-10-20 12:37 UTC",
+  "updated": "2026-10-20 18:31 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Scientists redetermine a key strontium frequency with 50 times better precision for quantum technologies",
-      "link": "https://phys.org/news/2026-10-scientists-redetermine-key-strontium-frequency.html",
-      "desc": "The Korea Research Institute of Standards and Science (KRISS) has remeasured a key transition frequency of the strontium (Sr) atom for the first time in 88 years, since 1938, using a photonic grating chip. It has established a new absolute frequency value with a measurement uncertainty reduced by…",
-      "date": "Oct 19, 2026",
-      "published_utc": "2026-10-19 17:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/after-88-years-kriss-r.jpg"
+      "title": "Steering electrons with extreme ultraviolet light—team achieves quantum coherent control",
+      "link": "https://phys.org/news/2026-10-electrons-extreme-ultraviolet-team-quantum.html",
+      "desc": "Light is one of the most powerful tools scientists have for probing matter. By interacting with electrons, light reveals how atoms, molecules and materials are structured and how they evolve in time. Highly energetic ultraviolet and X-ray photons are particularly attractive because they can access…",
+      "date": "Oct 20, 2026",
+      "published_utc": "2026-10-20 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/graphik-raman-pathways.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "Phys.org Quantum",
+      "title": "Individual atomic collisions can now be detected in the lab, potentially opening up pathways to new physics",
+      "link": "https://phys.org/news/2026-10-individual-atomic-collisions-lab-potentially.html",
+      "desc": "Tiny atoms and molecules are constantly bombarding each other all around us. While we regularly measure the large-scale effects of these interactions, measuring the effect of each individual collision is far more difficult. But now, researchers have managed to measure how tiny gas particles affect…",
+      "date": "Oct 20, 2026",
+      "published_utc": "2026-10-20 17:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/individual-atomic-coll.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Normally forbidden emissions from graphene could expose quantum fluctuations in incoming light",
-      "link": "https://phys.org/news/2026-10-forbidden-emissions-graphene-expose-quantum.html",
-      "desc": "Voltage fluctuations, light fluctuations, temperature fluctuations—any fluctuations are troublesome and thus undesirable. They don't just cause discomfort; in engineering and medical applications, they affect the accuracy of measurements or introduce errors in controls. Even at the minute level of…",
-      "date": "Oct 19, 2026",
-      "published_utc": "2026-10-19 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/turning-quantum-uncert.jpg"
+      "title": "A quantum pathway to entropy-free energy transfer",
+      "link": "https://phys.org/news/2026-10-quantum-pathway-entropy-free-energy.html",
+      "desc": "For scientists, breakthroughs often stem from unexpected turns. A research team led by Oscar Dahlsten, an associate professor in the Department of Physics at City University of Hong Kong (CityUHK), set out to prove a theoretical limitation, only to discover a quantum solution. The finding breaks…",
+      "date": "Oct 20, 2026",
+      "published_utc": "2026-10-20 15:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-pathway-to-e.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "X-rays reveal surprisingly long-lived spin waves in copper oxide",
-      "link": "https://phys.org/news/2026-10-rays-reveal-copper-oxide.html",
-      "desc": "Today's computer technology, based on silicon chips, is slowly reaching its physical limits. Components cannot be miniaturized indefinitely, and clock speeds cannot be increased indefinitely. At the same time, huge AI data centers are being built in many places, and these consume an immense amount…",
-      "date": "Oct 19, 2026",
-      "published_utc": "2026-10-19 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/x-rays-show-how-quasip.jpg"
+      "title": "Quantum probability can't be derived without assuming it first",
+      "link": "https://phys.org/news/2026-10-quantum-probability-derived-assuming.html",
+      "desc": "For nearly a century, physicists have relied on the Born rule to calculate the chances of different outcomes when they measure a quantum system. Yet despite decades of effort, nobody has managed to derive the rule from more basic mathematical principles without making assumptions about probability…",
+      "date": "Oct 20, 2026",
+      "published_utc": "2026-10-20 15:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-probability.jpg"
     },
     {
       "topic": "Physics",
@@ -43,24 +53,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forgotten-particle-cou.jpg"
     },
     {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Auroral Structure Could Be Caused by Bouncing Electrons",
-      "link": "https://eos.org/research-spotlights/auroral-structure-could-be-caused-by-bouncing-electrons",
-      "desc": "High-resolution optical observations of aurorae show fluctuations and structuring that could be explained by interactions between electrons and a plasma phenomenon called Alfvén waves.",
-      "date": "Oct 19, 2026",
-      "published_utc": "2026-10-19 13:14 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/10/aurora-abisko-near-tornetrask-1024x576.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-      "link": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-      "desc": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine",
-      "date": "Oct 19, 2026",
-      "published_utc": "2026-10-19 15:40 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Default.webp"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Scientists reach the ultimate quantum limit on a surface",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
+      "desc": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over molecules and help drive the next generation of quantum…",
+      "date": "Oct 20, 2026",
+      "published_utc": "2026-10-20 03:02 UTC",
+      "image": ""
     },
     {
       "topic": "Geoscience",
@@ -71,16 +71,6 @@
       "date": "Oct 19, 2026",
       "published_utc": "2026-10-19 19:12 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/10/aga270178-fig-0003-m-1024x576.png"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Biosignatures Extend Robustly into the Top Kilometer of Sedimentary Basins",
-      "link": "https://eos.org/editor-highlights/biosignatures-extend-robustly-into-the-top-kilometer-of-sedimentary-basins",
-      "desc": "Through the top kilometer of sedimentary basins, biosignatures track microbial cells, permeability, and water inputs. Below that, permeability limits microbial presence despite temperatures conducive to life.",
-      "date": "Oct 19, 2026",
-      "published_utc": "2026-10-19 17:51 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/10/Hydrocarbons-in-the-Exshaw-Formation-Alberta-Basin-FInal-1024x576.png"
     },
     {
       "topic": "Geoscience",
