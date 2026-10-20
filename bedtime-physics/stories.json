@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 18:33 UTC",
+  "updated": "2026-10-20 00:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -33,6 +33,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/x-rays-show-how-quasip.jpg"
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Forgotten particle could answer mystery of why we exist, say physicists",
+      "link": "https://phys.org/news/2026-10-forgotten-particle-mystery-physicists.html",
+      "desc": "Scientists have unveiled a new theory on the birth of the cosmos, suggesting the early universe was shaped by an ancient particle that has been overlooked for decades.",
+      "date": "Oct 19, 2026",
+      "published_utc": "2026-10-19 23:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forgotten-particle-cou.jpg"
+    },
+    {
       "topic": "Geoscience",
       "source": "Eos",
       "title": "Auroral Structure Could Be Caused by Bouncing Electrons",
@@ -61,6 +71,16 @@
       "date": "Oct 19, 2026",
       "published_utc": "2026-10-19 15:40 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Default.webp"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Equatorial Pacific Warming Pattern Mitigated by Slow Ocean Adjustment",
+      "link": "https://eos.org/editor-highlights/equatorial-pacific-warming-pattern-mitigated-by-slow-ocean-adjustment",
+      "desc": "Model simulations under an abrupt 4x CO 2 scenario reveal that initially enhanced gradients in sea surface temperature under global warming are then mitigated by circulation changes.",
+      "date": "Oct 19, 2026",
+      "published_utc": "2026-10-19 19:12 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/aga270178-fig-0003-m-1024x576.png"
     },
     {
       "topic": "Geoscience",
