@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 06:40 UTC",
+  "updated": "2026-10-20 12:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -53,16 +53,6 @@
       "image": "https://eos.org/wp-content/uploads/2026/10/aurora-abisko-near-tornetrask-1024x576.jpg"
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Sentinel-3C captures Hurricane Rachel",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Sentinel-3C_captures_Hurricane_Rachel",
-      "desc": "Image: Demonstrating that the visible channels of Sentinel-3C’s sea and land surface temperature radiometer are working as expected, on 2 October the instrument captured this image of Hurricane Rachel over the eastern Pacific Ocean, off the coast of Mexico and the Baja California Peninsula.",
-      "date": "Oct 19, 2026",
-      "published_utc": "2026-10-19 10:01 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/sentinel-3c_captures_hurricane_rachel/27583254-1-eng-GB/Sentinel-3C_captures_Hurricane_Rachel_card_full.jpg"
-    },
-    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
       "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
@@ -91,6 +81,16 @@
       "date": "Oct 19, 2026",
       "published_utc": "2026-10-19 17:51 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/10/Hydrocarbons-in-the-Exshaw-Formation-Alberta-Basin-FInal-1024x576.png"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "The Aberfan Disaster: a simple guide to what happened",
+      "link": "https://eos.org/thelandslideblog/the-aberfan-disaster-a-simple-guide-to-what-happened",
+      "desc": "To mark the 60th anniversary of the Aberfan disaster, I have reposted my (now unavailable) blog posts from a decade ago describing the tragedy. Tomorrow is the 60th anniversary of the terrible and tragic Aberfan landslide disaster in South Wales. Ten years ago I published a four part summary of…",
+      "date": "Oct 20, 2026",
+      "published_utc": "2026-10-20 06:15 UTC",
+      "image": "https://eos.org/wp-content/uploads/2023/07/landslide-blog.jpg"
     }
   ]
 }
