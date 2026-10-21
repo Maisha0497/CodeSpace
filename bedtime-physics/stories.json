@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 06:41 UTC",
+  "updated": "2026-10-21 12:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -45,6 +45,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Atomic memory keeps distant ions entangled for about 10 seconds",
+      "link": "https://phys.org/news/2026-10-atomic-memory-distant-ions-entangled.html",
+      "desc": "Quantum networks, systems that connect devices and allow them to exchange information encoded in the quantum states of particles, could enable more secure communications. To build these networks, physicists need to devise strategies that allow distant particles to share quantum states, preserving…",
+      "date": "Oct 21, 2026",
+      "published_utc": "2026-10-21 11:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-link-4-ato.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "A quantum pathway to entropy-free energy transfer",
       "link": "https://phys.org/news/2026-10-quantum-pathway-entropy-free-energy.html",
       "desc": "For scientists, breakthroughs often stem from unexpected turns. A research team led by Oscar Dahlsten, an associate professor in the Department of Physics at City University of Hong Kong (CityUHK), set out to prove a theoretical limitation, only to discover a quantum solution. The finding breaks…",
@@ -73,14 +83,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-probability.jpg"
     },
     {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "MetOp-SG-B1 weather satellite arrives at Europe’s Spaceport",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/MetOp-SG-B1_weather_satellite_arrives_at_Europe_s_Spaceport",
-      "desc": "Following a 10-day voyage across the Atlantic from Bordeaux in France, the MetOp Second Generation-B1 weather satellite, has arrived at Europe’s Spaceport in French Guiana. After a short storage period, this new satellite will be prepared for launch aboard an Ariane 6 rocket, expected at the end of…",
-      "date": "Oct 20, 2026",
-      "published_utc": "2026-10-20 09:39 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/welcoming_metop-sg-b1_to_french_guiana/27584312-3-eng-GB/Welcoming_MetOp-SG-B1_to_French_Guiana_card_full.jpg"
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Opening Access to Earth Observation Data for Disaster Mitigation",
+      "link": "https://eos.org/editors-vox/opening-access-to-earth-observation-data-for-disaster-mitigation",
+      "desc": "A new open access book explores how data from the latest ground-based, airborne, and space-based remote sensing observations inform and improve disaster resilience.",
+      "date": "Oct 21, 2026",
+      "published_utc": "2026-10-21 12:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/hurricanesam_iss_2021_lrg-1024x576.png"
     }
   ]
 }
