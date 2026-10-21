@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 18:31 UTC",
+  "updated": "2026-10-21 00:56 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,26 @@
       "date": "Oct 20, 2026",
       "published_utc": "2026-10-20 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/graphik-raman-pathways.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A hidden rivalry between two quantum states at the heart of superconductors",
+      "link": "https://phys.org/news/2026-10-hidden-rivalry-quantum-states-heart.html",
+      "desc": "Transmitting electricity without losing any energy may sound impossible, yet this is precisely the promise of superconductivity. For nearly 40 years, scientists have been working to understand materials that exhibit this remarkable property at relatively high temperatures. Unlocking their secrets…",
+      "date": "Oct 20, 2026",
+      "published_utc": "2026-10-20 22:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-light-on-one-of.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "'Smoking gun' may help solve mystery of high-temperature superconductivity",
+      "link": "https://phys.org/news/2026-10-gun-mystery-high-temperature-superconductivity.html",
+      "desc": "Superconductivity has many important practical applications, including creating powerful magnets used in high-resolution medical scans, transporting electricity efficiently and building ultrasensitive measuring devices. Until now, understanding exactly what lay behind this unique phenomenon at high…",
+      "date": "Oct 20, 2026",
+      "published_utc": "2026-10-20 20:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-s-3.jpg"
     },
     {
       "topic": "Quantum",
@@ -35,22 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Oxygen collisions show evidence of jet quenching, a signature of early-universe matter",
+      "link": "https://phys.org/news/2026-10-oxygen-collisions-evidence-jet-quenching.html",
+      "desc": "New results from the STAR experiment at the Relativistic Heavy Ion Collider (RHIC) provide strong evidence that smashing oxygen nuclei together at nearly the speed of light generates a quark-gluon plasma (QGP), a type of matter that existed just after the birth of the universe. The data, just…",
+      "date": "Oct 20, 2026",
+      "published_utc": "2026-10-20 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/illustration-shows-bac.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Quantum probability can't be derived without assuming it first",
       "link": "https://phys.org/news/2026-10-quantum-probability-derived-assuming.html",
       "desc": "For nearly a century, physicists have relied on the Born rule to calculate the chances of different outcomes when they measure a quantum system. Yet despite decades of effort, nobody has managed to derive the rule from more basic mathematical principles without making assumptions about probability…",
       "date": "Oct 20, 2026",
       "published_utc": "2026-10-20 15:50 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-probability.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Forgotten particle could answer mystery of why we exist, say physicists",
-      "link": "https://phys.org/news/2026-10-forgotten-particle-mystery-physicists.html",
-      "desc": "Scientists have unveiled a new theory on the birth of the cosmos, suggesting the early universe was shaped by an ancient particle that has been overlooked for decades.",
-      "date": "Oct 19, 2026",
-      "published_utc": "2026-10-19 23:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forgotten-particle-cou.jpg"
     },
     {
       "topic": "Quantum",
@@ -61,16 +81,6 @@
       "date": "Oct 20, 2026",
       "published_utc": "2026-10-20 03:02 UTC",
       "image": ""
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Equatorial Pacific Warming Pattern Mitigated by Slow Ocean Adjustment",
-      "link": "https://eos.org/editor-highlights/equatorial-pacific-warming-pattern-mitigated-by-slow-ocean-adjustment",
-      "desc": "Model simulations under an abrupt 4x CO 2 scenario reveal that initially enhanced gradients in sea surface temperature under global warming are then mitigated by circulation changes.",
-      "date": "Oct 19, 2026",
-      "published_utc": "2026-10-19 19:12 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/10/aga270178-fig-0003-m-1024x576.png"
     },
     {
       "topic": "Geoscience",
