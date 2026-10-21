@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 00:56 UTC",
+  "updated": "2026-10-21 06:41 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -73,24 +73,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-probability.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Scientists reach the ultimate quantum limit on a surface",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
-      "desc": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over molecules and help drive the next generation of quantum…",
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "MetOp-SG-B1 weather satellite arrives at Europe’s Spaceport",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/MetOp-SG-B1_weather_satellite_arrives_at_Europe_s_Spaceport",
+      "desc": "Following a 10-day voyage across the Atlantic from Bordeaux in France, the MetOp Second Generation-B1 weather satellite, has arrived at Europe’s Spaceport in French Guiana. After a short storage period, this new satellite will be prepared for launch aboard an Ariane 6 rocket, expected at the end of…",
       "date": "Oct 20, 2026",
-      "published_utc": "2026-10-20 03:02 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "The Aberfan Disaster: a simple guide to what happened",
-      "link": "https://eos.org/thelandslideblog/the-aberfan-disaster-a-simple-guide-to-what-happened",
-      "desc": "To mark the 60th anniversary of the Aberfan disaster, I have reposted my (now unavailable) blog posts from a decade ago describing the tragedy. Tomorrow is the 60th anniversary of the terrible and tragic Aberfan landslide disaster in South Wales. Ten years ago I published a four part summary of…",
-      "date": "Oct 20, 2026",
-      "published_utc": "2026-10-20 06:15 UTC",
-      "image": "https://eos.org/wp-content/uploads/2023/07/landslide-blog.jpg"
+      "published_utc": "2026-10-20 09:39 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/welcoming_metop-sg-b1_to_french_guiana/27584312-3-eng-GB/Welcoming_MetOp-SG-B1_to_French_Guiana_card_full.jpg"
     }
   ]
 }
