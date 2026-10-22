@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-22 12:38 UTC",
+  "updated": "2026-10-22 18:30 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Diamond laser system achieves 100% optical contrast in magnetic-field readout",
+      "link": "https://phys.org/news/2026-10-diamond-laser-optical-contrast-magnetic.html",
+      "desc": "Researchers at Fraunhofer IAF have developed a laser-enhanced quantum sensor that combines high magnetic-field sensitivity with a large dynamic range. Using laser threshold magnetometry, they improved the ratio of sensitivity and dynamic range by a factor of up to 590 compared with state-of-the-art…",
+      "date": "Oct 22, 2026",
+      "published_utc": "2026-10-22 18:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-magnetic-field-s.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum interference traps electron waves in metal for first time",
+      "link": "https://phys.org/news/2026-10-quantum-electron-metal.html",
+      "desc": "Ever since quantum mechanics first described particles, like electrons, as rippling waves, researchers have wondered if those waves could be trapped in place. Writing today in Science a century later, a team of Columbia University researchers reports waves of electrons becoming trapped for the…",
+      "date": "Oct 22, 2026",
+      "published_utc": "2026-10-22 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-interference-i.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -35,26 +55,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Ultrafast light can control ferromagnetism without relying on heating",
-      "link": "https://phys.org/news/2026-10-ultrafast-ferromagnetism.html",
-      "desc": "Despite being known for more mundane uses such as sticking notes to refrigerators or keeping bags shut, magnetization is one of the most fundamental and useful properties of a material. Indeed, it forms the physical basis for storing most of our digital information, encoding the bits used in hard…",
-      "date": "Oct 21, 2026",
-      "published_utc": "2026-10-21 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-control-ferroma.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physicists trap and tame single particle of antimatter for months",
-      "link": "https://phys.org/news/2026-10-physicists-particle-antimatter-months.html",
-      "desc": "For the first time, Northwestern University physicists have coaxed a single positron—the antimatter counterpart of an electron—into an exquisitely controlled quantum state.",
-      "date": "Oct 21, 2026",
-      "published_utc": "2026-10-21 15:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/antimatter.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Perovskite laser maintains stable performance over 400 million pulses",
       "link": "https://phys.org/news/2026-10-perovskite-laser-stable-million-pulses.html",
       "desc": "In a study published in Advanced Optical Materials, researchers at Vilnius University (VU) demonstrated perovskite-based laser structures that maintained stable performance over more than 400 million pulses. Their findings address one of the major challenges limiting the practical use of…",
@@ -63,34 +63,24 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/semiconductor.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
-      "link": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
-      "desc": "Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life. The post See Inside Cells Like Never Before in These Vivid Microscopic Images first appeared on Quanta Magazine",
-      "date": "Oct 21, 2026",
-      "published_utc": "2026-10-21 14:00 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2056/10/ImageGallerySmallWorld-crKaelinWulfAndMsRachelFlannery_AllenInstitute_DepartmentOfNeuralDynamics-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "'Invisible' tweak could help make protein shakes less clumpy",
-      "link": "https://phys.org/news/2026-10-invisible-tweak-protein-clumpy.html",
-      "desc": "Scientists from RMIT University and Riga Technical University in Latvia have shown that static charge left on surfaces can be controlled, which may have big benefits for companies needing to avoid the little zap in production of common household goods. The discovery could even one day help stop…",
-      "date": "Oct 21, 2026",
-      "published_utc": "2026-10-21 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/protein-powder.jpg"
-    },
-    {
       "topic": "Geoscience",
       "source": "Eos",
-      "title": "A Rock Avalanche Buried an Arctic Glacier. Was Climate Change to Blame?",
-      "link": "https://eos.org/articles/a-rock-avalanche-buried-an-arctic-glacier-was-climate-change-to-blame",
-      "desc": "Degrading permafrost and earlier small quakes likely weakened a rock slope until it collapsed and buried an Arctic glacier in tons of rock.",
-      "date": "Oct 21, 2026",
-      "published_utc": "2026-10-21 13:18 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/10/kjerulf-glacier-beerenberg-volcano-jan-mayen-island-1024x576.jpg"
+      "title": "The Geomagnetic Polarity Time Scale Revisited Once Again",
+      "link": "https://eos.org/editor-highlights/the-geomagnetic-polarity-time-scale-revisited-once-again",
+      "desc": "Scientists present a refined multi-method geomagnetic polarity time scale for the Late Cretaceous through the Eocene.",
+      "date": "Oct 22, 2026",
+      "published_utc": "2026-10-22 13:37 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/jgrb70618-fig-0009-m-1-1024x576.png"
+    },
+    {
+      "topic": "AI",
+      "source": "ScienceDaily AI",
+      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
+      "desc": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help…",
+      "date": "Oct 22, 2026",
+      "published_utc": "2026-10-22 02:37 UTC",
+      "image": ""
     }
   ]
 }
