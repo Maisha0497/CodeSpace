@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 06:41 UTC",
+  "updated": "2026-10-22 12:38 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,6 +25,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Sapphire-grown semiconductor film sets bandgap record",
+      "link": "https://phys.org/news/2026-10-sapphire-grown-semiconductor-bandgap.html",
+      "desc": "Semiconductors with wider bandgaps could pave the way for smaller, more efficient electronics that can handle far higher voltages, but the wider this gap becomes, the harder it is to control how well a material conducts electricity. Now, a team led by Darrell Schlom at Cornell University has shown…",
+      "date": "Oct 22, 2026",
+      "published_utc": "2026-10-22 11:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/semiconductor-film-set.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Ultrafast light can control ferromagnetism without relying on heating",
       "link": "https://phys.org/news/2026-10-ultrafast-ferromagnetism.html",
       "desc": "Despite being known for more mundane uses such as sticking notes to refrigerators or keeping bags shut, magnetization is one of the most fundamental and useful properties of a material. Indeed, it forms the physical basis for storing most of our digital information, encoding the bits used in hard…",
@@ -41,16 +51,6 @@
       "date": "Oct 21, 2026",
       "published_utc": "2026-10-21 15:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/antimatter.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Atomic memory keeps distant ions entangled for about 10 seconds",
-      "link": "https://phys.org/news/2026-10-atomic-memory-distant-ions-entangled.html",
-      "desc": "Quantum networks, systems that connect devices and allow them to exchange information encoded in the quantum states of particles, could enable more secure communications. To build these networks, physicists need to devise strategies that allow distant particles to share quantum states, preserving…",
-      "date": "Oct 21, 2026",
-      "published_utc": "2026-10-21 11:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-link-4-ato.jpg"
     },
     {
       "topic": "Physics",
