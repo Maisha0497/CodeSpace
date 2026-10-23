@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 00:58 UTC",
+  "updated": "2026-10-23 06:41 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -43,6 +43,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-light-pulses.jpg"
     },
     {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
+      "desc": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works.",
+      "date": "Oct 23, 2026",
+      "published_utc": "2026-10-23 02:54 UTC",
+      "image": ""
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "What is a neutrino anyway? A look at the science behind this year's Nobel Prize in Physics",
@@ -53,6 +63,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/icecube-neutrino-obser.jpg"
     },
     {
+      "topic": "Cool Math",
+      "source": "ScienceDaily Math",
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+      "desc": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood…",
+      "date": "Oct 23, 2026",
+      "published_utc": "2026-10-23 01:21 UTC",
+      "image": ""
+    },
+    {
       "topic": "Geoscience",
       "source": "Eos",
       "title": "The Geomagnetic Polarity Time Scale Revisited Once Again",
@@ -61,16 +81,6 @@
       "date": "Oct 22, 2026",
       "published_utc": "2026-10-22 13:37 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/10/jgrb70618-fig-0009-m-1-1024x576.png"
-    },
-    {
-      "topic": "AI",
-      "source": "ScienceDaily AI",
-      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
-      "desc": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help…",
-      "date": "Oct 22, 2026",
-      "published_utc": "2026-10-22 02:37 UTC",
-      "image": ""
     }
   ]
 }
