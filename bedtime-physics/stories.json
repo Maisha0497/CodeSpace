@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 06:41 UTC",
+  "updated": "2026-10-23 12:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,16 +21,6 @@
       "date": "Oct 22, 2026",
       "published_utc": "2026-10-22 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-interference-i.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Sapphire-grown semiconductor film sets bandgap record",
-      "link": "https://phys.org/news/2026-10-sapphire-grown-semiconductor-bandgap.html",
-      "desc": "Semiconductors with wider bandgaps could pave the way for smaller, more efficient electronics that can handle far higher voltages, but the wider this gap becomes, the harder it is to control how well a material conducts electricity. Now, a team led by Darrell Schlom at Cornell University has shown…",
-      "date": "Oct 22, 2026",
-      "published_utc": "2026-10-22 11:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/semiconductor-film-set.jpg"
     },
     {
       "topic": "Physics",
@@ -73,6 +63,16 @@
       "image": ""
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Light-based method enables precise control of ultrafast electron flow in a scanning tunneling microscope",
+      "link": "https://phys.org/news/2026-10-based-method-enables-precise-ultrafast.html",
+      "desc": "What would it take to watch an electron move through a material? Researchers would need to see individual atoms and capture an electron's motion at incredibly short timescales. A Technion-led team has brought those two capabilities together in a scanning tunneling microscope, using carefully shaped…",
+      "date": "Oct 23, 2026",
+      "published_utc": "2026-10-23 08:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sculpted-light-steers.jpg"
+    },
+    {
       "topic": "Geoscience",
       "source": "Eos",
       "title": "The Geomagnetic Polarity Time Scale Revisited Once Again",
@@ -81,6 +81,16 @@
       "date": "Oct 22, 2026",
       "published_utc": "2026-10-22 13:37 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/10/jgrb70618-fig-0009-m-1-1024x576.png"
+    },
+    {
+      "topic": "AI",
+      "source": "ScienceDaily AI",
+      "title": "MIT scientists build a tiny robot that swims using living muscle cells",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
+      "desc": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots capable of exploring fragile environments that ordinary…",
+      "date": "Oct 23, 2026",
+      "published_utc": "2026-10-23 10:33 UTC",
+      "image": ""
     }
   ]
 }
