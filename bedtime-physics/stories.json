@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 18:30 UTC",
+  "updated": "2026-10-23 00:58 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,26 +25,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "X-ray free-electron laser sets new record for shortest high-energy pulses",
-      "link": "https://phys.org/news/2026-10-ray-free-electron-laser-shortest.html",
-      "desc": "Researchers at the Linac Coherent Light Source (LCLS) at the U.S. Department of Energy's SLAC National Accelerator Laboratory have measured the shortest high-energy X-ray pulses ever recorded at an X-ray free-electron laser (XFEL). The pulses had photon energies of about 9 kiloelectronvolts (keV)…",
-      "date": "Oct 21, 2026",
-      "published_utc": "2026-10-21 18:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/x-ray-laser-sets-a-rec.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Laser-made lattice reveals discrete light solitons in tunable atomic vapor",
-      "link": "https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html",
-      "desc": "Scientists from the Quantum Technologies Group at the Institute of Physics Zagreb, in collaboration with a colleague from the Physics Department at the Faculty of Science (PMF), have experimentally demonstrated for the first time the existence of discrete one-dimensional (1D) solitons in an…",
-      "date": "Oct 21, 2026",
-      "published_utc": "2026-10-21 22:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discrete-optical-solit.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Sapphire-grown semiconductor film sets bandgap record",
       "link": "https://phys.org/news/2026-10-sapphire-grown-semiconductor-bandgap.html",
       "desc": "Semiconductors with wider bandgaps could pave the way for smaller, more efficient electronics that can handle far higher voltages, but the wider this gap becomes, the harder it is to control how well a material conducts electricity. Now, a team led by Darrell Schlom at Cornell University has shown…",
@@ -55,12 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Perovskite laser maintains stable performance over 400 million pulses",
-      "link": "https://phys.org/news/2026-10-perovskite-laser-stable-million-pulses.html",
-      "desc": "In a study published in Advanced Optical Materials, researchers at Vilnius University (VU) demonstrated perovskite-based laser structures that maintained stable performance over more than 400 million pulses. Their findings address one of the major challenges limiting the practical use of…",
-      "date": "Oct 21, 2026",
-      "published_utc": "2026-10-21 22:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/semiconductor.jpg"
+      "title": "Ultrafast light pulses track molecular motion with three-femtosecond resolution",
+      "link": "https://phys.org/news/2026-10-ultrafast-pulses-track-molecular-motion.html",
+      "desc": "Researchers have observed a molecule in the first instants after it has absorbed light and tracked the coordinated motion of electrons and nuclei with a temporal resolution of three femtoseconds. This is the result achieved by an international research group led by the Politecnico di Milano, which…",
+      "date": "Oct 22, 2026",
+      "published_utc": "2026-10-22 23:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-light-pulses.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "What is a neutrino anyway? A look at the science behind this year's Nobel Prize in Physics",
+      "link": "https://phys.org/news/2026-10-neutrino-science-year-nobel-prize.html",
+      "desc": "If you wanted a Nobel Prize, you would do well to study neutrinos. To date, the Nobel Prize in Physics has been awarded five times to research related to neutrino detection and discovery. This year, Francis Halzen earned the Nobel \"for decisive contributions to the IceCube Neutrino Observatory and…",
+      "date": "Oct 22, 2026",
+      "published_utc": "2026-10-22 23:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/icecube-neutrino-obser.jpg"
     },
     {
       "topic": "Geoscience",
