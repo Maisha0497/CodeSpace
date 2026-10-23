@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-23 12:36 UTC",
+  "updated": "2026-10-23 18:32 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Diamond laser system achieves 100% optical contrast in magnetic-field readout",
-      "link": "https://phys.org/news/2026-10-diamond-laser-optical-contrast-magnetic.html",
-      "desc": "Researchers at Fraunhofer IAF have developed a laser-enhanced quantum sensor that combines high magnetic-field sensitivity with a large dynamic range. Using laser threshold magnetometry, they improved the ratio of sensitivity and dynamic range by a factor of up to 590 compared with state-of-the-art…",
-      "date": "Oct 22, 2026",
-      "published_utc": "2026-10-22 18:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-magnetic-field-s.jpg"
+      "title": "Experiment shows when quantum 'cat' states stop bouncing back",
+      "link": "https://phys.org/news/2026-10-quantum-cat-states.html",
+      "desc": "Quantum systems can occupy superpositions, quantum states that combine different possibilities. For instance, a microwave field can be prepared in a superposition of an empty state and a state that contains microwave light.",
+      "date": "Oct 23, 2026",
+      "published_utc": "2026-10-23 12:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/experiment-shows-when.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum interference traps electron waves in metal for first time",
-      "link": "https://phys.org/news/2026-10-quantum-electron-metal.html",
-      "desc": "Ever since quantum mechanics first described particles, like electrons, as rippling waves, researchers have wondered if those waves could be trapped in place. Writing today in Science a century later, a team of Columbia University researchers reports waves of electrons becoming trapped for the…",
-      "date": "Oct 22, 2026",
-      "published_utc": "2026-10-22 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-interference-i.jpg"
+      "title": "What makes glass good at conducting heat? Sound holds the key",
+      "link": "https://phys.org/news/2026-10-glass-good-key.html",
+      "desc": "Glass can keep a drink safely contained, protect a smartphone screen, or serve as a foundation for electronic components. But when it comes to controlling heat, this familiar material still holds some scientific mysteries. Now, researchers have identified a key factor governing how efficiently heat…",
+      "date": "Oct 23, 2026",
+      "published_utc": "2026-10-23 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-makes-glass-good.jpg"
     },
     {
       "topic": "Physics",
@@ -63,6 +63,16 @@
       "image": ""
     },
     {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
+      "link": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+      "desc": "To invade red blood cells, the deadly protist creates a temporary molecular portal that disappears behind it — a door we can now see in fine detail. The post Malaria Parasite Caught in the Act of Breaking and Entering first appeared on Quanta Magazine",
+      "date": "Oct 23, 2026",
+      "published_utc": "2026-10-23 14:54 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/MalariaPortal-cr-Ada-Zejun-Shen-Default.webp"
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Light-based method enables precise control of ultrafast electron flow in a scanning tunneling microscope",
@@ -71,16 +81,6 @@
       "date": "Oct 23, 2026",
       "published_utc": "2026-10-23 08:10 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sculpted-light-steers.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "The Geomagnetic Polarity Time Scale Revisited Once Again",
-      "link": "https://eos.org/editor-highlights/the-geomagnetic-polarity-time-scale-revisited-once-again",
-      "desc": "Scientists present a refined multi-method geomagnetic polarity time scale for the Late Cretaceous through the Eocene.",
-      "date": "Oct 22, 2026",
-      "published_utc": "2026-10-22 13:37 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/10/jgrb70618-fig-0009-m-1-1024x576.png"
     },
     {
       "topic": "AI",
