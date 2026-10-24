@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-24 12:32 UTC",
+  "updated": "2026-10-24 18:28 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Quantum",
+      "source": "Phys.org Quantum",
+      "title": "'One-positron cyclotron' could test a key prediction of the Standard Model",
+      "link": "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html",
+      "desc": "The positron is the antimatter counterpart of the electron, identical in mass but carrying an equal and opposite electric charge. Like the electron, it also behaves like a tiny bar magnet, and according to a key prediction of the Standard Model of particle physics, its magnetic moment should be…",
+      "date": "Oct 24, 2026",
+      "published_utc": "2026-10-24 17:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-positron-cyclotron-2.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -15,42 +25,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Experiment shows when quantum 'cat' states stop bouncing back",
-      "link": "https://phys.org/news/2026-10-quantum-cat-states.html",
-      "desc": "Quantum systems can occupy superpositions, quantum states that combine different possibilities. For instance, a microwave field can be prepared in a superposition of an empty state and a state that contains microwave light.",
-      "date": "Oct 23, 2026",
-      "published_utc": "2026-10-23 12:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/experiment-shows-when.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "What makes glass good at conducting heat? Sound holds the key",
-      "link": "https://phys.org/news/2026-10-glass-good-key.html",
-      "desc": "Glass can keep a drink safely contained, protect a smartphone screen, or serve as a foundation for electronic components. But when it comes to controlling heat, this familiar material still holds some scientific mysteries. Now, researchers have identified a key factor governing how efficiently heat…",
-      "date": "Oct 23, 2026",
-      "published_utc": "2026-10-23 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-makes-glass-good.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Plain silicon grating reveals a hidden 'twist' in light from electron beams",
       "link": "https://phys.org/news/2026-10-plain-silicon-reveals-hidden-electron.html",
       "desc": "In 1953, two physicists showed that an electron beam skimming past a grating emits light whose color depends only on the electron's speed and the grating's spacing. Known as Smith-Purcell radiation, this phenomenon has become a useful tool for building compact, tunable light sources and tracking…",
       "date": "Oct 23, 2026",
       "published_utc": "2026-10-23 20:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plain-silicon-grating.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
-      "link": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
-      "desc": "To invade red blood cells, the deadly protist creates a temporary molecular portal that disappears behind it — a door we can now see in fine detail. The post Malaria Parasite Caught in the Act of Breaking and Entering first appeared on Quanta Magazine",
-      "date": "Oct 23, 2026",
-      "published_utc": "2026-10-23 14:54 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/MalariaPortal-cr-Ada-Zejun-Shen-Default.webp"
     }
   ]
 }
