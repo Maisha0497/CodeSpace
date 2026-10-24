@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24 06:37 UTC",
+  "updated": "2026-10-24 12:32 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -51,26 +51,6 @@
       "date": "Oct 23, 2026",
       "published_utc": "2026-10-23 14:54 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/MalariaPortal-cr-Ada-Zejun-Shen-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Light-based method enables precise control of ultrafast electron flow in a scanning tunneling microscope",
-      "link": "https://phys.org/news/2026-10-based-method-enables-precise-ultrafast.html",
-      "desc": "What would it take to watch an electron move through a material? Researchers would need to see individual atoms and capture an electron's motion at incredibly short timescales. A Technion-led team has brought those two capabilities together in a scanning tunneling microscope, using carefully shaped…",
-      "date": "Oct 23, 2026",
-      "published_utc": "2026-10-23 08:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sculpted-light-steers.jpg"
-    },
-    {
-      "topic": "AI",
-      "source": "ScienceDaily AI",
-      "title": "MIT scientists build a tiny robot that swims using living muscle cells",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
-      "desc": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots capable of exploring fragile environments that ordinary…",
-      "date": "Oct 23, 2026",
-      "published_utc": "2026-10-23 10:33 UTC",
-      "image": ""
     }
   ]
 }
