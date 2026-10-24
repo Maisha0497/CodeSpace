@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-23 18:32 UTC",
+  "updated": "2026-10-24 00:54 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Counting magnetic flux quanta offers new way to measure photon numbers",
+      "link": "https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html",
+      "desc": "Researchers at AIST have directly observed magnetic flux quanta generated in a superconductor by photon absorption and demonstrated a new principle of photon detection that identifies the number of photons based on the number of these flux quanta.",
+      "date": "Oct 23, 2026",
+      "published_utc": "2026-10-23 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/demonstration-of-a-new.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,12 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Ultrafast light pulses track molecular motion with three-femtosecond resolution",
-      "link": "https://phys.org/news/2026-10-ultrafast-pulses-track-molecular-motion.html",
-      "desc": "Researchers have observed a molecule in the first instants after it has absorbed light and tracked the coordinated motion of electrons and nuclei with a temporal resolution of three femtoseconds. This is the result achieved by an international research group led by the Politecnico di Milano, which…",
-      "date": "Oct 22, 2026",
-      "published_utc": "2026-10-22 23:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrafast-light-pulses.jpg"
+      "title": "Plain silicon grating reveals a hidden 'twist' in light from electron beams",
+      "link": "https://phys.org/news/2026-10-plain-silicon-reveals-hidden-electron.html",
+      "desc": "In 1953, two physicists showed that an electron beam skimming past a grating emits light whose color depends only on the electron's speed and the grating's spacing. Known as Smith-Purcell radiation, this phenomenon has become a useful tool for building compact, tunable light sources and tracking…",
+      "date": "Oct 23, 2026",
+      "published_utc": "2026-10-23 20:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plain-silicon-grating.jpg"
     },
     {
       "topic": "Quantum",
@@ -41,16 +51,6 @@
       "date": "Oct 23, 2026",
       "published_utc": "2026-10-23 02:54 UTC",
       "image": ""
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "What is a neutrino anyway? A look at the science behind this year's Nobel Prize in Physics",
-      "link": "https://phys.org/news/2026-10-neutrino-science-year-nobel-prize.html",
-      "desc": "If you wanted a Nobel Prize, you would do well to study neutrinos. To date, the Nobel Prize in Physics has been awarded five times to research related to neutrino detection and discovery. This year, Francis Halzen earned the Nobel \"for decisive contributions to the IceCube Neutrino Observatory and…",
-      "date": "Oct 22, 2026",
-      "published_utc": "2026-10-22 23:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/icecube-neutrino-obser.jpg"
     },
     {
       "topic": "Cool Math",
