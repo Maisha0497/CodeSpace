@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24 18:28 UTC",
+  "updated": "2026-10-25 01:00 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,22 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Counting magnetic flux quanta offers new way to measure photon numbers",
-      "link": "https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html",
-      "desc": "Researchers at AIST have directly observed magnetic flux quanta generated in a superconductor by photon absorption and demonstrated a new principle of photon detection that identifies the number of photons based on the number of these flux quanta.",
-      "date": "Oct 23, 2026",
-      "published_utc": "2026-10-23 21:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/demonstration-of-a-new.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Plain silicon grating reveals a hidden 'twist' in light from electron beams",
-      "link": "https://phys.org/news/2026-10-plain-silicon-reveals-hidden-electron.html",
-      "desc": "In 1953, two physicists showed that an electron beam skimming past a grating emits light whose color depends only on the electron's speed and the grating's spacing. Known as Smith-Purcell radiation, this phenomenon has become a useful tool for building compact, tunable light sources and tracking…",
-      "date": "Oct 23, 2026",
-      "published_utc": "2026-10-23 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plain-silicon-grating.jpg"
+      "title": "Single X-ray pulse reveals plasma nanostructures across scales with one camera",
+      "link": "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html",
+      "desc": "Understanding instabilities and turbulence in plasmas is one of the key challenges across a wide range of plasma research fields, including nuclear fusion, astrophysics and laser-plasma physics. In plasmas, slight disturbances can grow due to instabilities, and energy is transferred between…",
+      "date": "Oct 24, 2026",
+      "published_utc": "2026-10-24 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worlds-first-simultane.jpg"
     }
   ]
 }
