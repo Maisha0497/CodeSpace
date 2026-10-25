@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-25 12:32 UTC",
+  "updated": "2026-10-25 18:28 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "'One-positron cyclotron' could test a key prediction of the Standard Model",
-      "link": "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html",
-      "desc": "The positron is the antimatter counterpart of the electron, identical in mass but carrying an equal and opposite electric charge. Like the electron, it also behaves like a tiny bar magnet, and according to a key prediction of the Standard Model of particle physics, its magnetic moment should be…",
-      "date": "Oct 24, 2026",
-      "published_utc": "2026-10-24 17:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-positron-cyclotron-2.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,6 +11,16 @@
       "date": "Oct 24, 2026",
       "published_utc": "2026-10-24 19:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worlds-first-simultane.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Patterns of polar vortices discovered in lead-free superlattices on silicon",
+      "link": "https://phys.org/news/2026-10-patterns-polar-vortices-free-superlattices.html",
+      "desc": "A team at HZB has, for the first time, reported polar vortices in (BaTiO₃/SrTiO₃)₁₀ superlattices on silicon. These results expand the range of materials and substrates on which polar topological textures can occur and open up new options for incorporating complex ferroelectric states into…",
+      "date": "Oct 25, 2026",
+      "published_utc": "2026-10-25 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/patterns-of-polar-vort.jpg"
     }
   ]
 }
