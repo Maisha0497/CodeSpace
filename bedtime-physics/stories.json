@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-25 18:28 UTC",
+  "updated": "2026-10-26 00:59 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Single X-ray pulse reveals plasma nanostructures across scales with one camera",
-      "link": "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html",
-      "desc": "Understanding instabilities and turbulence in plasmas is one of the key challenges across a wide range of plasma research fields, including nuclear fusion, astrophysics and laser-plasma physics. In plasmas, slight disturbances can grow due to instabilities, and energy is transferred between…",
-      "date": "Oct 24, 2026",
-      "published_utc": "2026-10-24 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worlds-first-simultane.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,6 +11,16 @@
       "date": "Oct 25, 2026",
       "published_utc": "2026-10-25 17:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/patterns-of-polar-vort.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Supercurrent enables the reading of quantum information without destroying it",
+      "link": "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html",
+      "desc": "One of the fundamental challenges of quantum computing is obtaining information from a quantum bit, or qubit. Unlike a conventional bit, which can be read repeatedly without altering its content, direct measurement of a quantum system typically causes the state to collapse before it can be…",
+      "date": "Oct 25, 2026",
+      "published_utc": "2026-10-25 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/supercurrent-enables-t.jpg"
     }
   ]
 }
