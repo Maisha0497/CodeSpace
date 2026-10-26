@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-26 14:02 UTC",
+  "updated": "2026-10-26 18:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Tiny shifts in iron content tip a potential memory material between competing magnetic states",
+      "link": "https://phys.org/news/2026-10-tiny-shifts-iron-content-potential.html",
+      "desc": "A team of Yale researchers has figured out what gives a magnetic material its mysterious properties, a discovery that could help boost computing memory and the field of \"spintronics.\" Their work is published in Physical Review Letters.",
+      "date": "Oct 26, 2026",
+      "published_utc": "2026-10-26 14:28 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-shifts-in-iron-co.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,12 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Patterns of polar vortices discovered in lead-free superlattices on silicon",
-      "link": "https://phys.org/news/2026-10-patterns-polar-vortices-free-superlattices.html",
-      "desc": "A team at HZB has, for the first time, reported polar vortices in (BaTiO₃/SrTiO₃)₁₀ superlattices on silicon. These results expand the range of materials and substrates on which polar topological textures can occur and open up new options for incorporating complex ferroelectric states into…",
-      "date": "Oct 25, 2026",
-      "published_utc": "2026-10-25 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/patterns-of-polar-vort.jpg"
+      "title": "Diamond defects confirm 80-year-old theory of crystal stress",
+      "link": "https://phys.org/news/2026-10-diamond-defects-year-theory-crystal.html",
+      "desc": "For the first time, researchers in Japan have directly mapped several components of the stress field surrounding an atomic-scale flaw in the crystal structure of diamond. Led by Tokuyuki Teraji at Japan's National Institute for Materials Science, the team achieved its result using nitrogen-vacancy…",
+      "date": "Oct 26, 2026",
+      "published_utc": "2026-10-26 14:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diamond-defects-confir.jpg"
     },
     {
       "topic": "Physics",
@@ -53,6 +63,26 @@
       "image": ""
     },
     {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "How Voting Is Like a Klein Bottle",
+      "link": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+      "desc": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside. The post How Voting Is Like a Klein Bottle first appeared on Quanta Magazine",
+      "date": "Oct 26, 2026",
+      "published_utc": "2026-10-26 14:54 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/CondorcetTopology-crKristinaArmitage-Default.webp"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physicists reveal new paradigm for fiber growth in neurodegenerative diseases",
+      "link": "https://phys.org/news/2026-10-physicists-reveal-paradigm-fiber-growth.html",
+      "desc": "Some proteins that are linked to neurodegenerative diseases can form both liquid droplets and amyloid fibers. But how are these two states connected, and where do the fibers grow? Leiden physicists Liru Feng and Louise Jawerth have discovered a counter-intuitive mechanism.",
+      "date": "Oct 26, 2026",
+      "published_utc": "2026-10-26 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/leiden-physicists-unco.jpg"
+    },
+    {
       "topic": "Geoscience",
       "source": "Eos",
       "title": "Antarctica’s Only Flowering Plants Take Opposite Paths Under Experimental Warming",
@@ -61,26 +91,6 @@
       "date": "Oct 26, 2026",
       "published_utc": "2026-10-26 13:04 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/10/open-top-chambers-in-antarctica-1024x576.jpg"
-    },
-    {
-      "topic": "AI",
-      "source": "ScienceDaily AI",
-      "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
-      "desc": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door…",
-      "date": "Oct 26, 2026",
-      "published_utc": "2026-10-26 01:42 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Ice mission CRISTAL opens its wings",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
-      "desc": "With its solar arrays integrated and key qualification reviews under way, Europe’s new ice-monitoring satellite, CRISTAL, is moving from assembly into the demanding testing phase that will demonstrate its readiness for the rigours of launch and life in orbit.",
-      "date": "Oct 26, 2026",
-      "published_utc": "2026-10-26 10:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_s_solar_panel_deployment/27590593-1-eng-GB/Testing_CRISTAL_s_solar_panel_deployment_card_full.jpg"
     }
   ]
 }
