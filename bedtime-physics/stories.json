@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26 00:59 UTC",
+  "updated": "2026-10-26 06:53 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,6 +21,16 @@
       "date": "Oct 25, 2026",
       "published_utc": "2026-10-25 19:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/supercurrent-enables-t.jpg"
+    },
+    {
+      "topic": "AI",
+      "source": "ScienceDaily AI",
+      "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "desc": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door…",
+      "date": "Oct 26, 2026",
+      "published_utc": "2026-10-26 01:42 UTC",
+      "image": ""
     }
   ]
 }
