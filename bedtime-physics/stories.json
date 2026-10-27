@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27 06:42 UTC",
+  "updated": "2026-10-27 12:39 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,22 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Radio waves drive a fusion plasma current that could help reactors run continuously",
+      "link": "https://phys.org/news/2026-10-radio-fusion-plasma-current-reactors.html",
+      "desc": "For the first time, a team of physicists in the U.S. has clearly demonstrated a \"helicon current drive\" in a nuclear fusion experiment. Led by Jeff Lestz at General Atomics, San Diego, the team took advantage of the latest advances in tokamak technology to show that radio waves steered to travel…",
+      "date": "Oct 27, 2026",
+      "published_utc": "2026-10-27 11:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/radio-waves-drive-a-fu.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Metalens microscope switches focus with voltage, not moving optics",
       "link": "https://phys.org/news/2026-10-metalens-microscope-focus-voltage-optics.html",
       "desc": "Just as it is difficult for a camera to keep both a nearby flower and a distant mountain sharply focused at the same time, conventional optical microscopes face a similar challenge when imaging structures located at different depths inside the body. Tighter focusing of light improves spatial…",
       "date": "Oct 26, 2026",
       "published_utc": "2026-10-26 21:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-metalens-photoacoust.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Tiny magnetic vortices could help computers work more like your brain",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
-      "desc": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more…",
-      "date": "Oct 26, 2026",
-      "published_utc": "2026-10-26 10:06 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
@@ -61,16 +61,6 @@
       "date": "Oct 26, 2026",
       "published_utc": "2026-10-26 14:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diamond-defects-confir.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-      "desc": "Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the device guides it around an object, making the object appear invisible to thermal imaging from…",
-      "date": "Oct 26, 2026",
-      "published_utc": "2026-10-26 10:24 UTC",
-      "image": ""
     },
     {
       "topic": "Math/Physics",
@@ -91,6 +81,16 @@
       "date": "Oct 26, 2026",
       "published_utc": "2026-10-26 15:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/leiden-physicists-unco.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Antarctica’s Only Flowering Plants Take Opposite Paths Under Experimental Warming",
+      "link": "https://eos.org/articles/antarcticas-only-flowering-plants-take-opposite-paths-under-experimental-warming",
+      "desc": "A 7-year field experiment showed Antarctica’s native grass and pearlwort reworking their internal plumbing in contrasting ways as temperatures shifted.",
+      "date": "Oct 26, 2026",
+      "published_utc": "2026-10-26 13:04 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/open-top-chambers-in-antarctica-1024x576.jpg"
     }
   ]
 }
