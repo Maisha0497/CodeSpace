@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28 06:31 UTC",
+  "updated": "2026-10-28 12:28 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,12 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Radio waves drive a fusion plasma current that could help reactors run continuously",
-      "link": "https://phys.org/news/2026-10-radio-fusion-plasma-current-reactors.html",
-      "desc": "For the first time, a team of physicists in the U.S. has clearly demonstrated a \"helicon current drive\" in a nuclear fusion experiment. Led by Jeff Lestz at General Atomics, San Diego, the team took advantage of the latest advances in tokamak technology to show that radio waves steered to travel…",
-      "date": "Oct 27, 2026",
-      "published_utc": "2026-10-27 11:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/radio-waves-drive-a-fu.jpg"
+      "title": "Sound-levitated particles reveal how static charge builds up",
+      "link": "https://phys.org/news/2026-10-levitated-particles-reveal-static.html",
+      "desc": "When two objects touch and then separate, they can swap tiny amounts of electric charge, even if they are made from exactly the same material. This 'triboelectric effect' is the source of everyday static electricity, but it is still poorly understood in large samples of powder, where vast numbers…",
+      "date": "Oct 28, 2026",
+      "published_utc": "2026-10-28 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sound-levitated-partic.jpg"
     },
     {
       "topic": "Physics",
