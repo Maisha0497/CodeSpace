@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28 12:28 UTC",
+  "updated": "2026-10-28 18:24 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,22 +15,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum sensor loop design could improve magnetic measurements for medicine and communications",
-      "link": "https://phys.org/news/2026-10-quantum-sensor-loop-magnetic-medicine.html",
-      "desc": "Adelaide University quantum engineers have found a new way to improve some of the world's most sensitive sensors of electromagnetic fields, a breakthrough that could help advance brain imaging, medical diagnostics, communications technology and next-generation quantum devices.",
-      "date": "Oct 27, 2026",
-      "published_utc": "2026-10-27 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-engineering.jpg"
+      "title": "Slow-motion electron camera reveals light-driven quantum jumps in graphene",
+      "link": "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html",
+      "desc": "Using a new slow-motion electron camera, physicists from Regensburg, Marburg and Jülich revealed how intense electric fields drive electrons in graphene, causing them to jump across energy gaps in a seemingly paradoxical manner. This was made possible by a novel combination of laser technology and…",
+      "date": "Oct 28, 2026",
+      "published_utc": "2026-10-28 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-elevator-in.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New converter could bridge light wavelength gap in quantum communications",
-      "link": "https://phys.org/news/2026-10-bridge-wavelength-gap-quantum-communications.html",
-      "desc": "Quantum networks, systems that connect devices using quantum mechanical effects, could potentially allow users to share information more securely and efficiently. Building these networks typically entails linking stationary qubits, units of quantum information encoded in trapped ions or other…",
-      "date": "Oct 27, 2026",
-      "published_utc": "2026-10-27 12:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-converter-could-br.jpg"
+      "title": "Against all expectations, researchers control the magnetic core of a single atom",
+      "link": "https://phys.org/news/2026-10-magnetic-core-atom.html",
+      "desc": "Researchers at Delft University of Technology (the Netherlands) have succeeded in controlling the magnetism in the nucleus of a single atom with radio waves. This came as a surprise: until now, physicists believed that this nuclear spin could not be manipulated directly. The discovery could open up…",
+      "date": "Oct 28, 2026",
+      "published_utc": "2026-10-28 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/atom.jpg"
     },
     {
       "topic": "Physics",
@@ -41,6 +41,26 @@
       "date": "Oct 28, 2026",
       "published_utc": "2026-10-28 12:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sound-levitated-partic.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "When simulations fall short, this spectrometer learns for itself",
+      "link": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
+      "desc": "An NMR spectrometer can reveal molecular structure down to the atomic level, but weak signals limit what it can see. Now, Aarhus University researchers have used AI to let the spectrometer learn the best pulse sequence directly from the sample.",
+      "date": "Oct 28, 2026",
+      "published_utc": "2026-10-28 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-computers-give-up.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
+      "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "desc": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a tough, flexible thread. The post How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material first appeared on Quanta Magazine",
+      "date": "Oct 28, 2026",
+      "published_utc": "2026-10-28 16:04 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SpiderSilkCondensates-crKonradWothe_NaturePL_ScienceSource-Default.webp"
     },
     {
       "topic": "Physics",
@@ -65,32 +85,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Microscopic springs transform fragile silicon into a flexible terahertz metamaterial",
-      "link": "https://phys.org/news/2026-10-microscopic-fragile-silicon-flexible-terahertz.html",
-      "desc": "Researchers at the Osaka Research Institute of Industrial Science and Technology (ORIST), in collaboration with the University of Osaka and Tohoku University, have developed a flexible and stretchable silicon material whose response to terahertz waves can be mechanically tuned. By etching…",
-      "date": "Oct 27, 2026",
-      "published_utc": "2026-10-27 18:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscopic-springs-tr.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Identical vesicles, different behaviors: Model reveals how spontaneous asymmetry gives rise to lifelike behavior",
       "link": "https://phys.org/news/2026-10-identical-vesicles-behaviors-reveals-spontaneous.html",
       "desc": "In nonreciprocal active matter, agents act differently on each other, seemingly in violation of Newton's third law. This principle can result in various active matter traits, such as self-propulsion, molecular regulation and collective motion.",
       "date": "Oct 27, 2026",
       "published_utc": "2026-10-27 23:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-spontaneous-asymme.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Decoding the loopy physics of hula hooping with high-tech earthquake sensors",
-      "link": "https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html",
-      "desc": "Hula hooping may be literal child's play, but as it turns out, the physics behind the gym-class staple is so complicated that scientists have spent decades trying to understand how the hula hoop defies gravity.",
-      "date": "Oct 27, 2026",
-      "published_utc": "2026-10-27 23:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hula-hoop.jpg"
     }
   ]
 }
