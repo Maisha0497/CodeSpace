@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-27 18:23 UTC",
+  "updated": "2026-10-28 00:45 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Scientists uncover new way to control magnetism and topology using light in atomically thin materials",
+      "link": "https://phys.org/news/2026-10-scientists-uncover-magnetism-topology-atomically.html",
+      "desc": "Envision a material whose magnetic properties and electronic topology can be toggled by exposure to light, paving the way for future electronic devices that do not rely on traditional electrical switching, which wastes energy by producing heat.",
+      "date": "Oct 27, 2026",
+      "published_utc": "2026-10-27 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-a-n.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,16 +35,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Single optical element combines soft X-ray imaging and spectroscopy",
-      "link": "https://phys.org/news/2026-10-optical-element-combines-soft-ray.html",
-      "desc": "An international research team from Germany, Switzerland and Japan has demonstrated in a recent study that a single reflection zone plate (RZP) can perform both soft X-ray imaging and resonant inelastic X-ray scattering (RIXS) mapping. The approach could simplify future instruments that need to…",
-      "date": "Oct 26, 2026",
-      "published_utc": "2026-10-26 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/single-optical-element-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Radio waves drive a fusion plasma current that could help reactors run continuously",
       "link": "https://phys.org/news/2026-10-radio-fusion-plasma-current-reactors.html",
       "desc": "For the first time, a team of physicists in the U.S. has clearly demonstrated a \"helicon current drive\" in a nuclear fusion experiment. Led by Jeff Lestz at General Atomics, San Diego, the team took advantage of the latest advances in tokamak technology to show that radio waves steered to travel…",
@@ -45,12 +45,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Metalens microscope switches focus with voltage, not moving optics",
-      "link": "https://phys.org/news/2026-10-metalens-microscope-focus-voltage-optics.html",
-      "desc": "Just as it is difficult for a camera to keep both a nearby flower and a distant mountain sharply focused at the same time, conventional optical microscopes face a similar challenge when imaging structures located at different depths inside the body. Tighter focusing of light improves spatial…",
-      "date": "Oct 26, 2026",
-      "published_utc": "2026-10-26 21:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-metalens-photoacoust.jpg"
+      "title": "SPINE: A machine-learning program is on the trail of ghost particles",
+      "link": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html",
+      "desc": "Neutrinos are among the most abundant particles in the universe, but they are also among the most elusive. Nearly massless, they are produced by nuclear reactions in the sun, exploding stars, particle accelerators and even the decay of radioactive elements on Earth. They interact so weakly with…",
+      "date": "Oct 27, 2026",
+      "published_utc": "2026-10-27 19:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/icarus.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum gates set speed record at 6.8 nanoseconds with over 99.98% accuracy",
+      "link": "https://phys.org/news/2026-10-quantum-gates-nanoseconds-accuracy.html",
+      "desc": "Researchers from Jülich, Aachen and Cologne have performed a quantum operation on a qubit in just 6.8 nanoseconds—with more than 99.98% accuracy. Such operations typically take several tens of nanoseconds in superconducting quantum computers. The paper was published in Nature Communications.",
+      "date": "Oct 27, 2026",
+      "published_utc": "2026-10-27 18:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fast-but-accurate--a-n.jpg"
     },
     {
       "topic": "Physics",
@@ -61,6 +71,26 @@
       "date": "Oct 27, 2026",
       "published_utc": "2026-10-27 18:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscopic-springs-tr.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Identical vesicles, different behaviors: Model reveals how spontaneous asymmetry gives rise to lifelike behavior",
+      "link": "https://phys.org/news/2026-10-identical-vesicles-behaviors-reveals-spontaneous.html",
+      "desc": "In nonreciprocal active matter, agents act differently on each other, seemingly in violation of Newton's third law. This principle can result in various active matter traits, such as self-propulsion, molecular regulation and collective motion.",
+      "date": "Oct 27, 2026",
+      "published_utc": "2026-10-27 23:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-spontaneous-asymme.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Decoding the loopy physics of hula hooping with high-tech earthquake sensors",
+      "link": "https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html",
+      "desc": "Hula hooping may be literal child's play, but as it turns out, the physics behind the gym-class staple is so complicated that scientists have spent decades trying to understand how the hula hoop defies gravity.",
+      "date": "Oct 27, 2026",
+      "published_utc": "2026-10-27 23:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hula-hoop.jpg"
     }
   ]
 }
