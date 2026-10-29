@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-28 18:24 UTC",
+  "updated": "2026-10-29 00:44 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Scientists uncover new way to control magnetism and topology using light in atomically thin materials",
-      "link": "https://phys.org/news/2026-10-scientists-uncover-magnetism-topology-atomically.html",
-      "desc": "Envision a material whose magnetic properties and electronic topology can be toggled by exposure to light, paving the way for future electronic devices that do not rely on traditional electrical switching, which wastes energy by producing heat.",
-      "date": "Oct 27, 2026",
-      "published_utc": "2026-10-27 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-a-n.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,6 +11,16 @@
       "date": "Oct 28, 2026",
       "published_utc": "2026-10-28 16:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-elevator-in.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Ultrathin metal layer boosts spin-related signals, opening a door to ultralow-power electronics",
+      "link": "https://phys.org/news/2026-10-ultrathin-metal-layer-boosts-door.html",
+      "desc": "Researchers at Kyushu University have found that an ultrathin layer of iridium manganese (IrMn) can improve two spin-related signals in a structure made of a magnetic insulator and a platinum film. By examining how spin currents are generated and absorbed, the team gained insights into how the…",
+      "date": "Oct 28, 2026",
+      "published_utc": "2026-10-28 23:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-ultrathin-metal-1.jpg"
     },
     {
       "topic": "Physics",
@@ -65,32 +65,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "SPINE: A machine-learning program is on the trail of ghost particles",
-      "link": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html",
-      "desc": "Neutrinos are among the most abundant particles in the universe, but they are also among the most elusive. Nearly massless, they are produced by nuclear reactions in the sun, exploding stars, particle accelerators and even the decay of radioactive elements on Earth. They interact so weakly with…",
-      "date": "Oct 27, 2026",
-      "published_utc": "2026-10-27 19:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/icarus.jpg"
+      "title": "Explaining the difference between brittle and ductile behavior in polymer glasses",
+      "link": "https://phys.org/news/2026-10-difference-brittle-ductile-behavior-polymer.html",
+      "desc": "Glasses are (mostly) brittle, metals can be ductile (plastic), and liquids flow easily. Polymers are interesting because they exhibit all three types of behavior, depending on their chemical nature, temperature, and deformation rate. If polymers are not able to crystallize, their low-temperature…",
+      "date": "Oct 28, 2026",
+      "published_utc": "2026-10-28 22:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/explaining-the-differe.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum gates set speed record at 6.8 nanoseconds with over 99.98% accuracy",
-      "link": "https://phys.org/news/2026-10-quantum-gates-nanoseconds-accuracy.html",
-      "desc": "Researchers from Jülich, Aachen and Cologne have performed a quantum operation on a qubit in just 6.8 nanoseconds—with more than 99.98% accuracy. Such operations typically take several tens of nanoseconds in superconducting quantum computers. The paper was published in Nature Communications.",
-      "date": "Oct 27, 2026",
-      "published_utc": "2026-10-27 18:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fast-but-accurate--a-n.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Identical vesicles, different behaviors: Model reveals how spontaneous asymmetry gives rise to lifelike behavior",
-      "link": "https://phys.org/news/2026-10-identical-vesicles-behaviors-reveals-spontaneous.html",
-      "desc": "In nonreciprocal active matter, agents act differently on each other, seemingly in violation of Newton's third law. This principle can result in various active matter traits, such as self-propulsion, molecular regulation and collective motion.",
-      "date": "Oct 27, 2026",
-      "published_utc": "2026-10-27 23:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-spontaneous-asymme.jpg"
+      "title": "Can gravitational fields break and reconnect? Einstein's equations suggest they can",
+      "link": "https://phys.org/news/2026-10-gravitational-fields-reconnect-einstein-equations.html",
+      "desc": "More than a century after Einstein first devised the equations that describe gravity, physicists are still finding new ways of interpreting them. Luca Comisso, an associate research scientist in Columbia University's departments of Astronomy and Physics and the Columbia Astrophysics Laboratory, and…",
+      "date": "Oct 28, 2026",
+      "published_utc": "2026-10-28 15:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/einstein.jpg"
     }
   ]
 }
