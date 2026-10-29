@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29 06:31 UTC",
+  "updated": "2026-10-29 12:28 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,16 +31,6 @@
       "date": "Oct 28, 2026",
       "published_utc": "2026-10-28 14:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/atom.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Sound-levitated particles reveal how static charge builds up",
-      "link": "https://phys.org/news/2026-10-levitated-particles-reveal-static.html",
-      "desc": "When two objects touch and then separate, they can swap tiny amounts of electric charge, even if they are made from exactly the same material. This 'triboelectric effect' is the source of everyday static electricity, but it is still poorly understood in large samples of powder, where vast numbers…",
-      "date": "Oct 28, 2026",
-      "published_utc": "2026-10-28 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sound-levitated-partic.jpg"
     },
     {
       "topic": "Physics",
