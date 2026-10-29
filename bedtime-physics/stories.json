@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-29 12:28 UTC",
+  "updated": "2026-10-29 18:24 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Slow-motion electron camera reveals light-driven quantum jumps in graphene",
-      "link": "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html",
-      "desc": "Using a new slow-motion electron camera, physicists from Regensburg, Marburg and Jülich revealed how intense electric fields drive electrons in graphene, causing them to jump across energy gaps in a seemingly paradoxical manner. This was made possible by a novel combination of laser technology and…",
-      "date": "Oct 28, 2026",
-      "published_utc": "2026-10-28 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-elevator-in.jpg"
+      "title": "Theoretical method uses light to locate anyons, potential quantum computing building blocks",
+      "link": "https://phys.org/news/2026-10-theoretical-method-anyons-potential-quantum.html",
+      "desc": "Theoretical physicists at Emory University have discovered a way to use light to detect the \"spectral fingerprints\" of anyons—exotic quasiparticles that emerge from the collective behavior of many electrons. Their findings are published in Physical Review Letters. The work offers a new tool for the…",
+      "date": "Oct 29, 2026",
+      "published_utc": "2026-10-29 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/theoretical-method-use.jpg"
     },
     {
       "topic": "Physics",
@@ -23,34 +23,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-ultrathin-metal-1.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Against all expectations, researchers control the magnetic core of a single atom",
-      "link": "https://phys.org/news/2026-10-magnetic-core-atom.html",
-      "desc": "Researchers at Delft University of Technology (the Netherlands) have succeeded in controlling the magnetism in the nucleus of a single atom with radio waves. This came as a surprise: until now, physicists believed that this nuclear spin could not be manipulated directly. The discovery could open up…",
-      "date": "Oct 28, 2026",
-      "published_utc": "2026-10-28 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/atom.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "When simulations fall short, this spectrometer learns for itself",
-      "link": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
-      "desc": "An NMR spectrometer can reveal molecular structure down to the atomic level, but weak signals limit what it can see. Now, Aarhus University researchers have used AI to let the spectrometer learn the best pulse sequence directly from the sample.",
-      "date": "Oct 28, 2026",
-      "published_utc": "2026-10-28 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-computers-give-up.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
-      "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-      "desc": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a tough, flexible thread. The post How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material first appeared on Quanta Magazine",
-      "date": "Oct 28, 2026",
-      "published_utc": "2026-10-28 16:04 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SpiderSilkCondensates-crKonradWothe_NaturePL_ScienceSource-Default.webp"
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Einstein's equations may explain the universe without dark energy",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
+      "desc": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic expansion is inherently unstable and that the universe…",
+      "date": "Oct 29, 2026",
+      "published_utc": "2026-10-29 12:07 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
@@ -63,14 +43,24 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/explaining-the-differe.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Can gravitational fields break and reconnect? Einstein's equations suggest they can",
-      "link": "https://phys.org/news/2026-10-gravitational-fields-reconnect-einstein-equations.html",
-      "desc": "More than a century after Einstein first devised the equations that describe gravity, physicists are still finding new ways of interpreting them. Luca Comisso, an associate research scientist in Columbia University's departments of Astronomy and Physics and the Columbia Astrophysics Laboratory, and…",
-      "date": "Oct 28, 2026",
-      "published_utc": "2026-10-28 15:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/einstein.jpg"
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "desc": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie. The post How Do You Take a Picture of a Black Hole? first appeared on Quanta Magazine",
+      "date": "Oct 29, 2026",
+      "published_utc": "2026-10-29 15:11 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E11-cr.Chanelle-Nibbelink-Default-NO-LOGO.webp"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "The AI Upgrade Helping Perseverance Work Smarter on Mars",
+      "link": "https://eos.org/science-updates/the-ai-upgrade-helping-perseverance-work-smarter-on-mars",
+      "desc": "The rover’s On Board Planner software uses artificial intelligence to reduce wasted time and energy by making on-the-spot scheduling decisions.",
+      "date": "Oct 29, 2026",
+      "published_utc": "2026-10-29 13:01 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/perseverance-rover-selfie-cheyava-mars-1024x576.jpg"
     }
   ]
 }
