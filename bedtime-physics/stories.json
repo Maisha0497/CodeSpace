@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-29 18:24 UTC",
+  "updated": "2026-10-30 00:45 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Terahertz light distinguishes two groups of particles trapped inside superconducting vortices",
+      "link": "https://phys.org/news/2026-10-terahertz-distinguishes-groups-particles-superconducting.html",
+      "desc": "Scientists at Rutgers and in Estonia have used invisible light to look into tiny magnetic whirlpools, called vortices, inside a superconductor, revealing details that could help researchers develop better materials for carrying electricity.",
+      "date": "Oct 29, 2026",
+      "published_utc": "2026-10-29 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-use-light-t.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Electrical signals reveal hidden magnetic information in altermagnets for first time",
+      "link": "https://phys.org/news/2026-10-electrical-reveal-hidden-magnetic-altermagnets.html",
+      "desc": "Researchers have experimentally demonstrated, for the first time, that it is possible to obtain from an altermagnet a spin current that can transport magnetic information. This result is supported by the theoretical model of electron transport developed by the CFM group. Altermagnets are a new…",
+      "date": "Oct 29, 2026",
+      "published_utc": "2026-10-29 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrical-signals-rev.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -15,12 +35,42 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Ultrathin metal layer boosts spin-related signals, opening a door to ultralow-power electronics",
-      "link": "https://phys.org/news/2026-10-ultrathin-metal-layer-boosts-door.html",
-      "desc": "Researchers at Kyushu University have found that an ultrathin layer of iridium manganese (IrMn) can improve two spin-related signals in a structure made of a magnetic insulator and a platinum film. By examining how spin currents are generated and absorbed, the team gained insights into how the…",
-      "date": "Oct 28, 2026",
-      "published_utc": "2026-10-28 23:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-ultrathin-metal-1.jpg"
+      "title": "Electrical guardrails for charge carriers: A new approach to harness graphene for solar cells",
+      "link": "https://phys.org/news/2026-10-electrical-guardrails-carriers-approach-harness.html",
+      "desc": "Graphene is a single layer of carbon atoms in which electrons can move with high mobility, making it promising for high-speed electronic components. Yet it is not very efficient at converting light into electricity. While light absorbed by graphene does excite electrons, leaving behind positively…",
+      "date": "Oct 29, 2026",
+      "published_utc": "2026-10-29 23:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hzdr-team-proposes-a-n.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Machine learning helps track semiconductor defects under more realistic temperature conditions",
+      "link": "https://phys.org/news/2026-10-machine-track-semiconductor-defects-realistic.html",
+      "desc": "All materials contain inherent defects. These are not always harmful, since they can be used to engineer and introduce certain properties into a material. However, it is crucial to understand how they function and how they affect the material's properties.",
+      "date": "Oct 29, 2026",
+      "published_utc": "2026-10-29 20:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/semiconductor.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A blue laser for underwater communication and sensing",
+      "link": "https://phys.org/news/2026-10-blue-laser-underwater-communication.html",
+      "desc": "Researchers at EPFL have developed a chip-scale blue laser that combines stable light emission with rapid frequency control, opening possibilities for underwater communication, environmental sensing and quantum technologies.",
+      "date": "Oct 29, 2026",
+      "published_utc": "2026-10-29 18:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-blue-laser-for-under.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "How the quantum vacuum perturbs atoms, could shrink black holes and may have helped form galaxies",
+      "link": "https://phys.org/news/2026-10-quantum-vacuum-perturbs-atoms-black.html",
+      "desc": "The word \"vacuum\" may conjure the image of empty space. Maybe you think of a region far outside the solar system without planets, debris, gas clouds or light. According to quantum theory, however, a vacuum is never truly empty. Quantum mechanics extends the Heisenberg uncertainty principle—which…",
+      "date": "Oct 29, 2026",
+      "published_utc": "2026-10-29 21:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-red-swirl-with-light.jpg"
     },
     {
       "topic": "Quantum",
@@ -33,16 +83,6 @@
       "image": ""
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Explaining the difference between brittle and ductile behavior in polymer glasses",
-      "link": "https://phys.org/news/2026-10-difference-brittle-ductile-behavior-polymer.html",
-      "desc": "Glasses are (mostly) brittle, metals can be ductile (plastic), and liquids flow easily. Polymers are interesting because they exhibit all three types of behavior, depending on their chemical nature, temperature, and deformation rate. If polymers are not able to crystallize, their low-temperature…",
-      "date": "Oct 28, 2026",
-      "published_utc": "2026-10-28 22:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/explaining-the-differe.jpg"
-    },
-    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
       "title": "How Do You Take a Picture of a Black Hole?",
@@ -51,16 +91,6 @@
       "date": "Oct 29, 2026",
       "published_utc": "2026-10-29 15:11 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E11-cr.Chanelle-Nibbelink-Default-NO-LOGO.webp"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "The AI Upgrade Helping Perseverance Work Smarter on Mars",
-      "link": "https://eos.org/science-updates/the-ai-upgrade-helping-perseverance-work-smarter-on-mars",
-      "desc": "The rover’s On Board Planner software uses artificial intelligence to reduce wasted time and energy by making on-the-spot scheduling decisions.",
-      "date": "Oct 29, 2026",
-      "published_utc": "2026-10-29 13:01 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/10/perseverance-rover-selfie-cheyava-mars-1024x576.jpg"
     }
   ]
 }
