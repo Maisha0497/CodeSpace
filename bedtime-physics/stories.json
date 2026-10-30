@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 06:30 UTC",
+  "updated": "2026-10-30 12:28 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,6 +35,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Unusual quantum states in six-layer graphene offer clues to superconductivity",
+      "link": "https://phys.org/news/2026-10-unusual-quantum-states-layer-graphene.html",
+      "desc": "Graphene, a material consisting of a sheet of carbon atoms arranged in a honeycomb pattern, has proved promising for various technological applications. Materials in which several layers of graphene are stacked together can exhibit different advantageous properties.",
+      "date": "Oct 30, 2026",
+      "published_utc": "2026-10-30 11:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-un-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Electrical guardrails for charge carriers: A new approach to harness graphene for solar cells",
       "link": "https://phys.org/news/2026-10-electrical-guardrails-carriers-approach-harness.html",
       "desc": "Graphene is a single layer of carbon atoms in which electrons can move with high mobility, making it promising for high-speed electronic components. Yet it is not very efficient at converting light into electricity. While light absorbed by graphene does excite electrons, leaving behind positively…",
@@ -65,32 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Confirming altermagnetism: A geometric twist offers experimental proof",
+      "link": "https://phys.org/news/2026-10-altermagnetism-geometric-experimental-proof.html",
+      "desc": "For decades, physicists recognized only two types of magnetism that occur in materials without external influence: ferromagnetism and antiferromagnetism. In findings published in Science, a team led by the U.S. Department of Energy's SLAC National Accelerator Laboratory has delivered conclusive…",
+      "date": "Oct 30, 2026",
+      "published_utc": "2026-10-30 12:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/slac-researchers-find.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "How the quantum vacuum perturbs atoms, could shrink black holes and may have helped form galaxies",
       "link": "https://phys.org/news/2026-10-quantum-vacuum-perturbs-atoms-black.html",
       "desc": "The word \"vacuum\" may conjure the image of empty space. Maybe you think of a region far outside the solar system without planets, debris, gas clouds or light. According to quantum theory, however, a vacuum is never truly empty. Quantum mechanics extends the Heisenberg uncertainty principle—which…",
       "date": "Oct 29, 2026",
       "published_utc": "2026-10-29 21:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-red-swirl-with-light.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Small molecular twists may strengthen nature's magnetic compass",
-      "link": "https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html",
-      "desc": "A collaborative research team led by Yasuhiro Kobori at Kobe University, together with researchers from Toho University, Saitama University, Nagoya Institute of Technology and the University of Freiburg, has identified a potential molecular mechanism that could enhance magnetic compass responses in…",
-      "date": "Oct 30, 2026",
-      "published_utc": "2026-10-30 05:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-molecular-twists.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New X-ray method isolates faint signals from water at material surfaces",
-      "link": "https://phys.org/news/2026-10-ray-method-isolates-faint-material.html",
-      "desc": "A research team from Toyohashi University of Technology, the Institute for Molecular Science and the Institute of Science Tokyo, led by Yu Kinjo and professor Ryugo Tero of Toyohashi University of Technology, has developed a new method to investigate the state of water near material surfaces using…",
-      "date": "Oct 30, 2026",
-      "published_utc": "2026-10-30 01:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/probing-water-at-mater.jpg"
     }
   ]
 }
