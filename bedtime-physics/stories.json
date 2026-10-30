@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 12:28 UTC",
+  "updated": "2026-10-30 18:20 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,16 +21,6 @@
       "date": "Oct 29, 2026",
       "published_utc": "2026-10-29 19:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrical-signals-rev.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Theoretical method uses light to locate anyons, potential quantum computing building blocks",
-      "link": "https://phys.org/news/2026-10-theoretical-method-anyons-potential-quantum.html",
-      "desc": "Theoretical physicists at Emory University have discovered a way to use light to detect the \"spectral fingerprints\" of anyons—exotic quasiparticles that emerge from the collective behavior of many electrons. Their findings are published in Physical Review Letters. The work offers a new tool for the…",
-      "date": "Oct 29, 2026",
-      "published_utc": "2026-10-29 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/theoretical-method-use.jpg"
     },
     {
       "topic": "Physics",
@@ -81,6 +71,16 @@
       "date": "Oct 30, 2026",
       "published_utc": "2026-10-30 12:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/slac-researchers-find.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum skyrmions outlast entanglement, hinting at more resilient networks",
+      "link": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
+      "desc": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is extraordinarily fragile, and the entanglement between particles of light on which such networks…",
+      "date": "Oct 30, 2026",
+      "published_utc": "2026-10-30 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-skyrmions-coul.jpg"
     },
     {
       "topic": "Physics",
