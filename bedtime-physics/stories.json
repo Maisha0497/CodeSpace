@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 00:45 UTC",
+  "updated": "2026-10-30 06:30 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -73,24 +73,24 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-red-swirl-with-light.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Einstein's equations may explain the universe without dark energy",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
-      "desc": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic expansion is inherently unstable and that the universe…",
-      "date": "Oct 29, 2026",
-      "published_utc": "2026-10-29 12:07 UTC",
-      "image": ""
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Small molecular twists may strengthen nature's magnetic compass",
+      "link": "https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html",
+      "desc": "A collaborative research team led by Yasuhiro Kobori at Kobe University, together with researchers from Toho University, Saitama University, Nagoya Institute of Technology and the University of Freiburg, has identified a potential molecular mechanism that could enhance magnetic compass responses in…",
+      "date": "Oct 30, 2026",
+      "published_utc": "2026-10-30 05:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-molecular-twists.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "How Do You Take a Picture of a Black Hole?",
-      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-      "desc": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie. The post How Do You Take a Picture of a Black Hole? first appeared on Quanta Magazine",
-      "date": "Oct 29, 2026",
-      "published_utc": "2026-10-29 15:11 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E11-cr.Chanelle-Nibbelink-Default-NO-LOGO.webp"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New X-ray method isolates faint signals from water at material surfaces",
+      "link": "https://phys.org/news/2026-10-ray-method-isolates-faint-material.html",
+      "desc": "A research team from Toyohashi University of Technology, the Institute for Molecular Science and the Institute of Science Tokyo, led by Yu Kinjo and professor Ryugo Tero of Toyohashi University of Technology, has developed a new method to investigate the state of water near material surfaces using…",
+      "date": "Oct 30, 2026",
+      "published_utc": "2026-10-30 01:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/probing-water-at-mater.jpg"
     }
   ]
 }
