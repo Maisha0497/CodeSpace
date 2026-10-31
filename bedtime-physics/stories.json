@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-31 06:23 UTC",
+  "updated": "2026-10-31 12:21 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Unusual quantum states in six-layer graphene offer clues to superconductivity",
-      "link": "https://phys.org/news/2026-10-unusual-quantum-states-layer-graphene.html",
-      "desc": "Graphene, a material consisting of a sheet of carbon atoms arranged in a honeycomb pattern, has proved promising for various technological applications. Materials in which several layers of graphene are stacked together can exhibit different advantageous properties.",
-      "date": "Oct 30, 2026",
-      "published_utc": "2026-10-30 11:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-un-1.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,16 +11,6 @@
       "date": "Oct 30, 2026",
       "published_utc": "2026-10-30 19:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-flavors-of-superco.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Confirming altermagnetism: A geometric twist offers experimental proof",
-      "link": "https://phys.org/news/2026-10-altermagnetism-geometric-experimental-proof.html",
-      "desc": "For decades, physicists recognized only two types of magnetism that occur in materials without external influence: ferromagnetism and antiferromagnetism. In findings published in Science, a team led by the U.S. Department of Energy's SLAC National Accelerator Laboratory has delivered conclusive…",
-      "date": "Oct 30, 2026",
-      "published_utc": "2026-10-30 12:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/slac-researchers-find.jpg"
     },
     {
       "topic": "Physics",
@@ -75,12 +55,12 @@
     {
       "topic": "Remote Sensing",
       "source": "ESA Observing Earth",
-      "title": "Earth from Space: Champi’s eerie eye",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye",
-      "desc": "Image: This image of Super Typhoon Champi from Copernicus Sentinel-3 was captured on 21 October 2026 off the coasts of Taiwan and the Philippines.",
+      "title": "Sentinel-6B enters service",
+      "link": "https://www.eumetsat.int/sentinel-6b-track-rising-seas-predict-storms-and-aid-forecasts",
+      "desc": "Sentinel-6B enters service",
       "date": "Oct 30, 2026",
-      "published_utc": "2026-10-30 09:00 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg"
+      "published_utc": "2026-10-30 13:15 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/11/copernicus_sentinel-6_over_the_andes/22329013-1-eng-GB/Copernicus_Sentinel-6_over_the_Andes_card_full.jpg"
     }
   ]
 }
