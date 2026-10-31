@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31 00:37 UTC",
+  "updated": "2026-10-31 06:23 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -45,32 +45,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Small molecular twists may strengthen nature's magnetic compass",
-      "link": "https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html",
-      "desc": "A collaborative research team led by Yasuhiro Kobori at Kobe University, together with researchers from Toho University, Saitama University, Nagoya Institute of Technology and the University of Freiburg, has identified a potential molecular mechanism that could enhance magnetic compass responses in…",
-      "date": "Oct 30, 2026",
-      "published_utc": "2026-10-30 05:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-molecular-twists.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "How a 'tropical' shortcut could help particle collider experiments",
       "link": "https://phys.org/news/2026-10-tropical-shortcut-particle-collider.html",
       "desc": "Particle accelerators are expensive. Not just to build or to run, but also to predict the outcome of measurements obtained from them.",
       "date": "Oct 30, 2026",
       "published_utc": "2026-10-30 19:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-tropical-shortcu-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New X-ray method isolates faint signals from water at material surfaces",
-      "link": "https://phys.org/news/2026-10-ray-method-isolates-faint-material.html",
-      "desc": "A research team from Toyohashi University of Technology, the Institute for Molecular Science and the Institute of Science Tokyo, led by Yu Kinjo and professor Ryugo Tero of Toyohashi University of Technology, has developed a new method to investigate the state of water near material surfaces using…",
-      "date": "Oct 30, 2026",
-      "published_utc": "2026-10-30 01:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/probing-water-at-mater.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -91,6 +71,16 @@
       "date": "Oct 30, 2026",
       "published_utc": "2026-10-30 13:17 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/10/aga270190-fig-0004-m-1024x576.png"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Earth from Space: Champi’s eerie eye",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye",
+      "desc": "Image: This image of Super Typhoon Champi from Copernicus Sentinel-3 was captured on 21 October 2026 off the coasts of Taiwan and the Philippines.",
+      "date": "Oct 30, 2026",
+      "published_utc": "2026-10-30 09:00 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg"
     }
   ]
 }
