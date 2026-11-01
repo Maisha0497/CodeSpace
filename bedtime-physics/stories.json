@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31 18:18 UTC",
+  "updated": "2026-11-01 00:44 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Oct 31, 2026",
       "published_utc": "2026-10-31 17:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-cold-atoms-to-ex.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "UTe₂ reveals two flavors of superconductivity under extreme pressure",
-      "link": "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html",
-      "desc": "Quantum researchers are searching for a topological superconductor—a material that, if discovered, would allow major advances in quantum computing by combining two distinct \"flavors\" of superconductivity.",
-      "date": "Oct 30, 2026",
-      "published_utc": "2026-10-30 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-flavors-of-superco.jpg"
     },
     {
       "topic": "Quantum",
@@ -51,16 +41,6 @@
       "date": "Oct 31, 2026",
       "published_utc": "2026-10-31 16:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/four-cables-link-two-q.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "How a 'tropical' shortcut could help particle collider experiments",
-      "link": "https://phys.org/news/2026-10-tropical-shortcut-particle-collider.html",
-      "desc": "Particle accelerators are expensive. Not just to build or to run, but also to predict the outcome of measurements obtained from them.",
-      "date": "Oct 30, 2026",
-      "published_utc": "2026-10-30 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-tropical-shortcu-1.jpg"
     }
   ]
 }
