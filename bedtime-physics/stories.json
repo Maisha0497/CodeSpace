@@ -1,5 +1,56 @@
 {
-  "updated": "2026-11-02 12:25 UTC",
+  "updated": "2026-11-02 18:21 UTC",
   "fresh_window_hours": 24,
-  "stories": []
+  "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Ultrathin kagome material opens a route to study unusual quantum states",
+      "link": "https://phys.org/news/2026-10-ultrathin-kagome-material-route-unusual.html",
+      "desc": "How atoms are arranged inside materials can influence the behavior of electrons and the resulting electronic states. Kagome lattices, repeating arrangements of atoms forming triangles that share corners (with hexagonal spaces between them), have been linked with the emergence of unusual electronic…",
+      "date": "Nov 02, 2026",
+      "published_utc": "2026-11-02 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrathin-kagome-mater.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
+      "desc": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in Antarctic ice. These elusive “ghost particles” could hold extraordinary clues about…",
+      "date": "Nov 02, 2026",
+      "published_utc": "2026-11-02 13:42 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Is There Anything Left in the Dream of Cold Fusion?",
+      "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+      "desc": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion? first appeared on Quanta Magazine",
+      "date": "Nov 02, 2026",
+      "published_utc": "2026-11-02 15:48 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Muon-Fusion-cr.Oleg-Borodin-Default.webp"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Single molecules could provide the building blocks for future quantum networks",
+      "link": "https://phys.org/news/2026-11-molecules-blocks-future-quantum-networks.html",
+      "desc": "Quantum computers rely on qubits as their units of information. To connect them into a larger network across long distances, they need to transmit quantum information using light.",
+      "date": "Nov 02, 2026",
+      "published_utc": "2026-11-02 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/single-molecules-could.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Building the Cities of Tomorrow with Living Materials",
+      "link": "https://eos.org/features/building-the-cities-of-tomorrow-with-living-materials",
+      "desc": "Construction materials incorporating bacteria, fungi, or other living organisms could self-heal, clean the air, and create more climate-resilient cities.",
+      "date": "Nov 02, 2026",
+      "published_utc": "2026-11-02 13:09 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/10/biocellular-concrete-1024x576.jpg"
+    }
+  ]
 }
