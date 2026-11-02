@@ -1,16 +1,5 @@
 {
-  "updated": "2026-11-02 06:34 UTC",
+  "updated": "2026-11-02 12:25 UTC",
   "fresh_window_hours": 24,
-  "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Breaking the ice: Scientists use attracting particles to form an anti-spin ice",
-      "link": "https://phys.org/news/2026-10-ice-scientists-particles-anti.html",
-      "desc": "In a recent Nature Communications study, researchers have reported the realization of an anti-spin ice, a system that does the opposite of conventional spin ices by breaking the ice rule that governs them.",
-      "date": "Nov 01, 2026",
-      "published_utc": "2026-11-01 11:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breaking-the-ice-scien.jpg"
-    }
-  ]
+  "stories": []
 }
