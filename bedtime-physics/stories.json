@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03 00:37 UTC",
+  "updated": "2026-11-03 06:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Nov 02, 2026",
       "published_utc": "2026-11-02 22:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-discovers-exactly.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm",
+      "desc": "Scientists at CERN's Large Hadron Collider have uncovered compelling new evidence that even relatively small atomic collisions can recreate the extraordinary state of matter that filled the universe moments after the Big Bang. Known as quark-gluon plasma, this exotic substance forms at temperatures…",
+      "date": "Nov 03, 2026",
+      "published_utc": "2026-11-03 02:39 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
