@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-02 18:21 UTC",
+  "updated": "2026-11-03 00:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Exactly solvable model reveals how trapped light can create magnetic order in one-dimensional spin chains",
+      "link": "https://phys.org/news/2026-11-solvable-reveals-magnetic-dimensional-chains.html",
+      "desc": "A research team wanted to better understand how the forces between particles inside a material change. They discovered that by confining one-dimensional classical spin chains inside a mirror box cavity with light, they could force these magnetic particles to organize and undergo a phase transition.…",
+      "date": "Nov 02, 2026",
+      "published_utc": "2026-11-02 22:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-discovers-exactly.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -41,6 +51,16 @@
       "date": "Nov 02, 2026",
       "published_utc": "2026-11-02 17:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/single-molecules-could.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Experiment supports theoretical foundation for potentially more error-resistant quantum computing",
+      "link": "https://phys.org/news/2026-11-theoretical-foundation-potentially-error-resistant.html",
+      "desc": "One approach to making information storage in quantum computing less prone to errors is known as topological quantum computing. It relies on special quantum states that are expected to be more resistant to local disturbances.",
+      "date": "Nov 02, 2026",
+      "published_utc": "2026-11-02 18:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/experiment-supports-a.jpg"
     },
     {
       "topic": "Geoscience",
