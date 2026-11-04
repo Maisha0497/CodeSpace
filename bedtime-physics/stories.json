@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04 06:27 UTC",
+  "updated": "2026-11-04 12:24 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -81,6 +81,16 @@
       "date": "Nov 03, 2026",
       "published_utc": "2026-11-03 13:43 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/10/halema-uma-u-lava-fountain-1024x576.jpg"
+    },
+    {
+      "topic": "Remote Sensing",
+      "source": "ESA Observing Earth",
+      "title": "Time to wake up MetOp-SG-B1 weather satellite",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite",
+      "desc": "Following a short period in storage after arriving at Europe’s Spaceport in French Guiana, the MetOp Second Generation-B1 satellite has been transferred to a cleanroom and removed from its transport container. The team is now preparing to reactivate this ‘sleeping beauty, and begin the final checks…",
+      "date": "Nov 04, 2026",
+      "published_utc": "2026-11-04 09:10 UTC",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/removing_metop-sg-b1_from_its_transport_container/27598342-1-eng-GB/Removing_MetOp-SG-B1_from_its_transport_container_card_full.jpg"
     }
   ]
 }
