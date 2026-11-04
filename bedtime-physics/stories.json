@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04 12:24 UTC",
+  "updated": "2026-11-04 18:20 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,32 +25,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Fingernail-sized chip untangles mixed light into clean beams",
-      "link": "https://phys.org/news/2026-11-fingernail-sized-chip-untangles.html",
-      "desc": "Stanford engineers and colleagues designed a chip that can take a muddled mixture of light from multiple lasers and output clean beams of light. It's the first time researchers have demonstrated a device that can take in mixed, or partially coherent, light and sort its photons into a clear set of…",
-      "date": "Nov 03, 2026",
-      "published_utc": "2026-11-03 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fingernail-sized-chip.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "A single measurement makes quantum bits more reliable",
       "link": "https://phys.org/news/2026-11-quantum-bits-reliable.html",
       "desc": "Researchers at the University of Regensburg and their international partners have found a way to significantly reduce errors in quantum bits. In an experiment, they demonstrated that a single additional measurement before a series of quantum operations can cut the error rate by more than half. The…",
       "date": "Nov 03, 2026",
       "published_utc": "2026-11-03 20:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-single-measurement-m.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search",
-      "link": "https://phys.org/news/2026-11-physicists-closer-zeptoverse-year-particle.html",
-      "desc": "Physicists have found evidence of a particle decay so rare that it is expected to occur only around once in every 10 billion \"beauty\" particles. The result, from the upgraded LHCb experiment at CERN's Large Hadron Collider (LHC), follows a search spanning more than 40 years and brings physicists…",
-      "date": "Nov 03, 2026",
-      "published_utc": "2026-11-03 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/manchester-physicists.jpg"
     },
     {
       "topic": "Physics",
@@ -73,14 +53,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/finding-the-fingerprin.jpg"
     },
     {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Mapping Kīlauea’s Magma Reservoirs",
-      "link": "https://eos.org/research-spotlights/mapping-kilaueas-magma-reservoirs",
-      "desc": "Researchers used a dense seismometer network to monitor a combination of natural and truck-generated seismic signals and identify two regions of subsurface magma storage.",
-      "date": "Nov 03, 2026",
-      "published_utc": "2026-11-03 13:43 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/10/halema-uma-u-lava-fountain-1024x576.jpg"
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "desc": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection. The post New Research Tests Whether AI Models Know Their Own Thoughts first appeared on Quanta Magazine",
+      "date": "Nov 04, 2026",
+      "published_utc": "2026-11-04 15:32 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Default.webp"
     },
     {
       "topic": "Remote Sensing",
