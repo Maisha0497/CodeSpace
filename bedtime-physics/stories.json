@@ -1,36 +1,46 @@
 {
-  "updated": "2026-11-04 18:20 UTC",
+  "updated": "2026-11-05 00:38 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Light-matter hybrids form supersolid quantum state at room temperature",
-      "link": "https://phys.org/news/2026-11-hybrids-supersolid-quantum-state-room.html",
-      "desc": "Researchers from the Faculty of Physics at the University of Warsaw, the Military University of Technology (Poland), IBM Research Zurich and the French National Centre for Scientific Research (CNRS) have observed a new quantum state of matter known as a supersolid in an exciton-polariton…",
-      "date": "Nov 03, 2026",
-      "published_utc": "2026-11-03 22:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-quantum-state-of.jpg"
+      "title": "A carefully timed pair of light pulses can amplify the motion of atomic layers in a quantum material",
+      "link": "https://phys.org/news/2026-11-pair-pulses-amplify-motion-atomic.html",
+      "desc": "The principle \"Work smarter, not harder!\" apparently also applies to controlling quantum materials with light. Many of their fascinating properties depend on how the atoms are arranged in the crystal. Ultrashort laser pulses can be used to alter these structures in a targeted way—the light first…",
+      "date": "Nov 04, 2026",
+      "published_utc": "2026-11-04 23:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/controlling-quantum-ma.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "Phys.org Quantum",
+      "title": "New research uncovers chiral topological phases in metals without structural order",
+      "link": "https://phys.org/news/2026-11-uncovers-chiral-topological-phases-metals.html",
+      "desc": "Fermions are among the most important particles in physics and include both everyday electrons and more exotic variants. Chiral fermions, like gloves, come in left- and right-handed versions and were proposed over a century ago. While high-energy neutrinos—the leading candidates for massless chiral…",
+      "date": "Nov 04, 2026",
+      "published_utc": "2026-11-04 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-uncovers-4.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A laser can draw superconductivity at the nanoscale",
-      "link": "https://phys.org/news/2026-11-laser-superconductivity-nanoscale.html",
-      "desc": "Researchers from ICMAB-CSIC, the Politecnico di Milano and Université de Liège have adapted a direct laser writing technique that allows them to \"draw\" superconducting properties in a material. The result is a new way to locally program the behavior of a superconductor, tuning it from a fully…",
-      "date": "Nov 03, 2026",
-      "published_utc": "2026-11-03 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-article-has-been.jpg"
+      "title": "A new superinductor created within a silicon integrated circuit",
+      "link": "https://phys.org/news/2026-11-superinductor-silicon-circuit.html",
+      "desc": "A recent study published in Nature Electronics and carried out by researchers from nanoGUNE's Quantum Hardware research group, Quantum Motion, London Center for Nanotechnology, Imperial College London and the University of Cambridge introduces a new superinductor created within a silicon integrated…",
+      "date": "Nov 04, 2026",
+      "published_utc": "2026-11-04 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-superinductor-cr.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A single measurement makes quantum bits more reliable",
-      "link": "https://phys.org/news/2026-11-quantum-bits-reliable.html",
-      "desc": "Researchers at the University of Regensburg and their international partners have found a way to significantly reduce errors in quantum bits. In an experiment, they demonstrated that a single additional measurement before a series of quantum operations can cut the error rate by more than half. The…",
-      "date": "Nov 03, 2026",
-      "published_utc": "2026-11-03 20:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-single-measurement-m.jpg"
+      "title": "Five things to know about guiding sound for better communication",
+      "link": "https://phys.org/news/2026-11-communication.html",
+      "desc": "Every time someone picks up a call, the phone does a quiet bit of translation. Incoming radio signals are converted into tiny sound waves that ripple across chips before being turned back into data.",
+      "date": "Nov 04, 2026",
+      "published_utc": "2026-11-04 18:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/five-things-to-know-ab.jpg"
     },
     {
       "topic": "Physics",
@@ -43,16 +53,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/testing-einsteins-laws.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Finding the fingerprints of noisy distributions in random quantum systems",
-      "link": "https://phys.org/news/2026-11-fingerprints-noisy-random-quantum.html",
-      "desc": "Imagine shuffling a deck of cards where some of the cards are fading just because of the way they interact with the external environment as you shuffle them. Your job is to figure out the interplay between the shuffling, or \"imposed randomness,\" due to the way you shuffle your cards and how that…",
-      "date": "Nov 03, 2026",
-      "published_utc": "2026-11-03 23:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/finding-the-fingerprin.jpg"
-    },
-    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
       "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
@@ -61,16 +61,6 @@
       "date": "Nov 04, 2026",
       "published_utc": "2026-11-04 15:32 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Default.webp"
-    },
-    {
-      "topic": "Remote Sensing",
-      "source": "ESA Observing Earth",
-      "title": "Time to wake up MetOp-SG-B1 weather satellite",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite",
-      "desc": "Following a short period in storage after arriving at Europe’s Spaceport in French Guiana, the MetOp Second Generation-B1 satellite has been transferred to a cleanroom and removed from its transport container. The team is now preparing to reactivate this ‘sleeping beauty, and begin the final checks…",
-      "date": "Nov 04, 2026",
-      "published_utc": "2026-11-04 09:10 UTC",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/removing_metop-sg-b1_from_its_transport_container/27598342-1-eng-GB/Removing_MetOp-SG-B1_from_its_transport_container_card_full.jpg"
     }
   ]
 }
