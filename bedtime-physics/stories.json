@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05 00:38 UTC",
+  "updated": "2026-11-05 06:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -45,12 +45,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Testing Einstein's laws from the bottom of the Mediterranean Sea",
-      "link": "https://phys.org/news/2026-11-einstein-laws-bottom-mediterranean-sea.html",
-      "desc": "Are the laws of physics truly the same everywhere in the universe? This fundamental principle, known as Lorentz invariance, lies at the heart of Einstein's theory of relativity. Yet some theories that seek to reconcile gravity with quantum physics suggest that it might not always hold. To…",
-      "date": "Nov 04, 2026",
-      "published_utc": "2026-11-04 05:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/testing-einsteins-laws.jpg"
+      "title": "A new route to calculating gluon production in proton–nucleus collisions",
+      "link": "https://phys.org/news/2026-11-route-gluon-production-protonnucleus-collisions.html",
+      "desc": "In the theoretical study of proton-nucleus collisions, the colliding projectiles can be described as streams of color charges moving along their respective trajectories. These color charges couple to gluons, which then produce the particles that are observed in the final state (gluons and quarks,…",
+      "date": "Nov 05, 2026",
+      "published_utc": "2026-11-05 01:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gluon-production-in-pr.jpg"
     },
     {
       "topic": "Math/Physics",
