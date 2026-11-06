@@ -1,26 +1,46 @@
 {
-  "updated": "2026-11-05 18:22 UTC",
+  "updated": "2026-11-06 00:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A carefully timed pair of light pulses can amplify the motion of atomic layers in a quantum material",
-      "link": "https://phys.org/news/2026-11-pair-pulses-amplify-motion-atomic.html",
-      "desc": "The principle \"Work smarter, not harder!\" apparently also applies to controlling quantum materials with light. Many of their fascinating properties depend on how the atoms are arranged in the crystal. Ultrashort laser pulses can be used to alter these structures in a targeted way—the light first…",
-      "date": "Nov 04, 2026",
-      "published_utc": "2026-11-04 23:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/controlling-quantum-ma.jpg"
+      "title": "Electrical control of an unconventional quantum transport state demonstrated in a magnet for the first time",
+      "link": "https://phys.org/news/2026-11-electrical-unconventional-quantum-state-magnet.html",
+      "desc": "Researchers at Tohoku University and the Japan Atomic Energy Agency (JAEA) have successfully controlled a unique quantum phenomenon—the quantum-geometric nonlinear Hall (QgNLH) state—using electric current for the first time. The breakthrough was achieved by revealing and exploiting the coupling…",
+      "date": "Nov 05, 2026",
+      "published_utc": "2026-11-05 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrical-control-of-1.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "New research uncovers chiral topological phases in metals without structural order",
-      "link": "https://phys.org/news/2026-11-uncovers-chiral-topological-phases-metals.html",
-      "desc": "Fermions are among the most important particles in physics and include both everyday electrons and more exotic variants. Chiral fermions, like gloves, come in left- and right-handed versions and were proposed over a century ago. While high-energy neutrinos—the leading candidates for massless chiral…",
-      "date": "Nov 04, 2026",
-      "published_utc": "2026-11-04 21:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-uncovers-4.jpg"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physicist develops detector capable of counting photons for quantum computing",
+      "link": "https://phys.org/news/2026-11-physicist-detector-capable-photons-quantum.html",
+      "desc": "Detecting a single photon is a challenge in itself. But what if you also want to know exactly how many photons arrive at a particular point at the same time? Physicist Erik Baalbergen is working on light detectors that can do just that. They form a key building block for the optical quantum…",
+      "date": "Nov 05, 2026",
+      "published_utc": "2026-11-05 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/leiden-physicist-devel.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Laser-plasma accelerator could generate bright X-rays for biological imaging, simulations show",
+      "link": "https://phys.org/news/2026-11-laser-plasma-generate-bright-rays.html",
+      "desc": "X-rays with wavelengths between approximately 2.3 and 4.4 nanometers, i.e., in the so-called water window, are particularly well suited to examining biological samples in their natural, aqueous environment. To date, however, it has been technically difficult to access this type of radiation at an…",
+      "date": "Nov 06, 2026",
+      "published_utc": "2026-11-06 00:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-arcturus-laser-at.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Pinning down the structure of quark-gluon plasma, the universe's first fluid",
+      "link": "https://phys.org/news/2026-11-pinning-quark-gluon-plasma-universe.html",
+      "desc": "In the first fraction of a second following the Big Bang, matter existed as a trillion-degree plasma of quarks and gluons—subatomic particles that zinged around at close to the speed of light. This roiling soup lasted for just a few microseconds before the particles coalesced into more stable…",
+      "date": "Nov 05, 2026",
+      "published_utc": "2026-11-05 23:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pinning-down-the-struc-1.jpg"
     },
     {
       "topic": "Physics",
@@ -45,26 +65,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "A new superinductor created within a silicon integrated circuit",
-      "link": "https://phys.org/news/2026-11-superinductor-silicon-circuit.html",
-      "desc": "A recent study published in Nature Electronics and carried out by researchers from nanoGUNE's Quantum Hardware research group, Quantum Motion, London Center for Nanotechnology, Imperial College London and the University of Cambridge introduces a new superinductor created within a silicon integrated…",
-      "date": "Nov 04, 2026",
-      "published_utc": "2026-11-04 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-superinductor-cr.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Five things to know about guiding sound for better communication",
-      "link": "https://phys.org/news/2026-11-communication.html",
-      "desc": "Every time someone picks up a call, the phone does a quiet bit of translation. Incoming radio signals are converted into tiny sound waves that ripple across chips before being turned back into data.",
-      "date": "Nov 04, 2026",
-      "published_utc": "2026-11-04 18:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/five-things-to-know-ab.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "When Einstein's gravitational waves meet Newton's tides",
       "link": "https://phys.org/news/2026-11-einstein-gravitational-newton-tides.html",
       "desc": "Newton's theory of gravity has described the tides accurately for centuries. But could a tiny trace of Einstein's general relativity also be hidden in them? In a new study, a mathematician at Freie Universität Berlin has outlined how a targeted approach could be used to search for effects of this…",
@@ -75,22 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "How palm orientation shapes spin characteristics in volleyball jump serves",
+      "link": "https://phys.org/news/2026-11-palm-characteristics-volleyball.html",
+      "desc": "A new biomechanical study has uncovered how elite volleyball players control ball spin during jump serves, offering fresh scientific insight into one of the sport's most decisive offensive skills.",
+      "date": "Nov 05, 2026",
+      "published_utc": "2026-11-05 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/volleyball-jump-serves.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "A new route to calculating gluon production in proton–nucleus collisions",
       "link": "https://phys.org/news/2026-11-route-gluon-production-protonnucleus-collisions.html",
       "desc": "In the theoretical study of proton-nucleus collisions, the colliding projectiles can be described as streams of color charges moving along their respective trajectories. These color charges couple to gluons, which then produce the particles that are observed in the final state (gluons and quarks,…",
       "date": "Nov 05, 2026",
       "published_utc": "2026-11-05 01:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gluon-production-in-pr.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Temperature Swings Are Melting the Ice in Lava Beds National Monument’s Caves",
-      "link": "https://eos.org/articles/temperature-swings-are-melting-the-ice-in-lava-beds-national-monuments-caves",
-      "desc": "Ice caves in Lava Beds National Monument, their climates traditionally defined by narrow temperature ranges, are becoming more like regular caves.",
-      "date": "Nov 05, 2026",
-      "published_utc": "2026-11-05 13:42 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/11/lava-beds-cave-1024x576.jpg"
     }
   ]
 }
