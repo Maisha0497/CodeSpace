@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-06 12:24 UTC",
+  "updated": "2026-11-06 18:21 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Paired but out of step: Why electron pairing alone is not enough for room-temperature superconductivity",
+      "link": "https://phys.org/news/2026-11-paired-electron-pairing-room-temperature.html",
+      "desc": "Levitating trains, ultra-efficient energy storage, and quantum computers: superconductivity could unlock a wealth of possibilities for the future. New research led by scientists from Utrecht, Leiden, and Munich has now shed light on one of the key requirements for achieving superconductivity at…",
+      "date": "Nov 06, 2026",
+      "published_utc": "2026-11-06 13:54 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-offers-ho.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -45,22 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "After 40 years of searching, physicists find evidence for an ultrarare particle decay",
-      "link": "https://phys.org/news/2026-11-years-physicists-evidence-ultrarare-particle.html",
-      "desc": "Physicists at CERN report that they've detected evidence of a rare meson particle decay (B⁰→ µ⁺µ⁻) that occurs when the meson's beauty quark annihilates with a down-type quark. The pair decays into a muon and antimuon, which are particles similar to electrons. Because evidence for this decay helps…",
-      "date": "Nov 05, 2026",
-      "published_utc": "2026-11-05 17:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/after-40-years-of-sear.jpg"
+      "title": "Scientists achieve record-breaking low temperature on China's space station, paving the way for new physics experiments",
+      "link": "https://phys.org/news/2026-11-scientists-temperature-china-space-station.html",
+      "desc": "Matter starts to behave differently at extremely low temperatures, creating conditions ideal for studying quantum physics and new states of matter. Now, researchers from China have achieved a new low-temperature record aboard their Tiangong space station. Their research, recently published in…",
+      "date": "Nov 06, 2026",
+      "published_utc": "2026-11-06 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-achieve-rec.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "When Einstein's gravitational waves meet Newton's tides",
-      "link": "https://phys.org/news/2026-11-einstein-gravitational-newton-tides.html",
-      "desc": "Newton's theory of gravity has described the tides accurately for centuries. But could a tiny trace of Einstein's general relativity also be hidden in them? In a new study, a mathematician at Freie Universität Berlin has outlined how a targeted approach could be used to search for effects of this…",
-      "date": "Nov 05, 2026",
-      "published_utc": "2026-11-05 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lunar-tides.jpg"
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
+      "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+      "desc": "Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument. The post A Strange Quantum Theorem Has Killed Einstein’s Reality first appeared on Quanta Magazine",
+      "date": "Nov 06, 2026",
+      "published_utc": "2026-11-06 15:48 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Death-of-Reality-cr.Samuel-Velasco-Default.webp"
     },
     {
       "topic": "Physics",
@@ -73,14 +83,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/volleyball-jump-serves.jpg"
     },
     {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Temperature Swings Are Melting the Ice in Lava Beds National Monument’s Caves",
-      "link": "https://eos.org/articles/temperature-swings-are-melting-the-ice-in-lava-beds-national-monuments-caves",
-      "desc": "Ice caves in Lava Beds National Monument, their climates traditionally defined by narrow temperature ranges, are becoming more like regular caves.",
-      "date": "Nov 05, 2026",
-      "published_utc": "2026-11-05 13:42 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/11/lava-beds-cave-1024x576.jpg"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "From chaos to 'intelligent' soft matter—how tiny chemical differences guide droplets into ordered structures",
+      "link": "https://phys.org/news/2026-11-chaos-intelligent-soft-tiny-chemical.html",
+      "desc": "Disorder can make sense, and understanding its logic can be genuinely useful. A study by a research group at the University of Trento shows how a minimal chemical difference can turn chaotic, disordered motion into a highly coordinated and reproducible structure.",
+      "date": "Nov 06, 2026",
+      "published_utc": "2026-11-06 14:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-chaos-to-intellig-2.jpg"
     }
   ]
 }
