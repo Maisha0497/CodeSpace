@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06 18:21 UTC",
+  "updated": "2026-11-07 00:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,42 +15,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Electrical control of an unconventional quantum transport state demonstrated in a magnet for the first time",
-      "link": "https://phys.org/news/2026-11-electrical-unconventional-quantum-state-magnet.html",
-      "desc": "Researchers at Tohoku University and the Japan Atomic Energy Agency (JAEA) have successfully controlled a unique quantum phenomenon—the quantum-geometric nonlinear Hall (QgNLH) state—using electric current for the first time. The breakthrough was achieved by revealing and exploiting the coupling…",
-      "date": "Nov 05, 2026",
-      "published_utc": "2026-11-05 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrical-control-of-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physicist develops detector capable of counting photons for quantum computing",
-      "link": "https://phys.org/news/2026-11-physicist-detector-capable-photons-quantum.html",
-      "desc": "Detecting a single photon is a challenge in itself. But what if you also want to know exactly how many photons arrive at a particular point at the same time? Physicist Erik Baalbergen is working on light detectors that can do just that. They form a key building block for the optical quantum…",
-      "date": "Nov 05, 2026",
-      "published_utc": "2026-11-05 21:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/leiden-physicist-devel.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Laser-plasma accelerator could generate bright X-rays for biological imaging, simulations show",
-      "link": "https://phys.org/news/2026-11-laser-plasma-generate-bright-rays.html",
-      "desc": "X-rays with wavelengths between approximately 2.3 and 4.4 nanometers, i.e., in the so-called water window, are particularly well suited to examining biological samples in their natural, aqueous environment. To date, however, it has been technically difficult to access this type of radiation at an…",
+      "title": "Air holes turn silicon wafers into flat ultraviolet focusing mirrors for compact optics",
+      "link": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+      "desc": "Traditional lenses and mirrors focus light using curved surfaces. Metasurfaces can achieve similar functions with a flat layer of nanoscale structures that locally control the phase of light. Extending these flat optics into the ultraviolet could support compact systems for high-resolution imaging,…",
       "date": "Nov 06, 2026",
-      "published_utc": "2026-11-06 00:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-arcturus-laser-at.jpg"
+      "published_utc": "2026-11-06 22:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/air-holes-turn-silicon.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Pinning down the structure of quark-gluon plasma, the universe's first fluid",
-      "link": "https://phys.org/news/2026-11-pinning-quark-gluon-plasma-universe.html",
-      "desc": "In the first fraction of a second following the Big Bang, matter existed as a trillion-degree plasma of quarks and gluons—subatomic particles that zinged around at close to the speed of light. This roiling soup lasted for just a few microseconds before the particles coalesced into more stable…",
-      "date": "Nov 05, 2026",
-      "published_utc": "2026-11-05 23:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pinning-down-the-struc-1.jpg"
+      "title": "Quantum gas microscope reveals individual atoms in first tunable three-component Hubbard system",
+      "link": "https://phys.org/news/2026-11-quantum-gas-microscope-reveals-individual.html",
+      "desc": "For the first time, an international team of researchers from Germany, Thailand, India, China and the United States has created a three-component Hubbard system with tunable interactions in the laboratory. In doing so, the team used a quantum gas microscope to make the individual atoms visible. The…",
+      "date": "Nov 06, 2026",
+      "published_utc": "2026-11-06 20:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-gas-microscope.jpg"
     },
     {
       "topic": "Physics",
@@ -75,22 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "How palm orientation shapes spin characteristics in volleyball jump serves",
-      "link": "https://phys.org/news/2026-11-palm-characteristics-volleyball.html",
-      "desc": "A new biomechanical study has uncovered how elite volleyball players control ball spin during jump serves, offering fresh scientific insight into one of the sport's most decisive offensive skills.",
-      "date": "Nov 05, 2026",
-      "published_utc": "2026-11-05 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/volleyball-jump-serves.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "From chaos to 'intelligent' soft matter—how tiny chemical differences guide droplets into ordered structures",
       "link": "https://phys.org/news/2026-11-chaos-intelligent-soft-tiny-chemical.html",
       "desc": "Disorder can make sense, and understanding its logic can be genuinely useful. A study by a research group at the University of Trento shows how a minimal chemical difference can turn chaotic, disordered motion into a highly coordinated and reproducible structure.",
       "date": "Nov 06, 2026",
       "published_utc": "2026-11-06 14:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-chaos-to-intellig-2.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Deep-Diving Rocks Reveal a Subduction Zone’s Thermal Secrets",
+      "link": "https://eos.org/articles/deep-diving-rocks-reveal-a-subduction-zones-thermal-secrets",
+      "desc": "Rocks exhumed from a subduction zone in Papua New Guinea suggest that temperature changes with depth in ways not previously predicted, calling into question current models of subduction.",
+      "date": "Nov 06, 2026",
+      "published_utc": "2026-11-06 14:11 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/11/taleba-bay-vista-1024x576.jpg"
     }
   ]
 }
