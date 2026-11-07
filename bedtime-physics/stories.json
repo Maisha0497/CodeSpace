@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-07 12:22 UTC",
+  "updated": "2026-11-07 18:18 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Paired but out of step: Why electron pairing alone is not enough for room-temperature superconductivity",
-      "link": "https://phys.org/news/2026-11-paired-electron-pairing-room-temperature.html",
-      "desc": "Levitating trains, ultra-efficient energy storage, and quantum computers: superconductivity could unlock a wealth of possibilities for the future. New research led by scientists from Utrecht, Leiden, and Munich has now shed light on one of the key requirements for achieving superconductivity at…",
-      "date": "Nov 06, 2026",
-      "published_utc": "2026-11-06 13:54 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-offers-ho.jpg"
+      "title": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
+      "link": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
+      "desc": "In a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer.",
+      "date": "Nov 07, 2026",
+      "published_utc": "2026-11-07 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-paths-one-flux-tra.jpg"
     },
     {
       "topic": "Physics",
@@ -31,46 +31,6 @@
       "date": "Nov 06, 2026",
       "published_utc": "2026-11-06 20:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-gas-microscope.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Scientists achieve record-breaking low temperature on China's space station, paving the way for new physics experiments",
-      "link": "https://phys.org/news/2026-11-scientists-temperature-china-space-station.html",
-      "desc": "Matter starts to behave differently at extremely low temperatures, creating conditions ideal for studying quantum physics and new states of matter. Now, researchers from China have achieved a new low-temperature record aboard their Tiangong space station. Their research, recently published in…",
-      "date": "Nov 06, 2026",
-      "published_utc": "2026-11-06 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-achieve-rec.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
-      "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
-      "desc": "Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument. The post A Strange Quantum Theorem Has Killed Einstein’s Reality first appeared on Quanta Magazine",
-      "date": "Nov 06, 2026",
-      "published_utc": "2026-11-06 15:48 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Death-of-Reality-cr.Samuel-Velasco-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "From chaos to 'intelligent' soft matter—how tiny chemical differences guide droplets into ordered structures",
-      "link": "https://phys.org/news/2026-11-chaos-intelligent-soft-tiny-chemical.html",
-      "desc": "Disorder can make sense, and understanding its logic can be genuinely useful. A study by a research group at the University of Trento shows how a minimal chemical difference can turn chaotic, disordered motion into a highly coordinated and reproducible structure.",
-      "date": "Nov 06, 2026",
-      "published_utc": "2026-11-06 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-chaos-to-intellig-2.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Deep-Diving Rocks Reveal a Subduction Zone’s Thermal Secrets",
-      "link": "https://eos.org/articles/deep-diving-rocks-reveal-a-subduction-zones-thermal-secrets",
-      "desc": "Rocks exhumed from a subduction zone in Papua New Guinea suggest that temperature changes with depth in ways not previously predicted, calling into question current models of subduction.",
-      "date": "Nov 06, 2026",
-      "published_utc": "2026-11-06 14:11 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/11/taleba-bay-vista-1024x576.jpg"
     }
   ]
 }
