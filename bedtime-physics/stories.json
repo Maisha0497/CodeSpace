@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07 18:18 UTC",
+  "updated": "2026-11-08 00:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,26 +11,6 @@
       "date": "Nov 07, 2026",
       "published_utc": "2026-11-07 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-paths-one-flux-tra.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Air holes turn silicon wafers into flat ultraviolet focusing mirrors for compact optics",
-      "link": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
-      "desc": "Traditional lenses and mirrors focus light using curved surfaces. Metasurfaces can achieve similar functions with a flat layer of nanoscale structures that locally control the phase of light. Extending these flat optics into the ultraviolet could support compact systems for high-resolution imaging,…",
-      "date": "Nov 06, 2026",
-      "published_utc": "2026-11-06 22:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/air-holes-turn-silicon.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum gas microscope reveals individual atoms in first tunable three-component Hubbard system",
-      "link": "https://phys.org/news/2026-11-quantum-gas-microscope-reveals-individual.html",
-      "desc": "For the first time, an international team of researchers from Germany, Thailand, India, China and the United States has created a three-component Hubbard system with tunable interactions in the laboratory. In doing so, the team used a quantum gas microscope to make the individual atoms visible. The…",
-      "date": "Nov 06, 2026",
-      "published_utc": "2026-11-06 20:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-gas-microscope.jpg"
     }
   ]
 }
