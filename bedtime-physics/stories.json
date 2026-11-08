@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-08 12:21 UTC",
+  "updated": "2026-11-08 18:18 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
-      "link": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
-      "desc": "In a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer.",
-      "date": "Nov 07, 2026",
-      "published_utc": "2026-11-07 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-paths-one-flux-tra.jpg"
-    },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
