@@ -1,5 +1,16 @@
 {
-  "updated": "2026-11-09 00:41 UTC",
+  "updated": "2026-11-09 06:34 UTC",
   "fresh_window_hours": 24,
-  "stories": []
+  "stories": [
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
+      "desc": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have identified a theoretical process called \"gravitational…",
+      "date": "Nov 08, 2026",
+      "published_utc": "2026-11-08 22:14 UTC",
+      "image": ""
+    }
+  ]
 }
