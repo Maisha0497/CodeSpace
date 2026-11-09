@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-09 12:24 UTC",
+  "updated": "2026-11-09 18:21 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "The fastest levitated spinning magnet ever made might help physicists search for dark matter",
+      "link": "https://phys.org/news/2026-11-fastest-levitated-magnet-physicists-dark.html",
+      "desc": "Tiny levitated magnets are able to avoid contact friction, making them useful for detecting extremely weak forces and magnetic fields and acting as ultralow-noise quantum sensors and precision measurement tools. Combining levitation with extreme cold further reduces unwanted motion that can make…",
+      "date": "Nov 09, 2026",
+      "published_utc": "2026-11-09 17:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-fastest-levitated.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Chirality of 'trions' illuminates new paths for quantum optics",
+      "link": "https://phys.org/news/2026-11-chirality-trions-illuminates-paths-quantum.html",
+      "desc": "Scientists from Tokyo Metropolitan University have discovered that charged states made of two electrons and a positively charged hole (or vice versa) on atomically thin rolls of carbon atoms have a structure-derived \"handedness\" in how they interact with light. While electron-hole pairs, or…",
+      "date": "Nov 09, 2026",
+      "published_utc": "2026-11-09 15:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/charged-states-on-carb.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum interference keeps two atoms bound despite enough energy to break apart",
+      "link": "https://phys.org/news/2026-11-quantum-atoms-bound-energy.html",
+      "desc": "How can something remain intact when it should naturally break apart? This question has been addressed by researchers at RPTU. Their work has led to the experimental observation of an unusual quantum state in which two atoms remain bound together even though they possess enough energy to separate.…",
+      "date": "Nov 09, 2026",
+      "published_utc": "2026-11-09 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rapidly-oscillating-ma.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -31,6 +61,16 @@
       "date": "Nov 08, 2026",
       "published_utc": "2026-11-08 22:14 UTC",
       "image": ""
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Did Life Begin in an RNA World?",
+      "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "desc": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough. The post Did Life Begin in an RNA World? first appeared on Quanta Magazine",
+      "date": "Nov 09, 2026",
+      "published_utc": "2026-11-09 15:20 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/RNA-World-cr.Mark-Belan-Default.webp"
     }
   ]
 }
