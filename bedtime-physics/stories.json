@@ -1,16 +1,5 @@
 {
-  "updated": "2026-11-08 18:18 UTC",
+  "updated": "2026-11-09 00:41 UTC",
   "fresh_window_hours": 24,
-  "stories": [
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-      "desc": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's…",
-      "date": "Nov 07, 2026",
-      "published_utc": "2026-11-07 23:34 UTC",
-      "image": ""
-    }
-  ]
+  "stories": []
 }
