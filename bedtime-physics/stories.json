@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-09 06:34 UTC",
+  "updated": "2026-11-09 12:24 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Optical experiment demonstrates the strong Mpemba effect in a single qubit",
+      "link": "https://phys.org/news/2026-11-optical-strong-mpemba-effect-qubit.html",
+      "desc": "Typically, after a physical system is disturbed, it can gradually return toward a state of thermal equilibrium by exchanging heat with its surroundings. Thermal equilibrium is a state in which there is no net transfer of heat between the system and its surroundings.",
+      "date": "Nov 09, 2026",
+      "published_utc": "2026-11-09 11:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/optical-experiment-dem.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+      "desc": "Scientists have observed a bizarre quantum state of matter that combines the structure of a crystal with the frictionless flow of a liquid, all at room temperature. The breakthrough overturns a major practical limitation of exotic quantum experiments and could help bring powerful new light-based…",
+      "date": "Nov 09, 2026",
+      "published_utc": "2026-11-09 11:19 UTC",
+      "image": ""
+    },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
