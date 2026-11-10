@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 06:26 UTC",
+  "updated": "2026-11-10 12:23 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -85,12 +85,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Light-pulse pairs reveal the femtosecond decay of an inner-shell hole in xenon atoms",
-      "link": "https://phys.org/news/2026-11-pulse-pairs-reveal-femtosecond-decay.html",
-      "desc": "Researchers at the UVSOR Synchrotron Facility (Institute for Molecular Science, Japan) and partner institutions have observed the decay of a xenon 4d core hole, an inner-shell vacancy, directly in the time domain. They used pairs of phase-coherent extreme ultraviolet pulses from a synchrotron to…",
+      "title": "Quantum could solve AI energy drain, says tech founder",
+      "link": "https://phys.org/news/2026-11-quantum-ai-energy-tech-founder.html",
+      "desc": "Quantum computers could curb the vast energy demands of artificial intelligence data centers with their ability to run complex calculations, one of the tech's pioneers told AFP.",
       "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 02:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-pulse-pairs-reve.jpg"
+      "published_utc": "2026-11-10 11:12 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/founder-of-australian.jpg"
     }
   ]
 }
