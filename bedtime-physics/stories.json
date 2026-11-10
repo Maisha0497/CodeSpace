@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 00:36 UTC",
+  "updated": "2026-11-10 06:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -65,6 +65,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Barium titanate's optical properties emerge more clearly after decades of widely varying measurements",
+      "link": "https://phys.org/news/2026-11-barium-titanate-optical-properties-emerge.html",
+      "desc": "A KAIST-led research team has characterized how light propagates through and is absorbed by barium titanate (BTO), a promising material for next-generation optical communication devices. By clarifying optical properties that had been difficult to determine because of the material's complex internal…",
+      "date": "Nov 10, 2026",
+      "published_utc": "2026-11-10 01:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-characterizes-ba.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Light reflecting within thin films can masquerade as molecular signals in perovskite solar materials",
       "link": "https://phys.org/news/2026-11-thin-masquerade-molecular-perovskite-solar.html",
       "desc": "An infrared signal thought to reveal how molecules in perovskite solar materials respond to light-generated charges can arise largely from the way light travels through the thin film itself, a new theoretical study shows. Jun Nishida, assistant professor at the Institute for Molecular Science…",
@@ -75,22 +85,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Optical experiment demonstrates the strong Mpemba effect in a single qubit",
-      "link": "https://phys.org/news/2026-11-optical-strong-mpemba-effect-qubit.html",
-      "desc": "Typically, after a physical system is disturbed, it can gradually return toward a state of thermal equilibrium by exchanging heat with its surroundings. Thermal equilibrium is a state in which there is no net transfer of heat between the system and its surroundings.",
-      "date": "Nov 09, 2026",
-      "published_utc": "2026-11-09 11:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/optical-experiment-dem.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
-      "desc": "Scientists have observed a bizarre quantum state of matter that combines the structure of a crystal with the frictionless flow of a liquid, all at room temperature. The breakthrough overturns a major practical limitation of exotic quantum experiments and could help bring powerful new light-based…",
-      "date": "Nov 09, 2026",
-      "published_utc": "2026-11-09 11:19 UTC",
-      "image": ""
+      "title": "Light-pulse pairs reveal the femtosecond decay of an inner-shell hole in xenon atoms",
+      "link": "https://phys.org/news/2026-11-pulse-pairs-reveal-femtosecond-decay.html",
+      "desc": "Researchers at the UVSOR Synchrotron Facility (Institute for Molecular Science, Japan) and partner institutions have observed the decay of a xenon 4d core hole, an inner-shell vacancy, directly in the time domain. They used pairs of phase-coherent extreme ultraviolet pulses from a synchrotron to…",
+      "date": "Nov 10, 2026",
+      "published_utc": "2026-11-10 02:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-pulse-pairs-reve.jpg"
     }
   ]
 }
