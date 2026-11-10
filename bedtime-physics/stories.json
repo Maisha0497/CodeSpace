@@ -1,16 +1,26 @@
 {
-  "updated": "2026-11-10 12:23 UTC",
+  "updated": "2026-11-10 18:19 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "The fastest levitated spinning magnet ever made might help physicists search for dark matter",
-      "link": "https://phys.org/news/2026-11-fastest-levitated-magnet-physicists-dark.html",
-      "desc": "Tiny levitated magnets are able to avoid contact friction, making them useful for detecting extremely weak forces and magnetic fields and acting as ultralow-noise quantum sensors and precision measurement tools. Combining levitation with extreme cold further reduces unwanted motion that can make…",
-      "date": "Nov 09, 2026",
-      "published_utc": "2026-11-09 17:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-fastest-levitated.jpg"
+      "title": "Changing magnetic dimensionality boosts spin-wave frequency in Cr₂₋δTe₂",
+      "link": "https://phys.org/news/2026-11-magnetic-dimensionality-boosts-frequency-crte.html",
+      "desc": "Magnons are quasiparticles that represent quantized spin waves in magnetic materials. They can carry information without moving electric charge, making them promising for future information technologies that could use less energy than conventional electronics. The frequency, stability and…",
+      "date": "Nov 10, 2026",
+      "published_utc": "2026-11-10 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quasiparticle.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Laser-driven magnetic state defies equilibrium rules",
+      "link": "https://phys.org/news/2026-11-laser-driven-magnetic-state-defies.html",
+      "desc": "Researchers at the Department of Energy's (DOE's) Oak Ridge National Laboratory (ORNL) and their collaborators used lasers and neutrons to observe a long-lived quantum state in a magnetic material, opening a new way to study materials systems driven far from their equilibrium. Manipulation of…",
+      "date": "Nov 10, 2026",
+      "published_utc": "2026-11-10 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lasers-neutrons-reveal.jpg"
     },
     {
       "topic": "Physics",
@@ -35,16 +45,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Chirality of 'trions' illuminates new paths for quantum optics",
-      "link": "https://phys.org/news/2026-11-chirality-trions-illuminates-paths-quantum.html",
-      "desc": "Scientists from Tokyo Metropolitan University have discovered that charged states made of two electrons and a positively charged hole (or vice versa) on atomically thin rolls of carbon atoms have a structure-derived \"handedness\" in how they interact with light. While electron-hole pairs, or…",
-      "date": "Nov 09, 2026",
-      "published_utc": "2026-11-09 15:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/charged-states-on-carb.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Upgraded microscope can now watch individual quantum particles in motion",
       "link": "https://phys.org/news/2026-11-microscope-individual-quantum-particles-motion.html",
       "desc": "Energy can be carried in a number of ways: by electrons, the particles that underpin all modern electronics, as well as by quasiparticles, the results of different particles interacting with one another at the quantum level. Columbia chemist Milan Delor has been watching these different forms of…",
@@ -55,22 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum interference keeps two atoms bound despite enough energy to break apart",
-      "link": "https://phys.org/news/2026-11-quantum-atoms-bound-energy.html",
-      "desc": "How can something remain intact when it should naturally break apart? This question has been addressed by researchers at RPTU. Their work has led to the experimental observation of an unusual quantum state in which two atoms remain bound together even though they possess enough energy to separate.…",
-      "date": "Nov 09, 2026",
-      "published_utc": "2026-11-09 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rapidly-oscillating-ma.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Barium titanate's optical properties emerge more clearly after decades of widely varying measurements",
       "link": "https://phys.org/news/2026-11-barium-titanate-optical-properties-emerge.html",
       "desc": "A KAIST-led research team has characterized how light propagates through and is absorbed by barium titanate (BTO), a promising material for next-generation optical communication devices. By clarifying optical properties that had been difficult to determine because of the material's complex internal…",
       "date": "Nov 10, 2026",
       "published_utc": "2026-11-10 01:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-characterizes-ba.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "World's most sensitive lab-based axion search presents its first results",
+      "link": "https://phys.org/news/2026-11-world-sensitive-lab-based-axion.html",
+      "desc": "Physicists at the ALPS II collaboration have reported the first results from the Any-Light-Particle-Search (ALPS) II experiment: the most sensitive instrument of its kind in the search for hypothetical \"axions.\" Headed by Axel Lindner at the DESY Research Centre in Germany, the collaboration found…",
+      "date": "Nov 10, 2026",
+      "published_utc": "2026-11-10 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worlds-most-sensitive.jpg"
     },
     {
       "topic": "Physics",
