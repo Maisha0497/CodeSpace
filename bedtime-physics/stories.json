@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09 18:21 UTC",
+  "updated": "2026-11-10 00:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,6 +15,26 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Atomic defects leave telltale optical fingerprints in quantum material",
+      "link": "https://phys.org/news/2026-11-atomic-defects-telltale-optical-fingerprints.html",
+      "desc": "The tiny atomic defects so important for future quantum technologies can be difficult to spot. Fortunately, they leave behind some clues. The defects can alter how a material responds to light, producing a distinctive optical fingerprint that scientists can measure. The challenge is figuring out…",
+      "date": "Nov 09, 2026",
+      "published_utc": "2026-11-09 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-decodes-quantum.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New perovskite system extends room-temperature spin polarization via successive quantum wells",
+      "link": "https://phys.org/news/2026-11-perovskite-room-temperature-polarization-successive.html",
+      "desc": "A research team led by Lu Haipeng, a professor in the Department of Chemistry at The Hong Kong University of Science and Technology (HKUST), has achieved a breakthrough in preserving spin information for optoelectronic technologies. The team has developed a perovskite chiral multiple quantum-well…",
+      "date": "Nov 09, 2026",
+      "published_utc": "2026-11-09 22:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-no-2.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Chirality of 'trions' illuminates new paths for quantum optics",
       "link": "https://phys.org/news/2026-11-chirality-trions-illuminates-paths-quantum.html",
       "desc": "Scientists from Tokyo Metropolitan University have discovered that charged states made of two electrons and a positively charged hole (or vice versa) on atomically thin rolls of carbon atoms have a structure-derived \"handedness\" in how they interact with light. While electron-hole pairs, or…",
@@ -25,12 +45,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Upgraded microscope can now watch individual quantum particles in motion",
+      "link": "https://phys.org/news/2026-11-microscope-individual-quantum-particles-motion.html",
+      "desc": "Energy can be carried in a number of ways: by electrons, the particles that underpin all modern electronics, as well as by quasiparticles, the results of different particles interacting with one another at the quantum level. Columbia chemist Milan Delor has been watching these different forms of…",
+      "date": "Nov 09, 2026",
+      "published_utc": "2026-11-09 22:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/columbia-researchers-c.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Quantum interference keeps two atoms bound despite enough energy to break apart",
       "link": "https://phys.org/news/2026-11-quantum-atoms-bound-energy.html",
       "desc": "How can something remain intact when it should naturally break apart? This question has been addressed by researchers at RPTU. Their work has led to the experimental observation of an unusual quantum state in which two atoms remain bound together even though they possess enough energy to separate.…",
       "date": "Nov 09, 2026",
       "published_utc": "2026-11-09 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rapidly-oscillating-ma.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Light reflecting within thin films can masquerade as molecular signals in perovskite solar materials",
+      "link": "https://phys.org/news/2026-11-thin-masquerade-molecular-perovskite-solar.html",
+      "desc": "An infrared signal thought to reveal how molecules in perovskite solar materials respond to light-generated charges can arise largely from the way light travels through the thin film itself, a new theoretical study shows. Jun Nishida, assistant professor at the Institute for Molecular Science…",
+      "date": "Nov 09, 2026",
+      "published_utc": "2026-11-09 22:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/perovskite-solar-cells-2.jpg"
     },
     {
       "topic": "Physics",
@@ -51,26 +91,6 @@
       "date": "Nov 09, 2026",
       "published_utc": "2026-11-09 11:19 UTC",
       "image": ""
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
-      "desc": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have identified a theoretical process called \"gravitational…",
-      "date": "Nov 08, 2026",
-      "published_utc": "2026-11-08 22:14 UTC",
-      "image": ""
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Did Life Begin in an RNA World?",
-      "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-      "desc": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough. The post Did Life Begin in an RNA World? first appeared on Quanta Magazine",
-      "date": "Nov 09, 2026",
-      "published_utc": "2026-11-09 15:20 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/RNA-World-cr.Mark-Belan-Default.webp"
     }
   ]
 }
