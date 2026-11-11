@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-11 12:24 UTC",
+  "updated": "2026-11-11 18:19 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Changing magnetic dimensionality boosts spin-wave frequency in Cr₂₋δTe₂",
-      "link": "https://phys.org/news/2026-11-magnetic-dimensionality-boosts-frequency-crte.html",
-      "desc": "Magnons are quasiparticles that represent quantized spin waves in magnetic materials. They can carry information without moving electric charge, making them promising for future information technologies that could use less energy than conventional electronics. The frequency, stability and…",
-      "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quasiparticle.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,12 +15,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Laser-driven magnetic state defies equilibrium rules",
-      "link": "https://phys.org/news/2026-11-laser-driven-magnetic-state-defies.html",
-      "desc": "Researchers at the Department of Energy's (DOE's) Oak Ridge National Laboratory (ORNL) and their collaborators used lasers and neutrons to observe a long-lived quantum state in a magnetic material, opening a new way to study materials systems driven far from their equilibrium. Manipulation of…",
-      "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lasers-neutrons-reveal.jpg"
+      "title": "New algorithm improves phase readout for space-based gravitational wave detection",
+      "link": "https://phys.org/news/2026-11-algorithm-phase-readout-space-based.html",
+      "desc": "In a study published in Optics Communications, a research group led by Yu Tao from the Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP) of the Chinese Academy of Sciences proposed a new analytical phase readout algorithm for deep frequency modulation interferometry (DFMI).",
+      "date": "Nov 11, 2026",
+      "published_utc": "2026-11-11 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-algorithm-improves-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "III-nitride device integrates sensing and memory for in-sensor computing",
+      "link": "https://phys.org/news/2026-11-iii-nitride-device-memory-sensor.html",
+      "desc": "A new study published in Nature Materials reports that researchers have developed an aluminum gallium nitride device that combines light detection, memory and basic processing by controlling charge at polarization interfaces. The device can detect light at the nanowatt-per-square-centimeter level…",
+      "date": "Nov 11, 2026",
+      "published_utc": "2026-11-11 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/iii-nitride-device-int.jpg"
     },
     {
       "topic": "Physics",
@@ -65,32 +65,32 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "World's most sensitive lab-based axion search presents its first results",
-      "link": "https://phys.org/news/2026-11-world-sensitive-lab-based-axion.html",
-      "desc": "Physicists at the ALPS II collaboration have reported the first results from the Any-Light-Particle-Search (ALPS) II experiment: the most sensitive instrument of its kind in the search for hypothetical \"axions.\" Headed by Axel Lindner at the DESY Research Centre in Germany, the collaboration found…",
-      "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worlds-most-sensitive.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "LHC collaboration presents first result in the hunt for 'quirks'",
-      "link": "https://phys.org/news/2026-11-lhc-collaboration-result-quirks.html",
-      "desc": "An international collaboration of physicists has presented its first results in its search for hypothetical particles that could help to explain the vast disparity between the strength of gravity and the three fundamental forces described by the Standard Model. Following three years of data…",
-      "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 16:50 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lhc-collaboration-pres-2.jpg"
+      "title": "A standard shortcut, used since the 1970s, hides a magneto-optic effect in ordinary glass fiber",
+      "link": "https://phys.org/news/2026-11-standard-shortcut-1970s-magneto-optic.html",
+      "desc": "For more than 50 years, engineers have described light in optical fiber using a convenient shortcut, one that works so well it is rarely questioned. Engineers at the University of the Witwatersrand (Wits University) in Johannesburg, South Africa, have now shown that this shortcut hides a small but…",
+      "date": "Nov 11, 2026",
+      "published_utc": "2026-11-11 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-magnetic-effect-lo.jpg"
     },
     {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
-      "title": "The Case for a Bubble at Life’s Start",
-      "link": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
-      "desc": "Is self-enclosure life’s greatest trick? According to the lipid-first theory, a cell membrane enabled life by giving chemistry a place to gather. The post The Case for a Bubble at Life’s Start first appeared on Quanta Magazine",
+      "title": "How a Metabolic Spark Could Have Jump-Started Life",
+      "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+      "desc": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning. The post How a Metabolic Spark Could Have Jump-Started Life first appeared on Quanta Magazine",
+      "date": "Nov 11, 2026",
+      "published_utc": "2026-11-11 15:10 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Default.webp"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Mathematical method sharpens X-ray images at the nanoscale",
+      "link": "https://phys.org/news/2026-11-mathematical-method-sharpens-ray-images.html",
+      "desc": "In an international collaboration, researchers have developed a method that produces significantly higher-quality three-dimensional X-ray images than previously possible. The technique is used for 3D imaging with so-called X-ray nanotomography. The researchers' approach draws on expertise in…",
       "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 15:08 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Lipid-First-cr.Mark-Belan-Default.webp"
+      "published_utc": "2026-11-10 18:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mathematical-method-sh.jpg"
     }
   ]
 }
