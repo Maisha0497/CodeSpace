@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 00:37 UTC",
+  "updated": "2026-11-11 06:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -55,16 +55,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Barium titanate's optical properties emerge more clearly after decades of widely varying measurements",
-      "link": "https://phys.org/news/2026-11-barium-titanate-optical-properties-emerge.html",
-      "desc": "A KAIST-led research team has characterized how light propagates through and is absorbed by barium titanate (BTO), a promising material for next-generation optical communication devices. By clarifying optical properties that had been difficult to determine because of the material's complex internal…",
-      "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 01:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-characterizes-ba.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Repeatable laser measurements reveal 'forbidden' vibrations in single molecules without destroying them",
       "link": "https://phys.org/news/2026-11-laser-reveal-forbidden-vibrations-molecules.html",
       "desc": "The possibility of controlling \"forbidden\" excitations of vibrations in molecules could form the basis of extremely accurate clocks, quantum bits and precise tests of the fundamental laws of physics. Researchers at the University of Basel have now identified and controlled such \"forbidden\"…",
@@ -91,6 +81,16 @@
       "date": "Nov 10, 2026",
       "published_utc": "2026-11-10 11:12 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/founder-of-australian.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "LHC collaboration presents first result in the hunt for 'quirks'",
+      "link": "https://phys.org/news/2026-11-lhc-collaboration-result-quirks.html",
+      "desc": "An international collaboration of physicists has presented its first results in its search for hypothetical particles that could help to explain the vast disparity between the strength of gravity and the three fundamental forces described by the Standard Model. Following three years of data…",
+      "date": "Nov 10, 2026",
+      "published_utc": "2026-11-10 16:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lhc-collaboration-pres-2.jpg"
     }
   ]
 }
