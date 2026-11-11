@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 18:19 UTC",
+  "updated": "2026-11-11 00:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,6 +15,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Scientists discover new way to control magnetic waves for future quantum technologies",
+      "link": "https://phys.org/news/2026-11-scientists-magnetic-future-quantum-technologies.html",
+      "desc": "Researchers at the U.S. Department of Energy's (DOE) Ames National Laboratory have discovered a way to control the handedness of magnons, tiny magnetic waves that can carry information through materials. By changing the material's magnetic state with an external magnetic field, they were able to…",
+      "date": "Nov 10, 2026",
+      "published_utc": "2026-11-10 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ne-14.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Laser-driven magnetic state defies equilibrium rules",
       "link": "https://phys.org/news/2026-11-laser-driven-magnetic-state-defies.html",
       "desc": "Researchers at the Department of Energy's (DOE's) Oak Ridge National Laboratory (ORNL) and their collaborators used lasers and neutrons to observe a long-lived quantum state in a magnetic material, opening a new way to study materials systems driven far from their equilibrium. Manipulation of…",
@@ -25,32 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Atomic defects leave telltale optical fingerprints in quantum material",
-      "link": "https://phys.org/news/2026-11-atomic-defects-telltale-optical-fingerprints.html",
-      "desc": "The tiny atomic defects so important for future quantum technologies can be difficult to spot. Fortunately, they leave behind some clues. The defects can alter how a material responds to light, producing a distinctive optical fingerprint that scientists can measure. The challenge is figuring out…",
-      "date": "Nov 09, 2026",
-      "published_utc": "2026-11-09 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-decodes-quantum.jpg"
+      "title": "Harnessing laser nuisance achieves record resolution for atomic measurements",
+      "link": "https://phys.org/news/2026-11-harnessing-laser-nuisance-resolution-atomic.html",
+      "desc": "A shoebox-sized color detection device could enable precise measurements at record resolution, according to new research led by Adelaide University. An international team exploited an integrating sphere—a highly reflective hollow cavity that causes light to bounce around inside many times before…",
+      "date": "Nov 10, 2026",
+      "published_utc": "2026-11-10 23:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-laser-nuisan-1.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New perovskite system extends room-temperature spin polarization via successive quantum wells",
-      "link": "https://phys.org/news/2026-11-perovskite-room-temperature-polarization-successive.html",
-      "desc": "A research team led by Lu Haipeng, a professor in the Department of Chemistry at The Hong Kong University of Science and Technology (HKUST), has achieved a breakthrough in preserving spin information for optoelectronic technologies. The team has developed a perovskite chiral multiple quantum-well…",
-      "date": "Nov 09, 2026",
-      "published_utc": "2026-11-09 22:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-no-2.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Upgraded microscope can now watch individual quantum particles in motion",
-      "link": "https://phys.org/news/2026-11-microscope-individual-quantum-particles-motion.html",
-      "desc": "Energy can be carried in a number of ways: by electrons, the particles that underpin all modern electronics, as well as by quasiparticles, the results of different particles interacting with one another at the quantum level. Columbia chemist Milan Delor has been watching these different forms of…",
-      "date": "Nov 09, 2026",
-      "published_utc": "2026-11-09 22:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/columbia-researchers-c.jpg"
+      "title": "Classical–quantum light interactions could make complex quantum behavior easier to simulate",
+      "link": "https://phys.org/news/2026-11-classicalquantum-interactions-complex-quantum-behavior.html",
+      "desc": "An international collaboration demonstrates that classical nonlinear dynamics can drive single- and two-photon states to thermalize, opening new avenues for simulating complex quantum many-body systems within accessible optical architectures.",
+      "date": "Nov 10, 2026",
+      "published_utc": "2026-11-10 21:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bridging-classical-wav.jpg"
     },
     {
       "topic": "Physics",
@@ -65,22 +65,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Repeatable laser measurements reveal 'forbidden' vibrations in single molecules without destroying them",
+      "link": "https://phys.org/news/2026-11-laser-reveal-forbidden-vibrations-molecules.html",
+      "desc": "The possibility of controlling \"forbidden\" excitations of vibrations in molecules could form the basis of extremely accurate clocks, quantum bits and precise tests of the fundamental laws of physics. Researchers at the University of Basel have now identified and controlled such \"forbidden\"…",
+      "date": "Nov 10, 2026",
+      "published_utc": "2026-11-10 20:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-researchers-trigge.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "World's most sensitive lab-based axion search presents its first results",
       "link": "https://phys.org/news/2026-11-world-sensitive-lab-based-axion.html",
       "desc": "Physicists at the ALPS II collaboration have reported the first results from the Any-Light-Particle-Search (ALPS) II experiment: the most sensitive instrument of its kind in the search for hypothetical \"axions.\" Headed by Axel Lindner at the DESY Research Centre in Germany, the collaboration found…",
       "date": "Nov 10, 2026",
       "published_utc": "2026-11-10 13:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worlds-most-sensitive.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Light reflecting within thin films can masquerade as molecular signals in perovskite solar materials",
-      "link": "https://phys.org/news/2026-11-thin-masquerade-molecular-perovskite-solar.html",
-      "desc": "An infrared signal thought to reveal how molecules in perovskite solar materials respond to light-generated charges can arise largely from the way light travels through the thin film itself, a new theoretical study shows. Jun Nishida, assistant professor at the Institute for Molecular Science…",
-      "date": "Nov 09, 2026",
-      "published_utc": "2026-11-09 22:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/perovskite-solar-cells-2.jpg"
     },
     {
       "topic": "Physics",
