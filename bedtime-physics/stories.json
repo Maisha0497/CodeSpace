@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 06:27 UTC",
+  "updated": "2026-11-11 12:24 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -75,22 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum could solve AI energy drain, says tech founder",
-      "link": "https://phys.org/news/2026-11-quantum-ai-energy-tech-founder.html",
-      "desc": "Quantum computers could curb the vast energy demands of artificial intelligence data centers with their ability to run complex calculations, one of the tech's pioneers told AFP.",
-      "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 11:12 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/founder-of-australian.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "LHC collaboration presents first result in the hunt for 'quirks'",
       "link": "https://phys.org/news/2026-11-lhc-collaboration-result-quirks.html",
       "desc": "An international collaboration of physicists has presented its first results in its search for hypothetical particles that could help to explain the vast disparity between the strength of gravity and the three fundamental forces described by the Standard Model. Following three years of data…",
       "date": "Nov 10, 2026",
       "published_utc": "2026-11-10 16:50 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lhc-collaboration-pres-2.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "The Case for a Bubble at Life’s Start",
+      "link": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
+      "desc": "Is self-enclosure life’s greatest trick? According to the lipid-first theory, a cell membrane enabled life by giving chemistry a place to gather. The post The Case for a Bubble at Life’s Start first appeared on Quanta Magazine",
+      "date": "Nov 10, 2026",
+      "published_utc": "2026-11-10 15:08 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Lipid-First-cr.Mark-Belan-Default.webp"
     }
   ]
 }
