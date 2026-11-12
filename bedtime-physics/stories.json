@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 00:38 UTC",
+  "updated": "2026-11-12 06:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -43,6 +43,16 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/deciphering-clogging-d.jpg"
     },
     {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "A massive new simulation reveals how the universe emerged from darkness",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
+      "desc": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing…",
+      "date": "Nov 12, 2026",
+      "published_utc": "2026-11-12 04:07 UTC",
+      "image": ""
+    },
+    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
       "title": "How a Metabolic Spark Could Have Jump-Started Life",
@@ -51,6 +61,16 @@
       "date": "Nov 11, 2026",
       "published_utc": "2026-11-11 15:10 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Default.webp"
+    },
+    {
+      "topic": "AI",
+      "source": "ScienceDaily AI",
+      "title": "Inside this quantum computer, memory vibrates like a guitar string",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
+      "desc": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough successfully demonstrated advanced quantum calculations and could help overcome major…",
+      "date": "Nov 12, 2026",
+      "published_utc": "2026-11-12 02:35 UTC",
+      "image": ""
     }
   ]
 }
