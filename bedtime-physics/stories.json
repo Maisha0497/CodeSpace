@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-11 18:19 UTC",
+  "updated": "2026-11-12 00:38 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Scientists discover new way to control magnetic waves for future quantum technologies",
-      "link": "https://phys.org/news/2026-11-scientists-magnetic-future-quantum-technologies.html",
-      "desc": "Researchers at the U.S. Department of Energy's (DOE) Ames National Laboratory have discovered a way to control the handedness of magnons, tiny magnetic waves that can carry information through materials. By changing the material's magnetic state with an external magnetic field, they were able to…",
-      "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ne-14.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -35,42 +25,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Harnessing laser nuisance achieves record resolution for atomic measurements",
-      "link": "https://phys.org/news/2026-11-harnessing-laser-nuisance-resolution-atomic.html",
-      "desc": "A shoebox-sized color detection device could enable precise measurements at record resolution, according to new research led by Adelaide University. An international team exploited an integrating sphere—a highly reflective hollow cavity that causes light to bounce around inside many times before…",
-      "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 23:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-laser-nuisan-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Classical–quantum light interactions could make complex quantum behavior easier to simulate",
-      "link": "https://phys.org/news/2026-11-classicalquantum-interactions-complex-quantum-behavior.html",
-      "desc": "An international collaboration demonstrates that classical nonlinear dynamics can drive single- and two-photon states to thermalize, opening new avenues for simulating complex quantum many-body systems within accessible optical architectures.",
-      "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 21:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bridging-classical-wav.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Repeatable laser measurements reveal 'forbidden' vibrations in single molecules without destroying them",
-      "link": "https://phys.org/news/2026-11-laser-reveal-forbidden-vibrations-molecules.html",
-      "desc": "The possibility of controlling \"forbidden\" excitations of vibrations in molecules could form the basis of extremely accurate clocks, quantum bits and precise tests of the fundamental laws of physics. Researchers at the University of Basel have now identified and controlled such \"forbidden\"…",
-      "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 20:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-researchers-trigge.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "A standard shortcut, used since the 1970s, hides a magneto-optic effect in ordinary glass fiber",
       "link": "https://phys.org/news/2026-11-standard-shortcut-1970s-magneto-optic.html",
       "desc": "For more than 50 years, engineers have described light in optical fiber using a convenient shortcut, one that works so well it is rarely questioned. Engineers at the University of the Witwatersrand (Wits University) in Johannesburg, South Africa, have now shown that this shortcut hides a small but…",
       "date": "Nov 11, 2026",
       "published_utc": "2026-11-11 13:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-magnetic-effect-lo.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Superconducting vortices provide experimental evidence that clogging is a phase transition",
+      "link": "https://phys.org/news/2026-11-superconducting-vortices-experimental-evidence-clogging.html",
+      "desc": "Clogging is a phenomenon in which moving particles get stuck, slowing or blocking the flow, but how this transition occurs has remained experimentally unproven. Researchers from Science Tokyo studied superconducting vortices to demonstrate that clogging is a nonequilibrium phase transition. Using a…",
+      "date": "Nov 11, 2026",
+      "published_utc": "2026-11-11 23:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/deciphering-clogging-d.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -81,16 +51,6 @@
       "date": "Nov 11, 2026",
       "published_utc": "2026-11-11 15:10 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Mathematical method sharpens X-ray images at the nanoscale",
-      "link": "https://phys.org/news/2026-11-mathematical-method-sharpens-ray-images.html",
-      "desc": "In an international collaboration, researchers have developed a method that produces significantly higher-quality three-dimensional X-ray images than previously possible. The technique is used for 3D imaging with so-called X-ray nanotomography. The researchers' approach draws on expertise in…",
-      "date": "Nov 10, 2026",
-      "published_utc": "2026-11-10 18:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mathematical-method-sh.jpg"
     }
   ]
 }
