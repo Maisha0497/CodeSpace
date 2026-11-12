@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 06:27 UTC",
+  "updated": "2026-11-12 12:25 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -61,6 +61,16 @@
       "date": "Nov 11, 2026",
       "published_utc": "2026-11-11 15:10 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Default.webp"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Using LiDAR Lens to examine landslides in the UK",
+      "link": "https://eos.org/thelandslideblog/lidar-lens-1",
+      "desc": "LiDAR Lens is a powerful tool that allows users to view LiDAR imagery for the UK. It highlights landslides spectacularly well, as a couple of examples show. LiDAR Lens is a web service aimed at archaeology that provides access to LiDAR information for the United Kingdom. Run privately by Tim Daw,…",
+      "date": "Nov 12, 2026",
+      "published_utc": "2026-11-12 08:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/11/26_11-Ladybower-3-1024x773.jpg"
     },
     {
       "topic": "AI",
