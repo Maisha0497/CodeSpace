@@ -1,37 +1,7 @@
 {
-  "updated": "2026-11-12 12:25 UTC",
+  "updated": "2026-11-12 18:21 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New algorithm improves phase readout for space-based gravitational wave detection",
-      "link": "https://phys.org/news/2026-11-algorithm-phase-readout-space-based.html",
-      "desc": "In a study published in Optics Communications, a research group led by Yu Tao from the Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP) of the Chinese Academy of Sciences proposed a new analytical phase readout algorithm for deep frequency modulation interferometry (DFMI).",
-      "date": "Nov 11, 2026",
-      "published_utc": "2026-11-11 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-algorithm-improves-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "III-nitride device integrates sensing and memory for in-sensor computing",
-      "link": "https://phys.org/news/2026-11-iii-nitride-device-memory-sensor.html",
-      "desc": "A new study published in Nature Materials reports that researchers have developed an aluminum gallium nitride device that combines light detection, memory and basic processing by controlling charge at polarization interfaces. The device can detect light at the nanowatt-per-square-centimeter level…",
-      "date": "Nov 11, 2026",
-      "published_utc": "2026-11-11 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/iii-nitride-device-int.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "A standard shortcut, used since the 1970s, hides a magneto-optic effect in ordinary glass fiber",
-      "link": "https://phys.org/news/2026-11-standard-shortcut-1970s-magneto-optic.html",
-      "desc": "For more than 50 years, engineers have described light in optical fiber using a convenient shortcut, one that works so well it is rarely questioned. Engineers at the University of the Witwatersrand (Wits University) in Johannesburg, South Africa, have now shown that this shortcut hides a small but…",
-      "date": "Nov 11, 2026",
-      "published_utc": "2026-11-11 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-magnetic-effect-lo.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -53,14 +23,34 @@
       "image": ""
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Unified framework establishes rules for classifying unconventional magnets",
+      "link": "https://phys.org/news/2026-11-framework-unconventional-magnets.html",
+      "desc": "Researchers from the Hefei Institutes of Physical Science (HFIPS) of the Chinese Academy of Sciences (CAS) have developed a unified framework for establishing symmetry criteria and classifying unconventional magnets.",
+      "date": "Nov 12, 2026",
+      "published_utc": "2026-11-12 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unconventional-magnets.jpg"
+    },
+    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
-      "title": "How a Metabolic Spark Could Have Jump-Started Life",
-      "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-      "desc": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning. The post How a Metabolic Spark Could Have Jump-Started Life first appeared on Quanta Magazine",
-      "date": "Nov 11, 2026",
-      "published_utc": "2026-11-11 15:10 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Default.webp"
+      "title": "A New Era for the Dawn of Life",
+      "link": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
+      "desc": "Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life. The post A New Era for the Dawn of Life first appeared on Quanta Magazine",
+      "date": "Nov 12, 2026",
+      "published_utc": "2026-11-12 16:20 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Default.webp"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "desc": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be. The post The Evolving Story of How Chemistry Became Biology first appeared on Quanta Magazine",
+      "date": "Nov 12, 2026",
+      "published_utc": "2026-11-12 15:45 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Default.webp"
     },
     {
       "topic": "Geoscience",
