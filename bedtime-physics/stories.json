@@ -1,16 +1,66 @@
 {
-  "updated": "2026-11-12 18:21 UTC",
+  "updated": "2026-11-13 00:38 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Superconducting vortices provide experimental evidence that clogging is a phase transition",
-      "link": "https://phys.org/news/2026-11-superconducting-vortices-experimental-evidence-clogging.html",
-      "desc": "Clogging is a phenomenon in which moving particles get stuck, slowing or blocking the flow, but how this transition occurs has remained experimentally unproven. Researchers from Science Tokyo studied superconducting vortices to demonstrate that clogging is a nonequilibrium phase transition. Using a…",
-      "date": "Nov 11, 2026",
-      "published_utc": "2026-11-11 23:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/deciphering-clogging-d.jpg"
+      "title": "Multiplexed detector system precisely counts more than 9,000 photons",
+      "link": "https://phys.org/news/2026-11-multiplexed-detector-precisely-photons.html",
+      "desc": "Researchers have developed a new approach that can precisely count from zero to more than 9,000 individual photons. The advance opens new possibilities for studying quantum light at large scales and making precise optical measurements.",
+      "date": "Nov 12, 2026",
+      "published_utc": "2026-11-12 23:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-extend-pho-1.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Engineered atomic interactions help microwave sensor capture three times as much information",
+      "link": "https://phys.org/news/2026-11-atomic-interactions-microwave-sensor-capture.html",
+      "desc": "Researchers from the Faculty of Physics at the University of Warsaw (UW) and the Center for Optical Quantum Technologies at the University of Warsaw's Center for New Technologies (CeNT UW) have developed a method for ultrasensitive microwave sensing. Using cold, strongly interacting Rydberg atoms…",
+      "date": "Nov 13, 2026",
+      "published_utc": "2026-11-13 00:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/intelligent-quantum-se.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "Phys.org Quantum",
+      "title": "Imperfections reveal unexpected links between light and atomic vibrations in ultrathin boron nitride",
+      "link": "https://phys.org/news/2026-11-imperfections-reveal-unexpected-links-atomic.html",
+      "desc": "First, one person stands up, followed by their neighbors, one after another, until a wave sweeps through the stadium. Atoms within a material move in a similar way: rather than remaining completely still in their positions, they vibrate together around their respective positions. In physics, these…",
+      "date": "Nov 12, 2026",
+      "published_utc": "2026-11-12 19:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-power-of-imperfect.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Zn doping reveals robust two-gap superconductivity in FeSe",
+      "link": "https://phys.org/news/2026-11-zn-doping-reveals-robust-gap.html",
+      "desc": "Researchers using the Steady High Magnetic Field Facility have found that zinc doping unexpectedly alters the superconducting properties of iron selenide (FeSe) while preserving its two-gap superconducting state.",
+      "date": "Nov 12, 2026",
+      "published_utc": "2026-11-12 19:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/zn-doping-reveals-robu.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "A new twist on 'magic-angle' graphene: Tuning resistance with strain",
+      "link": "https://phys.org/news/2026-11-magic-angle-graphene-tuning-resistance.html",
+      "desc": "In materials science labs around the world, researchers regularly reproduce a peculiar experiment. Under a microscope, they use tiny robotic manipulators to lay two sheets of carbon, each a single atom thick, against one another. They then rotate the top sheet against the bottom. The two identical…",
+      "date": "Nov 12, 2026",
+      "published_utc": "2026-11-12 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uw-physicists-develop.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Chip-based laser cooling could ease quantum computing bottleneck",
+      "link": "https://phys.org/news/2026-11-chip-based-laser-cooling-ease.html",
+      "desc": "Researchers at Cornell have developed a laser-cooling technique that could potentially remove a significant bottleneck in the development of larger, faster quantum computers.",
+      "date": "Nov 12, 2026",
+      "published_utc": "2026-11-12 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/optical-fibers-are-rou.jpg"
     },
     {
       "topic": "Quantum",
@@ -25,52 +75,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Layered superionic conductor hosts atomic vibrations that behave like liquids, glasses and crystals",
+      "link": "https://phys.org/news/2026-11-layered-superionic-conductor-hosts-atomic.html",
+      "desc": "Scientists from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences have directly observed liquid-like, glass-like and crystal-like phonon behaviors coexisting in a crystalline solid—the layered superionic conductor AgCrSe₂.",
+      "date": "Nov 12, 2026",
+      "published_utc": "2026-11-12 22:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/agcrse2-shows-coexisti.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Unified framework establishes rules for classifying unconventional magnets",
       "link": "https://phys.org/news/2026-11-framework-unconventional-magnets.html",
       "desc": "Researchers from the Hefei Institutes of Physical Science (HFIPS) of the Chinese Academy of Sciences (CAS) have developed a unified framework for establishing symmetry criteria and classifying unconventional magnets.",
       "date": "Nov 12, 2026",
       "published_utc": "2026-11-12 16:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unconventional-magnets.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "A New Era for the Dawn of Life",
-      "link": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
-      "desc": "Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life. The post A New Era for the Dawn of Life first appeared on Quanta Magazine",
-      "date": "Nov 12, 2026",
-      "published_utc": "2026-11-12 16:20 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Default.webp"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "The Evolving Story of How Chemistry Became Biology",
-      "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-      "desc": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be. The post The Evolving Story of How Chemistry Became Biology first appeared on Quanta Magazine",
-      "date": "Nov 12, 2026",
-      "published_utc": "2026-11-12 15:45 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Default.webp"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Using LiDAR Lens to examine landslides in the UK",
-      "link": "https://eos.org/thelandslideblog/lidar-lens-1",
-      "desc": "LiDAR Lens is a powerful tool that allows users to view LiDAR imagery for the UK. It highlights landslides spectacularly well, as a couple of examples show. LiDAR Lens is a web service aimed at archaeology that provides access to LiDAR information for the United Kingdom. Run privately by Tim Daw,…",
-      "date": "Nov 12, 2026",
-      "published_utc": "2026-11-12 08:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/11/26_11-Ladybower-3-1024x773.jpg"
-    },
-    {
-      "topic": "AI",
-      "source": "ScienceDaily AI",
-      "title": "Inside this quantum computer, memory vibrates like a guitar string",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
-      "desc": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough successfully demonstrated advanced quantum calculations and could help overcome major…",
-      "date": "Nov 12, 2026",
-      "published_utc": "2026-11-12 02:35 UTC",
-      "image": ""
     }
   ]
 }
