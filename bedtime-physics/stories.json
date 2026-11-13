@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13 12:24 UTC",
+  "updated": "2026-11-13 18:19 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -55,6 +55,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Self-learning AI separates particle jets from background noise in simulated heavy-ion collisions",
+      "link": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html",
+      "desc": "A team of physicists and computer scientists led by researchers at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory developed a new artificial intelligence (AI) approach that learns on its own to separate important high-energy particle jet signals from the enormous background of…",
+      "date": "Nov 13, 2026",
+      "published_utc": "2026-11-13 17:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/super-intelligence-met.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Zn doping reveals robust two-gap superconductivity in FeSe",
       "link": "https://phys.org/news/2026-11-zn-doping-reveals-robust-gap.html",
       "desc": "Researchers using the Steady High Magnetic Field Facility have found that zinc doping unexpectedly alters the superconducting properties of iron selenide (FeSe) while preserving its two-gap superconducting state.",
@@ -63,34 +73,24 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/zn-doping-reveals-robu.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "A new twist on 'magic-angle' graphene: Tuning resistance with strain",
-      "link": "https://phys.org/news/2026-11-magic-angle-graphene-tuning-resistance.html",
-      "desc": "In materials science labs around the world, researchers regularly reproduce a peculiar experiment. Under a microscope, they use tiny robotic manipulators to lay two sheets of carbon, each a single atom thick, against one another. They then rotate the top sheet against the bottom. The two identical…",
-      "date": "Nov 12, 2026",
-      "published_utc": "2026-11-12 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uw-physicists-develop.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Chip-based laser cooling could ease quantum computing bottleneck",
-      "link": "https://phys.org/news/2026-11-chip-based-laser-cooling-ease.html",
-      "desc": "Researchers at Cornell have developed a laser-cooling technique that could potentially remove a significant bottleneck in the development of larger, faster quantum computers.",
-      "date": "Nov 12, 2026",
-      "published_utc": "2026-11-12 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/optical-fibers-are-rou.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Vision and interferometry improve calibration of large monolithic mirrors",
-      "link": "https://phys.org/news/2026-11-vision-interferometry-calibration-large-monolithic.html",
-      "desc": "In a new study published in Measurement, researchers from the Changchun Institute of Optics, Fine Mechanics and Physics of the Chinese Academy of Sciences have developed a calibration method that combines machine vision with interferometry. This method separates a mirror's fixed internal offset…",
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+      "desc": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI. Their breakthrough eliminates a long-standing \"dead layer\" problem that causes promising materials to stop working when made extremely thin.…",
       "date": "Nov 13, 2026",
-      "published_utc": "2026-11-13 02:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glass-optics.jpg"
+      "published_utc": "2026-11-13 01:40 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Optical system maps multiple infrared fields onto one small detector",
+      "link": "https://phys.org/news/2026-11-optical-multiple-infrared-fields-small.html",
+      "desc": "Researchers from the Changchun Institute of Optics, Fine Mechanics and Physics of the Chinese Academy of Sciences have developed an optical system that focuses light from several subfields onto a single small-format detector. By analyzing field-dependent spot shapes, the system identifies which…",
+      "date": "Nov 13, 2026",
+      "published_utc": "2026-11-13 15:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/optical-system-maps-mu.jpg"
     }
   ]
 }
