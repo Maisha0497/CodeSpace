@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13 00:38 UTC",
+  "updated": "2026-11-13 06:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,6 +35,16 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "Research advances quantum computing that harnesses speed of light",
+      "link": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
+      "desc": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits.",
+      "date": "Nov 13, 2026",
+      "published_utc": "2026-11-13 03:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/purdue-professor-vladi.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Zn doping reveals robust two-gap superconductivity in FeSe",
       "link": "https://phys.org/news/2026-11-zn-doping-reveals-robust-gap.html",
       "desc": "Researchers using the Steady High Magnetic Field Facility have found that zinc doping unexpectedly alters the superconducting properties of iron selenide (FeSe) while preserving its two-gap superconducting state.",
@@ -63,14 +73,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/optical-fibers-are-rou.jpg"
     },
     {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "A massive new simulation reveals how the universe emerged from darkness",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
-      "desc": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing…",
-      "date": "Nov 12, 2026",
-      "published_utc": "2026-11-12 04:07 UTC",
-      "image": ""
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Vision and interferometry improve calibration of large monolithic mirrors",
+      "link": "https://phys.org/news/2026-11-vision-interferometry-calibration-large-monolithic.html",
+      "desc": "In a new study published in Measurement, researchers from the Changchun Institute of Optics, Fine Mechanics and Physics of the Chinese Academy of Sciences have developed a calibration method that combines machine vision with interferometry. This method separates a mirror's fixed internal offset…",
+      "date": "Nov 13, 2026",
+      "published_utc": "2026-11-13 02:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glass-optics.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Nov 12, 2026",
       "published_utc": "2026-11-12 22:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/agcrse2-shows-coexisti.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Unified framework establishes rules for classifying unconventional magnets",
-      "link": "https://phys.org/news/2026-11-framework-unconventional-magnets.html",
-      "desc": "Researchers from the Hefei Institutes of Physical Science (HFIPS) of the Chinese Academy of Sciences (CAS) have developed a unified framework for establishing symmetry criteria and classifying unconventional magnets.",
-      "date": "Nov 12, 2026",
-      "published_utc": "2026-11-12 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unconventional-magnets.jpg"
     }
   ]
 }
