@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14 00:36 UTC",
+  "updated": "2026-11-14 06:24 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,32 +25,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Research advances quantum computing that harnesses speed of light",
-      "link": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
-      "desc": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits.",
-      "date": "Nov 13, 2026",
-      "published_utc": "2026-11-13 03:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/purdue-professor-vladi.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Self-learning AI separates particle jets from background noise in simulated heavy-ion collisions",
       "link": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html",
       "desc": "A team of physicists and computer scientists led by researchers at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory developed a new artificial intelligence (AI) approach that learns on its own to separate important high-energy particle jet signals from the enormous background of…",
       "date": "Nov 13, 2026",
       "published_utc": "2026-11-13 17:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/super-intelligence-met.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
-      "desc": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI. Their breakthrough eliminates a long-standing \"dead layer\" problem that causes promising materials to stop working when made extremely thin.…",
-      "date": "Nov 13, 2026",
-      "published_utc": "2026-11-13 01:40 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
@@ -73,14 +53,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-a-6.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Vision and interferometry improve calibration of large monolithic mirrors",
-      "link": "https://phys.org/news/2026-11-vision-interferometry-calibration-large-monolithic.html",
-      "desc": "In a new study published in Measurement, researchers from the Changchun Institute of Optics, Fine Mechanics and Physics of the Chinese Academy of Sciences have developed a calibration method that combines machine vision with interferometry. This method separates a mirror's fixed internal offset…",
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "AI supercharges laser physics with a stunning 250x speed boost",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
+      "desc": "Researchers at Stanford, UCLA, and SLAC have developed an AI system that simulates complex laser interactions thousands of times faster than conventional methods. The breakthrough allows scientists to predict how laser pulses behave inside special crystals in just milliseconds, without sacrificing…",
       "date": "Nov 13, 2026",
-      "published_utc": "2026-11-13 02:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glass-optics.jpg"
+      "published_utc": "2026-11-13 23:41 UTC",
+      "image": ""
     },
     {
       "topic": "Quantum",
