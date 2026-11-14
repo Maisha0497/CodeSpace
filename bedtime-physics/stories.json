@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14 12:21 UTC",
+  "updated": "2026-11-14 18:18 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,36 +11,6 @@
       "date": "Nov 13, 2026",
       "published_utc": "2026-11-13 23:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/self-heating-in-unstab-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Self-learning AI separates particle jets from background noise in simulated heavy-ion collisions",
-      "link": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html",
-      "desc": "A team of physicists and computer scientists led by researchers at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory developed a new artificial intelligence (AI) approach that learns on its own to separate important high-energy particle jet signals from the enormous background of…",
-      "date": "Nov 13, 2026",
-      "published_utc": "2026-11-13 17:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/super-intelligence-met.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Optical system maps multiple infrared fields onto one small detector",
-      "link": "https://phys.org/news/2026-11-optical-multiple-infrared-fields-small.html",
-      "desc": "Researchers from the Changchun Institute of Optics, Fine Mechanics and Physics of the Chinese Academy of Sciences have developed an optical system that focuses light from several subfields onto a single small-format detector. By analyzing field-dependent spot shapes, the system identifies which…",
-      "date": "Nov 13, 2026",
-      "published_utc": "2026-11-13 15:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/optical-system-maps-mu.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Heat drives electron orbital currents, revealing first experimental evidence of orbital Nernst effect",
-      "link": "https://phys.org/news/2026-11-electron-orbital-currents-revealing-experimental.html",
-      "desc": "Researchers at National Taiwan University (NTU) have reported the first experimental evidence of heat-current-driven transverse accumulation of electrons' orbital angular momentum, a phenomenon known as the orbital Nernst effect. The study was recently published in Nature Communications.",
-      "date": "Nov 13, 2026",
-      "published_utc": "2026-11-13 17:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-a-6.jpg"
     },
     {
       "topic": "Quantum",
