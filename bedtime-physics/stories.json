@@ -1,26 +1,16 @@
 {
-  "updated": "2026-11-13 18:19 UTC",
+  "updated": "2026-11-14 00:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Multiplexed detector system precisely counts more than 9,000 photons",
-      "link": "https://phys.org/news/2026-11-multiplexed-detector-precisely-photons.html",
-      "desc": "Researchers have developed a new approach that can precisely count from zero to more than 9,000 individual photons. The advance opens new possibilities for studying quantum light at large scales and making precise optical measurements.",
-      "date": "Nov 12, 2026",
-      "published_utc": "2026-11-12 23:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-extend-pho-1.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Engineered atomic interactions help microwave sensor capture three times as much information",
-      "link": "https://phys.org/news/2026-11-atomic-interactions-microwave-sensor-capture.html",
-      "desc": "Researchers from the Faculty of Physics at the University of Warsaw (UW) and the Center for Optical Quantum Technologies at the University of Warsaw's Center for New Technologies (CeNT UW) have developed a method for ultrasensitive microwave sensing. Using cold, strongly interacting Rydberg atoms…",
+      "title": "Unstable plasma heats itself with waves it generates, experiments reveal",
+      "link": "https://phys.org/news/2026-11-unstable-plasma-generates-reveal.html",
+      "desc": "Fusion power is expected to be a sustainable energy source that emits no carbon dioxide during electricity generation. To achieve this, research is underway worldwide to confine high-temperature plasma using magnetic fields. To initiate a fusion reaction, high-energy particles or waves must be…",
       "date": "Nov 13, 2026",
-      "published_utc": "2026-11-13 00:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/intelligent-quantum-se.jpg"
+      "published_utc": "2026-11-13 23:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/self-heating-in-unstab-1.jpg"
     },
     {
       "topic": "Physics",
@@ -31,16 +21,6 @@
       "date": "Nov 13, 2026",
       "published_utc": "2026-11-13 10:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-step-towards-build.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "Phys.org Quantum",
-      "title": "Imperfections reveal unexpected links between light and atomic vibrations in ultrathin boron nitride",
-      "link": "https://phys.org/news/2026-11-imperfections-reveal-unexpected-links-atomic.html",
-      "desc": "First, one person stands up, followed by their neighbors, one after another, until a wave sweeps through the stadium. Atoms within a material move in a similar way: rather than remaining completely still in their positions, they vibrate together around their respective positions. In physics, these…",
-      "date": "Nov 12, 2026",
-      "published_utc": "2026-11-12 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-power-of-imperfect.jpg"
     },
     {
       "topic": "Physics",
@@ -63,16 +43,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/super-intelligence-met.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Zn doping reveals robust two-gap superconductivity in FeSe",
-      "link": "https://phys.org/news/2026-11-zn-doping-reveals-robust-gap.html",
-      "desc": "Researchers using the Steady High Magnetic Field Facility have found that zinc doping unexpectedly alters the superconducting properties of iron selenide (FeSe) while preserving its two-gap superconducting state.",
-      "date": "Nov 12, 2026",
-      "published_utc": "2026-11-12 19:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/zn-doping-reveals-robu.jpg"
-    },
-    {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
       "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
@@ -91,6 +61,36 @@
       "date": "Nov 13, 2026",
       "published_utc": "2026-11-13 15:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/optical-system-maps-mu.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Heat drives electron orbital currents, revealing first experimental evidence of orbital Nernst effect",
+      "link": "https://phys.org/news/2026-11-electron-orbital-currents-revealing-experimental.html",
+      "desc": "Researchers at National Taiwan University (NTU) have reported the first experimental evidence of heat-current-driven transverse accumulation of electrons' orbital angular momentum, a phenomenon known as the orbital Nernst effect. The study was recently published in Nature Communications.",
+      "date": "Nov 13, 2026",
+      "published_utc": "2026-11-13 17:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-a-6.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Vision and interferometry improve calibration of large monolithic mirrors",
+      "link": "https://phys.org/news/2026-11-vision-interferometry-calibration-large-monolithic.html",
+      "desc": "In a new study published in Measurement, researchers from the Changchun Institute of Optics, Fine Mechanics and Physics of the Chinese Academy of Sciences have developed a calibration method that combines machine vision with interferometry. This method separates a mirror's fixed internal offset…",
+      "date": "Nov 13, 2026",
+      "published_utc": "2026-11-13 02:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glass-optics.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
+      "desc": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switched from negative to positive roughly 9.5 billion years ago,…",
+      "date": "Nov 13, 2026",
+      "published_utc": "2026-11-13 11:08 UTC",
+      "image": ""
     }
   ]
 }
