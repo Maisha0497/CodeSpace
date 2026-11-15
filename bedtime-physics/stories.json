@@ -1,5 +1,16 @@
 {
-  "updated": "2026-11-15 00:41 UTC",
+  "updated": "2026-11-15 06:25 UTC",
   "fresh_window_hours": 24,
-  "stories": []
+  "stories": [
+    {
+      "topic": "AI",
+      "source": "ScienceDaily AI",
+      "title": "AI discovers a hidden heart signal that could predict sudden death",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+      "desc": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might…",
+      "date": "Nov 15, 2026",
+      "published_utc": "2026-11-15 01:05 UTC",
+      "image": ""
+    }
+  ]
 }
