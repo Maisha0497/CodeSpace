@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-15 12:22 UTC",
+  "updated": "2026-11-15 18:19 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Tangled quantum whirlpools caught unraveling in an ultracold gas",
+      "link": "https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html",
+      "desc": "When a cloud of atoms is cooled close to absolute zero, its atoms can merge into a Bose–Einstein condensate (BEC): an exotic fluid in which atoms across the whole cloud share a single quantum state. Current theories predict that as a disordered quantum gas settles into this ordered state, a tangle…",
+      "date": "Nov 15, 2026",
+      "published_utc": "2026-11-15 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tangled-quantum-whirlp.jpg"
+    },
     {
       "topic": "AI",
       "source": "ScienceDaily AI",
