@@ -1,26 +1,5 @@
 {
-  "updated": "2026-11-14 18:18 UTC",
+  "updated": "2026-11-15 00:41 UTC",
   "fresh_window_hours": 24,
-  "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Unstable plasma heats itself with waves it generates, experiments reveal",
-      "link": "https://phys.org/news/2026-11-unstable-plasma-generates-reveal.html",
-      "desc": "Fusion power is expected to be a sustainable energy source that emits no carbon dioxide during electricity generation. To achieve this, research is underway worldwide to confine high-temperature plasma using magnetic fields. To initiate a fusion reaction, high-energy particles or waves must be…",
-      "date": "Nov 13, 2026",
-      "published_utc": "2026-11-13 23:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/self-heating-in-unstab-1.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "AI supercharges laser physics with a stunning 250x speed boost",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
-      "desc": "Researchers at Stanford, UCLA, and SLAC have developed an AI system that simulates complex laser interactions thousands of times faster than conventional methods. The breakthrough allows scientists to predict how laser pulses behave inside special crystals in just milliseconds, without sacrificing…",
-      "date": "Nov 13, 2026",
-      "published_utc": "2026-11-13 23:41 UTC",
-      "image": ""
-    }
-  ]
+  "stories": []
 }
