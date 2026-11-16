@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16 00:44 UTC",
+  "updated": "2026-11-16 06:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Nov 15, 2026",
       "published_utc": "2026-11-15 16:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tangled-quantum-whirlp.jpg"
-    },
-    {
-      "topic": "AI",
-      "source": "ScienceDaily AI",
-      "title": "AI discovers a hidden heart signal that could predict sudden death",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
-      "desc": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might…",
-      "date": "Nov 15, 2026",
-      "published_utc": "2026-11-15 01:05 UTC",
-      "image": ""
     }
   ]
 }
