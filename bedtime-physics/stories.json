@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17 12:24 UTC",
+  "updated": "2026-11-17 18:21 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,12 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Hidden defects return a qubit's lost energy",
-      "link": "https://phys.org/news/2026-11-hidden-defects-qubit-lost-energy.html",
-      "desc": "Today, many leading quantum computers are built from superconducting circuits. However, the qubits in these circuits can easily lose energy to their surroundings, scrambling the fragile quantum information they hold.",
-      "date": "Nov 16, 2026",
-      "published_utc": "2026-11-16 14:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-defects-return.jpg"
+      "title": "Meta-compass: An on-chip toolkit for visualizing optical spectrum and polarization",
+      "link": "https://phys.org/news/2026-11-meta-compass-chip-toolkit-visualizing.html",
+      "desc": "A ruler turns length into a position on a scale. A thermometer converts temperature into the height of a liquid column. In each case, a physical quantity becomes easier to read because an instrument gives it a visible reference. We wanted to bring the same idea to light, whose properties are…",
+      "date": "Nov 17, 2026",
+      "published_utc": "2026-11-17 17:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/meta-compass-an-on-chi.jpg"
     },
     {
       "topic": "Physics",
@@ -65,22 +65,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Reading superconducting qubits while suppressing unwanted state transitions",
-      "link": "https://phys.org/news/2026-11-superconducting-qubits-suppressing-unwanted-state.html",
-      "desc": "Recently an artificial intelligence proved an 18-year-old conjecture in computer science, called the Aaronson–Ambainis conjecture. The proof settles a long-standing conjecture (educated guess) that eliminates one proposed route to enormous quantum computer speedups, ruling out one particular…",
-      "date": "Nov 16, 2026",
-      "published_utc": "2026-11-16 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-superconductin.jpg"
+      "title": "New theoretical framework free of ghostlike instabilities expands the possibilities of symmetry in particle physics",
+      "link": "https://phys.org/news/2026-11-theoretical-framework-free-ghostlike-instabilities.html",
+      "desc": "Elementary particles and the forces governing their interactions are described by relativistic quantum field theory, in which symmetry serves as a fundamental guiding principle. For more than half a century, the possible symmetries of such theories were believed to be restricted by the…",
+      "date": "Nov 17, 2026",
+      "published_utc": "2026-11-17 13:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/particle-physics.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New mechanical modulation method enables tunable multi-pulse fiber lasers",
-      "link": "https://phys.org/news/2026-11-mechanical-modulation-method-enables-tunable.html",
-      "desc": "In a study published in Optical Fiber Technology, researchers from the Changchun Institute of Optics, Fine Mechanics and Physics of the Chinese Academy of Sciences have developed a new method to control multi-pulse generation in a 1972-nm mode-locked fiber laser. By applying external mechanical…",
-      "date": "Nov 16, 2026",
-      "published_utc": "2026-11-16 15:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-mechanical-modulat.jpg"
+      "title": "Team extends a qubit's lifetime, correcting errors without measuring them",
+      "link": "https://phys.org/news/2026-11-team-qubit-lifetime-errors.html",
+      "desc": "Quantum technologies, devices that can process, store or collect information leveraging the laws of quantum mechanics, could potentially outperform their classical counterparts on some tasks. Yet these devices are highly sensitive to changes or disturbances in their surrounding environment, which…",
+      "date": "Nov 17, 2026",
+      "published_utc": "2026-11-17 14:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-extends-a-qubits.jpg"
     },
     {
       "topic": "Physics",
