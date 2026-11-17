@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17 00:39 UTC",
+  "updated": "2026-11-17 06:28 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -85,12 +85,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Model of 'alpha-beta decay' could solve a decades-old nuclear mystery",
-      "link": "https://phys.org/news/2026-11-alpha-beta-decay-decades-nuclear.html",
-      "desc": "A pair of researchers has created a new model for radioactive decay, which allows alpha and beta decay to happen simultaneously in a single transition. Testing their model's predictions against a full chart of known isotopes, Wenqiang Zhang at the Chinese Academy of Sciences, together with Chong Qi…",
-      "date": "Nov 16, 2026",
-      "published_utc": "2026-11-16 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/model-of-alpha-beta-de.jpg"
+      "title": "Flat optics roadmap charts path toward smaller imaging and sensing systems",
+      "link": "https://phys.org/news/2026-11-flat-optics-roadmap-path-smaller.html",
+      "desc": "For centuries, optical systems have relied on lenses, mirrors and other components that manipulate light through their shape and size. Today, advances in nanotechnology are enabling a different approach. Researchers can now engineer materials at scales smaller than the wavelength of light, creating…",
+      "date": "Nov 17, 2026",
+      "published_utc": "2026-11-17 01:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flat-optics-roadmap-ch.jpg"
     }
   ]
 }
