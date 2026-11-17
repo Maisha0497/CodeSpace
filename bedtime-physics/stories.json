@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-16 18:21 UTC",
+  "updated": "2026-11-17 00:39 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Measurements reveal link between quantum spin and sound-carrying vibrations in an ultrathin semiconductor",
+      "link": "https://phys.org/news/2026-11-reveal-link-quantum-vibrations-ultrathin.html",
+      "desc": "Researchers at the UCLA Samueli School of Engineering and Auburn University have achieved a scientific first: They measured atomic vibrations that carry heat and sound waves, and connected them to a quantum property called spin, which is a way of characterizing a subatomic particle's built-in…",
+      "date": "Nov 16, 2026",
+      "published_utc": "2026-11-16 21:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-advanced-measureme.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Elusive optical effect paves the way for advanced lidar and nanophotonic technologies",
+      "link": "https://phys.org/news/2026-11-elusive-optical-effect-paves-advanced.html",
+      "desc": "An international research team, led by scientists from Skoltech, has experimentally demonstrated for the first time the photonic spin Hall shift for light scattered off an optically small particle. This work, published in the Advanced Photonics journal, overcomes a long-standing challenge in optics…",
+      "date": "Nov 16, 2026",
+      "published_utc": "2026-11-16 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elusive-optical-effect.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Ultracold diamond microwave laser amplifies quantum signals 1,000-fold",
+      "link": "https://phys.org/news/2026-11-ultracold-diamond-microwave-laser-amplifies.html",
+      "desc": "Researchers from the Okinawa Institute of Science and Technology (OIST) have created a spin-based microwave amplifier that operates near absolute zero, boosting signals by more than 1,000-fold while adding noise close to the bare minimum required by the laws of physics. As a more robust alternative…",
+      "date": "Nov 16, 2026",
+      "published_utc": "2026-11-16 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultracold-diamond-micr.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -11,6 +41,26 @@
       "date": "Nov 16, 2026",
       "published_utc": "2026-11-16 14:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-defects-return.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Chiral electronics: Researchers discover a disruptive interlayer in a promising material system",
+      "link": "https://phys.org/news/2026-11-chiral-electronics-disruptive-interlayer-material.html",
+      "desc": "Antiferromagnets are regarded as important materials for next-generation electronics. It is difficult, however, to accurately measure some of their properties. A new study by a team of researchers from Martin Luther University Halle-Wittenberg (MLU) and the Max Planck Institute for Microstructure…",
+      "date": "Nov 16, 2026",
+      "published_utc": "2026-11-16 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chiral-electronics-res.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Tiny switch harnesses four electrical states, moving beyond simple on-off control",
+      "link": "https://phys.org/news/2026-11-tiny-harnesses-electrical-states-simple.html",
+      "desc": "From light switches to transistors, many kinds of switches have exactly two states: on or off, conducting or insulating, zero or one. Researchers at TU Wien are working with unusual materials that challenge some of the standard assumptions of materials physics. Using one of these materials, they…",
+      "date": "Nov 16, 2026",
+      "published_utc": "2026-11-16 23:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-mountain-landscape.jpg"
     },
     {
       "topic": "Physics",
@@ -41,36 +91,6 @@
       "date": "Nov 16, 2026",
       "published_utc": "2026-11-16 16:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/model-of-alpha-beta-de.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum teleportation method uses weaker entanglement to transfer encoded information",
-      "link": "https://phys.org/news/2026-11-quantum-teleportation-method-weaker-entanglement.html",
-      "desc": "Over the past several decades, researchers have demonstrated quantum teleportation, the transfer of one quantum system's state to another, in a range of systems. However, many quantum computers encode logical qubits (units of quantum information) across groups of physical qubits, which makes…",
-      "date": "Nov 16, 2026",
-      "published_utc": "2026-11-16 12:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-teleport-a.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
-      "link": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
-      "desc": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology. The post What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. first appeared on Quanta Magazine",
-      "date": "Nov 16, 2026",
-      "published_utc": "2026-11-16 15:15 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Default.webp"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Tracking Lava Flows from Space",
-      "link": "https://eos.org/research-spotlights/tracking-lava-flows-from-space",
-      "desc": "Underused in volcanic monitoring, synthetic aperture radar offers important information about lava lakes, craters, and flows.",
-      "date": "Nov 16, 2026",
-      "published_utc": "2026-11-16 12:33 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/09/kilauea-lava-lake-1024x576.jpg"
     }
   ]
 }
