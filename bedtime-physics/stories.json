@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-18 12:24 UTC",
+  "updated": "2026-11-18 18:19 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Meta-compass: An on-chip toolkit for visualizing optical spectrum and polarization",
-      "link": "https://phys.org/news/2026-11-meta-compass-chip-toolkit-visualizing.html",
-      "desc": "A ruler turns length into a position on a scale. A thermometer converts temperature into the height of a liquid column. In each case, a physical quantity becomes easier to read because an instrument gives it a visible reference. We wanted to bring the same idea to light, whose properties are…",
-      "date": "Nov 17, 2026",
-      "published_utc": "2026-11-17 17:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/meta-compass-an-on-chi.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,6 +11,16 @@
       "date": "Nov 18, 2026",
       "published_utc": "2026-11-18 03:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-electron-dynam.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "How electrons find their way to diamond's quantum defects",
+      "link": "https://phys.org/news/2026-11-electrons-diamond-quantum-defects.html",
+      "desc": "A diamond's most useful quantum properties come from defects, places where the regular arrangement of carbon atoms is broken. One of these, a nitrogen atom situated next to a vacancy caused by a missing carbon atom, has become a key component in quantum technology.",
+      "date": "Nov 18, 2026",
+      "published_utc": "2026-11-18 15:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-electrons-find-the.jpg"
     },
     {
       "topic": "Physics",
@@ -45,16 +45,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New theoretical framework free of ghostlike instabilities expands the possibilities of symmetry in particle physics",
-      "link": "https://phys.org/news/2026-11-theoretical-framework-free-ghostlike-instabilities.html",
-      "desc": "Elementary particles and the forces governing their interactions are described by relativistic quantum field theory, in which symmetry serves as a fundamental guiding principle. For more than half a century, the possible symmetries of such theories were believed to be restricted by the…",
-      "date": "Nov 17, 2026",
-      "published_utc": "2026-11-17 13:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/particle-physics.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Quantum observers can 'agree to disagree,' but within limits, new theorem shows",
       "link": "https://phys.org/news/2026-11-quantum-limits-theorem.html",
       "desc": "Two observers can start with the same description of a quantum system, follow the same probability rules and still disagree about the chance of the same outcome—even while being certain of each other's assessments.",
@@ -63,34 +53,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-observers-can.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Team extends a qubit's lifetime, correcting errors without measuring them",
-      "link": "https://phys.org/news/2026-11-team-qubit-lifetime-errors.html",
-      "desc": "Quantum technologies, devices that can process, store or collect information leveraging the laws of quantum mechanics, could potentially outperform their classical counterparts on some tasks. Yet these devices are highly sensitive to changes or disturbances in their surrounding environment, which…",
-      "date": "Nov 17, 2026",
-      "published_utc": "2026-11-17 14:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-extends-a-qubits.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Will it flow? Simulating food inks for 3D printing",
-      "link": "https://phys.org/news/2026-11-simulating-food-inks-3d.html",
-      "desc": "In \"Star Trek,\" characters use a technology called a replicator to produce any food item they can imagine out of thin air. While we don't have this same technology in real life, we can get close with 3D printing.",
-      "date": "Nov 17, 2026",
-      "published_utc": "2026-11-17 16:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/simulating-3d-printed.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Rapid-Scan Satellite Data Offer Clues to Typhoon Intensity",
-      "link": "https://eos.org/research-spotlights/rapid-scan-satellite-data-offer-clues-to-typhoon-intensity",
-      "desc": "High-frequency wind estimates derived from Fengyun-4B satellite images reveal changing typhoon structure and may improve short-term intensity predictions.",
-      "date": "Nov 17, 2026",
-      "published_utc": "2026-11-17 13:59 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/11/typhoon-neoguri-iss-1024x683.jpg"
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
+      "link": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+      "desc": "The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians. The post How M.C. Escher’s Art Creates Bizarre Mathematical Worlds first appeared on Quanta Magazine",
+      "date": "Nov 18, 2026",
+      "published_utc": "2026-11-18 15:51 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2042/11/ImageGallery_EscherMath-crSEENOTES-Default.webp"
     }
   ]
 }
