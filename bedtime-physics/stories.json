@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18 06:27 UTC",
+  "updated": "2026-11-18 12:24 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,6 +21,16 @@
       "date": "Nov 18, 2026",
       "published_utc": "2026-11-18 03:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-electron-dynam.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Using a microwave link to transfer a three-level quantum state",
+      "link": "https://phys.org/news/2026-11-microwave-link-quantum-state.html",
+      "desc": "Quantum technologies, devices and systems that process, store, transfer or collect information leveraging the laws of quantum mechanics, could outperform their classical counterparts on some real-world tasks. Many of these technologies encode quantum information in qubits, which can exist in either…",
+      "date": "Nov 18, 2026",
+      "published_utc": "2026-11-18 12:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-a-microwave-link.jpg"
     },
     {
       "topic": "Physics",
@@ -81,16 +91,6 @@
       "date": "Nov 17, 2026",
       "published_utc": "2026-11-17 13:59 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/11/typhoon-neoguri-iss-1024x683.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Soil Water Content Determined by Elastic Wave Dispersion",
-      "link": "https://eos.org/editor-highlights/soil-water-content-determined-by-elastic-wave-dispersion",
-      "desc": "Soil water content is a crucial parameter for the stability of civil engineering structures; estimating it by exploiting the dispersion of compressional waves now appears feasible.",
-      "date": "Nov 17, 2026",
-      "published_utc": "2026-11-17 14:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/11/2026JB034639R_Figure_1-2-1024x576.png"
     }
   ]
 }
