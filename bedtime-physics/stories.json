@@ -1,37 +1,7 @@
 {
-  "updated": "2026-11-17 18:21 UTC",
+  "updated": "2026-11-18 00:39 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Measurements reveal link between quantum spin and sound-carrying vibrations in an ultrathin semiconductor",
-      "link": "https://phys.org/news/2026-11-reveal-link-quantum-vibrations-ultrathin.html",
-      "desc": "Researchers at the UCLA Samueli School of Engineering and Auburn University have achieved a scientific first: They measured atomic vibrations that carry heat and sound waves, and connected them to a quantum property called spin, which is a way of characterizing a subatomic particle's built-in…",
-      "date": "Nov 16, 2026",
-      "published_utc": "2026-11-16 21:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-advanced-measureme.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Elusive optical effect paves the way for advanced lidar and nanophotonic technologies",
-      "link": "https://phys.org/news/2026-11-elusive-optical-effect-paves-advanced.html",
-      "desc": "An international research team, led by scientists from Skoltech, has experimentally demonstrated for the first time the photonic spin Hall shift for light scattered off an optically small particle. This work, published in the Advanced Photonics journal, overcomes a long-standing challenge in optics…",
-      "date": "Nov 16, 2026",
-      "published_utc": "2026-11-16 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elusive-optical-effect.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Ultracold diamond microwave laser amplifies quantum signals 1,000-fold",
-      "link": "https://phys.org/news/2026-11-ultracold-diamond-microwave-laser-amplifies.html",
-      "desc": "Researchers from the Okinawa Institute of Science and Technology (OIST) have created a spin-based microwave amplifier that operates near absolute zero, boosting signals by more than 1,000-fold while adding noise close to the bare minimum required by the laws of physics. As a more robust alternative…",
-      "date": "Nov 16, 2026",
-      "published_utc": "2026-11-16 22:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultracold-diamond-micr.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -45,22 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Chiral electronics: Researchers discover a disruptive interlayer in a promising material system",
-      "link": "https://phys.org/news/2026-11-chiral-electronics-disruptive-interlayer-material.html",
-      "desc": "Antiferromagnets are regarded as important materials for next-generation electronics. It is difficult, however, to accurately measure some of their properties. A new study by a team of researchers from Martin Luther University Halle-Wittenberg (MLU) and the Max Planck Institute for Microstructure…",
-      "date": "Nov 16, 2026",
-      "published_utc": "2026-11-16 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chiral-electronics-res.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Tiny switch harnesses four electrical states, moving beyond simple on-off control",
-      "link": "https://phys.org/news/2026-11-tiny-harnesses-electrical-states-simple.html",
-      "desc": "From light switches to transistors, many kinds of switches have exactly two states: on or off, conducting or insulating, zero or one. Researchers at TU Wien are working with unusual materials that challenge some of the standard assumptions of materials physics. Using one of these materials, they…",
-      "date": "Nov 16, 2026",
-      "published_utc": "2026-11-16 23:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-mountain-landscape.jpg"
+      "title": "Quantum-gas microscope resolves the 'color' of individual atoms in a single shot",
+      "link": "https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html",
+      "desc": "In 2024, researchers at the Ultracold Quantum Gases group at ICFO built a quantum-gas microscope capable of imaging individual atoms in strontium quantum gases for the first time, marking a key enabling step for quantum simulation. At that time, the researchers imaged strontium-84, a boson that has…",
+      "date": "Nov 18, 2026",
+      "published_utc": "2026-11-18 00:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-gas-microscope-3.jpg"
     },
     {
       "topic": "Physics",
@@ -71,6 +31,16 @@
       "date": "Nov 17, 2026",
       "published_utc": "2026-11-17 13:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/particle-physics.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum observers can 'agree to disagree,' but within limits, new theorem shows",
+      "link": "https://phys.org/news/2026-11-quantum-limits-theorem.html",
+      "desc": "Two observers can start with the same description of a quantum system, follow the same probability rules and still disagree about the chance of the same outcome—even while being certain of each other's assessments.",
+      "date": "Nov 17, 2026",
+      "published_utc": "2026-11-17 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-observers-can.jpg"
     },
     {
       "topic": "Physics",
@@ -91,6 +61,36 @@
       "date": "Nov 17, 2026",
       "published_utc": "2026-11-17 01:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flat-optics-roadmap-ch.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Will it flow? Simulating food inks for 3D printing",
+      "link": "https://phys.org/news/2026-11-simulating-food-inks-3d.html",
+      "desc": "In \"Star Trek,\" characters use a technology called a replicator to produce any food item they can imagine out of thin air. While we don't have this same technology in real life, we can get close with 3D printing.",
+      "date": "Nov 17, 2026",
+      "published_utc": "2026-11-17 16:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/simulating-3d-printed.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Rapid-Scan Satellite Data Offer Clues to Typhoon Intensity",
+      "link": "https://eos.org/research-spotlights/rapid-scan-satellite-data-offer-clues-to-typhoon-intensity",
+      "desc": "High-frequency wind estimates derived from Fengyun-4B satellite images reveal changing typhoon structure and may improve short-term intensity predictions.",
+      "date": "Nov 17, 2026",
+      "published_utc": "2026-11-17 13:59 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/11/typhoon-neoguri-iss-1024x683.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Soil Water Content Determined by Elastic Wave Dispersion",
+      "link": "https://eos.org/editor-highlights/soil-water-content-determined-by-elastic-wave-dispersion",
+      "desc": "Soil water content is a crucial parameter for the stability of civil engineering structures; estimating it by exploiting the dispersion of compressional waves now appears feasible.",
+      "date": "Nov 17, 2026",
+      "published_utc": "2026-11-17 14:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/11/2026JB034639R_Figure_1-2-1024x576.png"
     }
   ]
 }
