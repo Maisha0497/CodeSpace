@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18 00:39 UTC",
+  "updated": "2026-11-18 06:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Nov 17, 2026",
       "published_utc": "2026-11-17 17:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/meta-compass-an-on-chi.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Photon fluctuations offer new way to probe electron dynamics in crystals",
+      "link": "https://phys.org/news/2026-11-photon-fluctuations-probe-electron-dynamics.html",
+      "desc": "Intense laser light can make a crystal emit new colors at frequencies many times higher than that of the original beam. This process, known as high-harmonic generation, provides a powerful way to investigate the rapid motion of electrons in solids. Researchers usually study the brightness and…",
+      "date": "Nov 18, 2026",
+      "published_utc": "2026-11-18 03:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-electron-dynam.jpg"
     },
     {
       "topic": "Physics",
@@ -51,16 +61,6 @@
       "date": "Nov 17, 2026",
       "published_utc": "2026-11-17 14:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-extends-a-qubits.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Flat optics roadmap charts path toward smaller imaging and sensing systems",
-      "link": "https://phys.org/news/2026-11-flat-optics-roadmap-path-smaller.html",
-      "desc": "For centuries, optical systems have relied on lenses, mirrors and other components that manipulate light through their shape and size. Today, advances in nanotechnology are enabling a different approach. Researchers can now engineer materials at scales smaller than the wavelength of light, creating…",
-      "date": "Nov 17, 2026",
-      "published_utc": "2026-11-17 01:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flat-optics-roadmap-ch.jpg"
     },
     {
       "topic": "Physics",
