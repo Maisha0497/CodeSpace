@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19 00:39 UTC",
+  "updated": "2026-11-19 06:28 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Nov 18, 2026",
       "published_utc": "2026-11-18 22:10 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/photonic-quantum-compu.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Photon fluctuations offer new way to probe electron dynamics in crystals",
-      "link": "https://phys.org/news/2026-11-photon-fluctuations-probe-electron-dynamics.html",
-      "desc": "Intense laser light can make a crystal emit new colors at frequencies many times higher than that of the original beam. This process, known as high-harmonic generation, provides a powerful way to investigate the rapid motion of electrons in solids. Researchers usually study the brightness and…",
-      "date": "Nov 18, 2026",
-      "published_utc": "2026-11-18 03:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-electron-dynam.jpg"
     },
     {
       "topic": "Physics",
@@ -51,6 +41,16 @@
       "date": "Nov 18, 2026",
       "published_utc": "2026-11-18 12:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-a-microwave-link.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Exquisite X-rays and dynamic compression initiate a new era of physics experiments on plutonium",
+      "link": "https://phys.org/news/2026-11-exquisite-rays-dynamic-compression-era.html",
+      "desc": "Scientists at Lawrence Livermore National Laboratory (LLNL), Argonne National Laboratory (ANL) and Washington State University (WSU) have conducted the first dynamic compression experiments on plutonium at a national light source facility, the Dynamic Compression Sector (DCS).",
+      "date": "Nov 19, 2026",
+      "published_utc": "2026-11-19 02:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exquisite-x-rays-and-d.jpg"
     },
     {
       "topic": "Physics",
