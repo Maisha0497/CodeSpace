@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19 06:28 UTC",
+  "updated": "2026-11-19 12:24 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -25,22 +25,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "X-rays tear water apart before its electrons can relax",
+      "link": "https://phys.org/news/2026-11-rays-electrons.html",
+      "desc": "A single X‑ray photon can break both O–H bonds in a water molecule within a few femtoseconds (quadrillionths of a second), creating neutral atomic oxygen. As shown by a study published in the journal Physical Review Letters, this breakup happens before the electrons finish relaxing, revealing an…",
+      "date": "Nov 19, 2026",
+      "published_utc": "2026-11-19 10:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/x-rays-tear-water-apar.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "How electrons find their way to diamond's quantum defects",
       "link": "https://phys.org/news/2026-11-electrons-diamond-quantum-defects.html",
       "desc": "A diamond's most useful quantum properties come from defects, places where the regular arrangement of carbon atoms is broken. One of these, a nitrogen atom situated next to a vacancy caused by a missing carbon atom, has become a key component in quantum technology.",
       "date": "Nov 18, 2026",
       "published_utc": "2026-11-18 15:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-electrons-find-the.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Using a microwave link to transfer a three-level quantum state",
-      "link": "https://phys.org/news/2026-11-microwave-link-quantum-state.html",
-      "desc": "Quantum technologies, devices and systems that process, store, transfer or collect information leveraging the laws of quantum mechanics, could outperform their classical counterparts on some real-world tasks. Many of these technologies encode quantum information in qubits, which can exist in either…",
-      "date": "Nov 18, 2026",
-      "published_utc": "2026-11-18 12:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-a-microwave-link.jpg"
     },
     {
       "topic": "Physics",
