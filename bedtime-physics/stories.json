@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-18 18:19 UTC",
+  "updated": "2026-11-19 00:39 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Scalable photonic quantum computer provides new insights into the fundamentals that shape its performance",
+      "link": "https://phys.org/news/2026-11-scalable-photonic-quantum-insights-fundamentals.html",
+      "desc": "Photonics-based quantum computers open up new possibilities for investigating highly complex problems in mathematics and have the potential to revolutionize fields ranging from energy and chemical research to secure communications. By utilizing the unusual properties of light particles, they can…",
+      "date": "Nov 18, 2026",
+      "published_utc": "2026-11-18 22:10 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/photonic-quantum-compu.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -11,6 +21,16 @@
       "date": "Nov 18, 2026",
       "published_utc": "2026-11-18 03:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-electron-dynam.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Atoms in sync: Superradiance offers a new kind of frequency comb",
+      "link": "https://phys.org/news/2026-11-atoms-sync-superradiance-kind-frequency.html",
+      "desc": "When scientists shine a laser beam into a crystal, they typically expect a steady glow as the crystal's atoms are energized and begin to emit light. But in early 2024, while searching for something else entirely, researchers in the lab of Caltech's Andrei Faraon saw a crystal flash in a regular…",
+      "date": "Nov 19, 2026",
+      "published_utc": "2026-11-19 00:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-laser-shines-on-a-de.jpg"
     },
     {
       "topic": "Physics",
@@ -35,22 +55,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum-gas microscope resolves the 'color' of individual atoms in a single shot",
-      "link": "https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html",
-      "desc": "In 2024, researchers at the Ultracold Quantum Gases group at ICFO built a quantum-gas microscope capable of imaging individual atoms in strontium quantum gases for the first time, marking a key enabling step for quantum simulation. At that time, the researchers imaged strontium-84, a boson that has…",
+      "title": "Smart lighting technology enables remote color control",
+      "link": "https://phys.org/news/2026-11-smart-technology-enables-remote.html",
+      "desc": "Lighting has evolved from simply illuminating objects to changing their perceived colors. A smart lighting technology has been developed that changes how objects appear in color by adjusting only the light shining on them, without repainting the objects or modifying their surfaces. The technology…",
       "date": "Nov 18, 2026",
-      "published_utc": "2026-11-18 00:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-gas-microscope-3.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum observers can 'agree to disagree,' but within limits, new theorem shows",
-      "link": "https://phys.org/news/2026-11-quantum-limits-theorem.html",
-      "desc": "Two observers can start with the same description of a quantum system, follow the same probability rules and still disagree about the chance of the same outcome—even while being certain of each other's assessments.",
-      "date": "Nov 17, 2026",
-      "published_utc": "2026-11-17 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-observers-can.jpg"
+      "published_utc": "2026-11-18 21:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/changing-colors-with-l.jpg"
     },
     {
       "topic": "Math/Physics",
@@ -61,6 +71,16 @@
       "date": "Nov 18, 2026",
       "published_utc": "2026-11-18 15:51 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2042/11/ImageGallery_EscherMath-crSEENOTES-Default.webp"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physicists send an unblockable message using gravity",
+      "link": "https://phys.org/news/2026-11-physicists-unblockable-message-gravity.html",
+      "desc": "University of Queensland researchers have used gravity to transmit a message through a brick wall using an elevator and a sensitive gravimeter. The unusual experiment took place in UQ's Parnell Building, where the team of physicists sent the elevator back and forth between two levels, moving its…",
+      "date": "Nov 18, 2026",
+      "published_utc": "2026-11-18 19:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uq-researchers-send-an.jpg"
     }
   ]
 }
