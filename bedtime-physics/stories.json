@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-19 12:24 UTC",
+  "updated": "2026-11-19 18:22 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Unexpected spin effect lets electric currents switch antiferromagnets at room temperature",
+      "link": "https://phys.org/news/2026-11-unexpected-effect-electric-currents-antiferromagnets.html",
+      "desc": "Researchers have discovered a physical effect that expands the fundamental understanding of how electric currents interact with magnetism, revealing an unexpected way to manipulate the magnetic state of antiferromagnetic materials. A research team led by Northwestern Engineering's Pedram Khalili…",
+      "date": "Nov 19, 2026",
+      "published_utc": "2026-11-19 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ne-15.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -35,16 +45,6 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "How electrons find their way to diamond's quantum defects",
-      "link": "https://phys.org/news/2026-11-electrons-diamond-quantum-defects.html",
-      "desc": "A diamond's most useful quantum properties come from defects, places where the regular arrangement of carbon atoms is broken. One of these, a nitrogen atom situated next to a vacancy caused by a missing carbon atom, has become a key component in quantum technology.",
-      "date": "Nov 18, 2026",
-      "published_utc": "2026-11-18 15:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-electrons-find-the.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Exquisite X-rays and dynamic compression initiate a new era of physics experiments on plutonium",
       "link": "https://phys.org/news/2026-11-exquisite-rays-dynamic-compression-era.html",
       "desc": "Scientists at Lawrence Livermore National Laboratory (LLNL), Argonne National Laboratory (ANL) and Washington State University (WSU) have conducted the first dynamic compression experiments on plutonium at a national light source facility, the Dynamic Compression Sector (DCS).",
@@ -63,14 +63,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/changing-colors-with-l.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
-      "link": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
-      "desc": "The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians. The post How M.C. Escher’s Art Creates Bizarre Mathematical Worlds first appeared on Quanta Magazine",
-      "date": "Nov 18, 2026",
-      "published_utc": "2026-11-18 15:51 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2042/11/ImageGallery_EscherMath-crSEENOTES-Default.webp"
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Long DNA strands turn chaotic fluid motion into a steady rhythm",
+      "link": "https://phys.org/news/2026-11-dna-strands-chaotic-fluid-motion.html",
+      "desc": "In living cells, tiny molecules can generate coordinated motion across distances thousands of times larger than the molecules themselves. How such small movements give rise to coordinated motion over much larger distances is still not fully understood.",
+      "date": "Nov 19, 2026",
+      "published_utc": "2026-11-19 15:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-dna-strands-turn.jpg"
     },
     {
       "topic": "Physics",
@@ -81,6 +81,16 @@
       "date": "Nov 18, 2026",
       "published_utc": "2026-11-18 19:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uq-researchers-send-an.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Detecting Blocked Rain Gauges for Reliable Weather Data",
+      "link": "https://eos.org/articles/detecting-blocked-rain-gauges-for-reliable-weather-data",
+      "desc": "When rain gauges are blocked or broken, they present faulty data. Various methods to detect faulty instruments may work better in different regions, according to new research.",
+      "date": "Nov 19, 2026",
+      "published_utc": "2026-11-19 13:50 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/11/dual-rain-gauge-tests-1024x576.jpg"
     }
   ]
 }
