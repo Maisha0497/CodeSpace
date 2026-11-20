@@ -1,16 +1,36 @@
 {
-  "updated": "2026-11-20 12:24 UTC",
+  "updated": "2026-11-20 18:21 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Unexpected spin effect lets electric currents switch antiferromagnets at room temperature",
-      "link": "https://phys.org/news/2026-11-unexpected-effect-electric-currents-antiferromagnets.html",
-      "desc": "Researchers have discovered a physical effect that expands the fundamental understanding of how electric currents interact with magnetism, revealing an unexpected way to manipulate the magnetic state of antiferromagnetic materials. A research team led by Northwestern Engineering's Pedram Khalili…",
-      "date": "Nov 19, 2026",
-      "published_utc": "2026-11-19 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ne-15.jpg"
+      "title": "Excitons mimic light in atom-thin material, confirming decade-old quantum prediction",
+      "link": "https://phys.org/news/2026-11-excitons-mimic-atom-thin-material.html",
+      "desc": "Combining their skills in theory and experiment, Yale researchers have observed for the first time a type of energy-carrying composite particle move in a highly unexpected way. It's a finding that could lead to advances in quantum technologies, solar energy, LEDs and other optoelectronic…",
+      "date": "Nov 20, 2026",
+      "published_utc": "2026-11-20 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/combining-their-skills.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle",
+      "link": "https://phys.org/news/2026-11-theory-fusion-plasmas-state-energy.html",
+      "desc": "Nuclear fusion promises a source of energy by combining light atomic nuclei, the same process that powers the sun. To achieve fusion on Earth, scientists must heat a gas to extreme temperatures, creating a charged state of matter called plasma. Keeping this plasma hot and stable long enough for…",
+      "date": "Nov 20, 2026",
+      "published_utc": "2026-11-20 17:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/solving-a-40-year-puzz.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Spiraling spins bring coordinated quantum motion to diamond sensors",
+      "link": "https://phys.org/news/2026-11-spiraling-quantum-motion-diamond-sensors.html",
+      "desc": "Trapped within diamond's crystal lattice are tiny defects called nitrogen-vacancy (NV) centers, where a nitrogen atom sits beside an empty gap where a carbon atom should be. Because of their quantum spins, electrons trapped at these defects behave like tiny magnets, turning diamond into a highly…",
+      "date": "Nov 20, 2026",
+      "published_utc": "2026-11-20 13:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spiraling-spins-bring.jpg"
     },
     {
       "topic": "Physics",
@@ -35,6 +55,26 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "New model predicts critical temperature of superconductors",
+      "link": "https://phys.org/news/2026-11-critical-temperature-superconductors.html",
+      "desc": "Superconductivity, the ability to carry current with no resistance, has been found in materials ranging from metals to oxides. Conventional Bardeen–Cooper–Schrieffer (BCS) theory explains low-temperature metal superconductors well, but struggles with high-temperature oxide superconductors.",
+      "date": "Nov 20, 2026",
+      "published_utc": "2026-11-20 14:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-model-predicts-cri.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
+      "desc": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where…",
+      "date": "Nov 20, 2026",
+      "published_utc": "2026-11-20 12:23 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "'PAC-MAN' capsules that gobble up particles in turbulent water show promise for filtration and drug delivery",
       "link": "https://phys.org/news/2026-11-pac-capsules-gobble-particles-turbulent.html",
       "desc": "Scientists have created hollow capsules with single openings that can selectively filter particles thanks to the turbulence in surrounding waters—at times, ingesting particles like PAC-MAN eating up dots.",
@@ -43,44 +83,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pac-man-capsules-gobbl.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Long DNA strands turn chaotic fluid motion into a steady rhythm",
-      "link": "https://phys.org/news/2026-11-dna-strands-chaotic-fluid-motion.html",
-      "desc": "In living cells, tiny molecules can generate coordinated motion across distances thousands of times larger than the molecules themselves. How such small movements give rise to coordinated motion over much larger distances is still not fully understood.",
-      "date": "Nov 19, 2026",
-      "published_utc": "2026-11-19 15:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-dna-strands-turn.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Building structured-light systems in three dimensions",
-      "link": "https://phys.org/news/2026-11-dimensions.html",
-      "desc": "Structured light has become an important tool across modern optics. By shaping properties such as amplitude, phase, polarization and spatial mode, researchers can create light fields with capabilities beyond those of conventional laser beams. These engineered light fields are finding applications…",
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+      "link": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+      "desc": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame. The post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine",
       "date": "Nov 20, 2026",
-      "published_utc": "2026-11-20 02:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/building-structured-li.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Detecting Blocked Rain Gauges for Reliable Weather Data",
-      "link": "https://eos.org/articles/detecting-blocked-rain-gauges-for-reliable-weather-data",
-      "desc": "When rain gauges are blocked or broken, they present faulty data. Various methods to detect faulty instruments may work better in different regions, according to new research.",
-      "date": "Nov 19, 2026",
-      "published_utc": "2026-11-19 13:50 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/11/dual-rain-gauge-tests-1024x576.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Changing Arctic Waters Reshape Life from the Seafloor to the Coastlines",
-      "link": "https://eos.org/articles/changing-arctic-waters-reshape-life-from-the-seafloor-to-the-coastlines",
-      "desc": "More than a decade of observations has revealed the many ways that the Arctic Ocean’s chemistry is changing, affecting the marine life and human communities that rely on its resources.",
-      "date": "Nov 19, 2026",
-      "published_utc": "2026-11-19 13:49 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/11/sea-ice-sunset-1024x576.jpg"
+      "published_utc": "2026-11-20 14:50 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/net-resilience-cr.DVDP-Default.webp"
     }
   ]
 }
