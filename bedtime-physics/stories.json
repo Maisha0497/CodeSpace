@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20 00:36 UTC",
+  "updated": "2026-11-20 06:27 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -55,22 +55,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Exquisite X-rays and dynamic compression initiate a new era of physics experiments on plutonium",
-      "link": "https://phys.org/news/2026-11-exquisite-rays-dynamic-compression-era.html",
-      "desc": "Scientists at Lawrence Livermore National Laboratory (LLNL), Argonne National Laboratory (ANL) and Washington State University (WSU) have conducted the first dynamic compression experiments on plutonium at a national light source facility, the Dynamic Compression Sector (DCS).",
-      "date": "Nov 19, 2026",
-      "published_utc": "2026-11-19 02:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exquisite-x-rays-and-d.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "Long DNA strands turn chaotic fluid motion into a steady rhythm",
       "link": "https://phys.org/news/2026-11-dna-strands-chaotic-fluid-motion.html",
       "desc": "In living cells, tiny molecules can generate coordinated motion across distances thousands of times larger than the molecules themselves. How such small movements give rise to coordinated motion over much larger distances is still not fully understood.",
       "date": "Nov 19, 2026",
       "published_utc": "2026-11-19 15:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-dna-strands-turn.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Building structured-light systems in three dimensions",
+      "link": "https://phys.org/news/2026-11-dimensions.html",
+      "desc": "Structured light has become an important tool across modern optics. By shaping properties such as amplitude, phase, polarization and spatial mode, researchers can create light fields with capabilities beyond those of conventional laser beams. These engineered light fields are finding applications…",
+      "date": "Nov 20, 2026",
+      "published_utc": "2026-11-20 02:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/building-structured-li.jpg"
     },
     {
       "topic": "Geoscience",
