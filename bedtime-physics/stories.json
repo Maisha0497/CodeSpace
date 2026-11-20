@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19 18:22 UTC",
+  "updated": "2026-11-20 00:36 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -15,22 +15,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Scalable photonic quantum computer provides new insights into the fundamentals that shape its performance",
-      "link": "https://phys.org/news/2026-11-scalable-photonic-quantum-insights-fundamentals.html",
-      "desc": "Photonics-based quantum computers open up new possibilities for investigating highly complex problems in mathematics and have the potential to revolutionize fields ranging from energy and chemical research to secure communications. By utilizing the unusual properties of light particles, they can…",
-      "date": "Nov 18, 2026",
-      "published_utc": "2026-11-18 22:10 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/photonic-quantum-compu.jpg"
+      "title": "The secret of 'strange metals' may lie in quantum statistics, not collisions",
+      "link": "https://phys.org/news/2026-11-secret-strange-metals-quantum-statistics.html",
+      "desc": "In an ordinary metal, electrons behave like well-defined particles that occasionally bump into imperfections or vibrations of the crystal. Many materials with strong electron–electron interactions, including the copper-oxide (cuprate) superconductors, break these rules. In these \"strange metals,\"…",
+      "date": "Nov 19, 2026",
+      "published_utc": "2026-11-19 23:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-secret-of-strange.jpg"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Atoms in sync: Superradiance offers a new kind of frequency comb",
-      "link": "https://phys.org/news/2026-11-atoms-sync-superradiance-kind-frequency.html",
-      "desc": "When scientists shine a laser beam into a crystal, they typically expect a steady glow as the crystal's atoms are energized and begin to emit light. But in early 2024, while searching for something else entirely, researchers in the lab of Caltech's Andrei Faraon saw a crystal flash in a regular…",
+      "title": "Unusual magnetism revealed in a simple metal's electron spins",
+      "link": "https://phys.org/news/2026-11-unusual-magnetism-revealed-simple-metal.html",
+      "desc": "Magnets are usually associated with a familiar property: they produce a magnetic field because the magnetic moments of their electrons align. But nature allows much more unusual forms of magnetic order. An international research team has now identified compelling experimental evidence for p-wave…",
       "date": "Nov 19, 2026",
-      "published_utc": "2026-11-19 00:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-laser-shines-on-a-de.jpg"
+      "published_utc": "2026-11-19 20:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-kind-of-magnetis.jpg"
     },
     {
       "topic": "Physics",
@@ -45,22 +45,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "'PAC-MAN' capsules that gobble up particles in turbulent water show promise for filtration and drug delivery",
+      "link": "https://phys.org/news/2026-11-pac-capsules-gobble-particles-turbulent.html",
+      "desc": "Scientists have created hollow capsules with single openings that can selectively filter particles thanks to the turbulence in surrounding waters—at times, ingesting particles like PAC-MAN eating up dots.",
+      "date": "Nov 19, 2026",
+      "published_utc": "2026-11-19 23:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pac-man-capsules-gobbl.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Exquisite X-rays and dynamic compression initiate a new era of physics experiments on plutonium",
       "link": "https://phys.org/news/2026-11-exquisite-rays-dynamic-compression-era.html",
       "desc": "Scientists at Lawrence Livermore National Laboratory (LLNL), Argonne National Laboratory (ANL) and Washington State University (WSU) have conducted the first dynamic compression experiments on plutonium at a national light source facility, the Dynamic Compression Sector (DCS).",
       "date": "Nov 19, 2026",
       "published_utc": "2026-11-19 02:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exquisite-x-rays-and-d.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Smart lighting technology enables remote color control",
-      "link": "https://phys.org/news/2026-11-smart-technology-enables-remote.html",
-      "desc": "Lighting has evolved from simply illuminating objects to changing their perceived colors. A smart lighting technology has been developed that changes how objects appear in color by adjusting only the light shining on them, without repainting the objects or modifying their surfaces. The technology…",
-      "date": "Nov 18, 2026",
-      "published_utc": "2026-11-18 21:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/changing-colors-with-l.jpg"
     },
     {
       "topic": "Physics",
@@ -73,16 +73,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-dna-strands-turn.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physicists send an unblockable message using gravity",
-      "link": "https://phys.org/news/2026-11-physicists-unblockable-message-gravity.html",
-      "desc": "University of Queensland researchers have used gravity to transmit a message through a brick wall using an elevator and a sensitive gravimeter. The unusual experiment took place in UQ's Parnell Building, where the team of physicists sent the elevator back and forth between two levels, moving its…",
-      "date": "Nov 18, 2026",
-      "published_utc": "2026-11-18 19:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uq-researchers-send-an.jpg"
-    },
-    {
       "topic": "Geoscience",
       "source": "Eos",
       "title": "Detecting Blocked Rain Gauges for Reliable Weather Data",
@@ -91,6 +81,16 @@
       "date": "Nov 19, 2026",
       "published_utc": "2026-11-19 13:50 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/11/dual-rain-gauge-tests-1024x576.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Changing Arctic Waters Reshape Life from the Seafloor to the Coastlines",
+      "link": "https://eos.org/articles/changing-arctic-waters-reshape-life-from-the-seafloor-to-the-coastlines",
+      "desc": "More than a decade of observations has revealed the many ways that the Arctic Ocean’s chemistry is changing, affecting the marine life and human communities that rely on its resources.",
+      "date": "Nov 19, 2026",
+      "published_utc": "2026-11-19 13:49 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/11/sea-ice-sunset-1024x576.jpg"
     }
   ]
 }
