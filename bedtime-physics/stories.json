@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-21 12:23 UTC",
+  "updated": "2026-11-21 18:19 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Excitons mimic light in atom-thin material, confirming decade-old quantum prediction",
-      "link": "https://phys.org/news/2026-11-excitons-mimic-atom-thin-material.html",
-      "desc": "Combining their skills in theory and experiment, Yale researchers have observed for the first time a type of energy-carrying composite particle move in a highly unexpected way. It's a finding that could lead to advances in quantum technologies, solar energy, LEDs and other optoelectronic…",
-      "date": "Nov 20, 2026",
-      "published_utc": "2026-11-20 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/combining-their-skills.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -25,52 +15,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle",
-      "link": "https://phys.org/news/2026-11-theory-fusion-plasmas-state-energy.html",
-      "desc": "Nuclear fusion promises a source of energy by combining light atomic nuclei, the same process that powers the sun. To achieve fusion on Earth, scientists must heat a gas to extreme temperatures, creating a charged state of matter called plasma. Keeping this plasma hot and stable long enough for…",
-      "date": "Nov 20, 2026",
-      "published_utc": "2026-11-20 17:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/solving-a-40-year-puzz.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Spiraling spins bring coordinated quantum motion to diamond sensors",
-      "link": "https://phys.org/news/2026-11-spiraling-quantum-motion-diamond-sensors.html",
-      "desc": "Trapped within diamond's crystal lattice are tiny defects called nitrogen-vacancy (NV) centers, where a nitrogen atom sits beside an empty gap where a carbon atom should be. Because of their quantum spins, electrons trapped at these defects behave like tiny magnets, turning diamond into a highly…",
-      "date": "Nov 20, 2026",
-      "published_utc": "2026-11-20 13:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spiraling-spins-bring.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New model predicts critical temperature of superconductors",
-      "link": "https://phys.org/news/2026-11-critical-temperature-superconductors.html",
-      "desc": "Superconductivity, the ability to carry current with no resistance, has been found in materials ranging from metals to oxides. Conventional Bardeen–Cooper–Schrieffer (BCS) theory explains low-temperature metal superconductors well, but struggles with high-temperature oxide superconductors.",
-      "date": "Nov 20, 2026",
-      "published_utc": "2026-11-20 14:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-model-predicts-cri.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "X-ray technique advances temperature measurements under extreme pressure",
       "link": "https://phys.org/news/2026-11-ray-technique-advances-temperature-extreme.html",
       "desc": "Scientists at Lawrence Livermore National Laboratory (LLNL) have advanced the ability to measure temperatures in materials subjected to extreme pressures at the National Ignition Facility (NIF), providing new insights into how materials behave under conditions relevant to national security and…",
       "date": "Nov 20, 2026",
       "published_utc": "2026-11-20 19:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nif-x-ray-technique-ad.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
-      "desc": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where…",
-      "date": "Nov 20, 2026",
-      "published_utc": "2026-11-20 12:23 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
@@ -83,14 +33,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/section-of-a-dna-stran.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
-      "link": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
-      "desc": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame. The post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine",
-      "date": "Nov 20, 2026",
-      "published_utc": "2026-11-20 14:50 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/net-resilience-cr.DVDP-Default.webp"
+      "topic": "AI",
+      "source": "ScienceDaily AI",
+      "title": "AI may not work like the human brain after all, scientists discover",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+      "desc": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important…",
+      "date": "Nov 21, 2026",
+      "published_utc": "2026-11-21 15:24 UTC",
+      "image": ""
     }
   ]
 }
