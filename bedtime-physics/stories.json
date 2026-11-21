@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20 18:21 UTC",
+  "updated": "2026-11-21 00:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Nov 20, 2026",
       "published_utc": "2026-11-20 16:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/combining-their-skills.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Record-setting X-ray laser reliably generates flashes with wavelengths shorter than distances between atoms",
+      "link": "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html",
+      "desc": "Researchers from DESY and European XFEL have demonstrated reliable production and transport of X-ray laser flashes with a wavelength of about 0.04 nanometers (or a photon energy of 30,000 electronvolts) at European XFEL, raising their own world record. This means that the X-ray's wavelength is much…",
+      "date": "Nov 20, 2026",
+      "published_utc": "2026-11-20 21:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/instruments-such-as-th.jpg"
     },
     {
       "topic": "Physics",
@@ -35,32 +45,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "The secret of 'strange metals' may lie in quantum statistics, not collisions",
-      "link": "https://phys.org/news/2026-11-secret-strange-metals-quantum-statistics.html",
-      "desc": "In an ordinary metal, electrons behave like well-defined particles that occasionally bump into imperfections or vibrations of the crystal. Many materials with strong electron–electron interactions, including the copper-oxide (cuprate) superconductors, break these rules. In these \"strange metals,\"…",
-      "date": "Nov 19, 2026",
-      "published_utc": "2026-11-19 23:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-secret-of-strange.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Unusual magnetism revealed in a simple metal's electron spins",
-      "link": "https://phys.org/news/2026-11-unusual-magnetism-revealed-simple-metal.html",
-      "desc": "Magnets are usually associated with a familiar property: they produce a magnetic field because the magnetic moments of their electrons align. But nature allows much more unusual forms of magnetic order. An international research team has now identified compelling experimental evidence for p-wave…",
-      "date": "Nov 19, 2026",
-      "published_utc": "2026-11-19 20:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-kind-of-magnetis.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
       "title": "New model predicts critical temperature of superconductors",
       "link": "https://phys.org/news/2026-11-critical-temperature-superconductors.html",
       "desc": "Superconductivity, the ability to carry current with no resistance, has been found in materials ranging from metals to oxides. Conventional Bardeen–Cooper–Schrieffer (BCS) theory explains low-temperature metal superconductors well, but struggles with high-temperature oxide superconductors.",
       "date": "Nov 20, 2026",
       "published_utc": "2026-11-20 14:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-model-predicts-cri.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "X-ray technique advances temperature measurements under extreme pressure",
+      "link": "https://phys.org/news/2026-11-ray-technique-advances-temperature-extreme.html",
+      "desc": "Scientists at Lawrence Livermore National Laboratory (LLNL) have advanced the ability to measure temperatures in materials subjected to extreme pressures at the National Ignition Facility (NIF), providing new insights into how materials behave under conditions relevant to national security and…",
+      "date": "Nov 20, 2026",
+      "published_utc": "2026-11-20 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nif-x-ray-technique-ad.jpg"
     },
     {
       "topic": "Quantum",
@@ -73,16 +73,6 @@
       "image": ""
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "'PAC-MAN' capsules that gobble up particles in turbulent water show promise for filtration and drug delivery",
-      "link": "https://phys.org/news/2026-11-pac-capsules-gobble-particles-turbulent.html",
-      "desc": "Scientists have created hollow capsules with single openings that can selectively filter particles thanks to the turbulence in surrounding waters—at times, ingesting particles like PAC-MAN eating up dots.",
-      "date": "Nov 19, 2026",
-      "published_utc": "2026-11-19 23:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pac-man-capsules-gobbl.jpg"
-    },
-    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
       "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
@@ -91,6 +81,16 @@
       "date": "Nov 20, 2026",
       "published_utc": "2026-11-20 14:50 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/net-resilience-cr.DVDP-Default.webp"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Building structured-light systems in three dimensions",
+      "link": "https://phys.org/news/2026-11-dimensions.html",
+      "desc": "Structured light has become an important tool across modern optics. By shaping properties such as amplitude, phase, polarization and spatial mode, researchers can create light fields with capabilities beyond those of conventional laser beams. These engineered light fields are finding applications…",
+      "date": "Nov 20, 2026",
+      "published_utc": "2026-11-20 02:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/building-structured-li.jpg"
     }
   ]
 }
