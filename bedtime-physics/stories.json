@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21 00:37 UTC",
+  "updated": "2026-11-21 06:25 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -73,6 +73,16 @@
       "image": ""
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Quantum software matches classical benchmark for a molecular interaction",
+      "link": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
+      "desc": "Predicting how molecules interact is central to drug discovery: it offers important information about how a new drug might work in the human body, the side effects it can cause and more. Computationally modeling these interactions can reduce the need for lengthy and expensive lab work, but some…",
+      "date": "Nov 21, 2026",
+      "published_utc": "2026-11-21 03:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/section-of-a-dna-stran.jpg"
+    },
+    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
       "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
@@ -81,16 +91,6 @@
       "date": "Nov 20, 2026",
       "published_utc": "2026-11-20 14:50 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/net-resilience-cr.DVDP-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Building structured-light systems in three dimensions",
-      "link": "https://phys.org/news/2026-11-dimensions.html",
-      "desc": "Structured light has become an important tool across modern optics. By shaping properties such as amplitude, phase, polarization and spatial mode, researchers can create light fields with capabilities beyond those of conventional laser beams. These engineered light fields are finding applications…",
-      "date": "Nov 20, 2026",
-      "published_utc": "2026-11-20 02:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/building-structured-li.jpg"
     }
   ]
 }
