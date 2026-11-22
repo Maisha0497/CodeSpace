@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-22 00:40 UTC",
+  "updated": "2026-11-22 06:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum software matches classical benchmark for a molecular interaction",
-      "link": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
-      "desc": "Predicting how molecules interact is central to drug discovery: it offers important information about how a new drug might work in the human body, the side effects it can cause and more. Computationally modeling these interactions can reduce the need for lengthy and expensive lab work, but some…",
-      "date": "Nov 21, 2026",
-      "published_utc": "2026-11-21 03:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/section-of-a-dna-stran.jpg"
-    },
     {
       "topic": "AI",
       "source": "ScienceDaily AI",
