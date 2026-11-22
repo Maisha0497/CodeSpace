@@ -1,27 +1,7 @@
 {
-  "updated": "2026-11-21 18:19 UTC",
+  "updated": "2026-11-22 00:40 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Record-setting X-ray laser reliably generates flashes with wavelengths shorter than distances between atoms",
-      "link": "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html",
-      "desc": "Researchers from DESY and European XFEL have demonstrated reliable production and transport of X-ray laser flashes with a wavelength of about 0.04 nanometers (or a photon energy of 30,000 electronvolts) at European XFEL, raising their own world record. This means that the X-ray's wavelength is much…",
-      "date": "Nov 20, 2026",
-      "published_utc": "2026-11-20 21:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/instruments-such-as-th.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "X-ray technique advances temperature measurements under extreme pressure",
-      "link": "https://phys.org/news/2026-11-ray-technique-advances-temperature-extreme.html",
-      "desc": "Scientists at Lawrence Livermore National Laboratory (LLNL) have advanced the ability to measure temperatures in materials subjected to extreme pressures at the National Ignition Facility (NIF), providing new insights into how materials behave under conditions relevant to national security and…",
-      "date": "Nov 20, 2026",
-      "published_utc": "2026-11-20 19:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nif-x-ray-technique-ad.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
