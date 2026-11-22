@@ -1,16 +1,5 @@
 {
-  "updated": "2026-11-22 12:22 UTC",
+  "updated": "2026-11-22 18:20 UTC",
   "fresh_window_hours": 24,
-  "stories": [
-    {
-      "topic": "AI",
-      "source": "ScienceDaily AI",
-      "title": "AI may not work like the human brain after all, scientists discover",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-      "desc": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important…",
-      "date": "Nov 21, 2026",
-      "published_utc": "2026-11-21 15:24 UTC",
-      "image": ""
-    }
-  ]
+  "stories": []
 }
