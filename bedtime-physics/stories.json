@@ -1,5 +1,36 @@
 {
-  "updated": "2026-11-23 12:25 UTC",
+  "updated": "2026-11-23 18:21 UTC",
   "fresh_window_hours": 24,
-  "stories": []
+  "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Theoretical model describes a new type of atomic oscillation with cloverleaf symmetry in altermagnets",
+      "link": "https://phys.org/news/2026-11-theoretical-atomic-oscillation-cloverleaf-symmetry.html",
+      "desc": "A team of researchers at Martin Luther University Halle-Wittenberg (MLU) and the University of Münster has discovered a new type of atomic oscillation in altermagnets, which exhibit a striking cloverleaf symmetry. The findings were published in the journal Physical Review Letters.",
+      "date": "Nov 23, 2026",
+      "published_utc": "2026-11-23 16:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spintronics-researcher.jpg"
+    },
+    {
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+      "link": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+      "desc": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies. The post The Incredible, Elegant DNA Repair System Makes Gene Editing Work first appeared on Quanta Magazine",
+      "date": "Nov 23, 2026",
+      "published_utc": "2026-11-23 15:27 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DNA-Repair-cr-Ada-Zejun-Shen-Default.webp"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Harnessing Glacial Lakes for Hydropower",
+      "link": "https://eos.org/research-spotlights/harnessing-glacial-lakes-for-hydropower",
+      "desc": "As mountain glaciers retreat and glacial lakes grow, a new study looks at how excess water could generate renewable energy and help reduce flood risks.",
+      "date": "Nov 23, 2026",
+      "published_utc": "2026-11-23 14:30 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/11/galong-co-lake-1024x576.jpg"
+    }
+  ]
 }
