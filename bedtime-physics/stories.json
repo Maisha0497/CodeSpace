@@ -1,16 +1,5 @@
 {
-  "updated": "2026-11-23 06:37 UTC",
+  "updated": "2026-11-23 12:25 UTC",
   "fresh_window_hours": 24,
-  "stories": [
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "A mysterious gap hints at black holes born from stars that never exploded",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
-      "desc": "Massive stars may be quietly collapsing into black holes without ever producing the spectacular supernova explosions scientists typically expect. A surprising pattern in 257 black hole mergers suggests these mysterious stellar disappearances could explain the origins of a large population of black…",
-      "date": "Nov 22, 2026",
-      "published_utc": "2026-11-22 11:46 UTC",
-      "image": ""
-    }
-  ]
+  "stories": []
 }
