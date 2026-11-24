@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24 12:26 UTC",
+  "updated": "2026-11-24 18:21 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -35,12 +35,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Theoretical model describes a new type of atomic oscillation with cloverleaf symmetry in altermagnets",
-      "link": "https://phys.org/news/2026-11-theoretical-atomic-oscillation-cloverleaf-symmetry.html",
-      "desc": "A team of researchers at Martin Luther University Halle-Wittenberg (MLU) and the University of Münster has discovered a new type of atomic oscillation in altermagnets, which exhibit a striking cloverleaf symmetry. The findings were published in the journal Physical Review Letters.",
-      "date": "Nov 23, 2026",
-      "published_utc": "2026-11-23 16:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spintronics-researcher.jpg"
+      "title": "New theoretical model allows for sustained entanglement between diamond qubits at greater separations",
+      "link": "https://phys.org/news/2026-11-theoretical-sustained-entanglement-diamond-qubits.html",
+      "desc": "In a new study accepted in the journal Physical Review B, a team of physicists from the University of Delaware may have found a way to overcome limitations in maintaining the entanglement of diamond qubits. The model involves driving the qubits away from equilibrium using microwave radiation while…",
+      "date": "Nov 24, 2026",
+      "published_utc": "2026-11-24 17:30 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-theoretical-model.jpg"
     },
     {
       "topic": "Physics",
@@ -83,14 +83,14 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-overlooked-symm.jpg"
     },
     {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
-      "link": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
-      "desc": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies. The post The Incredible, Elegant DNA Repair System Makes Gene Editing Work first appeared on Quanta Magazine",
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physics-guided AI reconstructs fluid flow from sparse, noisy data",
+      "link": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
+      "desc": "Medical imaging technologies have transformed how scientists and physicians visualize blood flowing through the human heart, but even the most advanced imaging techniques cannot capture every detail of fluid motion. Researchers at the University of California, Irvine, have developed a computational…",
       "date": "Nov 23, 2026",
-      "published_utc": "2026-11-23 15:27 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DNA-Repair-cr-Ada-Zejun-Shen-Default.webp"
+      "published_utc": "2026-11-23 23:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/flow.jpg"
     }
   ]
 }
