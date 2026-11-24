@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-23 18:21 UTC",
+  "updated": "2026-11-24 00:35 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New fiber laser combines ultrashort pulses with broad spectrum and stable output",
+      "link": "https://phys.org/news/2026-11-fiber-laser-combines-ultrashort-pulses.html",
+      "desc": "Femtosecond lasers produce pulses lasting only quadrillionths of a second. Their speed makes them useful for imaging rapid processes, sampling high-frequency signals and measuring distance or time with high precision. For these applications, a laser must provide not only short pulses and a broad…",
+      "date": "Nov 23, 2026",
+      "published_utc": "2026-11-23 18:50 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/all-fiber-laser-combin.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -13,6 +23,36 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spintronics-researcher.jpg"
     },
     {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "No magnets needed: Extreme voltage drives completely new kind of Hall effect",
+      "link": "https://phys.org/news/2026-11-magnets-extreme-voltage-kind-hall.html",
+      "desc": "The Hall effect, a physical phenomenon in which a current arises perpendicular to a voltage applied across a material, has been of particular interest to physicists since it was discovered more than a century ago. Over time, physicists have broadened their understanding of the Hall effect,…",
+      "date": "Nov 23, 2026",
+      "published_utc": "2026-11-23 19:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/no-magnets-needed-extr.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Local measurements reveal global quantum properties in a constant number of experimental runs",
+      "link": "https://phys.org/news/2026-11-local-reveal-global-quantum-properties.html",
+      "desc": "A quantum device with more qubits is harder to verify. Describing a general quantum state takes an exponential number of parameters, and reconstructing it in full—a procedure known as state tomography—becomes impractical as the system grows. Yet most experiments do not need the full description.…",
+      "date": "Nov 24, 2026",
+      "published_utc": "2026-11-24 00:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/local-measurements-rev.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Overlooked symmetry group offers new geometric blueprint for the Standard Model and topologically protected vacuums",
+      "link": "https://phys.org/news/2026-11-overlooked-symmetry-group-geometric-blueprint.html",
+      "desc": "For more than half a century, physicists searching for a grand unified theory have followed one unspoken rule: go bigger. If you want to weave nature's fundamental forces into a single mathematical framework, the classic recipe says you need a giant \"simple\" symmetry group—structures like SU(5) or…",
+      "date": "Nov 23, 2026",
+      "published_utc": "2026-11-23 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-overlooked-symm.jpg"
+    },
+    {
       "topic": "Math/Physics",
       "source": "Quanta Magazine",
       "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
@@ -21,6 +61,16 @@
       "date": "Nov 23, 2026",
       "published_utc": "2026-11-23 15:27 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DNA-Repair-cr-Ada-Zejun-Shen-Default.webp"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Physics-guided AI reconstructs fluid flow from sparse, noisy data",
+      "link": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
+      "desc": "Medical imaging technologies have transformed how scientists and physicians visualize blood flowing through the human heart, but even the most advanced imaging techniques cannot capture every detail of fluid motion. Researchers at the University of California, Irvine, have developed a computational…",
+      "date": "Nov 23, 2026",
+      "published_utc": "2026-11-23 23:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/flow.jpg"
     },
     {
       "topic": "Geoscience",
