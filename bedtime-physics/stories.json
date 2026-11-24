@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-24 06:28 UTC",
+  "updated": "2026-11-24 12:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Ultracold atoms reveal first direct view of bound-pair motion in a fracton system",
+      "link": "https://phys.org/news/2026-11-ultracold-atoms-reveal-view-bound.html",
+      "desc": "Particles can generally move between neighboring sites in a crystal, a solid in which atoms are arranged in a regular, repeating pattern, or an optical lattice, an arrangement of laser-based traps that confines atoms. A strong potential gradient (i.e., a steep change in potential energy across a…",
+      "date": "Nov 24, 2026",
+      "published_utc": "2026-11-24 11:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-with-ultracold-a.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "A simple metal is hiding a strange new form of magnetism",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm",
+      "desc": "Scientists have discovered a strange form of magnetism in an ordinary-looking metal that has no overall magnetization yet profoundly changes how electrons behave. The breakthrough offers a promising new path toward understanding exotic quantum materials and developing future electronic technologies.",
+      "date": "Nov 24, 2026",
+      "published_utc": "2026-11-24 11:18 UTC",
+      "image": ""
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -71,26 +91,6 @@
       "date": "Nov 23, 2026",
       "published_utc": "2026-11-23 15:27 UTC",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DNA-Repair-cr-Ada-Zejun-Shen-Default.webp"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Physics-guided AI reconstructs fluid flow from sparse, noisy data",
-      "link": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
-      "desc": "Medical imaging technologies have transformed how scientists and physicians visualize blood flowing through the human heart, but even the most advanced imaging techniques cannot capture every detail of fluid motion. Researchers at the University of California, Irvine, have developed a computational…",
-      "date": "Nov 23, 2026",
-      "published_utc": "2026-11-23 23:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/flow.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Harnessing Glacial Lakes for Hydropower",
-      "link": "https://eos.org/research-spotlights/harnessing-glacial-lakes-for-hydropower",
-      "desc": "As mountain glaciers retreat and glacial lakes grow, a new study looks at how excess water could generate renewable energy and help reduce flood risks.",
-      "date": "Nov 23, 2026",
-      "published_utc": "2026-11-23 14:30 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/11/galong-co-lake-1024x576.jpg"
     }
   ]
 }
