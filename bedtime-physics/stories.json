@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24 00:35 UTC",
+  "updated": "2026-11-24 06:28 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -31,6 +31,16 @@
       "date": "Nov 23, 2026",
       "published_utc": "2026-11-23 19:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/no-magnets-needed-extr.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New light-conversion tool could help speed up quantum computing",
+      "link": "https://phys.org/news/2026-11-conversion-tool-quantum.html",
+      "desc": "Want to break down some basics in the world of quantum research over dinner? Researchers at the Cockrell School of Engineering have you covered.",
+      "date": "Nov 24, 2026",
+      "published_utc": "2026-11-24 03:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-power-of-light.jpg"
     },
     {
       "topic": "Physics",
