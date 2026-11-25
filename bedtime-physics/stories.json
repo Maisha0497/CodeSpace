@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 12:26 UTC",
+  "updated": "2026-11-25 18:21 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,6 +11,16 @@
       "date": "Nov 25, 2026",
       "published_utc": "2026-11-25 00:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shining-a-light-on-ele.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Most precise measurement of coherent elastic neutrino–nucleus scattering to date tightens limits on new forces",
+      "link": "https://phys.org/news/2026-11-precise-coherent-elastic-neutrinonucleus-date.html",
+      "desc": "Neutrinos are tiny elementary particles with little mass and no electric charge. While most neutrinos pass through matter without interacting, a neutrino can occasionally scatter off an atomic nucleus, transferring a little energy to it and causing it to move.",
+      "date": "Nov 25, 2026",
+      "published_utc": "2026-11-25 13:20 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coherent-reports-the-m.jpg"
     },
     {
       "topic": "Quantum",
@@ -25,22 +35,22 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
+      "title": "New quantum network entangles 123 qubits that store information in atoms' positions",
+      "link": "https://phys.org/news/2026-11-quantum-network-entangles-qubits-atoms.html",
+      "desc": "Researchers are constantly getting closer to making practical quantum computers. Now, a team of researchers has overcome another hurdle in the process. Their study, published in Physical Review Letters, describes a new platform for manipulating entangled atomic networks in measurement-based quantum…",
+      "date": "Nov 25, 2026",
+      "published_utc": "2026-11-25 18:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-build-123.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
       "title": "Copper aluminum oxide could make light-controlling components for smart glasses 120 times thinner",
       "link": "https://phys.org/news/2026-11-copper-aluminum-oxide-components-smart.html",
       "desc": "Could augmented reality (AR) glasses become as thin and lightweight as everyday eyeglasses? Researchers at the Korea Advanced Institute of Science and Technology (KAIST) and their collaborators have identified a material that could reduce the thickness of polarization-control components to…",
       "date": "Nov 24, 2026",
       "published_utc": "2026-11-24 19:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-identify-m-5.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New theoretical model allows for sustained entanglement between diamond qubits at greater separations",
-      "link": "https://phys.org/news/2026-11-theoretical-sustained-entanglement-diamond-qubits.html",
-      "desc": "In a new study accepted in the journal Physical Review B, a team of physicists from the University of Delaware may have found a way to overcome limitations in maintaining the entanglement of diamond qubits. The model involves driving the qubits away from equilibrium using microwave radiation while…",
-      "date": "Nov 24, 2026",
-      "published_utc": "2026-11-24 17:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-theoretical-model.jpg"
     },
     {
       "topic": "Physics",
@@ -63,24 +73,24 @@
       "image": ""
     },
     {
-      "topic": "AI",
-      "source": "ScienceDaily AI",
-      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
-      "desc": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and…",
+      "topic": "Math/Physics",
+      "source": "Quanta Magazine",
+      "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+      "link": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+      "desc": "Scientists are inventing new ways to search for the missing mass of the universe. The post Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter first appeared on Quanta Magazine",
       "date": "Nov 25, 2026",
-      "published_utc": "2026-11-25 09:30 UTC",
-      "image": ""
+      "published_utc": "2026-11-25 14:00 UTC",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/UltralightDarkMatter-crCelsiusPictor-Default.webp"
     },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "Quantum ingenuity can sidestep limits of conventional chips—while using commercially accessible components",
-      "link": "https://phys.org/news/2026-11-quantum-ingenuity-sidestep-limits-conventional.html",
-      "desc": "For decades, computers have steadily grown faster and more powerful. Avik Dutt, an assistant professor of mechanical engineering at the University of Maryland, envisions another dramatic leap forward—one propelled by the quantum properties of light.",
+      "title": "Quantum leap: Computing's next frontier takes shape",
+      "link": "https://phys.org/news/2026-11-quantum-frontier.html",
+      "desc": "After several dashed predictions, quantum computing is accelerating rapidly with actual use cases and scientific breakthroughs now expected within years, not decades.",
       "date": "Nov 25, 2026",
-      "published_utc": "2026-11-25 01:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-leap-accelerat.jpg"
+      "published_utc": "2026-11-25 16:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-computer-at.jpg"
     }
   ]
 }
