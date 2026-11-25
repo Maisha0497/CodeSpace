@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 06:28 UTC",
+  "updated": "2026-11-25 12:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -13,23 +13,13 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shining-a-light-on-ele.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Ultracold atoms reveal first direct view of bound-pair motion in a fracton system",
-      "link": "https://phys.org/news/2026-11-ultracold-atoms-reveal-view-bound.html",
-      "desc": "Particles can generally move between neighboring sites in a crystal, a solid in which atoms are arranged in a regular, repeating pattern, or an optical lattice, an arrangement of laser-based traps that confines atoms. A strong potential gradient (i.e., a steep change in potential energy across a…",
-      "date": "Nov 24, 2026",
-      "published_utc": "2026-11-24 11:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-with-ultracold-a.jpg"
-    },
-    {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
-      "title": "A simple metal is hiding a strange new form of magnetism",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm",
-      "desc": "Scientists have discovered a strange form of magnetism in an ordinary-looking metal that has no overall magnetization yet profoundly changes how electrons behave. The breakthrough offers a promising new path toward understanding exotic quantum materials and developing future electronic technologies.",
-      "date": "Nov 24, 2026",
-      "published_utc": "2026-11-24 11:18 UTC",
+      "title": "Einstein’s 120-year-old theory may be missing something big about the Big Bang",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221119.htm",
+      "desc": "A surprising discovery by MIT and UC Santa Barbara physicists reveals that Einstein’s famous theory of particle motion misses something important when particles travel near the speed of light. Their new calculations show that heavy quarks moving through an ultra-hot plasma experience rare but…",
+      "date": "Nov 25, 2026",
+      "published_utc": "2026-11-25 01:35 UTC",
       "image": ""
     },
     {
@@ -61,6 +51,26 @@
       "date": "Nov 24, 2026",
       "published_utc": "2026-11-24 22:30 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/law-breaking-quantum-p.jpg"
+    },
+    {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+      "desc": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any…",
+      "date": "Nov 25, 2026",
+      "published_utc": "2026-11-25 10:06 UTC",
+      "image": ""
+    },
+    {
+      "topic": "AI",
+      "source": "ScienceDaily AI",
+      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+      "desc": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and…",
+      "date": "Nov 25, 2026",
+      "published_utc": "2026-11-25 09:30 UTC",
+      "image": ""
     },
     {
       "topic": "Physics",
