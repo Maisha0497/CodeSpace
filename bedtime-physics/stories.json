@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-25 00:39 UTC",
+  "updated": "2026-11-25 06:28 UTC",
   "fresh_window_hours": 24,
   "stories": [
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "Laser light reveals where electrons accumulate in atomically thin semiconductor stacks",
+      "link": "https://phys.org/news/2026-11-laser-reveals-electrons-accumulate-atomically.html",
+      "desc": "Stacking semiconductors—the chips that power phones, computers and so much more—enables quicker signal movement with less energy, but how does the process actually work? Turns out shining a literal light on the semiconducting materials can help elucidate how the electrons move in the stack,…",
+      "date": "Nov 25, 2026",
+      "published_utc": "2026-11-25 00:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shining-a-light-on-ele.jpg"
+    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -55,22 +65,12 @@
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
-      "title": "New light-conversion tool could help speed up quantum computing",
-      "link": "https://phys.org/news/2026-11-conversion-tool-quantum.html",
-      "desc": "Want to break down some basics in the world of quantum research over dinner? Researchers at the Cockrell School of Engineering have you covered.",
-      "date": "Nov 24, 2026",
-      "published_utc": "2026-11-24 03:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-power-of-light.jpg"
-    },
-    {
-      "topic": "AI",
-      "source": "ScienceDaily AI",
-      "title": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
-      "desc": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordinarily complex calculation in just 15 minutes, beyond the practical reach of leading classical computing methods. A novel error-detection technique also allows scientists to establish…",
-      "date": "Nov 24, 2026",
-      "published_utc": "2026-11-24 04:46 UTC",
-      "image": ""
+      "title": "Quantum ingenuity can sidestep limits of conventional chips—while using commercially accessible components",
+      "link": "https://phys.org/news/2026-11-quantum-ingenuity-sidestep-limits-conventional.html",
+      "desc": "For decades, computers have steadily grown faster and more powerful. Avik Dutt, an assistant professor of mechanical engineering at the University of Maryland, envisions another dramatic leap forward—one propelled by the quantum properties of light.",
+      "date": "Nov 25, 2026",
+      "published_utc": "2026-11-25 01:00 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-leap-accelerat.jpg"
     }
   ]
 }
