@@ -1,37 +1,7 @@
 {
-  "updated": "2026-11-26 12:25 UTC",
+  "updated": "2026-11-26 18:22 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Most precise measurement of coherent elastic neutrino–nucleus scattering to date tightens limits on new forces",
-      "link": "https://phys.org/news/2026-11-precise-coherent-elastic-neutrinonucleus-date.html",
-      "desc": "Neutrinos are tiny elementary particles with little mass and no electric charge. While most neutrinos pass through matter without interacting, a neutrino can occasionally scatter off an atomic nucleus, transferring a little energy to it and causing it to move.",
-      "date": "Nov 25, 2026",
-      "published_utc": "2026-11-25 13:20 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coherent-reports-the-m.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "New quantum network entangles 123 qubits that store information in atoms' positions",
-      "link": "https://phys.org/news/2026-11-quantum-network-entangles-qubits-atoms.html",
-      "desc": "Researchers are constantly getting closer to making practical quantum computers. Now, a team of researchers has overcome another hurdle in the process. Their study, published in Physical Review Letters, describes a new platform for manipulating entangled atomic networks in measurement-based quantum…",
-      "date": "Nov 25, 2026",
-      "published_utc": "2026-11-25 18:00 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-build-123.jpg"
-    },
-    {
-      "topic": "Math/Physics",
-      "source": "Quanta Magazine",
-      "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
-      "link": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
-      "desc": "Scientists are inventing new ways to search for the missing mass of the universe. The post Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter first appeared on Quanta Magazine",
-      "date": "Nov 25, 2026",
-      "published_utc": "2026-11-25 14:00 UTC",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/UltralightDarkMatter-crCelsiusPictor-Default.webp"
-    },
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
@@ -43,16 +13,6 @@
       "image": ""
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum leap: Computing's next frontier takes shape",
-      "link": "https://phys.org/news/2026-11-quantum-frontier.html",
-      "desc": "After several dashed predictions, quantum computing is accelerating rapidly with actual use cases and scientific breakthroughs now expected within years, not decades.",
-      "date": "Nov 25, 2026",
-      "published_utc": "2026-11-25 16:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-computer-at.jpg"
-    },
-    {
       "topic": "Geoscience",
       "source": "Eos",
       "title": "Deep Imaging Reveals Alpine Fault’s Internal Structure",
@@ -61,16 +21,6 @@
       "date": "Nov 25, 2026",
       "published_utc": "2026-11-25 19:00 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/11/alpine-fault-1024x576.jpg"
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Degrading Rock Glaciers Place Himalayan Villages’ Water at Risk",
-      "link": "https://eos.org/articles/degrading-rock-glaciers-place-himalayan-villages-water-at-risk",
-      "desc": "A new study finds evidence of permafrost degradation in two inhabited relict rock glaciers in the western Himalayas, raising concerns about the long-term water security of high-mountain communities.",
-      "date": "Nov 25, 2026",
-      "published_utc": "2026-11-25 13:25 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/11/komic-rock-glacier-1024x576.jpg"
     }
   ]
 }
