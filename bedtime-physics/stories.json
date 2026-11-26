@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-26 00:38 UTC",
+  "updated": "2026-11-26 06:29 UTC",
   "fresh_window_hours": 24,
   "stories": [
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Laser light reveals where electrons accumulate in atomically thin semiconductor stacks",
-      "link": "https://phys.org/news/2026-11-laser-reveals-electrons-accumulate-atomically.html",
-      "desc": "Stacking semiconductors—the chips that power phones, computers and so much more—enables quicker signal movement with less energy, but how does the process actually work? Turns out shining a literal light on the semiconducting materials can help elucidate how the electrons move in the stack,…",
-      "date": "Nov 25, 2026",
-      "published_utc": "2026-11-25 00:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shining-a-light-on-ele.jpg"
-    },
     {
       "topic": "Physics",
       "source": "Phys.org Physics",
@@ -21,16 +11,6 @@
       "date": "Nov 25, 2026",
       "published_utc": "2026-11-25 13:20 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coherent-reports-the-m.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Einstein’s 120-year-old theory may be missing something big about the Big Bang",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261121221119.htm",
-      "desc": "A surprising discovery by MIT and UC Santa Barbara physicists reveals that Einstein’s famous theory of particle motion misses something important when particles travel near the speed of light. Their new calculations show that heavy quarks moving through an ultra-hot plasma experience rare but…",
-      "date": "Nov 25, 2026",
-      "published_utc": "2026-11-25 01:35 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
@@ -63,6 +43,16 @@
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/UltralightDarkMatter-crCelsiusPictor-Default.webp"
     },
     {
+      "topic": "Quantum",
+      "source": "ScienceDaily Quantum",
+      "title": "Astronomers may have discovered a black hole born before the first stars",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm",
+      "desc": "A mysterious object named Phoebe, detected when it briefly magnified a distant star, could be a primordial black hole formed just after the Big Bang. With an estimated mass only three times that of the Moon, it may be a 13-billion-year-old cosmic relic that offers new clues to the mystery of dark…",
+      "date": "Nov 26, 2026",
+      "published_utc": "2026-11-26 02:00 UTC",
+      "image": ""
+    },
+    {
       "topic": "Physics",
       "source": "Phys.org Physics",
       "title": "Quantum leap: Computing's next frontier takes shape",
@@ -91,6 +81,16 @@
       "date": "Nov 25, 2026",
       "published_utc": "2026-11-25 19:00 UTC",
       "image": "https://eos.org/wp-content/uploads/2026/11/alpine-fault-1024x576.jpg"
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Degrading Rock Glaciers Place Himalayan Villages’ Water at Risk",
+      "link": "https://eos.org/articles/degrading-rock-glaciers-place-himalayan-villages-water-at-risk",
+      "desc": "A new study finds evidence of permafrost degradation in two inhabited relict rock glaciers in the western Himalayas, raising concerns about the long-term water security of high-mountain communities.",
+      "date": "Nov 25, 2026",
+      "published_utc": "2026-11-25 13:25 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/11/komic-rock-glacier-1024x576.jpg"
     }
   ]
 }
