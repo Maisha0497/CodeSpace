@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 06:29 UTC",
+  "updated": "2026-11-26 12:25 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,16 +21,6 @@
       "date": "Nov 25, 2026",
       "published_utc": "2026-11-25 18:00 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-build-123.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
-      "desc": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any…",
-      "date": "Nov 25, 2026",
-      "published_utc": "2026-11-25 10:06 UTC",
-      "image": ""
     },
     {
       "topic": "Math/Physics",
@@ -61,16 +51,6 @@
       "date": "Nov 25, 2026",
       "published_utc": "2026-11-25 16:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-computer-at.jpg"
-    },
-    {
-      "topic": "AI",
-      "source": "ScienceDaily AI",
-      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
-      "desc": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and…",
-      "date": "Nov 25, 2026",
-      "published_utc": "2026-11-25 09:30 UTC",
-      "image": ""
     },
     {
       "topic": "Geoscience",
