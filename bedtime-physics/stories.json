@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 18:21 UTC",
+  "updated": "2026-11-26 00:38 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -43,26 +43,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-build-123.jpg"
     },
     {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Copper aluminum oxide could make light-controlling components for smart glasses 120 times thinner",
-      "link": "https://phys.org/news/2026-11-copper-aluminum-oxide-components-smart.html",
-      "desc": "Could augmented reality (AR) glasses become as thin and lightweight as everyday eyeglasses? Researchers at the Korea Advanced Institute of Science and Technology (KAIST) and their collaborators have identified a material that could reduce the thickness of polarization-control components to…",
-      "date": "Nov 24, 2026",
-      "published_utc": "2026-11-24 19:40 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-identify-m-5.jpg"
-    },
-    {
-      "topic": "Physics",
-      "source": "Phys.org Physics",
-      "title": "Quantum blueprint maps a practical path to testing unusual entanglement",
-      "link": "https://phys.org/news/2026-11-quantum-blueprint-path-unusual-entanglement.html",
-      "desc": "Adrian Del Maestro knows how to engineer a quantum fingerprint. Rick Mukherjee has a gift for tuning atoms. Their combined expertise has taken a theory sketched out on paper and created a pathway for real experiments. The results, published in the journal Physical Review Letters, move a law-defying…",
-      "date": "Nov 24, 2026",
-      "published_utc": "2026-11-24 22:30 UTC",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/law-breaking-quantum-p.jpg"
-    },
-    {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
       "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
@@ -91,6 +71,26 @@
       "date": "Nov 25, 2026",
       "published_utc": "2026-11-25 16:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-computer-at.jpg"
+    },
+    {
+      "topic": "AI",
+      "source": "ScienceDaily AI",
+      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+      "desc": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and…",
+      "date": "Nov 25, 2026",
+      "published_utc": "2026-11-25 09:30 UTC",
+      "image": ""
+    },
+    {
+      "topic": "Geoscience",
+      "source": "Eos",
+      "title": "Deep Imaging Reveals Alpine Fault’s Internal Structure",
+      "link": "https://eos.org/articles/deep-imaging-reveals-alpine-faults-internal-structure",
+      "desc": "Unused fiber-optic cables in New Zealand’s national telecommunications network are being repurposed by scientists to map the country’s most iconic fault in unprecedented detail.",
+      "date": "Nov 25, 2026",
+      "published_utc": "2026-11-25 19:00 UTC",
+      "image": "https://eos.org/wp-content/uploads/2026/11/alpine-fault-1024x576.jpg"
     }
   ]
 }
