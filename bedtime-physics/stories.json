@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-27 00:38 UTC",
+  "updated": "2026-11-27 06:29 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
       "topic": "Quantum",
       "source": "ScienceDaily Quantum",
-      "title": "Astronomers may have discovered a black hole born before the first stars",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm",
-      "desc": "A mysterious object named Phoebe, detected when it briefly magnified a distant star, could be a primordial black hole formed just after the Big Bang. With an estimated mass only three times that of the Moon, it may be a 13-billion-year-old cosmic relic that offers new clues to the mystery of dark…",
-      "date": "Nov 26, 2026",
-      "published_utc": "2026-11-26 02:00 UTC",
+      "title": "Harvard’s tiny UV light chip could help shrink quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
+      "desc": "Harvard-led researchers have developed a microscopic device that generates 120 times more ultraviolet light than previous comparable approaches by efficiently converting red light into UV. The breakthrough could unlock smaller quantum computers, ultra-precise atomic clocks, and compact…",
+      "date": "Nov 27, 2026",
+      "published_utc": "2026-11-27 03:22 UTC",
       "image": ""
     }
   ]
