@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 18:22 UTC",
+  "updated": "2026-11-27 00:38 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Nov 26, 2026",
       "published_utc": "2026-11-26 02:00 UTC",
       "image": ""
-    },
-    {
-      "topic": "Geoscience",
-      "source": "Eos",
-      "title": "Deep Imaging Reveals Alpine Fault’s Internal Structure",
-      "link": "https://eos.org/articles/deep-imaging-reveals-alpine-faults-internal-structure",
-      "desc": "Unused fiber-optic cables in New Zealand’s national telecommunications network are being repurposed by scientists to map the country’s most iconic fault in unprecedented detail.",
-      "date": "Nov 25, 2026",
-      "published_utc": "2026-11-25 19:00 UTC",
-      "image": "https://eos.org/wp-content/uploads/2026/11/alpine-fault-1024x576.jpg"
     }
   ]
 }
