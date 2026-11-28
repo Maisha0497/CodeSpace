@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27 18:21 UTC",
+  "updated": "2026-11-28 00:37 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -21,6 +21,26 @@
       "date": "Nov 27, 2026",
       "published_utc": "2026-11-27 03:22 UTC",
       "image": ""
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "New research establishes fundamental complexity limit for quantum circuit optimization",
+      "link": "https://phys.org/news/2026-11-fundamental-complexity-limit-quantum-circuit.html",
+      "desc": "Quantum circuit optimization is an important research area, as the computational resources required to execute quantum algorithms remain a major challenge. In particular, two-qubit operations are generally associated with higher error rates than single-qubit gates on current quantum hardware,…",
+      "date": "Nov 27, 2026",
+      "published_utc": "2026-11-27 22:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-establish.jpg"
+    },
+    {
+      "topic": "Physics",
+      "source": "Phys.org Physics",
+      "title": "ATLAS finds hints of the hidden structure of the vacuum",
+      "link": "https://phys.org/news/2026-11-atlas-hints-hidden-vacuum.html",
+      "desc": "Researchers at the University of Bonn, together with colleagues from Oxford and Prague, played a leading role in analyzing particle collisions at CERN's Large Hadron Collider. The ATLAS Collaboration observed more proton collisions with the particle pattern it was looking for than expected. This…",
+      "date": "Nov 27, 2026",
+      "published_utc": "2026-11-27 18:40 UTC",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/atlas-finds-hints-of-t.jpg"
     }
   ]
 }
