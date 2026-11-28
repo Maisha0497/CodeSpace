@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28 00:37 UTC",
+  "updated": "2026-11-28 06:26 UTC",
   "fresh_window_hours": 24,
   "stories": [
     {
@@ -11,16 +11,6 @@
       "date": "Nov 27, 2026",
       "published_utc": "2026-11-27 12:40 UTC",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-nonlinear-optical-la.jpg"
-    },
-    {
-      "topic": "Quantum",
-      "source": "ScienceDaily Quantum",
-      "title": "Harvard’s tiny UV light chip could help shrink quantum computers",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
-      "desc": "Harvard-led researchers have developed a microscopic device that generates 120 times more ultraviolet light than previous comparable approaches by efficiently converting red light into UV. The breakthrough could unlock smaller quantum computers, ultra-precise atomic clocks, and compact…",
-      "date": "Nov 27, 2026",
-      "published_utc": "2026-11-27 03:22 UTC",
-      "image": ""
     },
     {
       "topic": "Physics",
